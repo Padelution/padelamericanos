@@ -1,7 +1,7 @@
 ---
 draft: false
 ---
-# Everything About Padel Americano
+# Everything About Padel Americano + more
 
 Padel Americano is a fun, social, and competitive format of padel that is perfect for players of all skill levels. Unlike traditional padel matches, Americano focuses on rotation and team variety, making it a popular choice for tournaments, leagues, and casual gatherings. Here's a comprehensive guide to understanding and playing Padel Americano.
 

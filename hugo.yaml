@@ -18,6 +18,9 @@ languages:
   ja:
     languageName: 日本語
     weight: 3
+  fi:
+    languageName: Suomi
+    weight: 4
 
 
 menu:

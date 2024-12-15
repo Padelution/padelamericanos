@@ -2,6 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/ja/</loc>
+    <lastmod>2024-12-15T11:22:41+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/fi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/americano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/americano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/mexicano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/mexicano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/mixicano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mixicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/mixicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/mixicano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/team-americano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team-americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team-americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/team-americano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/team-mexicano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team-mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team-mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/team-mexicano/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -15,25 +123,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/fi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/"
                 />
   </url><url>
     <loc>http://localhost:1313/ja/tags/</loc>
@@ -46,6 +142,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/fi/tags/"
                 />
     <xhtml:link
                 rel="alternate"

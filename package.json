@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "translate": "node scripts/translate.js",
+    "build": "npm run translate"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^3.3.0"
+  }
+}

@@ -16,8 +16,98 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/fi/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/americano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/americano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/mexicano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/mexicano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/mixicano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mixicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/mixicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/mixicano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/team-americano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team-americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/team-americano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team-americano/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/team-mexicano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team-mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/team-mexicano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team-mexicano/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
@@ -30,6 +120,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/fi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,6 +142,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/fi/tags/"
                 />
     <xhtml:link
                 rel="alternate"

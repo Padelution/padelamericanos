@@ -18,6 +18,13 @@
   <sitemap>
     <loc>http://localhost:1313/ja/sitemap.xml</loc>
     
+      <lastmod>2024-12-15T11:22:41+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/fi/sitemap.xml</loc>
+    
   </sitemap>
   
 </sitemapindex>

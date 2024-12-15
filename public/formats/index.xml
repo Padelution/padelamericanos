@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Padel Americanos – Formats</title>
+    <link>http://localhost:1313/formats/</link>
+    <description>Recent content in Formats on Padel Americanos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Dec 2024 11:22:41 +0200</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/formats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

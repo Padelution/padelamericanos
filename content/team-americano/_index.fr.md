@@ -1,5 +1,5 @@
 ---
-brouillon: false
+draft: false
 ---
 
 # Le Guide Ultime de l'Équipe Americano

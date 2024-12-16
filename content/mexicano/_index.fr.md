@@ -1,5 +1,5 @@
 ---
-brouillon: false
+draft: false
 ---
 
 # Padel Mexicano : Un guide complet de ce format dynamique

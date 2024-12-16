@@ -1,7 +1,5 @@
 ---
-date: '2024-12-15T11:22:41+02:00'
 draft: false
-robotsNoIndex: false
 ---
 
 # Padel Americano Game Formats

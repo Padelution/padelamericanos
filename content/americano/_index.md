@@ -1,6 +1,5 @@
 ---
 draft: false
-index: true
 ---
 # Everything About Padel Americano
 

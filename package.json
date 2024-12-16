@@ -1,7 +1,9 @@
 {
   "scripts": {
     "translate": "node scripts/translate.js",
-    "build": "npm run translate"
+    "build": "npm run translate",
+    "dev": "hugo server",
+    "dev:prod": "HUGO_ENV=production hugo server"
   },
   "dependencies": {
     "dotenv": "^16.4.7",

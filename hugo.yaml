@@ -1,6 +1,8 @@
 baseURL: https://www.padelamericanos.com/
-languageCode: en-us
+publishDir: public
+languageCode: en
 title: Padel Americanos
+
 
 module:
   imports:

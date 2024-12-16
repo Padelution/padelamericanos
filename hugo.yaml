@@ -22,7 +22,6 @@ languages:
     languageName: Suomi
     weight: 4
 
-
 menu:
     main:
     - identifier: americano
@@ -47,12 +46,16 @@ menu:
       weight: 6
 
 params:
-  noindex: false
+  search:
+    enable: true
+  robots:
+    index: true
+    follow: true
+  enableRobotsTXT: true
 
-build:
-  noJSConfigInAssets: false
-  useResourceCacheWhen: always
-  writeStats: true
+services:
+  googleAnalytics:
+    ID: G-GWSX8VRNJ6
 
 buildDrafts: false
 buildFuture: false

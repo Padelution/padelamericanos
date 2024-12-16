@@ -45,3 +45,15 @@ menu:
       name: Mixicano
       pageRef: /mixicano
       weight: 6
+
+params:
+  noindex: false
+
+build:
+  noJSConfigInAssets: false
+  useResourceCacheWhen: always
+  writeStats: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false

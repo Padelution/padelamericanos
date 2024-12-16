@@ -51,6 +51,9 @@ params:
   robots:
     index: true
     follow: true
+  footer:
+    displayPoweredBy: false
+    displayCopyright: true
   enableRobotsTXT: true
 
 services:

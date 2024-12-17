@@ -4,20 +4,22 @@ draft: false
 
 # Padel Americano -peliformaatit
 
-Tervetuloa kattavaan oppaaseemme erilaisista padel-peliformaateista. Täältä löydät yksityiskohtaista tietoa eri tavoista pelata ja järjestää padelotteluita:
+Tervetuloa kattavaan oppaaseemme erilaisista padel-peliformaateista. Täältä löydät yksityiskohtaista tietoa eri tavoista pelata ja järjestää padel-otteluita:
 
 ## Saatavilla olevat formaatit
 
 ### Americano-tyyli
-- [Americano](/americano) - Klassinen kiertopohjainen formaatti
-- [Team Americano](/team-americano) - Joukkuepohjainen versio Americanosta
+- [Americano](/fi/americano) - Klassinen kiertopohjainen formaatti
+- [Team Americano](/fi/team-americano) - Joukkuepohjainen versio Americanosta
 
 ### Mexicano-tyyli
-- [Mexicano](/mexicano) - Nopearytminen, nopea kiertopohjainen formaatti
-- [Team Mexicano](/team-mexicano) - Joukkuekilpailu Mexicano-säännöillä
+- [Mexicano](/fi/mexicano) - Nopearytminen, nopea kiertosuunta
+- [Team Mexicano](/fi/team-mexicano) - Joukkuekilpailu Mexicano-säännöillä
 
 ### Mixicano-tyyli
-- [Mixicano Man/Woman](/mixicano) - Miesten ja naisten pelaajien sekoitus
-- [Mixicano Left/Right](/mixicano) - Vasemman ja oikean puolen pelaajien sekoitus
+- [Mixicano Man/Woman](/fi/mixicano) - Sekajoukkue miehistä ja naisista
+- [Mixicano Left/Right](/fi/mixicano) - Sekajoukkue vasemmalla ja oikealla puolella pelaavista
 
 Jokainen formaatti tarjoaa ainutlaatuisia ominaisuuksia ja etuja, jotka sopivat erilaisiin pelityyleihin ja tapahtumatyyppeihin. Tutustu jokaiseen formaattiin löytääksesi sen, joka parhaiten vastaa tarpeitasi!
+
+Lisää formaatteja lisätään pian!!! kielet tehty

@@ -21,3 +21,5 @@ Welcome to our comprehensive guide to different padel game formats. Here you'll 
 - [Mixicano Left/Right](/mixicano) - Mix of left and right side players
 
 Each format offers unique characteristics and benefits, suitable for different playing styles and event types. Explore each format to find the one that best suits your needs!
+
+More formats will be added soon!!! languages done

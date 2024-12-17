@@ -12,10 +12,46 @@ const openai = new OpenAIApi(configuration);
 
 // Supported languages configuration
 const LANGUAGES = {
-  fr: 'French',
-  ja: 'Japanese',
   fi: 'Finnish',
-  // Add more languages as needed
+  sv: 'Swedish',
+  ru: 'Russian',
+  de: 'German',
+  fr: 'French',
+  es: 'Spanish',
+  it: 'Italian',
+  pt: 'Portuguese',
+  nl: 'Dutch',
+  pl: 'Polish',
+  tr: 'Turkish',
+  ja: 'Japanese',
+  zh: 'Chinese',
+  ko: 'Korean',
+  ar: 'Arabic',
+  cs: 'Czech',
+  da: 'Danish',
+  el: 'Greek',
+  he: 'Hebrew',
+  hi: 'Hindi',
+  hu: 'Hungarian',
+  id: 'Indonesian',
+  ms: 'Malay',
+  no: 'Norwegian',
+  ro: 'Romanian',
+  sk: 'Slovak',
+  th: 'Thai',
+  uk: 'Ukrainian',
+  vi: 'Vietnamese',
+  bg: 'Bulgarian',
+  hr: 'Croatian',
+  lt: 'Lithuanian',
+  sl: 'Slovenian',
+  sr: 'Serbian',
+  ca: 'Catalan',
+  et: 'Estonian',
+  lv: 'Latvian',
+  fa: 'Persian',
+  sw: 'Swahili',
+  tl: 'Filipino'
 };
 
 // Cache file path for storing content hashes
@@ -42,6 +78,15 @@ async function translateContent(content, targetLang) {
   console.log(`Starting translation to ${targetLang}`);
   console.log('Content length:', content.length);
   
+  // Get the language code for the target language
+  const langCode = Object.entries(LANGUAGES).find(([code, name]) => name === targetLang)?.[0];
+  
+  // Add language prefix to markdown links using the language code
+  const contentWithUpdatedLinks = content.replace(
+    /\[([^\]]+)\]\(\/([^)]+)\)/g,
+    (match, text, url) => `[${text}](/${langCode}/${url.replace(/^\//, '')})`
+  );
+  
   try {
     const response = await openai.createChatCompletion({
       model: "gpt-3.5-turbo",
@@ -54,16 +99,17 @@ async function translateContent(content, targetLang) {
                    3. Keep YAML frontmatter unchanged
                    4. Keep HTML tags unchanged
                    5. Maintain the same line breaks and spacing
-                   6. Only translate human-readable text`
+                   6. Only translate human-readable text
+                   7. Do not modify URLs in markdown links`
         },
         {
           role: "user",
-          content: content
+          content: contentWithUpdatedLinks
         }
       ],
-      temperature: 0.3, // Lower temperature for more consistent translations
-      presence_penalty: 0, // Avoid adding extra content
-      frequency_penalty: 0 // Avoid changing word frequencies
+      temperature: 0.3,
+      presence_penalty: 0,
+      frequency_penalty: 0
     });
 
     console.log('OpenAI API response received');
@@ -94,11 +140,8 @@ async function processFile(filePath) {
     console.log(`File content length: ${content.length} characters`);
     
     const contentHash = calculateHash(content);
-    console.log(`Content hash: ${contentHash}`);
-    
     const cache = await loadCache();
     const fileCache = cache[filePath] || {};
-    console.log('Current cache state for file:', fileCache);
   
     for (const [langCode, langName] of Object.entries(LANGUAGES)) {
       const langFilePath = filePath.replace(
@@ -108,31 +151,20 @@ async function processFile(filePath) {
       console.log(`\nProcessing language: ${langName} (${langCode})`);
       console.log(`Target file: ${langFilePath}`);
 
-      // Skip if content hasn't changed and translation exists
-      if (fileCache[langCode] === contentHash) {
-        console.log(`Skipping ${langCode} translation (unchanged hash: ${contentHash})`);
-        continue;
-      }
-
-      console.log(`Starting translation to ${langName}...`);
-      
       try {
         const translatedContent = await translateContent(content, langName);
         console.log(`Translation completed, content length: ${translatedContent.length}`);
         
         await fs.writeFile(langFilePath, translatedContent);
         console.log(`File written successfully: ${langFilePath}`);
-        
-        // Update cache
-        fileCache[langCode] = contentHash;
-        cache[filePath] = fileCache;
-        
-        console.log(`Cache updated for ${langCode}`);
       } catch (error) {
         console.error(`Failed to translate ${filePath} to ${langCode}:`, error);
       }
     }
 
+    // Update cache with new hash after successful translation
+    fileCache.contentHash = contentHash;
+    cache[filePath] = fileCache;
     await saveCache(cache);
     console.log('Cache saved successfully');
   } catch (error) {
@@ -181,9 +213,30 @@ async function main() {
     console.log(`Scanning content directory: ${contentDir}`);
     
     const markdownFiles = await findMarkdownFiles(contentDir);
-    console.log(`Found ${markdownFiles.length} markdown files to process:`, markdownFiles);
+    console.log(`Found ${markdownFiles.length} markdown files:`, markdownFiles);
 
-    for (const file of markdownFiles) {
+    // Load cache once
+    const cache = await loadCache();
+    
+    // Filter files that have changed
+    const changedFiles = [];
+    for (const filePath of markdownFiles) {
+      const content = await fs.readFile(filePath, 'utf8');
+      const contentHash = calculateHash(content);
+      const fileCache = cache[filePath] || {};
+      
+      if (fileCache.contentHash !== contentHash) {
+        console.log(`File changed: ${filePath}`);
+        changedFiles.push(filePath);
+      } else {
+        console.log(`File unchanged, skipping: ${filePath}`);
+      }
+    }
+
+    console.log(`Found ${changedFiles.length} changed files to process:`, changedFiles);
+
+    // Only process changed files
+    for (const file of changedFiles) {
       await processFile(file);
     }
 

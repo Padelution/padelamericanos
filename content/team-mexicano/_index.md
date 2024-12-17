@@ -104,3 +104,5 @@ Team Mexicano offers a unique experience that combines the dynamic pairings of M
 Team Mexicano is an exciting way to enjoy padel, offering a perfect blend of strategy, teamwork, and dynamic competition. Whether you’re organizing a tournament or joining one, this format brings the thrill of the game to life, fostering stronger bonds and unforgettable matches.
 
 So grab your partner, hit the court, and dive into the world of Team Mexicano for an experience like no other!
+
+test

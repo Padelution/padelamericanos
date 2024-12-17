@@ -94,3 +94,5 @@ Padel Mexicano stands out for its inclusivity and adaptability. Here are some re
 Padel Mexicano is more than just a game format—it’s an experience that emphasizes fairness, fun, and adaptability. Whether you’re organizing a tournament or joining one, this format guarantees exciting matches and great memories. With its dynamic pairing system and inclusive scoring, Mexicano is a must-try for any padel enthusiast.
 
 So gather your friends, grab your rackets, and dive into the world of Padel Mexicano for an unforgettable day on the courts!
+
+test

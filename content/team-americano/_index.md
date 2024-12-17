@@ -83,3 +83,5 @@ Yes! The format is accessible and fun for players of all levels, making it perfe
 
 ## Conclusion
 Team Americano is an exciting and social way to enjoy padel. By keeping players in consistent pairs, the format promotes teamwork, strategy, and a thrilling competitive edge. With clear rules and a bit of planning, you can host a successful Team Americano event that players of all levels will love.
+
+test

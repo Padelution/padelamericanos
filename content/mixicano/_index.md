@@ -104,3 +104,5 @@ Mixicano offers unique advantages that make it a fantastic choice for padel play
 Mixicano is a dynamic and inclusive way to enjoy padel, offering a perfect balance of fun, strategy, and social interaction. Whether you’re playing with gender-based teams or side-based teams, this format ensures balanced competition and memorable matches.
 
 So gather your friends, form your teams, and dive into the exciting world of Mixicano for a tournament experience like no other!
+
+test

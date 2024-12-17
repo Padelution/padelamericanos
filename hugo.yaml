@@ -14,15 +14,127 @@ languages:
   en:
     languageName: English
     weight: 1
-  fr:
-    languageName: Français
-    weight: 2
-  ja:
-    languageName: 日本語
-    weight: 3
   fi:
     languageName: Suomi
+    weight: 2
+  sv:
+    languageName: Svenska
+    weight: 3
+  ru:
+    languageName: Русский
     weight: 4
+  de:
+    languageName: Deutsch
+    weight: 5
+  fr:
+    languageName: Français
+    weight: 6
+  es:
+    languageName: Español
+    weight: 7
+  it:
+    languageName: Italiano
+    weight: 8
+  pt:
+    languageName: Português
+    weight: 9
+  nl:
+    languageName: Nederlands
+    weight: 10
+  pl:
+    languageName: Polski
+    weight: 11
+  tr:
+    languageName: Türkçe
+    weight: 12
+  ja:
+    languageName: 日本語
+    weight: 13
+  zh:
+    languageName: 中文
+    weight: 14
+  ko:
+    languageName: 한국어
+    weight: 15
+  ar:
+    languageName: العربية
+    weight: 16
+  cs:
+    languageName: Čeština
+    weight: 17
+  da:
+    languageName: Dansk
+    weight: 18
+  el:
+    languageName: Ελληνικά
+    weight: 19
+  he:
+    languageName: עברית
+    weight: 20
+  hi:
+    languageName: हिन्दी
+    weight: 21
+  hu:
+    languageName: Magyar
+    weight: 22
+  id:
+    languageName: Bahasa Indonesia
+    weight: 23
+  ms:
+    languageName: Bahasa Melayu
+    weight: 24
+  no:
+    languageName: Norsk
+    weight: 25
+  ro:
+    languageName: Română
+    weight: 26
+  sk:
+    languageName: Slovenčina
+    weight: 27
+  th:
+    languageName: ไทย
+    weight: 28
+  uk:
+    languageName: Українська
+    weight: 29
+  vi:
+    languageName: Tiếng Việt
+    weight: 30
+  bg:
+    languageName: Български
+    weight: 31
+  hr:
+    languageName: Hrvatski
+    weight: 32
+  lt:
+    languageName: Lietuvių
+    weight: 33
+  sl:
+    languageName: Slovenščina
+    weight: 34
+  sr:
+    languageName: Српски
+    weight: 35
+  ca:
+    languageName: Català
+    weight: 36
+  et:
+    languageName: Eesti
+    weight: 37
+  lv:
+    languageName: Latviešu
+    weight: 38
+  fa:
+    languageName: فارسی
+    weight: 39
+  sw:
+    languageName: Kiswahili
+    weight: 40
+  tl:
+    languageName: Filipino
+    weight: 41
+
 
 menu:
     main:

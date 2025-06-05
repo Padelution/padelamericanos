@@ -1,7 +1,5 @@
 ---
 draft: false
-sidebar:
-  exclude: true
 ---
 
 # The Ultimate Guide to Team Americano

@@ -1,7 +1,5 @@
 ---
 draft: false
-sidebar:
-  exclude: true
 ---
 
 # Padel Mexicano: A Complete Guide to This Dynamic Format

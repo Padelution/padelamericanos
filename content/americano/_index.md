@@ -1,8 +1,6 @@
 ---
 draft: false
-sidebar:
-  exclude: true
-title: Guide
+
 weight: 1
 ---
 # Padel Americano - All you need to know

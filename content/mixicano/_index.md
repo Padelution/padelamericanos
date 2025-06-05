@@ -1,7 +1,5 @@
 ---
 draft: false
-sidebar:
-  exclude: true
 ---
 # Mixicano: A Unique Padel Format for Mixed Teams
 

@@ -1,7 +1,5 @@
 ---
 draft: false
-sidebar:
-  exclude: true
 ---
 # Team Mexicano: A Guide to This Exciting Team-Based Padel Format
 

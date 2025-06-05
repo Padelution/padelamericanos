@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Gids
+weight: 1
 ---
-# Alles Over Padel Americano
+# Padel Americano - Alles wat je moet weten
 
-Padel Americano is een leuke, sociale en competitieve vorm van padel die perfect is voor spelers van alle niveaus. In tegenstelling tot traditionele padelwedstrijden richt Americano zich op rotatie en teamvariatie, waardoor het een populaire keuze is voor toernooien, competities en informele bijeenkomsten. Hier is een uitgebreide gids om Padel Americano te begrijpen en te spelen.
-
----
-
-## **Wat is Padel Americano?**
-
-Americano Padel is een toernooiformaat waarbij deelnemers in paren spelen, maar hun partners en tegenstanders gedurende het evenement roteren. Het doel is om zoveel mogelijk punten te scoren, individueel of als paar, afhankelijk van de variant.
+Padel americano is een geweldig alternatief voor de oorspronkelijke manier van padel spelen. Het basisidee van padel americano is dat tijdens het evenement, na elke ronde, teams roteren zodat elke speler met elkaar speelt. Dit maakt Americano zo populair en leuk! Spelen met dezelfde partner voor een lange tijd begint de opwinding te verliezen, en daarom zou iedereen Padel Americano moeten proberen. Het is ook een hele goede manier om nieuwe mensen te ontmoeten en met hen te spelen. Voor spelers die ook beter willen worden, helpt het om met spelers van verschillende niveaus te spelen.
 
 ---
 
-## **Basisregels van Padel Americano**
+## Wat is nodig om Americano te spelen
 
-### **1. Opzet van de Wedstrijd**
-- **Aantal Spelers:** Meestal nemen 8 spelers deel op twee banen. Grotere groepen (bijv. 16 spelers) kunnen meer banen gebruiken. Sommige Americano-software ondersteunt ook verschillende aantallen spelers.
-- **Duur van de Wedstrijd:** Elke wedstrijd wordt gespeeld voor een vast aantal punten.
-- **Scoreverloop:** Individuele scores worden bijgehouden voor elke speler, ongeacht hun partner.
+Om Americano te spelen, heb je niet veel extra dingen nodig in vergelijking met de oorspronkelijke manier van spelen. Natuurlijk heb je spelers nodig, en meestal is het leuk om minimaal 8 spelers te hebben en, indien mogelijk, 2 banen gereserveerd (Zie meer voorbeelden in de tabel hieronder). Als je 8 spelers hebt, is een goede duur voor het reserveren van een baan 2 uur.
+
+| Aantal spelers                                           | Minimaal aantal banen |
+|----------------------------------------------------------|-----------------------|
+|                           4 tot 7                         |             1           |
+|                          8 tot 11                        |             2           |
+|                          12 tot 15                       |             3           |
+|                          16 tot 19                       |             4           |
+|                          20 tot 23                       |             5           |
+
+
+
+Extra spelers kunnen rusten en aanmoedigen terwijl anderen spelen
+
+Dan heb je natuurlijk ballen nodig voor alle banen en andere basisuitrusting voor alle spelers, zoals rackets. Voordat je begint, is het goed om alle spelers te verdelen over de banen en ervoor te zorgen dat elke speler weet hoe padel gespeeld wordt en vervolgens uitleggen hoe Padel Americano werkt. Een belangrijk punt is om een goed, gemakkelijk te gebruiken hulpmiddel te hebben om de score bij te houden na elke ronde. Een goed voorbeeld hiervan is Padelution.com.
+
+## Je hebt nodig:
+
+- Spelers met basisuitrusting om padel te spelen, d.w.z. sportkleding, padel racket en schoenen.
+- Gereserveerde banen afhankelijk van het aantal deelnemende spelers.
+- Ballen voor elke baan, waarbij drie ballen per baan optimaal zijn.
+- Systeem om scores bij te houden, zoals [Padelution](https://padelution.com/americano)
+- Minstens één persoon om de regels uit te leggen en ervoor te zorgen dat alle scores na elke ronde worden verzameld.
+
+---
+## De regels van Padel Americano
+
+De regels zijn eenvoudig en gemakkelijk te leren. Het basisidee is dat elke speler met elkaar speelt tijdens het evenement. Ook zou iedereen elkaar twee keer moeten tegenkomen, maar dit hangt ook af van de gereserveerde speeltijd.
+
+Om te winnen, moet je de grootste hoeveelheid punten verzamelen, dus in dit format verzamel je punten voor jezelf. Bijvoorbeeld, je speelt op twee banen en je bent nu speler A. Je begint met speler B en speelt tegen spelers C & D. Nadat je ronde is afgelopen, blijf je op dezelfde baan of wissel je van baan, maar het belangrijkste is dat je vervolgens met speler C speelt tegen spelers B en D. Na de tweede ronde roteer je opnieuw, en daarna speel je met speler F tegen G & H.
+
+De basisregels van padel zijn van toepassing, dus als er verschillende meningen zijn over of de bal uit was, is het goed om het punt te herhalen en snel verder te gaan. Het kiezen van de eerste serveerder kan ook worden gedaan op de manier waarop de spelers gewend zijn, dus het spelen van een "serveerdersbal" of het opgooien van een munt. Elke speler serveert vier punten, en dan roteer je de serveerder met het tegenovergestelde team.
+
+![Padel Americano punten!](/nl/images/padel-americano.png "Padel Americano punten!")
+
+### Voorbeeld van rondes (vanuit het perspectief van Speler A):
+- Ronde 1 - Speler A&B vs. speler C&D
+- Ronde 2 - Speler A&C vs. speler B&D
+- Ronde 3 - Speler A&F vs. speler G&H
 
 ---
 
-### **2. Rotatiesysteem van de Wedstrijd**
-- Na elke ronde worden partners en tegenstanders geschud volgens een vooraf bepaald schema. Dit zorgt ervoor dat iedereen met en tegen verschillende spelers speelt.
-- Het rotatiesysteem balanceert de algehele competitie en moedigt sociale interactie tussen spelers aan.
+### Scoren en hoe te winnen
+Elke ronde wordt meestal gespeeld tot een totaal van 32 punten, en elke speler serveert 4 keer, waarna je de serveerder roteert. Bijvoorbeeld, stel dat jouw team 15 punten verzamelt, en het andere team 17 punten. Dit betekent dat het totale aantal gespeelde punten nu 32 is, dus het is tijd om te roteren.
+
+Aan het scoresysteem voeg je dan 15 punten toe aan jouw team / aan jullie beiden, en de tegenstander krijgt 17 punten elk. Stel dat jij en je partner dan 20 punten scoren tijdens de tweede wedstrijd, wat betekent dat de score van de tegenstander 12 punten is.
+
+Als alternatief kun je ook een vaste tijd hebben en spelen tot de tijd om is en punten verzamelen tot dat moment. Na elke ronde is gespeeld, is het belangrijk om de scores toe te voegen in een systeem of scorebord.
+
+De speler die na afloop van het evenement de meeste punten heeft verzameld, is de winnaar. Het is meestal een goed idee om iemand verantwoordelijk te maken voor het verzamelen van scores zodat alle punten na het evenement geregistreerd zijn.
 
 ---
 
-### **3. Scorensysteem**
-- Punten worden individueel toegekend op basis van de wedstrijduitslag:
-  - **Elke speler:** verdient zoveel punten als het aantal gewonnen ballen dat ze hebben.
+### Wanneer het tijd is om te stoppen met spelen
+Na afloop van de tijd is het tijd om te zien wie de meeste punten heeft verzameld. Natuurlijk, als er nog tijd is nadat iedereen met elkaar heeft gespeeld, kun je extra rondes spelen. Als de tijd om is voordat iedereen tegen elkaar heeft gespeeld, is het meestal een goed idee om gewoon de punten gelijk te maken voor iedereen.
+
+![Padel Americano scorebord!](/nl/assets/padel-americano-scoreboard.png "Padel Americano scorebord!")
+
+Na het officiële gedeelte van het spelen, waarom niet genieten van wat drankjes in de lounge indien mogelijk en socialiseren met andere spelers? Dat is toch een van de beste aspecten van Padel!
 
 ---
 
-### **4. Wedstrijdformaat**
-- Wedstrijden worden meestal gespeeld tot **32 punten**.
-- Elke speler serveert 4 keer op rij. Bijvoorbeeld spelen spelers A en B tegen C en D. A begint met serveren en serveert 4 keer, dan serveert C 4 keer, dan serveert B 4 keer, dan serveert D 4 keer. Dan worden in totaal 16 punten gespeeld. Dan begint speler A opnieuw met serveren en zo verder.
-- Als de wedstrijd eindigt in een gelijkspel op 16-16, wordt de wedstrijd gelijk en verdienen beide spelers 16 punten.
+## Variaties van Padel Americano
 
----
-
-### **5. Baanregels**
-- Padel Americano volgt de standaard padelbaan- en spelpatronen:
-  - Wedstrijden worden gespeeld in dubbelspel.
-  - De bal moet eerst één keer stuiteren voordat deze de muren of het hek raakt.
-  - Services worden diagonaal geslagen en moeten landen in het servicevak van de tegenstander.
-  - Een punt wordt gescoord als de tegenstander de bal niet terugslaat of enige regels overtreedt.
-
----
-
-## **Varianten van Padel Americano**
-
-### **1. Team Americano**
-- Spelers worden verdeeld in teams en spelen samen als team tegen andere teams.
+### [1. Team Americano](/nl/team-americano)
+- Spelers worden verdeeld in teams en spelen samen als een team tegen andere teams.
 - Bevordert samenwerking en teamgeest.
 
-### **2. Tijdgebonden Americano**
+### 2. Tijdgebaseerd Americano
 - Wedstrijden worden gespeeld voor een vaste tijd (bijv. 10 minuten), ongeacht de score.
 - Houdt het toernooi efficiënt gaande.
 
-### **3. Gemengd Americano (Mixicano)**
-- Mannelijke en vrouwelijke spelers wisselen partners af per ronde.
-- Linker- en rechterkant spelers spelen altijd samen, zodat er niet twee spelers zijn die de voorkeur geven aan links- of rechtszijdig in hetzelfde team.
-- Bevordert inclusiviteit en variatie in het spel.
-
----
-
-## **Winnen bij Padel Americano**
-
-Aan het einde van alle rondes wordt de speler met de hoogste individuele score tot winnaar uitgeroepen. In teamformaten wint het team met de meeste punten het toernooi.
-
----
-
-## **Waarom Padel Americano Spelen?**
-
-1. **Sociale Interactie:** Spelers kunnen met iedereen in contact komen, wat een geweldige manier is om nieuwe mensen te ontmoeten en een gemeenschap op te bouwen.
-2. **Inclusiviteit:** Geschikt voor spelers van alle niveaus, omdat de koppelingen willekeurig zijn.
-3. **Snel en Leuk:** De snelle rotatie houdt de energie hoog en elimineert lange wachttijden tussen wedstrijden.
-
----
-
-## **Tips voor Succes**
-
-1. **Snel Aanpassen:** Wees bereid om je speelstijl aan te passen aan de sterke en zwakke punten van je partner.
-2. **Focus op Consistentie:** Meer punten winnen over meerdere rondes is beter dan alles in te zetten op één wedstrijd.
-3. **Blijf Positief:** Een vrolijke houding kan je partner motiveren en je algehele prestaties verbeteren.
-
----
-
-### **Conclusie**
-
-Padel Americano is een veelzijdig en vermakelijk format dat het beste van de sociale en competitieve aspecten van padel naar voren brengt. Of je nu een vriendelijke wedstrijd organiseert of een grootschalig toernooi, deze regels vormen de basis voor een spannend en memorabel evenement. Pak je racket, ga de baan op en geniet van de opwinding van Americano!
-
----
-
-**Heb je je eigen tips of ervaringen met Padel Americano? Deel ze met ons!**
-
-test
+### [3. Gemengd Americano (Mixicano)](/nl/mixicano)
+- Mannelijke en vrouwelijke spelers wisselen partners af tussen rondes.
+- Spelers aan de linkerkant en rechterkant spelen altijd samen, zodat er niet twee spelers zijn die de voorkeur geven aan de linker- of rechterkant in hetzelfde team.
+- Bevordert inclusiviteit en variatie in gameplay.

@@ -1,98 +1,72 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: En Komplet Guide til Dette Dynamiske Format
 
-Padel Mexicano er en spændende og tilpasningsdygtig format, der tager de sociale og konkurrenceprægede aspekter af padel til et nyt niveau. I modsætning til traditionelle formater tilpasser Mexicano dynamisk, hvem du spiller med og mod baseret på kampresultater, hvilket skaber en retfærdig og afbalanceret konkurrence, der udligner spillefeltet, når turneringen skrider frem.
+Mexicano har en sjov og dynamisk måde at rotere partnere og modstandere på. Den afgørende faktor er, hvor du er placeret i rangeringen, og efter hver runde går du tilbage, ser hvor du lander i rangeringen, og derefter ser du, hvem du skal spille med næste gang.
 
-Uanset om du er en erfaren spiller eller en nybegynder, er Mexicano en fremragende måde at nyde padel på, møde nye modstandere og teste dine færdigheder.
+Det sjove er, at måden spillerne roteres på, holder kampene tætte, da stillingen bestemmer, hvordan holdene sammensættes for hver runde. På denne måde udlignes færdighedsniveauerne, og alle kan nyde tætte og spændende kampe.
 
----
-
-## **Hvordan Fungerer Padel Mexicano?**
-
-Det definerende træk ved Padel Mexicano er dets tilpassede kampopstillingsystem. I stedet for en fast plan bestemmes det, hvem du spiller med og mod, af din præstation i tidligere kampe.
-
-### **Indledende Kampopstilling**
-- Din første kamp bestemmes af en tilfældig lodtrækning. En lotteri afgør dine holdkammerater og modstandere til den indledende kamp.
-
-### **Dynamisk Opstillingsystem**
-- Fra den anden kamp er dine opstillinger baseret på leaderboardets placeringer. Målet er at parre spillere eller hold med lignende færdighedsniveauer for at sikre konkurrencedygtige og jævnbyrdige kampe.
-- For eksempel:
-  - Spillere rangeret 1 og 3 danner hold for at spille mod spillere rangeret 2 og 4.
-  - Spillere rangeret 5 og 7 danner hold for at møde spillere rangeret 6 og 8.
-- Dette dynamiske opstillingsystem sikrer, at som turneringen skrider frem, bliver dine kampe mere jævnbyrdige, hvilket giver en udfordrende oplevelse for topsspillerne samtidig med, at det er sjovt for alle andre.
-
-### **Fleksibilitet i Opstillinger**
-- Mexicano-systemet tillader dig at spille med og mod de samme spillere flere gange, afhængigt af hvordan leaderboardet udvikler sig.
 
 ---
 
-## **Pointgivning og Kampformat**
+## Hvad har du brug for til Mexicano?
 
-Kampe i Mexicano er designet til at være korte, energiske og engagerende. Sådan fungerer de:
+Til Mexicano har du ikke brug for noget ekstra i forhold til almindelige padelkampe, bortset fra et system eller en app til at holde score. Du kan f.eks. bruge tjenester som Padelution til at holde styr på scoren. Det er vigtigt at have en klar måde at score på, da holdene til næste runde bestemmes af hver spillers rangering.
 
-### **Point i Kampene**
-- Kampe spilles typisk til et bestemt antal point, såsom 16, 24 eller 32 point. Alternativt kan kampe have en fast tidsbegrænsning, såsom 10–20 minutter.
+Det er godt at have mindst 8 spillere, og det optimale antal baner er 2. Du kan øge antallet af spillere til så mange, du vil, men husk, at det er godt at have et antal baner, der er deleligt med 4, så rotationen går glat, og alle spiller på samme tid.
 
-### **Serviceregler**
-- Hvert hold servicerer 4 eller 6 gange, før serven roterer til det andet hold.
+## Regler for Mexicano
+Alle de grundlæggende regler for padel gælder, når du spiller Mexicano. Til at begynde med kan du tilfældigt vælge de første par, der skal starte med. Fra anden runde vil du dog lade systemet gøre sit arbejde for at vise dig, hvordan rotationen af spillere vil blive udført. Spillere rangeret som 1 og 3 vil i næste runde spille mod spillere rangeret som 2 og 4. På den anden bane vil spillere rangeret som 5 og 7 spille mod spillere rangeret som 6 og 8, og så videre.
 
-### **Pointberegning**
-- Hvert vundet point giver dit hold et point.
-- Ved kampens afslutning fordeles pointene ligeligt mellem holdmedlemmerne. For eksempel:
-  - Hvis en 24-point kamp slutter med en score på 14–10, modtager hvert af det vindende holds spillere 14 point, mens det tabende holds spillere hver får 10 point.
-- Din individuelle score akkumuleres på tværs af alle kampe, og spilleren med flest point ved turneringens afslutning vinder.
+| Stilling efter første runde | Hold til 2. runde |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
 
+
+### Eksempel på scoring fra hold A's perspektiv
+- Runde 1: Spillere A&D 20 point og spillere B&C 12 point
+- Runde 2: Spillere A&C 19 point og spillere B&D 13 point
+
+Det samlede antal point, som spiller A har akkumuleret efter to runder, er 39
+
+
+### Hvem er så vinderen?
+Når tiden er gået, er vinderen den spiller, der er på førstepladsen i rangeringen. Den vigtigste faktor bør stadig være, at alle kampe var tætte på grund af måden, holdene vælges efter hver runde baseret på spillernes stilling.
+
+![Padel Mexicano rangering!](/da/images/padel-mexicano.png "Padel Mexicano rangering")
 ---
 
-## **Team Mexicano**
 
-[Team Mexicano](/da/team-mexicano) tilføjer et ekstra lag strategi til formatet. I stedet for at rotere partnere konkurrerer spillere i forudarrangerede hold gennem hele turneringen. Pointgivnings- og dynamiske opstillingsystemer forbliver de samme, men alle point beregnes for hold i stedet for individer.
+## Team Mexicano
+
+[Team Mexicano](/da/team-mexicano) tilføjer et ekstra lag strategi til formatet. I stedet for at rotere partnere konkurrerer spillere i forhåndsarrangerede hold gennem hele turneringen. Scoringen og det dynamiske paringssystem forbliver det samme, men alle point beregnes for hold i stedet for individuelle spillere.
 
 Denne variation er perfekt til grupper, der ønsker at fokusere på teamwork og langsigtede strategier.
 
 ---
-
-## **Organisering af en Padel Mexicano Turnering**
-
-At organisere en Mexicano-turnering er enkelt med den rette forberedelse. Følg disse trin for at sikre en problemfri begivenhed:
-
-### **Deltagere og Baner**
-- Du skal bruge mindst 8 deltagere eller hold for at spille Mexicano. Der er ingen øvre grænse, men det er ideelt at have et antal, der er deleligt med fire for smidige kamprotationer.
-- Antallet af baner, der kræves, afhænger af antallet af deltagere:
-  - 8 spillere = 2 baner
-  - 12 spillere = 3 baner
-  - 16 spillere = 4 baner
-- Spillere på alle færdighedsniveauer kan deltage, og blanding af niveauer kan gøre kampene endnu sjovere.
-
-### **Kampvarighed**
-- En standard Mexicano-turnering varer cirka 2 timer.
-- For eksempel tager en 24-point kamp normalt cirka 12 minutter at gennemføre.
-
-### **Scoreføring**
-- Forbered et scorekort eller brug en dedikeret app til at registrere kampresultater og beregne leaderboardets placeringer dynamisk.
-
-### **Fair og Sjov Konkurrence**
-- Mexicanos tilpassede system sikrer, at spillerne konstant udfordres uden at føle sig overmatchede, hvilket gør det til et glimrende valg for begivenheder med blandede færdighedsniveauer.
-
----
-
-## **Hvorfor Spille Padel Mexicano?**
+## Hvorfor Spille Padel Mexicano?
 
 Padel Mexicano skiller sig ud for sin inklusivitet og tilpasningsevne. Her er nogle grunde til, at dette format er så populært:
 - **Fair Play**: Kampe bliver mere afbalancerede, som turneringen skrider frem.
-- **Dynamiske Opstillinger**: Spil med og mod en række modstandere, hvilket holder kampene friske og engagerende.
+- **Dynamiske Paringer**: Spil med og mod en række modstandere, hvilket holder kampene friske og engagerende.
 - **Social Oplevelse**: En fantastisk måde at møde nye spillere og opbygge kammeratskab.
-- **Fleksibilitet**: Passende til både individuelle og holdbaserede turneringer.
+- **Fleksibilitet**: Velegnet til både individuelle og holdbaserede turneringer.
 
 ---
 
-## **Konklusion**
+## Konklusion
 
-Padel Mexicano er mere end bare en spilformat – det er en oplevelse, der lægger vægt på retfærdighed, sjov og tilpasningsevne. Uanset om du arrangerer en turnering eller deltager i en, garanterer dette format spændende kampe og gode minder. Med sit dynamiske opstillingsystem og inklusive pointgivning er Mexicano et must for enhver padelentusiast.
+Padel Mexicano er mere end bare en spilform – det er en oplevelse, der lægger vægt på retfærdighed, sjov og tilpasningsevne. Uanset om du arrangerer en turnering eller deltager i en, garanterer dette format spændende kampe og gode minder. Med sit dynamiske paringssystem og inklusive scoring er Mexicano et must for enhver padelentusiast.
 
-Så saml dine venner, tag dine ketsjere, og spring ud i verden af Padel Mexicano for en uforglemmelig dag på banen!
-
-test
+Så saml dine venner, tag jeres ketsjere, og spring ud i verden af Padel Mexicano for en uforglemmelig dag på banen!

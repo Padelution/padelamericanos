@@ -1,100 +1,94 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Guide
+weight: 1
 ---
-# Everything About Padel Americano
+# Padel Americano - All you need to know
 
-Padel Americano is a fun, social, and competitive format of padel that is perfect for players of all skill levels. Unlike traditional padel matches, Americano focuses on rotation and team variety, making it a popular choice for tournaments, leagues, and casual gatherings. Here's a comprehensive guide to understanding and playing Padel Americano.
-
----
-
-## **What is Padel Americano?**
-
-Americano Padel is a tournament format where participants play in pairs, but their partners and opponents rotate throughout the event. The objective is to score as many points as possible, either individually or as a pair, depending on the variation.
+Padel americano is a great alternative to the original way of playing padel. The basic idea of padel americano is that during the event, after every round, you rotate teams so every player plays with each other. This exactly makes Americano so popular and fun! Playing with the same partner for a long time starts to lose the excitement, and that's why everyone should try Padel Americano. It's also a very good way to meet new people and play with them. For players who also like to get better, it helps to play with different levels of players.
 
 ---
 
-## **Basic Rules of Padel Americano**
+## What is needed to play Americano
 
-### **1. Match Setup**
-- **Number of Players:** Typically, 8 players participate on two courts. Larger groups (e.g., 16 players) can use more courts. Some americano softwares also supports different player counts.
-- **Game Duration:** Each match is played for set number of points.
-- **Scoring:** Individual scores are tracked for every player, regardless of their partner.
+To play Americano, you don’t need a lot of extra things compared to the original way of playing. Of course, you need to have players, and usually, to have fun, it's good to have a minimum of 8 players and, if possible, 2 courts booked (See more examples from the table below). If you have 8 players, a good duration for court booking is 2h.
+
+| Number of players                                         | Minimum number of courts |
+|-----------------------------------------------------------|--------------------------|
+|                           4 to 7                          |             1            |
+|                          8 to 11                          |             2            |
+|                          12 to 15                         |             3            |
+|                          16 to 19                         |             4            |
+|                          20 to 23                         |             5            |
+
+
+
+Extra players can rest and cheer while others are playing
+
+Then of course you will need balls for all courts and other basic equipment for all players, like rackets. Before starting, it's good to divide all players into the courts and to make sure that every player knows how to play padel and then explain how Padel Americano works. One important thing is to have a good, easy-to-use tool to keep score after every round. One great example is Padelution.com.
+
+## You will need:
+
+- Players with basic equipment to play padel, i.e. sporting clothes, padel racket, and shoes.
+- Booked courts depending on the number of players joining.
+- Balls for each court, with three balls per court being optimal.
+- System to keep scores, i.e. [Padelution](https://padelution.com/americano)
+- At least one person to explain the rules and to make sure all scores are collected after each round.
+
+---
+## The rules of Padel Americano
+
+The rules are simple and easy to learn. The basic idea is that every player plays with each other during the event. Also, everyone should face each other twice, but this depends also on the time that is reserved for playing. 
+
+To win, you need to collect the biggest amount of points, so in this format, you are collecting points for yourself. For example, you are playing on two courts and you are now player A. You start with player B and play against players C & D. After your round is finished, you will either stay on the same court or switch courts, but the main thing is that you will next play with player C against players B and D. After the second round is finished, you all rotate again, and next, you play with player F against G & H. 
+
+Basic rules of padel apply, so if there are different views on if the ball was out, it's good to repeat the point and move on fairly quickly. Picking the first server can also be done the way the players are used to, so playing a “server’s ball” or tossing a coin. Every player serves four points, and then you rotate the server with the opposing team.
+
+![Padel Americano points!](/images/padel-americano.png "Padel Americano points!")
+
+### Example of rounds (from Player A perspective):
+- Round 1 - Player A&B vs. player C&D
+- Round 2  - Player A&C vs. player B&D
+- Round 3 - Player A&F vs. player G&H
+
 
 ---
 
-### **2. Match Rotation**
-- After each round, partners and opponents are shuffled according to a pre-arranged schedule. This ensures everyone plays with and against different players.
-- The rotation system balances the overall competition and encourages social interaction among players.
+### Scoring and how to win
+Every round is usually played until a total of 32 points, and every player serves 4 times, and then you rotate the server. For example, let's say that your team collects 15 points, and the other team collects 17 points. This means that the total points played now is 32, so it's time to rotate. 
+
+To the scoring system, you then add 15 points to your team / both of you, and the opponent gets 17 points each. Then let's say that you and your partner score 20 points during the second match, which means that the opponent’s score is 12 points. 
+
+Alternatively, you can also have a fixed time and play until the time is up and collect points until that. After every round is played, it's important to add scores in some system or scoreboard. 
+
+The player who has collected the most points after the event is done is the winner. It's usually a good idea to have someone responsible for collecting scores so that all points are registered after the event.
+
 
 ---
 
-### **3. Scoring System**
-- Points are awarded individually based on the match outcome:
-  - **Each player:** earns as many points as the number of played balls they win.
+### When it’s time to stop playing
+After the time is up, it’s time to see who collected the most points. Of course, if there is still time after everyone has played with each other, you can play extra rounds. If time is up before everyone has played against each other, it's usually a good idea to just equalise the points with everyone.
+
+![Padel Americano scoreboard!](/assets/padel-americano-scoreboard.png "Padel Americano scoreboard!")
+
+
+After the official part of playing is done, why not enjoy some drinks at the lounge if possible and socialise with other players? That's one of the best aspects of Padel anyway!
 
 ---
 
-### **4. Match Format**
-- Matches are usually played to **32 points**.
-- Each player serves 4 times in a row. For Example players A and B play against C and D. A starts serving and serves 4 times, then C serves 4 times, then B serves 4 times, then D serves 4 times. Then total 16 points are played. Then player A starts serving a new roundagain and serves 4 times and so on.
-- If the game reaches a tie at 16-16, the game will be tied and both players will earn 16 points.
+## Variations of Padel Americano
 
----
-
-### **5. Court Rules**
-- Padel Americano follows the standard padel court and gameplay rules:
-  - Matches are played in doubles format.
-  - The ball must bounce once before hitting the walls or fence.
-  - Serves are made diagonally and must land in the opponent's service box.
-  - A point is scored if the opponent fails to return the ball or violates any rules.
-
----
-
-## **Variations of Padel Americano**
-
-### **1. Team Americano**
+### [1. Team Americano](/team-americano)
 - Players are divided into teams, and play together as a team vs other teams.
 - Encourages collaboration and team spirit.
 
-### **2. Time-Based Americano**
+### 2. Time-Based Americano
 - Matches are played for a fixed time (e.g., 10 minutes), regardless of the score.
 - Keeps the tournament moving efficiently.
 
-### **3. Mixed Americano (Mixicano)**
+### [3. Mixed Americano (Mixicano)](/mixicano)
 - Male and female players alternate partners across rounds.
 - Left side and right side players always play together, so there will not be two players who prefers for left or right side in the same team.
 - Promotes inclusivity and variety in gameplay.
-
----
-
-## **Winning Padel Americano**
-
-At the end of all rounds, the player with the highest individual score is declared the winner. In team formats, the team with the most points wins the tournament.
-
----
-
-## **Why Play Padel Americano?**
-
-1. **Social Interaction:** Players get to interact with everyone, making it a great way to meet new people and build community.
-2. **Inclusivity:** Suitable for players of all skill levels, as pairings are randomized.
-3. **Fast-Paced Fun:** The quick rotation keeps the energy high and eliminates long waits between matches.
-
----
-
-## **Tips for Success**
-
-1. **Adapt Quickly:** Be ready to adjust your playing style to match your partner’s strengths and weaknesses.
-2. **Focus on Consistency:** Winning more points over multiple rounds is better than going all-in on a single match.
-3. **Stay Positive:** A cheerful attitude can motivate your partner and improve your overall performance.
-
----
-
-### **Conclusion**
-
-Padel Americano is a versatile and entertaining format that brings out the best of padel’s social and competitive aspects. Whether you're organizing a friendly match or a full-scale tournament, these rules provide the foundation for an exciting and memorable event. Grab your racket, hit the court, and enjoy the thrill of Americano! 
-
----
-
-**Do you have your own tips or experiences with Padel Americano? Share them with us!**
-
-test

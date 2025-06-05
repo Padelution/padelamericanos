@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Konačni Vodič za Tim Amerikano
 
 ## Uvod
-Tim Amerikano je dinamična i takmičarska varijacija tradicionalnog formata Padel Amerikano. Igra se sa fiksnim timovima od dva igrača, ovaj format je savršen za grupe koje žele da istaknu timski rad i strategiju. Sa fokusom na saradnju i konzistentnim partnerstvima, Tim Amerikano je idealan kako za opuštene tako i za takmičarske padel igrače.
-
-Ovaj vodič pruža sve što trebate znati da biste organizovali, igrali i odlično se snašli u Tim Amerikano.
+Tim Amerikano ima istu osnovnu ideju kao i Padel Amerikano, ali umesto menjanja partnera posle svakog kruga, ostajete sa istim igračem do kraja. Ovo je odličan način da postanete bolje upoznati sa svojim partnerom tokom događaja i zaista saznate o njihovom načinu igre. Ovo će takođe poboljšati vašu igru! Još jedna prednost Tim Amerikana je što tokom meča možete postati bolji tim i poboljšati svoje šanse za pobedu.
 
 ---
 
-## Šta Je Tim Amerikano?
-Tim Amerikano se igra sa fiksnim parovima, gde dva igrača formiraju tim i takmiče se protiv drugih timova u kratkim, visokoenergetskim mečevima. Za razliku od tradicionalnog Amerikana, partneri se ne rotiraju, što omogućava timovima da grade i izvršavaju dugoročne strategije.
+## Šta vam je potrebno za Tim Amerikano??
+Postavka je vrlo slična kao kod regularnog Padel Amerikana. Za optimalnu zabavu, preporučuje se da imate barem 4 tima, što znači 8 igrača. Zatim, zavisno od broja igrača, potrebno vam je padel teren (pogledajte tabelu ispod za optimalan broj terena u odnosu na broj igrača). Slično kao kod regularnog Amerikana, dobra je ideja imati neku vrstu sistema ili aplikaciju za vođenje bodova. Takođe, za ovo, [Padelution](https://www.padelution.com/americano) čini stvar vrlo jednostavnom.
 
-- **Igrači**: 8, 12, 16 ili više igrača podeljenih u timove od dva.
-- **Timovi**: Obično 4 ili više timova.
-- **Trajanje Meča**: Svaki meč se igra do određenog broja poena (obično 32).
-- **Bodovanje**: Kumulativni poeni preko svih mečeva određuju pobednički tim.
+| Broj timova | Minimalan broj terena |
+|-------------|------------------------|
+|     4 do 7   |           2            |
+|     8 do 11  |           3            |
+|    12 do 15  |           4            |
+|    16 do 19  |           5            |
+|    20 do 23  |           6            |
 
----
-
-## Zašto Izabrati Tim Amerikano?
-1. **Naglasak na Timskom Radu**: Podstiče snažnu saradnju i strategije partnera.
-2. **Fleksibilnost**: Dobro funkcioniše za turnire sa različitim brojem igrača.
-3. **Takmičarski i Zabavan**: Kombinuje najbolje aspekte takmičenja i uživanja.
-4. **Prilagodljivost**: Lako se prilagođava za veće grupe i više terena.
+Dodatni igrači mogu odmarati i navijati za druge
 
 ---
 
-## Kako Organizovati Turnir Tim Amerikano
-Organizacija turnira Tim Amerikano je jednostavna uz odgovarajuće planiranje. Pratite ove korake:
+## Pravila tima Amerikano
+Osnovna ideja je da svaki tim igra protiv svih ostalih timova tokom događaja, tako da u poređenju sa regularnim Amerikanom, nema rotacije unutar timova.
 
-### 1. Odredite Broj Timova
-Tim Amerikano najbolje funkcioniše sa 4 ili više timova:
-- 8 igrača = 4 tima
-- 12 igrača = 6 timova
-- 16 igrača = 8 timova
+Na primer, igrate na dva terena i sada ste tim A. Počinjete da igrate protiv tima B. Nakon završetka prvog kruga, ili ćete ostati na istom terenu ili promeniti terene, ali glavna stvar je da ćete sledeći put igrati protiv tima C. Nakon završetka drugog kruga, svi se ponovo rotiraju, i sledeći put igrate protiv tima D.
 
-### 2. Napravite Raspored Mečeva
-Planirajte rotaciju tako da se svi timovi suoče jedni sa drugima. Za 4 tima (Tim A, B, C, D):
-- Meč 1: Tim A vs. Tim B
-- Meč 2: Tim C vs. Tim D
-- Meč 3: Tim A vs. Tim C
-- Meč 4: Tim B vs. Tim D
-- Nastavite dok svi timovi ne odigraju.
-
-Za više timova, prilagodite rotaciju kako biste osigurali fer igru.
-
-### 3. Postavite Pravila Meča
-- **Poena**: Svaki meč se igra do fiksnog broja poena (npr. 32).
-- **Menjanje Strana**: Menjajte strane svakih 16 poena radi balansiranja faktora okoline.
-- **Kumulativno Bodovanje**: Timovi osvajaju poene u svakom meču, koji se dodaju na njihov ukupan rezultat.
-
-### 4. Zabeležite Rezultate
-Koristite tablu sa rezultatima ili amerikano aplikaciju da pratite poene koje svaki tim osvaja tokom mečeva.
-
-### 5. Odredite Pobednike
-Na kraju turnira, tim sa najvišim kumulativnim rezultatom se proglašava pobednikom. U slučaju nerešenog rezultata, razmotrite dodatni meč.
+Osnovna pravila padela se primenjuju, pa ako se ne slažete da li je lopta bila u ili van terena, dobro je ponoviti poen i brzo nastaviti. Izbor prvog servisa takođe može biti urađen na način na koji su igrači navikli, kao što je igranje "serverove lopte" ili bacanje novčića.
 
 ---
 
-## Strategije za Tim Amerikano
-1. **Hemijska Sposobnost sa Partnerom**: Razumeti snage i slabosti svog partnera.
-2. **Fokus na Konzistentnosti**: Ciljajte na stabilne performanse tokom mečeva.
-3. **Prilagodite se Protivnicima**: Razvijajte strategije za suprotstavljanje različitim stilovima igre.
-4. **Efikasna Komunikacija**: Jasna i koncizna komunikacija može napraviti razliku.
+## Primer krugova (iz perspektive tima A):
+- Krug 1 - Tim A vs. Tim B
+- Krug 2 - Tim A vs. Tim C
+- Krug 3 - Tim A vs. Tim D
+
+![Mike & Juan su tim A](/sr/images/team-americano.png "Mike & Juan su tim A")
 
 ---
 
-## Često Postavljana Pitanja
-### Šta ako ima više od 4 timova?
-Za veće grupe, povećajte broj rundi kako biste osigurali da svi timovi fer igraju. Takođe možete koristiti više terena da ubrzate mečeve.
+### Bodovanje i kako pobediti
+Svaki krug se obično igra do ukupno 32 poena. Svaki igrač servira 4 puta pre nego što se rotira na sledećeg servera. Ključno je zapamtiti da, na primer, ako vaš tim osvoji 15 poena, a protivnički tim osvoji 17 poena, dodeljujete 15 poena svom timu i 17 poena protivničkom timu. Ukupan broj odigranih poena je sada 32, i vaš krug je završen.
 
-### Šta se dešava ako dva tima imaju isti broj poena?
-Može se odigrati dodatni meč o 16 ili 32 poena kako bi se odredio pobednik.
+Nakon svakog kruga, važno je zabeležiti rezultate na tabli ili u nekom organizovanom sistemu, npr. Padelution. Tim sa najviše sakupljenih poena do kraja događaja proglašava se pobednikom. Dobra je ideja odrediti nekoga ko će pratiti bodove, obezbeđujući da se svi poeni pravilno zabeleže tokom događaja.
 
-### Da li početnici mogu uživati u Tim Amerikanu?
-Da! Format je pristupačan i zabavan za igrače svih nivoa, što ga čini savršenim za grupe sa različitim veštinama.
+![Marie/Bob su pobednički tim](/sr/images/team-americano-scores.png "Marie/Bob su pobednički tim")
 
----
+### Nakon isteka vremena
+Kada istekne vreme ili kada su svi timovi odigrali jedan protiv drugog barem dva puta, vreme je da vidite koji tim je sakupio najviše poena. Zapamtite da, za razliku od regularnog Amerikana, pobedjujete i gubite zajedno kao tim, tako da konačna tabela treba da pokaže timove organizovane u opadajućem redosledu počevši od tima koji je sakupio najviše poena.
 
-## Zaključak
-Tim Amerikano je uzbudljiv i društven način da uživate u padelu. Održavanjem igrača u konzistentnim parovima, ovaj format promoviše timski rad, strategiju i uzbudljiv takmičarski duh. Sa jasnim pravilima i malo planiranja, možete organizovati uspešan događaj Tim Amerikano koji će igrači svih nivoa obožavati.
-
-test
+Kada zvanični mečevi završe, zašto ne biste opušteno popili piće u salonu i družili se sa drugim igračima? Na kraju krajeva, druženje je jedan od najboljih delova igranja padela!

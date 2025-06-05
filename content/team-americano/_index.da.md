@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Den Ultimative Guide til Team Americano
 
 ## Introduktion
-Team Americano er en dynamisk og konkurrencepræget variation af den traditionelle Padel Americano-format. Spillet med faste hold af to spillere, er dette format perfekt til grupper, der ønsker at lægge vægt på teamwork og strategi. Med fokus på samarbejde og konsekvente partnerskaber er Team Americano ideel til både afslappede og konkurrenceprægede padelspillere.
-
-Denne guide giver dig alt, hvad du har brug for at vide for at organisere, spille og excel i Team Americano.
+Team Americano har samme grundlæggende idé som Padel Americano, men i stedet for at skifte partner efter hver runde, bliver du hos den samme spiller indtil slutningen. Dette er en fantastisk måde at blive mere fortrolig med din partner under begivenheden og faktisk lære om deres spillestil. Dette vil også forbedre dit spil! En anden fordel ved Team Americano er, at du under kampen har mulighed for at blive et bedre hold og forbedre dine vinderchancer.
 
 ---
 
-## Hvad er Team Americano?
-Team Americano spilles med faste par, hvor to spillere danner et hold og konkurrerer mod andre hold i korte, energifyldte kampe. I modsætning til traditionel Americano roterer partnere ikke, hvilket giver holdene mulighed for at opbygge og udføre langsigtede strategier.
+## Hvad har du brug for til Team Americano??
+Opsætningen ligner meget den for almindelig Padel Americano. For optimal sjov anbefales det, at du har mindst 4 hold, hvilket betyder 8 spillere. Derefter, afhængigt af hvor mange spillere du har, har du brug for en padelbane (se tabellen nedenfor for optimalt antal baner i forhold til antallet af spillere). På samme måde som med almindelig Americano, er det en god idé at have et slags system eller app til at holde styr på pointene. Derudover gør [Padelution](https://www.padelution.com/americano) dette meget nemt.
 
-- **Spillere**: 8, 12, 16 eller flere spillere opdelt i hold af to.
-- **Hold**: Typisk 4 eller flere hold.
-- **Kampvarighed**: Hver kamp spilles til et bestemt antal point (normalt 32).
-- **Pointgivning**: Kumulative point på tværs af alle kampe afgør det vindende hold.
+| Antal hold | Minimum antal baner |
+|------------|----------------------|
+|    4 til 7 |          2           |
+|    8 til 11|          3           |
+|   12 til 15|          4           |
+|   16 til 19|          5           |
+|   20 til 23|          6           |
 
----
-
-## Hvorfor Vælge Team Americano?
-1. **Fokus på Teamwork**: Opfordrer til stærkt samarbejde og partnerskabsstrategier.
-2. **Fleksibilitet**: Fungerer godt til turneringer med forskellige antal spillere.
-3. **Konkurrencepræget og Sjovt**: Kombinerer de bedste aspekter af konkurrence og sjov.
-4. **Skalerbarhed**: Nem at tilpasse til større grupper og flere baner.
+Ekstra spillere kan hvile sig og heppe på de andre
 
 ---
 
-## Sådan Organiseres en Team Americano Turnering
-At organisere en Team Americano-turnering er ligetil med ordentlig planlægning. Følg disse trin:
+## Reglerne for Team Americano
+Den grundlæggende idé er, at hvert hold spiller mod alle andre hold under begivenheden, så i forhold til almindelig Americano er der ingen rotation inden for holdene.
 
-### 1. Bestem Antallet af Hold
-Team Americano fungerer bedst med 4 eller flere hold:
-- 8 spillere = 4 hold
-- 12 spillere = 6 hold
-- 16 spillere = 8 hold
+For eksempel spiller du på to baner, og du er nu hold A. Du begynder at spille mod hold B. Efter første runde er færdig, bliver du enten på samme bane eller skifter bane, men det vigtigste er, at du næste gang spiller mod hold C. Efter anden runde er færdig, roterer I alle igen, og næste gang spiller I mod hold D.
 
-### 2. Opret en Kampplan
-Planlæg en rotation, så alle hold står over for hinanden. For 4 hold (Hold A, B, C, D):
-- Kamp 1: Hold A vs. Hold B
-- Kamp 2: Hold C vs. Hold D
-- Kamp 3: Hold A vs. Hold C
-- Kamp 4: Hold B vs. Hold D
-- Fortsæt, indtil alle hold har spillet.
-
-Til flere hold, juster rotationen derefter for at sikre retfærdighed.
-
-### 3. Fastlæg Kampregler
-- **Point**: Hver kamp spilles til et fast antal point (f.eks. 32).
-- **Skift Sider**: Skift sider hvert 16. point for at balancere miljømæssige faktorer.
-- **Kumulativ Pointgivning**: Hold optjener point i hver kamp, som lægges til deres samlede score.
-
-### 4. Registrer Point
-Brug et pointtavle eller en americano-app til at spore de point, hvert hold optjener på tværs af kampe.
-
-### 5. Bestem Vinderne
-Ved afslutningen af turneringen er holdet med den højeste kumulative score erklæret som vinderen. I tilfælde af uafgjort, overvej en playoff-kamp.
+Gældende regler for padel gælder, så hvis I er uenige om, hvorvidt bolden var inde eller ude, er det godt at gentage pointet og komme videre ret hurtigt. Valg af første serv kan også gøres på den måde, spillerne er vant til, f.eks. ved at spille en "serverens bold" eller kaste en mønt.
 
 ---
 
-## Strategier for Team Americano
-1. **Partnerskabskemi**: Forstå din partners styrker og svagheder.
-2. **Fokus på Konsistens**: Sigte efter stabil præstation på tværs af kampe.
-3. **Tilpasning til Modstandere**: Udvikl strategier for at imødegå forskellige spillestile.
-4. **Effektiv Kommunikation**: Klar og præcis kommunikation kan gøre hele forskellen.
+## Eksempel på runder (set fra hold A's perspektiv):
+- Runde 1 - Hold A mod Hold B
+- Runde 2 - Hold A mod Hold C
+- Runde 3 - Hold A mod Hold D
+
+![Mike & Juan er hold A](/da/images/team-americano.png "Mike & Juan er hold A")
 
 ---
 
-## Ofte Stillede Spørgsmål
-### Hvad hvis der er mere end 4 hold?
-For større grupper, øg antallet af runder for at sikre, at alle hold konkurrerer retfærdigt. Du kan også bruge flere baner for at fremskynde kampene.
+### Pointgivning og hvordan man vinder
+Hver runde spilles typisk til i alt 32 point. Hver spiller servicerer 4 gange, før der skiftes til næste servicerende spiller. En vigtig ting at huske er, at hvis dit hold f.eks. får 15 point, og det modsatte hold får 17 point, tildeles du 15 point til dit hold og 17 point til det modsatte hold. I alt spilles der nu 32 point, og din runde er færdig.
 
-### Hvad sker der, hvis to hold har samme antal point?
-En tiebreaker-kamp til 16 eller 32 point kan spilles for at afgøre vinderen.
+Efter hver runde er det vigtigt at registrere pointene på en tavle eller i et organiseret system, f.eks. Padelution. Holdet med flest point akkumuleret ved afslutningen af begivenheden, erklæres som vinderen. Det er en god idé at udpege en person til at følge pointene, så alle point korrekt registreres i løbet af begivenheden.
 
-### Kan begyndere nyde Team Americano?
-Ja! Formatet er tilgængeligt og sjovt for spillere på alle niveauer, hvilket gør det perfekt til grupper med forskellige færdighedsniveauer.
+![Marie/Bob er det vindende hold](/da/images/team-americano-scores.png "Marie/Bob er det vindende hold")
 
----
+### Efter tiden er udløbet
+Når tiden er udløbet, eller alle hold har spillet mod hinanden mindst to gange, er det tid til at se, hvilket hold der har samlet flest point. Husk, at modsat almindelig Americano vinder og taber I sammen som et hold, så den endelige tavle bør vise holdene organiseret i faldende rækkefølge, begyndende med holdet, der har samlet flest point.
 
-## Konklusion
-Team Americano er en spændende og social måde at nyde padel på. Ved at holde spillere i konstante par fremmer formatet teamwork, strategi og en spændende konkurrencekant. Med klare regler og lidt planlægning kan du arrangere en vellykket Team Americano-begivenhed, som spillere på alle niveauer vil elske.
-
-test
+Når de officielle kampe er overstået, hvorfor så ikke slappe af med nogle drinks i loungen og mingle med de andre spillere? Trods alt er socialt samvær en af de bedste dele ved at spille padel!

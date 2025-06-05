@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Ghidul Ultimativ pentru Echipa Americano
+# Ghidul Ultim pentru Echipa Americano
 
 ## Introducere
-Echipa Americano este o variantă dinamică și competitivă a formatului tradițional Padel Americano. Jucat cu echipe fixe de doi jucători, acest format este perfect pentru grupurile care doresc să pună accent pe colaborare și strategie. Cu accent pe colaborare și parteneriate consistente, Echipa Americano este ideală atât pentru jucătorii de padel casual, cât și pentru cei competitivi.
-
-Acest ghid oferă tot ce trebuie să știi pentru a organiza, juca și excela în Echipa Americano.
+Echipa Americano are aceeași idee de bază ca și Padel Americano, dar în loc să-ți schimbi partenerii după fiecare rundă, rămâi cu același jucător până la final. Acesta este un mod excelent de a deveni mai familiar cu partenerul tău în timpul evenimentului și de a învăța cu adevărat despre modul lor de joc. Acest lucru va îmbunătăți și jocul tău! Un alt beneficiu al echipei Americano este că în timpul meciului, poți deveni o echipă mai bună și îți poți îmbunătăți șansele de câștig.
 
 ---
 
-## Ce Este Echipa Americano?
-Echipa Americano se joacă cu perechi fixe, unde doi jucători formează o echipă și concurează împotriva altor echipe în meciuri scurte și pline de energie. Spre deosebire de Americano tradițional, partenerii nu se rotesc, permițând echipelor să-și construiască și să-și execute strategiile pe termen lung.
+## De ce ai nevoie pentru Echipa Americano??
+Configurația este foarte similară cu cea a Padelului Americano obișnuit. Pentru distracție optimă, se recomandă să ai cel puțin 4 echipe, ceea ce înseamnă 8 jucători. Apoi, în funcție de câți jucători ai, ai nevoie de un teren de padel (vezi tabelul de mai jos pentru cantitatea optimă de terenuri vs. numărul de jucători). Similar cu Americano-ul obișnuit, este o idee bună să ai un fel de sistem sau aplicație pentru a ține scorul. De asemenea, pentru acest lucru, [Padelution](https://www.padelution.com/americano) face totul foarte ușor.
 
-- **Jucători**: 8, 12, 16 sau mai mulți jucători împărțiți în echipe de doi.
-- **Echipe**: În mod obișnuit 4 sau mai multe echipe.
-- **Durata Meciului**: Fiecare meci se joacă până la un număr fix de puncte (de obicei 32).
-- **Punctaj**: Punctele cumulative de-a lungul tuturor meciurilor determină echipa câștigătoare.
+| Numărul de echipe | Număr minim de terenuri |
+|-----------------|--------------------------|
+|      4 până la 7     |             2            |
+|     8 până la 11     |             3            |
+|     12 până la 15    |             4            |
+|     16 până la 19    |             5            |
+|     20 până la 23    |             6            |
 
----
-
-## De Ce Să Alegi Echipa Americano?
-1. **Accent pe Colaborare**: Încurajează o colaborare puternică și strategii de parteneriat.
-2. **Flexibilitate**: Funcționează bine pentru turnee cu diferite numere de jucători.
-3. **Competitiv și Distractiv**: Combină cele mai bune aspecte ale competiției și distracției.
-4. **Scalabilitate**: Ușor de adaptat pentru grupuri mai mari și mai multe terenuri.
+Jucătorii suplimentari pot să se odihnească și să încurajeze ceilalți
 
 ---
 
-## Cum Să Organizezi un Turneu de Echipa Americano
-Organizarea unui turneu de Echipa Americano este simplă cu o planificare corespunzătoare. Urmează acești pași:
+## Regulile echipei Americano
+Ideea de bază este că fiecare echipă joacă împotriva tuturor celorlalte echipe în timpul evenimentului, deci în comparație cu Americano-ul obișnuit, nu există rotație în cadrul echipelor.
 
-### 1. Stabilește Numărul de Echipe
-Echipa Americano funcționează cel mai bine cu 4 sau mai multe echipe:
-- 8 jucători = 4 echipe
-- 12 jucători = 6 echipe
-- 16 jucători = 8 echipe
+De exemplu, joci pe două terenuri și echipa ta este acum echipa A. Începi să joci împotriva echipei B. După ce prima rundă se încheie, vei rămâne fie pe același teren, fie vei schimba terenurile, dar lucrul principal este că vei juca următoarea rundă împotriva echipei C. După ce a doua rundă se încheie, toți rotesc din nou, și apoi vei juca împotriva echipei D.
 
-### 2. Creează un Program de Meciuri
-Planifică o rotație astfel încât toate echipele să se confrunte între ele. Pentru 4 echipe (Echipa A, B, C, D):
-- Meciul 1: Echipa A vs. Echipa B
-- Meciul 2: Echipa C vs. Echipa D
-- Meciul 3: Echipa A vs. Echipa C
-- Meciul 4: Echipa B vs. Echipa D
-- Continuă până când toate echipele au jucat.
-
-Pentru mai multe echipe, ajustează rotația corespunzător pentru a asigura echitatea.
-
-### 3. Stabilește Regulile Meciului
-- **Puncte**: Fiecare meci se joacă până la un număr fix de puncte (de exemplu, 32).
-- **Schimbarea Părților**: Schimbă părțile la fiecare 16 puncte pentru a echilibra factorii de mediu.
-- **Punctaj Cumulativ**: Echipele câștigă puncte în fiecare meci, care sunt adăugate la scorul lor total.
-
-### 4. Înregistrează Scorurile
-Folosește un tabel de scor sau o aplicație americană pentru a urmări punctele pe care fiecare echipă le câștigă în meciuri.
-
-### 5. Stabilește Câștigătorii
-La sfârșitul turneului, echipa cu cel mai mare scor cumulativ este declarată câștigătoare. În caz de egalitate, ia în considerare un meci de departajare.
+Se aplică regulile de bază ale padelului, deci dacă nu ești de acord cu privire la faptul că o minge a fost în sau afară, este bine să repeți punctul și să treci mai departe destul de repede. Alegerea primului serviciu poate fi făcută și în modul în care jucătorii sunt obișnuiți, cum ar fi jucând un "serviciu" sau aruncând o monedă.
 
 ---
 
-## Strategii pentru Echipa Americano
-1. **Chimia cu Partenerul**: Înțelege punctele forte și slăbiciunile partenerului tău.
-2. **Concentrează-te pe Consistență**: Vizează o performanță constantă în toate meciurile.
-3. **Adaptează-te la Adversari**: Dezvoltă strategii pentru contracararea diferitelor stiluri de joc.
-4. **Comunică Eficient**: Comunicarea clară și concisă poate face toată diferența.
+## Exemplu de runde (din perspectiva echipei A):
+- Runda 1 - Echipa A vs. Echipa B
+- Runda 2 - Echipa A vs. Echipa C
+- Runda 3 - Echipa A vs. Echipa D
+
+![Mike & Juan sunt echipa A](/ro/images/team-americano.png "Mike & Juan sunt echipa A")
 
 ---
 
-## Întrebări Frecvente
-### Ce se întâmplă dacă sunt mai mult de 4 echipe?
-Pentru grupuri mai mari, crește numărul de runde pentru a te asigura că toate echipele concurează corect. Poți folosi și mai multe terenuri pentru a accelera meciurile.
+### Scorul și cum să câștigi
+Fiecare rundă se joacă în mod obișnuit până la un total de 32 de puncte. Fiecare jucător servește de 4 ori înainte de a rota la următorul serviciu. Un punct cheie de reținut este că, de exemplu, dacă echipa ta câștigă 15 puncte și echipa adversă câștigă 17 puncte, vei atribui 15 puncte echipei tale și 17 puncte echipei adverse. Totalul punctelor jucate este acum 32, iar runda ta s-a încheiat.
 
-### Ce se întâmplă dacă două echipe au același număr de puncte?
-Se poate juca un meci de departajare până la 16 sau 32 de puncte pentru a determina câștigătorul.
+După fiecare rundă, este esențial să înregistrezi scorurile pe un tabel sau într-un sistem organizat, cum ar fi Padelution. Echipa cu cele mai multe puncte acumulate până la finalul evenimentului este declarată câștigătoare. Este o idee bună să desemnezi pe cineva să urmărească scorurile, asigurându-te că toate punctele sunt înregistrate corect pe tot parcursul evenimentului.
 
-### Pot începătorii să se bucure de Echipa Americano?
-Da! Formatul este accesibil și distractiv pentru jucătorii de toate nivelurile, făcându-l perfect pentru grupuri cu abilități mixte.
+![Marie/Bob sunt echipa câștigătoare](/ro/images/team-americano-scores.png "Marie/Bob sunt echipa câștigătoare")
 
----
+### După ce timpul a expirat
+După ce timpul a expirat sau toate echipele au jucat una împotriva celeilalte de cel puțin două ori, este momentul să vezi care echipă a adunat cele mai multe puncte. Amintește-ți că, spre deosebire de Americano-ul obișnuit, câștigi și pierzi împreună ca echipă, așa că scorul final ar trebui să arate echipele organizate în ordine descrescătoare începând cu echipa care are cele mai multe puncte adunate.
 
-## Concluzie
-Echipa Americano este o modalitate captivantă și socială de a te bucura de padel. Prin menținerea jucătorilor în perechi consistente, formatul promovează colaborarea, strategia și o doză de competiție palpitantă. Cu reguli clare și puțină planificare, poți organiza un eveniment de succes de Echipa Americano pe care jucătorii de toate nivelurile îl vor iubi.
-
-test
+Odată ce meciurile oficiale s-au încheiat, de ce să nu te relaxezi cu câteva băuturi la lounge și să socializezi cu alți jucători? Până la urmă, socializarea este unul dintre cele mai bune aspecte ale jocului de padel!

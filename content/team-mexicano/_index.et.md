@@ -1,108 +1,117 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
-# Mehhiko meeskond: juhend selle põneva meeskondliku padeli formaadi kohta
+# Meeskond Mexicano: Juhend Selle põneva meeskondliku padeli formaadi kohta
 
-Kui naudid Padel Mexicano dünaamilist ja kohanemisvõimelist olemust, kuid soovid rõhutada meeskonnatööd ja pikaajalist strateegiat, siis **Mehhiko meeskond** on ideaalne valik. See formaat hoiab kaks mängijat turniiri vältel kindla meeskonnana, lisades mängule koostöö ja järjepidevuse kihi.
+Meeskond Mexicano pakub teistsugust meetodit vastaste valimiseks. Oluline tegur on teie meeskonna edetabelikoht ning pärast iga vooru kontrollite edetabelit, et teada saada, kellega mängite järgmises voorus.
 
-Selles juhendis sukeldume sügavale sellesse, mis teeb Mehhiko meeskonnast unikaalse, kuidas see toimib ja miks see on suurepärane valik nii juhuslikuks kui ka konkurentsivõimeliseks mänguks.
-
----
-
-## **Mis on Mehhiko meeskond?**
-
-Mehhiko meeskond on traditsioonilise Mehhiko formaadi variant, kus kaks mängijat võistlevad alati kindla meeskonnana. Erinevalt tavalisest Mehhiko formaadist, kus partnerid vahetuvad mängude vahel, hoiab Mehhiko meeskond partnerlused puutumatuna, võimaldades mängijatel arendada ja lihvida oma strateegiaid paarina.
-
-### **Mehhiko meeskonna põhijooned**
-- **Kindlad meeskonnad**: Kaks mängijat moodustavad meeskonna ja võistlevad koos terve turniiri vältel.
-- **Dünaamilised paarid**: Meeskonnad paaritatakse teistega vastavalt edetabeli seisule, nagu tavalises Mehhiko formaadis.
-- **Rõhk strateegiale**: Mängijad saavad tugevdada meeskonnatööd ja taktikat, kui nad seisavad silmitsi erinevate vastastega.
+Mis teeb selle nauditavaks, on see, et meeskonnad pöörduvad iga vooru järel, mis tähendab, et oskuste vahed tasakaalustatakse. See tagab, et iga meeskond võib oodata tihedaid ja põnevaid matše.
 
 ---
 
-## **Kuidas Mehhiko meeskond toimib?**
+## Mida on vaja Meeskond Mexicano jaoks?
 
-Formaat järgib samu kohanemispõhimõtteid nagu Mehhiko, kuid kindlate partnerlustega.
+Meeskond Mexicano jaoks ei ole vaja midagi ekstra võrreldes tavalise Mexicanoga, välja arvatud süsteem või rakendus skoori pidamiseks. Teenuseid nagu [Padelution](https://www.padelution.com/americano) saab kasutada skoori jälgimiseks.
 
-### **Mängupaaritamine**
-- Esimene mängupaaritamine määratakse juhuslikult, meeskonnad saavad vastased loteriiga.
-- Teisest mängust alates põhinevad paaritused edetabeli seisul:
-  - Esimesed kaks meeskonda mängivad omavahel.
-  - Kolmas ja neljas meeskond mängivad omavahel.
-  - Madalamalt hinnatud meeskonnad paaritatakse sarnaselt, et tagada tasakaalustatud mängud.
+On oluline omada selget meetodit skooride salvestamiseks, kuna iga meeskonna edetabelikoha järgi pärast iga vooru määratakse, kellega nad järgmisena mängivad. Soovitatav on vähemalt 4 meeskonda/8 mängijat ning optimaalne väljakute arv on 2. Võite suurendada meeskondade arvu, kuid on parim omada väljakute arvu, mis on jagatav neljaga, et tagada sujuv pöörlemine ja et kõik meeskonnad mängivad samal ajal.
 
-### **Mängu formaat**
-- Mänge mängitakse kindla punktisummani, tavaliselt 16, 24 või 32. Või võib kasutada kindlat ajalimitiimi 10–20 minutit.
-- Palliteenimise reeglid jäävad samaks kui Mehhikos:
-  - Iga meeskond teenib 4 või 6 korda enne teenimise pööramist.
-  - Iga punkt lisab meeskonna üldskoorile.
+## Meeskond Mexicano Reeglid
+
+Kõik padeli põhireeglid kehtivad Meeskond Mexicano mängimisel. Alustuseks võite esimesed paarid juhuslikult valida. Alates teisest voorust peate aga skoore jälgima ja laskma süsteemil pöörlemist hallata. Teise vooru ajal mängivad 1. ja 3. kohal olevad meeskonnad üksteise vastu ning 2. ja 4. kohal olevad meeskonnad mängivad teisel väljakul omavahel.
+
+- **Fikseeritud Meeskonnad**: Kaks mängijat moodustavad meeskonna ja võistlevad koos kogu turniiri vältel.
+- **Dünaamilised Paarid**: Meeskonnad paaristatakse teistega vastavalt edetabeli seisule, nagu tavalises Mexicanos.
+
+| Edetabel pärast esimest vooru | Mängud 2. vooruks |
+|:---------------------------:|:---------------------:|
+|            Meeskond 1           |   Meeskond 1 vs. Meeskond 2   |
+|            Meeskond 2           |                       |
+|            Meeskond 3           |   Meeskond 3 vs. Meeskond 4   |
+|            Meeskond 4           |                       |
+---
+
+## Kuidas skoorimine toimib?
+
+Skoorimine toimib samamoodi nagu Americanos ja tavalises Mexicanos. Iga mängu mängitakse kuni kokku on saadud 32 punkti. Näiteks kui teie meeskond (Meeskond 1) mängib Meeskonna 4 vastu ja teie meeskond saab 20 punkti, siis Meeskond 4 saab 12 punkti. See tähendab, et kokku on nüüd mängitud 32 punkti ja on aeg liikuda järgmisesse vooru.
+
+![Meeskond Mexicano punktid!](/et/images/team-mexicano-scores.png "Meeskond Mexicano punktid!")
+
+### Näide skoorimisest meeskonna 1 vaatenurgast
+- Voor 1: Meeskond 1 20 punkti ja meeskond 4 12 punkti
+- Voor 2: Meeskond 1 19 punkti ja meeskond 2 13 punkti
+
+Kokku kogunenud punktide arv pärast kahte vooru on 39 meeskonnale 1
+
+### Siis, kes on Võitja?
+Sündmuse lõpus on esimesel kohal olev meeskond edetabelis võitja, järgnevad teised meeskonnad vastavalt teisele, kolmandale jne. Meeskond Mexicano suurim eelis on see, et meeskonnad pöörlevad pärast iga vooru edetabeli alusel, tagades kõikide matšide tiheduse ja konkurentsivõime, tagades lõbusa kogemuse kõigile osalejatele.
+
+![Meeskond Mexicano seis!](/et/images/team-mexicano-standing.png "Meeskond Mexicano seis")
 
 ---
 
-## **Skoorimine Mehhiko meeskonnas**
+## Skoorimine Meeskond Mexicano-s
 
-Mehhiko meeskonna skoorisüsteem on lihtne ja peegeldab Mehhiko oma:
+Meeskond Mexicano skoorimissüsteem on lihtne ja peegeldab Mexicanot:
 
-1. **Punktid mängu kohta**: Iga meeskonna skoor mängust lisatakse nende kumulatiivsele üldskoorile.
-   - Näiteks kui mäng lõpeb 20–12, lisab võitnud meeskond 20 punkti ja kaotanud meeskond 12 punkti oma skooridele.
-2. **Edetabeli hinnangud**: Meeskonnad on edetabelis hinnatud nende kogupunktide põhjal kõigist mängudest.
-3. **Võitja**: Turniiri lõpus võidab meeskond kõrgeima punktisummaga.
+1. **Punktid Mängu Kohta**: Iga meeskonna skoor mängust lisatakse nende kogusummale.
+   - Näiteks kui mäng lõpeb 20–12, lisab võitnud meeskond 20 punkti ja kaotanud meeskond lisab 12 punkti oma skoorile.
+2. **Edetabeli Edetabelid**: Meeskonnad on edetabelis järjestatud nende kogupunktide alusel kõikidest mängudest.
+3. **Võitja**: Turniiri lõpus on kõrgeima skooriga meeskond võitja.
 
 ---
 
-## **Erinevused Mehhiko ja Mehhiko meeskonna vahel**
+## Erinevused Mexicanos ja Meeskond Mexicanos
 
 Kuigi mõlemad formaadid jagavad palju sarnasusi, seisneb peamine erinevus meeskonna struktuuris:
 
-| **Omadus**            | **Mehhiko**                                     | **Mehhiko meeskond**                              |
+| **Omadus**            | **Mexicano**                                     | **Meeskond Mexicano**                                  |
 |-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Meeskonna struktuur** | Mängijad vahetavad partnereid mängude vahel     | Meeskonnad jäävad turniiri vältel kindlaks         |
-| **Rõhk**               | Individuaalne esitus ja kohanemisvõime           | Meeskonnatöö ja pikaajaline strateegia            |
-| **Vastase paaritamine**| Põhineb edetabeli seisul                        | Põhineb edetabeli seisul                          |
-| **Skoorimine**         | Individuaalsed punktid iga mängu kohta           | Kumulatiivsed meeskonna punktid iga mängu kohta   |
+| **Meeskonna Struktuur**      | Mängijad pöörlevad partnerite vahel mängude vahel         | Meeskonnad jäävad kogu turniiri vältel fikseerituks      |
+| **Fookus**               | Individuaalne sooritus ja kohanemisvõime         | Meeskonnatöö ja pikaajaline strateegia                   |
+| **Vastase Paaritamine**    | Põhineb edetabeli seisul                  | Põhineb edetabeli seisul                    |
+| **Skoorimine**             | Individuaalsed punktid iga mängu kohta saadud punktidest        | Kogu meeskonna punktid iga mängu kohta saadud punktidest     |
 
 ---
 
-## **Mehhiko meeskonna turniiri korraldamine**
+## Meeskond Mexicano Turniiri Korraldamine
 
-Mehhiko meeskonna turniiri korraldamine on lihtne õige seadistusega:
+Meeskond Mexicano turniiri korraldamine on lihtne õige seadistusega:
 
-### **Osalejad ja väljakud**
+### Osalejad ja Väljakud
 - Alustamiseks on vaja vähemalt 8 mängijat (4 meeskonda).
-- Suuremate gruppide puhul veendu, et mängijate koguarv on jagatav neljaga ühtlaste meeskondade jaoks.
+- Suuremate gruppide korral veenduge, et mängijate koguarv oleks jagatav neljaga ühtlaste meeskondade jaoks.
 - Vajalike väljakute arv sõltub meeskondade arvust:
   - 4 meeskonda (8 mängijat) = 2 väljakut
   - 6 meeskonda (12 mängijat) = 3 väljakut
   - 8 meeskonda (16 mängijat) = 4 väljakut
 
-### **Mängude ajakava**
-- Paaritused määratakse dünaamiliselt edetabeli seisule pärast esimest ringi.
-- Veendu, et iga meeskond mängib mitu mängu, et koguda punkte.
+### Mängude Ajakava
+- Paarid määratakse dünaamiliselt vastavalt edetabeli seisule pärast esimest vooru.
+- Veenduge, et iga meeskond mängiks mitu mängu punktide kogumiseks.
 
-### **Mängu kestvus**
+### Mängu Kestus
 - Üks mäng kestab tavaliselt 10–15 minutit lühemate formaatide korral nagu 16 või 24 punkti.
-- Planeeri 2–3 tundi terve turniiri jaoks, sõltuvalt meeskondade arvust.
+- Planeerige kogu turniiriks 2–3 tundi, olenevalt meeskondade arvust.
 
-### **Skoorimine**
-- Kasuta skoorikaarti või rakendust meeskonna skooride jälgimiseks ja edetabeli värskendamiseks pärast iga mängu.
-
----
-
-## **Miks mängida Mehhiko meeskonda?**
-
-Mehhiko meeskond pakub ainulaadset kogemust, mis ühendab Mehhiko dünaamilised paaritused meeskonnatöö ja püsivate partnerluste strateegiaga. Siin on põhjused, miks see on suurepärane valik:
-
-1. **Tugevam meeskonnatöö**: Kindla partneriga mängimine aitab sul usaldust luua ja strateegiaid lihvida.
-2. **Õiglane ja väljakutseid pakkuv**: Dünaamiline paaritussüsteem tagab tasakaalustatud mängud vastavalt esitusele.
-3. **Kaasav ja lõbus**: Nagu Mehhiko, sobib see formaat mängijatele kõigil tasemetel.
-4. **Tugevdatud konkurents**: Meeskonnad püüavad teisi ületada, tugevdades samal ajal oma partnerlust.
+### Skoori Pidamine
+- Kasutage skoorikaarti või rakendust (näiteks [Padelution](https://www.padelution.com/americano)) meeskonna skooride jälgimiseks ja edetabeli uuendamiseks pärast iga mängu.
 
 ---
 
-## **Järeldus**
+## Miks Mängida Meeskond Mexicanot?
 
-Mehhiko meeskond on põnev viis nautida padelit, pakkudes täiuslikku segu strateegiast, meeskonnatööst ja dünaamilisest võistlusest. Olgu sul plaanis turniiri korraldada või ühel osaleda, see formaat toob mängu põnevuse ellu, soodustades tugevamaid sidemeid ja unustamatuid mänge.
+Meeskond Mexicano pakub unikaalset kogemust, mis ühendab Mexicano dünaamilised paaritused meeskonnatöö ja kindlate meeskondadega. Siin on põhjused, miks see on suurepärane valik:
 
-Nii et haarake oma partner, minge väljakule ja sukelduge Mehhiko meeskonna maailma kogemuse jaoks nagu ükski teine!
+1. **Tugevam Meeskonnatöö**: Fikseeritud partneriga mängimine aitab teil usaldust luua ja strateegiaid lihvida.
+2. **Õiglane ja Väljakutseid Pakkuv**: Dünaamiline paaritamissüsteem tagab tasakaalustatud matšid vastavalt sooritusele.
+3. **Kaasav ja Lõbus**: Nagu Mexicanos, sobib see formaat mängijatele kõigil tasemetel.
 
-test
+---
+
+## Järeldus
+
+Meeskond Mexicano on põnev viis padeli nautimiseks, pakkudes ideaalset segu strateegiast, meeskonnatööst ja dünaamilisest konkurentsist. Olgu teil siis turniiri korraldamine või selles osalemine, see formaat toob mängu põnevuse ellu, soodustades tugevamaid sidemeid ja unustamatuid matše.
+
+Nii et haarake oma partner, minge väljakule ja sukelduge Meeskond Mexicano maailma, et kogeda midagi enneolematut!

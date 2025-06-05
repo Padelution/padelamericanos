@@ -1,85 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Ultimate-opas Team Americanoon
+# Ultimate opas Team Americanoon
 
 ## Johdanto
-Team Americano on dynaaminen ja kilpailullinen muunnelma perinteisestä Padel Americano -formaatista. Pelataan kahden pelaajan kiinteillä joukkueilla, tämä formaatti sopii täydellisesti ryhmille, jotka haluavat korostaa tiimityötä ja strategiaa. Yhteistyön ja johdonmukaisten kumppanuuksien keskittyessä Team Americano sopii sekä rentoihin että kilpailullisiin padelpelaajiin.
-
-Tämä opas tarjoaa kaiken tarvittavan järjestääksesi, pelataksesi ja menestyäksesi Team Americanossa.
+Team Americano perustuu samaan perusajatukseen kuin Padel Americano, mutta sen sijaan että vaihtaisit paria jokaisen kierroksen jälkeen, pysyt saman pelaajan kanssa loppuun asti. Tämä on loistava tapa tulla paremmin tutuksi parisi kanssa tapahtuman aikana ja oikeasti oppia tuntemaan heidän pelityylinsä. Tämä myös parantaa omaa pelaamistasi! Toinen Team Americanon hyöty on, että ottelun aikana voit kehittyä paremmaksi tiimiksi ja parantaa voittomahdollisuuksiasi.
 
 ---
 
-## Mikä on Team Americano?
-Team Americanoa pelataan kiinteillä pareilla, joissa kaksi pelaajaa muodostaa joukkueen ja kilpailee muiden joukkueiden kanssa lyhyissä, energisissä otteluissa. Toisin kuin perinteisessä Americanossa, parit eivät vaihdu, mikä mahdollistaa joukkueiden rakentamisen ja pitkäaikaisten strategioiden toteuttamisen.
+## Mitä tarvitset Team Americanoon??
+Järjestely on hyvin samankaltainen kuin tavallisessa Padel Americanossa. Optimaalisen hauskuuden saavuttamiseksi suositellaan vähintään 4 tiimiä eli 8 pelaajaa. Sitten pelaajamäärästä riippuen tarvitset padel-kentän (katso alla oleva taulukko optimaalisesta kenttien määrästä pelaajamäärää kohti). Samoin kuin tavallisessa Americanossa, on hyvä idea olla jokin järjestelmä tai sovellus pistelaskua varten. Myös tähän [Padelution](https://www.padelution.com/americano) tekee sen erittäin helpoksi.
 
-- **Pelaajat**: 8, 12, 16 tai useampia pelaajia jaettuna kahden hengen joukkueisiin.
-- **Joukkueet**: Yleensä 4 tai useampia joukkueita.
-- **Ottelun kesto**: Jokainen ottelu pelataan tiettyyn piste-ennätykseen (yleensä 32).
-- **Pisteytys**: Kaikkien otteluiden kumulatiiviset pisteet määrittävät voittavan joukkueen.
+| Tiimien lukumäärä | Minimimäärä kenttiä |
+|-----------------|--------------------------|
+|      4 - 7     |             2            |
+|     8 - 11     |             3            |
+|     12 - 15    |             4            |
+|     16 - 19    |             5            |
+|     20 - 23    |             6            |
 
----
-
-## Miksi valita Team Americano?
-1. **Tiimityön korostaminen**: Kannustaa vahvaa yhteistyötä ja kumppanistrategioita.
-2. **Joustavuus**: Toimii hyvin turnauksissa eri pelaajamäärillä.
-3. **Kilpailullinen ja Hauska**: Yhdistää kilpailun parhaat puolet ja nautinnon.
-4. **Skaalautuvuus**: Helppo sovittaa suuremmille ryhmille ja useille kentille.
+Lisäpelaajat voivat levätä ja kannustaa muita
 
 ---
 
-## Kuinka Järjestää Team Americano -turnaus
-Team Americanon turnauksen järjestäminen on suoraviivaista asianmukaisella suunnittelulla. Noudata näitä vaiheita:
+## Team Americanon säännöt
+Perusajatus on, että jokainen tiimi pelaa kaikkia muita tiimejä vastaan tapahtuman aikana, joten verrattuna tavalliseen Americanoon, tiimien sisällä ei tapahdu kiertoa.
 
-### 1. Määritä Joukkueiden Lukumäärä
-Team Americano toimii parhaiten 4 tai useammalla joukkueella:
-- 8 pelaajaa = 4 joukkuetta
-- 12 pelaajaa = 6 joukkuetta
-- 16 pelaajaa = 8 joukkuetta
+Esimerkiksi pelaat kahdella kentällä ja olet nyt tiimi A. Aloitat pelaamisen tiimiä B vastaan. Ensimmäisen kierroksen jälkeen pysyt joko samalla kentällä tai vaihdat kenttiä, mutta pääasia on, että seuraavaksi pelaat tiimiä C vastaan. Toisen kierroksen jälkeen kaikki vaihtavat jälleen, ja seuraavaksi pelaat tiimiä D vastaan.
 
-### 2. Luo Otteluohjelma
-Suunnittele kiertäminen niin, että kaikki joukkueet kohtaavat toisensa. Neljälle joukkueelle (Joukkue A, B, C, D):
-- Ottelu 1: Joukkue A vs. Joukkue B
-- Ottelu 2: Joukkue C vs. Joukkue D
-- Ottelu 3: Joukkue A vs. Joukkue C
-- Ottelu 4: Joukkue B vs. Joukkue D
-- Jatka kunnes kaikki joukkueet ovat pelanneet.
-
-Useammille joukkueille muuta kiertämistä varmistaaksesi reiluuden.
-
-### 3. Aseta Ottelun Säännöt
-- **Pisteet**: Jokainen ottelu pelataan kiinteään pistemäärään (esim. 32).
-- **Vaihda Puolia**: Vaihda puolia joka 16. pisteen kohdalla tasapainottaaksesi ympäristötekijöitä.
-- **Kumulatiivinen Pisteytys**: Joukkueet ansaitsevat pisteitä jokaisessa ottelussa, jotka lisätään heidän kokonaispisteisiinsä.
-
-### 4. Kirjaa Pisteet
-Käytä pistetaulukkoa tai americano-sovellusta seurataksesi pisteitä, jotka kukin joukkue ansaitsee otteluissa.
-
-### 5. Määritä Voittajat
-Turnauksen päätteeksi joukkue, jolla on korkein kumulatiivinen pistemäärä, julistetaan voittajaksi. Tasatilanteessa harkitse playoff-ottelua.
+Padelin perussäännöt pätevät, joten jos ette ole samaa mieltä siitä, oliko pallo sisällä vai ulkona, on hyvä toistaa piste ja siirtyä eteenpäin melko nopeasti. Ensimmäisen syöttäjän valinta voidaan myös tehdä pelaajien tottumalla tavalla, kuten pelaamalla "syöttäjän palloa" tai heittämällä kolikkoa.
 
 ---
 
-## Strategiat Team Americanoon
-1. **Kumppanikemia**: Ymmärrä kumppanisi vahvuudet ja heikkoudet.
-2. **Keskitä Jatkuvuuteen**: Tavoittele tasaisia suorituksia otteluista toiseen.
-3. **Mukaudu Vastustajiin**: Kehitä strategioita vastatakseksi erilaisiin pelityyleihin.
-4. **Kommunikoi Tehokkaasti**: Selkeä ja tiivis kommunikaatio voi tehdä suuren eron.
+## Esimerkki kierroksista (tiimi A:n näkökulmasta):
+- Kierros 1 - Tiimi A vs. Tiimi B
+- Kierros 2 - Tiimi A vs. Tiimi C
+- Kierros 3 - Tiimi A vs. Tiimi D
+
+![Mike & Juan ovat tiimi A](/fi/images/team-americano.png "Mike & Juan ovat tiimi A")
 
 ---
 
-## Usein Kysytyt Kysymykset
-### Mitä jos joukkueita on yli 4?
-Suuremmille ryhmille lisää kierrosten määrää varmistaaksesi, että kaikki joukkueet kilpailevat reilusti. Voit myös käyttää useita kenttiä nopeuttaaksesi otteluita.
+### Pisteytys ja voittaminen
+Jokainen kierros pelataan yleensä yhteensä 32 pisteeseen. Jokainen pelaaja syöttää 4 kertaa ennen siirtymistä seuraavalle syöttäjälle. Tärkeä muistaa on, että esimerkiksi jos tiimisi saa 15 pistettä ja vastustajatiimi saa 17 pistettä, annat 15 pistettä omalle tiimillesi ja 17 pistettä vastustajatiimille. Yhteensä pelattuja pisteitä on nyt 32, ja kierroksesi on ohi.
 
-### Mitä tapahtuu, jos kaksi joukkuetta on tasapisteissä?
-Tasatilanteessa voidaan pelata ratkaiseva ottelu 16 tai 32 pisteeseen voittajan määrittämiseksi.
+Jokaisen kierroksen jälkeen on olennaista kirjata pisteet taulukkoon tai järjestelmään, kuten Padelution. Eniten pisteitä kerännyt tiimi tapahtuman lopussa julistetaan voittajaksi. On hyvä idea nimetä joku seuraamaan pisteitä varmistaen, että kaikki pisteet kirjataan asianmukaisesti tapahtuman aikana.
 
-### Voivatko aloittelijat nauttia Team Americanosta?
-Kyllä! Formaatti on saavutettavissa ja hauska kaiken taitotason pelaajille, mikä tekee siitä täydellisen sekalaisille ryhmille.
+![Marie/Bob ovat voittajatiimi](/fi/images/team-americano-scores.png "Marie/Bob ovat voittajatiimi")
 
----
+### Kun aika loppuu
+Kun aika loppuu tai kaikki tiimit ovat pelanneet toisiaan vastaan vähintään kahdesti, on aika nähdä, mikä tiimi on kerännyt eniten pisteitä. Muista, että toisin kuin tavallisessa Americanossa, voitat ja häviät yhdessä tiiminä, joten lopullisen tulostaulukon tulisi näyttää tiimit laskevassa järjestyksessä aloittaen tiimistä, jolla on kerätty eniten pisteitä.
 
-## Johtopäätös
-Team Americano on jännittävä ja sosiaalinen tapa nauttia padelista. Pidettäessä pelaajat jatkuvissa pareissa, formaatti edistää tiimityötä, strategiaa ja kiehtovaa kilpailullista reunaa. Selkeillä säännöillä ja hieman suunnittelulla voit järjestää onnistuneen Team Americano -tapahtuman, josta kaiken taitoiset pelaajat pitävät.
+Virallisten otteluiden päätyttyä, mikset rentoutuisi juomalla jotain loungessa ja seurustelemalla muiden pelaajien kanssa? Sosiaalinen kanssakäyminen on loppujen lopuksi yksi parhaista osista padelin pelaamisessa!

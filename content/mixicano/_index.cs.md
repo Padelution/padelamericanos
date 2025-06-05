@@ -1,108 +1,99 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 # Mixicano: Unikátní formát Padel pro smíšené týmy
 
-Mixicano je vzrušující variace tradičního formátu Americano, navržená tak, aby do padelu přinesla rovnováhu, inkluzi a různorodost. Klíčovou vlastností Mixicana je zajištění toho, že každý tým je smíšený, s jedním mužem a jednou ženou hrajícími společně. Tento formát zdůrazňuje týmovou práci, komunikaci a kamarádství napříč pohlavími.
+Mixicano je vzrušující variace tradičního formátu Americano, navržená tak, aby do padelu přinesla rovnováhu, začlenění a rozmanitost. Klíčovou vlastností Mixicana je, že zajišťuje, že každý tým je smíšený, s jedním mužem a jednou ženou hrající společně. Tento formát zdůrazňuje týmovou práci, komunikaci a kamarádství napříč pohlavími.
 
-Alternativně může být Mixicano hrán i tím, že hráči jsou párováni podle svých preferovaných stran kurtu, kde se "levý" hráč spojí s "pravým" hráčem, což umožňuje oběma hrát na svých preferovaných stranách.
+Alternativně může být Mixicano hrán i tím, že se hráči dělí podle jejich preferovaných stran kurtu, kde se "levý" hráč spojí s "pravým" hráčem, což umožňuje oběma hrát na svých preferovaných stranách.
 
-V tomto průvodci se podíváme na pravidla, organizaci a unikátní aspekty Mixicana.
+V tomto průvodci prozkoumáme pravidla, organizaci a jedinečné aspekty Mixicana.
 
 ---
 
-## **Co je Mixicano?**
+## Co je Mixicano?
 
-Mixicano kombinuje dynamickou, adaptivní povahu Americano s pevným pravidlem, že všechny týmy musí být smíšené:
-- **Smíšené Týmy**: Každý tým se skládá z jednoho muže a jedné ženy. Žádný tým nemůže mít dva muže nebo dvě ženy.
-- **Týmy s Preferovanou Stranou** (Volitelné): Místo párování podle pohlaví mohou být hráči spojeni jako "levý" a "pravý" hráč, aby mohli maximálně využít své silné stránky.
+Mixicano kombinuje dynamickou, adaptační povahu Americano s pevným pravidlem, že všechny týmy musí být smíšené:
+- Muž & žena
+- Hráč z pravé strany & hráč z levé strany
+- Pravák & levák
+- Podle úrovně dovedností, což znamená jeden hráč z každé úrovně dovedností (hráči 1-4 a hráči 5-8 seřazeni podle svých dovedností)
 
 Tento formát přidává vrstvu strategie a rovnováhy do tradičního nastavení Americano, čímž ho činí zábavným a soutěživým.
 
 ---
 
-## **Jak funguje Mixicano?**
+## Jak funguje Mixicano?
 
-### **Počáteční Párování**
-- V prvním zápase jsou týmy losovány náhodně, zajistí se tak, že každý tým se skládá z jednoho muže a jedné ženy (nebo jednoho levého a jednoho pravého hráče, v závislosti na formátu).
+### Počáteční párování
+- V prvním zápase jsou týmy losovány náhodně, zajistí se tak, že každý tým se skládá z jednoho muže a jedné ženy (nebo jednoho hráče z levé strany a jednoho z pravé strany, v závislosti na formátu).
 
-### **Dynamický Párovací Systém**
-- V Mixicanu se každý hráč spojí s každým jiným hráčem opačného pohlaví (nebo ze protilehlé strany, pokud se používá formát "levá strana/pravá strana") právě jednou.
-- Párování jsou předem určena, aby se zajistilo, že každý má rovnocennou šanci hrát s každým účastníkem a proti všem.
+### Dynamický systém párování
+- V Mixicanu se každý hráč spojí s každým jiným hráčem opačného pohlaví (nebo z opačné strany, pokud se používá formát "levá strana/pravá strana") právě jednou.
+- Párování jsou předem určena, aby se zajistilo, že každý má rovnocennou šanci hrát s každým účastníkem a proti každému.
 - Například:
   - **Kolo 1**: Hráč 1 (muž) a Hráč 2 (žena) vs. Hráč 3 (muž) a Hráč 4 (žena)
   - **Kolo 2**: Hráč 1 (muž) a Hráč 4 (žena) vs. Hráč 2 (žena) a Hráč 3 (muž)
   - **Kolo 3**: Hráč 1 (muž) a Hráč 3 (žena) vs. Hráč 2 (muž) a Hráč 4 (žena)
 
-Tím se zajistí různorodost v partnerstvích a zároveň se dodržuje základní pravidlo, že každý tým je vždy smíšený (pohlaví) nebo vyvážený podle preferencí stran. Na konci turnaje tak každý účastník bude hrát s každým vhodným partnerem a soutěžit proti každému soupeři.
+Tím se zajistí různorodost v partnerstvích a zároveň se dodržuje základní pravidlo, že každý tým je vždy smíšený (pohlaví nebo preference levé/pravé strany). Na konci turnaje tak každý účastník hrál po boku každého vhodného partnera a soutěžil proti každému soupeři.
 
-### **Formát Zápasu**
-- Zápasy se hrají na stanovený počet bodů, obvykle 16, 24 nebo 32, nebo v určeném časovém limitu (např. 10–20 minut).
-- Týmy během každého zápasu sbírají body a skóre přispívá k individuálním výsledkům.
+### Formát zápasu
+- Zápasy se hrají na stanovený počet bodů, obvykle 16, 24 nebo 32, nebo v pevně stanoveném časovém limitu (např. 10–20 minut).
+- Týmy sbírají body během každého zápasu a skóre přispívá k individuálním výsledkům.
 
 ---
 
-## **Skórování v Mixicanu**
+## Skórování v Mixicanu
 
-Skórovací systém v Mixicanu kopíruje ten z Americano, s důrazem na individuální akumulaci bodů:
+Skórovací systém v Mixicanu odráží ten z Americano, s důrazem na individuální akumulaci bodů:
 
-1. **Body za Zápas**: Skóre každého týmu je rozděleno rovnoměrně mezi jeho členy.
+1. **Body za zápas**: Skóre každého týmu je rozděleno rovnoměrně mezi jeho členy.
    - Například, pokud zápas skončí 20–12, hráči vítězného týmu získají každý 20 bodů, zatímco hráči poraženého týmu získají každý 12 bodů.
-2. **Žebříčkování**: Hráči jsou řazeni podle kumulativního počtu bodů.
+2. **Žebříčkování**: Hráči jsou řazeni podle jejich kumulativního skóre.
 3. **Vítěz**: Hráč s nejvíce body na konci turnaje je korunován vítězem.
 
 ---
 
-## **Hlavní Rozdíly Mezi Mixicanem a Ostatními Formáty**
+## Organizace turnaje Mixicano
 
-| **Funkce**              | **Americano**                                  | **Mixicano**                                    |
-|---------------------------|-----------------------------------------------|------------------------------------------------|
-| **Párování Týmů**         | Partneři se střídají mezi zápasy               | Týmy jsou vždy smíšené (muž & žena) nebo založené na straně (levý & pravý) |
-| **Zaměření**                 | Individuální adaptabilita                       | Inkluzivita a týmová práce                       |
-| **Párování Soupeřů**      | Založeno na žebříčkových pozicích                | Založeno na žebříčkových pozicích                 |
-| **Strategie Týmu**         | Různorodé v závislosti na zápase                     | Vyvážení pohlaví nebo stran zlepšuje hru   |
+Pro uspořádání turnajů Mixicano je zapotřebí nějaké dodatečné plánování, aby se zajistilo vyvážené párování týmů. Zde je, jak takový turnaj zorganizovat:
 
----
-
-## **Organizace Turnaje Mixicano**
-
-Pro Mixicano turnaje je zapotřebí nějaké další plánování, aby byla zajištěna vyváženost týmových párování. Zde je, jak takový turnaj zorganizovat:
-
-### **Účastníci a Kurty**
-- Budete potřebovat sudý počet mužů a žen (nebo hráčů levé a pravé strany).
+### Účastníci a kurty
+- Budete potřebovat sudý počet mužů a žen (nebo hráčů z levé a pravé strany).
 - Počet potřebných kurtů závisí na celkovém počtu účastníků:
   - 8 hráčů (4 muži, 4 ženy) = 2 kurty
   - 12 hráčů (6 mužů, 6 žen) = 3 kurty
   - 16 hráčů (8 mužů, 8 žen) = 4 kurty
 
-### **Plánování Zápasů**
-- Párování jsou určena náhodně pro první zápas a dynamicky na základě výsledků poté.
-- Ujistěte se, že nejsou týmy muž-muž nebo žena-žena (nebo levá strana-levá strana nebo pravá strana-pravá strana) během žádného zápasu.
+### Plánování zápasů
+- Párování jsou určena náhodně pro první zápas a dynamicky podle výsledků poté.
+- Ujistěte se, že žádné týmy muž-muž nebo žena-žena (nebo levá-levá nebo pravá-pravá párování) nejsou během žádného zápasu.
 
-### **Délka Zápasu**
-- Plánujte 10–15 minut na zápas nebo stanovte konkrétní počet bodů, například 16, 24 nebo 32.
-- Celý turnaj s 8 hráči obvykle trvá 2–3 hodiny.
+### Délka zápasu
+- Plánujte 10–15 minut na zápas nebo stanovte konkrétní počet bodů, jako je 16, 24 nebo 32.
+- Celý turnaj se 8 hráči obvykle trvá 2–3 hodiny.
 
-### **Vedení Skóre**
-- Použijte skórovací kartu nebo aplikaci k zaznamenání výsledků zápasů a dynamické aktualizaci individuálních výsledků.
-
----
-
-## **Proč hrát Mixicano?**
-
-Mixicano nabízí jedinečné výhody, které z něj činí fantastickou volbu pro hráče padelu na všech úrovních:
-
-1. **Inkluzivita**: Tím, že vyžaduje smíšené týmy, Mixicano podporuje spolupráci a kamarádství mezi hráči různých pohlaví.
-2. **Vyvážená Soutěž**: Formát zajišťuje spravedlivá utkání tím, že dynamicky páruje týmy podle výkonu.
-3. **Rozvoj Dovedností**: Hraní s pevným spoluhráčem podporuje lepší komunikaci a strategické plánování.
-4. **Zábava a Různorodost**: Mixicano přináší nový nádech do padelu, udržuje zápasy zajímavé a vzrušující.
+### Vedení skóre
+- Použijte skórovací kartu nebo aplikaci (například [Padelution](https://www.padelution.com/americano) k zaznamenání výsledků zápasů a dynamické aktualizaci individuálních výsledků.
 
 ---
 
-## **Závěr**
+## Proč hrát Mixicano?
 
-Mixicano je dynamický a inkluzivní způsob, jak si užít padel, nabízející dokonalou rovnováhu zábavy, strategie a sociální interakce. Ať už hrajete s týmy založenými na pohlaví nebo straně, tento formát zajišťuje vyváženou soutěž a nezapomenutelné zápasy.
+Mixicano nabízí jedinečné výhody, které z něj činí fantastickou volbu pro hráče padelu všech úrovní:
+
+1. **Začlenění**: Tím, že nařizuje smíšené týmy, Mixicano podporuje spolupráci a kamarádství mezi hráči různých pohlaví.
+2. **Vyvážená soutěž**: Formát zajišťuje spravedlivá utkání tím, že dynamicky páruje týmy podle výkonu.
+3. **Rozvoj dovedností**: Hraní s pevným spoluhráčem povzbuzuje lepší komunikaci a strategické plánování.
+4. **Zábava a rozmanitost**: Mixicano přináší do padelu nový nádech, udržuje zápasy zajímavé a vzrušující.
+
+---
+
+## Závěr
+
+Mixicano je dynamický a začleněný způsob, jak si užít padel, nabízející dokonalou rovnováhu zábavy, strategie a sociální interakce. Ať už hrajete s týmy podle pohlaví nebo stran kurtu, tento formát zajišťuje vyváženou soutěž a nezapomenutelné zápasy.
 
 Takže se seberte s přáteli, vytvořte své týmy a ponořte se do vzrušujícího světa Mixicana pro turnajový zážitek jako žádný jiný!
-
-test

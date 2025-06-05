@@ -1,99 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Guide
+weight: 1
 ---
-# Tout sur le Padel Americano
+# Padel Americano - Tout ce que vous devez savoir
 
-Le Padel Americano est une version amusante, sociale et compétitive du padel, parfaite pour les joueurs de tous niveaux. Contrairement aux matchs de padel traditionnels, l'Americano met l'accent sur la rotation et la variété d'équipes, ce qui en fait un choix populaire pour les tournois, les ligues et les rassemblements informels. Voici un guide complet pour comprendre et jouer au Padel Americano.
-
----
-
-## **Qu'est-ce que le Padel Americano?**
-
-Le Padel Americano est un format de tournoi où les participants jouent en binômes, mais leurs partenaires et adversaires tournent tout au long de l'événement. L'objectif est de marquer le plus de points possible, soit individuellement, soit en binôme, selon la variante.
+Le padel américano est une excellente alternative à la façon originale de jouer au padel. L'idée de base du padel américano est qu'après chaque tournoi, les équipes tournent pour que chaque joueur joue avec les autres. C'est ce qui rend l'Americano si populaire et amusant ! Jouer avec le même partenaire pendant longtemps finit par perdre de son excitation, c'est pourquoi tout le monde devrait essayer le Padel Americano. C'est également un très bon moyen de rencontrer de nouvelles personnes et de jouer avec elles. Pour les joueurs qui veulent aussi s'améliorer, cela aide de jouer avec des joueurs de différents niveaux.
 
 ---
 
-## **Règles de base du Padel Americano**
+## Ce dont vous avez besoin pour jouer à l'Americano
 
-### **1. Configuration du Match**
-- **Nombre de Joueurs :** Généralement, 8 joueurs participent sur deux terrains. Les groupes plus importants (par ex. 16 joueurs) peuvent utiliser davantage de terrains. Certains logiciels américains prennent également en charge différents nombres de joueurs.
-- **Durée du Jeu :** Chaque match se joue pour un nombre défini de points.
-- **Décompte des Points :** Les scores individuels sont suivis pour chaque joueur, indépendamment de leur partenaire.
+Pour jouer à l'Americano, vous n'avez pas besoin de beaucoup de choses supplémentaires par rapport à la façon originale de jouer. Bien sûr, vous avez besoin de joueurs, et généralement, pour s'amuser, il est bon d'avoir un minimum de 8 joueurs et, si possible, 2 terrains réservés (Voir plus d'exemples dans le tableau ci-dessous). Si vous avez 8 joueurs, une bonne durée de réservation du terrain est de 2h.
+
+| Nombre de joueurs                                         | Nombre minimum de terrains |
+|-----------------------------------------------------------|--------------------------|
+|                           4 à 7                          |             1            |
+|                          8 à 11                          |             2            |
+|                          12 à 15                         |             3            |
+|                          16 à 19                         |             4            |
+|                          20 à 23                         |             5            |
+
+
+
+Les joueurs supplémentaires peuvent se reposer et encourager pendant que d'autres jouent
+
+Ensuite, bien sûr, vous aurez besoin de balles pour tous les terrains et d'autres équipements de base pour tous les joueurs, comme des raquettes. Avant de commencer, il est bon de diviser tous les joueurs sur les terrains et de s'assurer que chaque joueur sait comment jouer au padel, puis d'expliquer comment fonctionne le Padel Americano. Une chose importante est d'avoir un outil facile à utiliser pour tenir le score après chaque tour. Un excellent exemple est Padelution.com.
+
+## Vous aurez besoin de :
+
+- Joueurs avec l'équipement de base pour jouer au padel, c'est-à-dire des vêtements de sport, une raquette de padel et des chaussures.
+- Terrains réservés en fonction du nombre de joueurs qui participent.
+- Balles pour chaque terrain, trois balles par terrain étant optimal.
+- Système pour tenir les scores, par exemple [Padelution](https://padelution.com/americano)
+- Au moins une personne pour expliquer les règles et s'assurer que tous les scores sont collectés après chaque tour.
+
+---
+## Les règles du Padel Americano
+
+Les règles sont simples et faciles à apprendre. L'idée de base est que chaque joueur joue avec les autres pendant l'événement. De plus, tout le monde devrait se rencontrer deux fois, mais cela dépend aussi du temps réservé pour jouer.
+
+Pour gagner, vous devez collecter le plus grand nombre de points, donc dans ce format, vous collectez des points pour vous-même. Par exemple, vous jouez sur deux terrains et vous êtes maintenant le joueur A. Vous commencez avec le joueur B et jouez contre les joueurs C & D. Après votre tour est terminé, vous resterez sur le même terrain ou changerez de terrain, mais l'essentiel est que vous jouerez ensuite avec le joueur C contre les joueurs B et D. Après que le deuxième tour soit terminé, vous rotatez à nouveau, et ensuite, vous jouez avec le joueur F contre G & H.
+
+Les règles de base du padel s'appliquent, donc s'il y a des opinions divergentes sur si la balle était dehors, il est bon de rejouer le point et de passer rapidement à autre chose. Choisir le premier serveur peut également se faire de la manière à laquelle les joueurs sont habitués, donc jouer un "service" ou lancer une pièce. Chaque joueur sert quatre points, puis vous faites tourner le serveur avec l'équipe adverse.
+
+![Points du Padel Americano !](/fr/images/padel-americano.png "Points du Padel Americano !")
+
+### Exemple de tours (du point de vue du joueur A) :
+- Tour 1 - Joueur A&B contre joueur C&D
+- Tour 2 - Joueur A&C contre joueur B&D
+- Tour 3 - Joueur A&F contre joueur G&H
 
 ---
 
-### **2. Rotation des Matchs**
-- Après chaque manche, les partenaires et adversaires sont mélangés selon un calendrier préétabli. Cela garantit que chacun joue avec et contre différents joueurs.
-- Le système de rotation équilibre la compétition globale et encourage l'interaction sociale entre les joueurs.
+### Notation et comment gagner
+Chaque tour est généralement joué jusqu'à un total de 32 points, et chaque joueur sert 4 fois, puis vous faites tourner le serveur. Par exemple, disons que votre équipe collecte 15 points et l'autre équipe en collecte 17. Cela signifie que le total des points joués est maintenant de 32, il est donc temps de tourner.
+
+Au système de notation, vous ajoutez ensuite 15 points à votre équipe / à vous deux, et l'adversaire obtient 17 points chacun. Disons ensuite que vous et votre partenaire marquez 20 points lors du deuxième match, ce qui signifie que le score de l'adversaire est de 12 points.
+
+Alternativement, vous pouvez également fixer un temps et jouer jusqu'à ce que le temps soit écoulé et collecter des points jusqu'à ce moment-là. Après chaque tour joué, il est important d'ajouter les scores dans un système ou un tableau de scores.
+
+Le joueur qui a collecté le plus de points une fois l'événement terminé est le gagnant. Il est généralement une bonne idée d'avoir quelqu'un responsable de la collecte des scores pour que tous les points soient enregistrés après l'événement.
 
 ---
 
-### **3. Système de Décompte des Points**
-- Les points sont attribués individuellement en fonction du résultat du match :
-  - **Chaque joueur :** gagne autant de points que de balles jouées qu'ils remportent.
+### Quand il est temps d'arrêter de jouer
+Une fois le temps écoulé, il est temps de voir qui a collecté le plus de points. Bien sûr, s'il reste du temps après que tout le monde ait joué les uns contre les autres, vous pouvez jouer des tours supplémentaires. Si le temps est écoulé avant que tout le monde n'ait joué les uns contre les autres, il est généralement une bonne idée d'égaliser simplement les points avec tout le monde.
+
+![Tableau de scores du Padel Americano !](/fr/assets/padel-americano-scoreboard.png "Tableau de scores du Padel Americano !")
+
+Une fois la partie officielle terminée, pourquoi ne pas prendre un verre au salon si possible et socialiser avec les autres joueurs ? C'est l'un des meilleurs aspects du Padel de toute façon !
 
 ---
 
-### **4. Format du Match**
-- Les matchs se jouent généralement jusqu'à **32 points**.
-- Chaque joueur sert 4 fois d'affilée. Par exemple, les joueurs A et B jouent contre C et D. A commence à servir et sert 4 fois, puis C sert 4 fois, puis B sert 4 fois, puis D sert 4 fois. Ensuite, 16 points sont joués. En cas d'égalité à 16-16, le jeu sera à égalité et les deux joueurs gagneront 16 points.
+## Variantes du Padel Americano
 
----
-
-### **5. Règles du Terrain**
-- Le Padel Americano suit les règles standard du terrain de padel et du jeu :
-  - Les matchs se jouent en double.
-  - La balle doit rebondir une fois avant de toucher les murs ou la clôture.
-  - Les services se font en diagonale et doivent atterrir dans la zone de service de l'adversaire.
-  - Un point est marqué si l'adversaire ne parvient pas à renvoyer la balle ou enfreint une règle.
-
----
-
-## **Variantes du Padel Americano**
-
-### **1. Team Americano**
-- Les joueurs sont répartis en équipes et jouent ensemble contre d'autres équipes.
+### [1. Team Americano](/fr/team-americano)
+- Les joueurs sont divisés en équipes et jouent ensemble en équipe contre d'autres équipes.
 - Encourage la collaboration et l'esprit d'équipe.
 
-### **2. Americano Basé sur le Temps**
-- Les matchs se jouent pendant une durée fixe (par ex. 10 minutes), quel que soit le score.
+### 2. Americano basé sur le temps
+- Les matchs se jouent pendant un temps fixe (par exemple, 10 minutes), quel que soit le score.
 - Permet de faire avancer le tournoi de manière efficace.
 
-### **3. Mixte Americano (Mixicano)**
-- Les joueurs masculins et féminins alternent les partenaires à travers les manches.
-- Les joueurs du côté gauche et du côté droit jouent toujours ensemble, de sorte qu'il n'y ait pas deux joueurs préférant le côté gauche ou droit dans la même équipe.
+### [3. Americano mixte (Mixicano)](/fr/mixicano)
+- Les joueurs masculins et féminins alternent les partenaires à travers les tours.
+- Les joueurs du côté gauche et du côté droit jouent toujours ensemble, il n'y aura donc pas deux joueurs préférant le côté gauche ou droit dans la même équipe.
 - Favorise l'inclusivité et la variété dans le jeu.
-
----
-
-## **Gagner au Padel Americano**
-
-À la fin de toutes les manches, le joueur avec le score individuel le plus élevé est déclaré vainqueur. Dans les formats par équipe, l'équipe avec le plus de points remporte le tournoi.
-
----
-
-## **Pourquoi Jouer au Padel Americano?**
-
-1. **Interaction Sociale :** Les joueurs ont l'occasion d'interagir avec tout le monde, ce qui en fait un excellent moyen de rencontrer de nouvelles personnes et de construire une communauté.
-2. **Inclusivité :** Convient à tous les niveaux de compétence, car les binômes sont aléatoires.
-3. **Divertissement Dynamique :** La rotation rapide maintient l'énergie élevée et élimine les longues attentes entre les matchs.
-
----
-
-## **Conseils pour Réussir**
-
-1. **S'Adapter Rapidement :** Soyez prêt à ajuster votre style de jeu pour correspondre aux forces et faiblesses de votre partenaire.
-2. **Misez sur la Consistance :** Remporter plus de points sur plusieurs manches vaut mieux que de tout miser sur un seul match.
-3. **Rester Positif :** Une attitude joyeuse peut motiver votre partenaire et améliorer vos performances globales.
-
----
-
-### **Conclusion**
-
-Le Padel Americano est un format polyvalent et divertissant qui met en valeur le meilleur des aspects sociaux et compétitifs du padel. Que vous organisiez un match amical ou un tournoi à grande échelle, ces règles posent les bases pour un événement excitant et mémorable. Prenez votre raquette, foulez le terrain et profitez de l'excitation de l'Americano!
-
----
-
-**Avez-vous vos propres conseils ou expériences avec le Padel Americano? Partagez-les avec nous!**
-
-test

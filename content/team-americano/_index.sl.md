@@ -1,85 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Ultimate Guide to Team Americano
+# Najboljši vodič za Team Americano
 
 ## Uvod
-Team Americano je dinamična in konkurenčna variacija tradicionalnega formata Padel Americano. Igrajo ga fiksni pari dveh igralcev, ta format je popoln za skupine, ki želijo poudariti sodelovanje in strategijo. Z osredotočenostjo na sodelovanje in stalna partnerstva je Team Americano idealen tako za sproščene kot tudi za tekmovalne igralce padla.
-
-Ta vodič vsebuje vse, kar morate vedeti, da organizirate, igrate in blestite v Team Americano.
+Team Americano ima enako osnovno idejo kot Padel Americano, vendar namesto menjave partnerjev po vsakem krogu ostaneš s istim igralcem do konca. To je odličen način, da se bolje spoznaš s partnerjem med dogodkom in dejansko spoznaš njegov način igre. To bo tudi izboljšalo tvojo igro! Še ena prednost Team Americano je, da med tekmo postaneš boljša ekipa in izboljšaš svoje možnosti za zmago.
 
 ---
 
-## Kaj je Team Americano?
-Team Americano se igra s fiksnimi pari, kjer dva igralca tvorita ekipo in tekmujejo proti drugim ekipam v kratkih, visokoenergičnih dvobojih. Za razliko od tradicionalnega Americano se partnerji ne menjajo, kar ekipam omogoča gradnjo in izvajanje dolgoročnih strategij.
+## Kaj potrebuješ za Team Americano??
+Postavitev je zelo podobna običajnemu Padel Americano. Za optimalno zabavo je priporočljivo imeti vsaj 4 ekipe, kar pomeni 8 igralcev. Nato, odvisno od števila igralcev, potrebuješ padel igrišče (glej spodnjo tabelo za optimalno število igrišč glede na število igralcev). Podobno kot pri običajnem Americano, je dobra ideja imeti neko vrsto sistema ali aplikacijo za beleženje rezultatov. Za to je [Padelution](https://www.padelution.com/americano) zelo enostaven.
 
-- **Igralci**: 8, 12, 16 ali več igralcev razdeljenih v pare.
-- **Ekipe**: Običajno 4 ali več ekip.
-- **Trajanje tekme**: Vsaka tekma se igra do določenega števila točk (običajno 32).
-- **Točkovanje**: Kumulativne točke v vseh tekmah določajo zmagovalno ekipo.
+| Število ekip | Minimalno število igrišč |
+|--------------|--------------------------|
+|      4 do 7  |             2            |
+|     8 do 11  |             3            |
+|    12 do 15  |             4            |
+|    16 do 19  |             5            |
+|    20 do 23  |             6            |
 
----
-
-## Zakaj izbrati Team Americano?
-1. **Poudarek na sodelovanju**: Spodbuja močno sodelovanje in partnerske strategije.
-2. **Prilagodljivost**: Dobro deluje za turnirje z različnim številom igralcev.
-3. **Tekmovalno in zabavno**: Kombinira najboljše vidike tekmovanja in užitka.
-4. **Prilagodljivost**: Enostavno prilagodljiv za večje skupine in več igrišč.
+Dodatni igralci se lahko spočijejo in navijajo za druge
 
 ---
 
-## Kako organizirati turnir Team Americano
-Organizacija turnirja Team Americano je preprosta s pravilnim načrtovanjem. Sledite tem korakom:
+## Pravila Team Americano
+Osnovna ideja je, da vsaka ekipa igra proti vsem drugim ekipam med dogodkom, zato v primerjavi z običajnim Americano ni rotacije znotraj ekip.
 
-### 1. Določite število ekip
-Team Americano najbolje deluje z 4 ali več ekipami:
-- 8 igralcev = 4 ekipe
-- 12 igralcev = 6 ekip
-- 16 igralcev = 8 ekip
+Na primer, igrate na dveh igriščih in ste zdaj ekipa A. Začnete igrati proti ekipi B. Po končanem prvem krogu boste ostali na istem igrišču ali zamenjali igrišča, vendar je glavna stvar, da boste naslednjič igrali proti ekipi C. Po končanem drugem krogu se spet vsi zamenjate in naslednjič igrate proti ekipi D.
 
-### 2. Ustvarite razpored tekem
-Načrtujte rotacijo, tako da se vse ekipe soočijo med seboj. Za 4 ekipe (Ekipa A, B, C, D):
-- Tekma 1: Ekipa A proti ekipi B
-- Tekma 2: Ekipa C proti ekipi D
-- Tekma 3: Ekipa A proti ekipi C
-- Tekma 4: Ekipa B proti ekipi D
-- Nadaljujte, dokler vse ekipe ne odigrajo.
-
-Za več ekip prilagodite rotacijo, da zagotovite poštenost.
-
-### 3. Določite pravila tekme
-- **Točke**: Vsaka tekma se igra do določenega števila točk (npr. 32).
-- **Menjava strani**: Menjajte strani vsakih 16 točk, da uravnotežite okoljske dejavnike.
-- **Kumulativno točkovanje**: Ekipe zbirajo točke v vsaki tekmi, ki se dodajo k njihovemu skupnemu rezultatu.
-
-### 4. Zabeležite rezultate
-Uporabite rezultatsko tablo ali aplikacijo americano za sledenje točkam, ki jih vsaka ekipa doseže v tekmah.
-
-### 5. Določite zmagovalce
-Na koncu turnirja je ekipa z najvišjim kumulativnim rezultatom razglašena za zmagovalca. V primeru neodločenega izida upoštevajte dodatno tekmo.
+Veljajo osnovna pravila padla, zato če se ne strinjate, ali je žoga v ali izven, je dobro ponoviti točko in se hitro premakniti naprej. Izbor prvega serviserja se lahko izvede na način, ki je igralcem znan, na primer s igranjem "servisne žoge" ali metanjem kovanca.
 
 ---
 
-## Strategije za Team Americano
-1. **Kemijska povezava s partnerjem**: Razumeti moči in šibkosti partnerja.
-2. **Osredotočitev na doslednost**: Ciljajte na stabilno predstavo v vseh tekmah.
-3. **Prilagajanje nasprotnikom**: Razvijte strategije za nasprotovanje različnim slogom igre.
-4. **Učinkovita komunikacija**: Jasna in jedrnata komunikacija lahko naredi veliko razliko.
+## Primer krogov (iz perspektive ekipe A):
+- Krog 1 - Ekipa A proti ekipi B
+- Krog 2 - Ekipa A proti ekipi C
+- Krog 3 - Ekipa A proti ekipi D
+
+![Mike & Juan sta ekipa A](/sl/images/team-americano.png "Mike & Juan sta ekipa A")
 
 ---
 
-## Pogosto zastavljena vprašanja
-### Kaj, če je ekip več kot 4?
-Za večje skupine povečajte število krogov, da zagotovite pošteno tekmovanje vsem ekipam. Prav tako lahko uporabite več igrišč, da pospešite tekme.
+### Ocena in kako zmagati
+Vsak krog se običajno igra do skupno 32 točk. Vsak igralec servira 4-krat, preden se zamenja s naslednjim serviserjem. Pomembno je zapomniti, da na primer, če tvoja ekipa doseže 15 točk in nasprotna ekipa doseže 17 točk, boste dodelili 15 točk svoji ekipi in 17 točk nasprotni ekipi. Skupno igranih točk je sedaj 32 in vaš krog je končan.
 
-### Kaj se zgodi, če dve ekipi dosežeta enako število točk?
-Za določitev zmagovalca se lahko odigra dodatna odločilna tekma do 16 ali 32 točk.
+Po vsakem krogu je pomembno zabeležiti rezultate na rezultatni deski ali v nekem organiziranem sistemu, npr. Padelution. Ekipa z največ zbranimi točkami do konca dogodka je razglašena za zmagovalca. Dobra ideja je določiti nekoga, ki bo spremljal rezultate, zagotavljajoč, da se vse točke pravilno beležijo skozi celoten dogodek.
 
-### Ali se začetniki lahko zabavajo s Team Americano?
-Da! Format je dostopen in zabaven za igralce vseh ravni, kar ga naredi popolnega za skupine z različnimi spretnostmi.
+![Marie/Bob sta zmagovalna ekipa](/sl/images/team-americano-scores.png "Marie/Bob sta zmagovalna ekipa")
 
----
+### Po poteku časa
+Po poteku časa ali ko so vse ekipe igrale vsaj dvakrat med seboj, je čas, da vidimo, katera ekipa je zbrala največ točk. Ne pozabite, da, za razliko od običajnega Americano, zmagate in izgubite skupaj kot ekipa, zato bi morala končna razpredelnica prikazovati ekipe razvrščene padajoče, začenši z ekipo, ki je zbrala največ točk.
 
-## Zaključek
-Team Americano je vznemirljiv in družaben način uživanja v padlu. Z ohranjanjem igralcev v stalnih parih format spodbuja sodelovanje, strategijo in vznemirljiv tekmovalni pridih. S čistimi pravili in malo načrtovanja lahko organizirate uspešen dogodek Team Americano, ki bo všeč igralcem vseh ravni.
+Ko so uradne tekme končane, zakaj se ne bi sprostili ob nekaj pijačah v salonu in se družili z drugimi igralci? Navsezadnje je druženje ena najboljših stvari pri igranju padla!

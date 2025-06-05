@@ -1,108 +1,118 @@
 ---
 rascunho: falso
+barra_lateral:
+  excluir: verdadeiro
 ---
 # Team Mexicano: Um Guia para Este Empolgante Formato de Padel em Equipe
 
-Se você gosta da natureza dinâmica e adaptável do Padel Mexicano, mas deseja enfatizar o trabalho em equipe e a estratégia de longo prazo, **Team Mexicano** é a escolha perfeita. Este formato mantém dois jogadores como uma equipe fixa durante todo o torneio, adicionando uma camada extra de colaboração e consistência ao jogo.
+Team Mexicano oferece outro método dinâmico para escolher adversários. O fator chave é a classificação da sua equipe e, após cada rodada, você verifica onde está na classificação para descobrir contra quem jogará na próxima rodada.
 
-Neste guia, vamos explorar o que torna o Team Mexicano único, como ele funciona e por que é uma opção fantástica tanto para jogos casuais quanto competitivos.
+O que torna isso divertido é a maneira como as equipes se alternam após cada rodada, o que significa que as diferenças de nível de habilidade são equilibradas. Isso garante que cada equipe possa esperar partidas emocionantes e equilibradas.
 
 ---
 
-## **O Que É o Team Mexicano?**
+## O que Você Precisa para o Team Mexicano?
 
-Team Mexicano é uma variação do formato tradicional Mexicano, onde dois jogadores sempre competem como uma equipe fixa. Ao contrário do Mexicano regular, onde os parceiros se alternam entre as partidas, o Team Mexicano mantém as parcerias intactas, permitindo que os jogadores desenvolvam e aprimorem suas estratégias em conjunto.
+Para o Team Mexicano, você não precisa de nada extra em comparação com um Mexicano regular, exceto por um sistema ou aplicativo para manter a pontuação. Serviços como [Padelution](https://www.padelution.com/americano) podem ser usados para acompanhar as pontuações.
 
-### **Principais Características do Team Mexicano**
+É importante ter um método claro para registrar as pontuações, pois a classificação de cada equipe após cada rodada determina contra quem elas irão jogar a seguir. É recomendado um mínimo de 4 equipes/8 jogadores, e a quantidade ideal de quadras é 2. Você pode aumentar o número de equipes, mas é melhor ter um número de quadras divisível por 4 para garantir uma rotação suave e que todas as equipes estejam jogando ao mesmo tempo.
+
+## Regras do Team Mexicano
+
+Todas as regras básicas do padel se aplicam ao jogar Team Mexicano. Para começar, você pode selecionar aleatoriamente os primeiros pares. A partir da segunda rodada, no entanto, você precisa acompanhar as pontuações e deixar o sistema lidar com a rotação. As equipes classificadas em 1º e 3º lugar jogarão entre si na segunda rodada e as equipes classificadas em 2º e 4º lugar jogarão entre si na outra quadra.
+
 - **Equipes Fixas**: Dois jogadores formam uma equipe e competem juntos durante todo o torneio.
 - **Parcerias Dinâmicas**: As equipes são pareadas contra outras com base na classificação do leaderboard, assim como no Mexicano regular.
-- **Foco na Estratégia**: Os jogadores podem construir uma equipe mais forte e táticas à medida que enfrentam uma variedade de oponentes.
+
+| Classificação após a primeira rodada | Partidas para a 2ª rodada |
+|:-----------------------------------:|:-------------------------:|
+|            Equipe 1                 |   Equipe 1 vs. Equipe 2   |
+|            Equipe 2                 |                           |
+|            Equipe 3                 |   Equipe 3 vs. Equipe 4   |
+|            Equipe 4                 |                           |
 
 ---
 
-## **Como Funciona o Team Mexicano?**
+## Como Funciona a Pontuação?
 
-O formato segue os mesmos princípios adaptáveis do Mexicano, mas com parcerias fixas.
+A pontuação funciona da mesma forma que no Americano e no Mexicano regular. Cada partida é jogada até um total de 32 pontos ter sido marcado. Por exemplo, se sua equipe (Equipe 1) jogar contra a Equipe 4 e sua equipe marcar 20 pontos, então a Equipe 4 marcará 12 pontos. Isso significa que um total de 32 pontos foi jogado e é hora de passar para a próxima rodada.
 
-### **Emparelhamento das Partidas**
-- O primeiro emparelhamento de partidas é determinado aleatoriamente, com as equipes designadas aos oponentes por meio de um sorteio.
-- A partir da segunda partida, os emparelhamentos são baseados nas classificações do leaderboard:
-  - As duas melhores equipes jogam uma contra a outra.
-  - As equipes classificadas em terceiro e quarto lugar jogam entre si.
-  - As equipes com classificações mais baixas são pareadas de forma semelhante para garantir partidas equilibradas.
+![Pontuação do Team Mexicano!](/pt/images/team-mexicano-scores.png "Pontuação do Team Mexicano!")
 
-### **Formato das Partidas**
-- As partidas são jogadas até um número fixo de pontos, geralmente 16, 24 ou 32. Alternativamente, um limite de tempo de 10 a 20 minutos pode ser usado.
-- As regras de saque permanecem as mesmas do Mexicano:
-  - Cada equipe saca 4 ou 6 vezes antes de o saque ser rotacionado.
-  - Cada ponto marcado contribui para a pontuação geral da equipe.
+### Exemplo de pontuação da perspectiva da equipe 1
+- Rodada 1: Equipe 1 20 pontos e equipe 4 12 pontos
+- Rodada 2: Equipe 1 19 pontos e equipe 2 13 pontos
 
----
+Total de pontos acumulados após duas rodadas é 39 para a equipe 1
 
-## **Pontuação no Team Mexicano**
+### Então, Quem é o Vencedor?
+Ao final do evento, a equipe em primeiro lugar na classificação é a vencedora, seguida pelas equipes em segundo, terceiro lugar, e assim por diante. A maior vantagem do Team Mexicano é que, devido à forma como as equipes são rotacionadas após cada rodada com base na classificação, todas as partidas permanecem equilibradas e competitivas, garantindo uma experiência divertida para todos os envolvidos.
 
-O sistema de pontuação para o Team Mexicano é simples e espelha o do Mexicano:
-
-1. **Pontos por Partida**: A pontuação de cada equipe em uma partida é adicionada ao seu total acumulado.
-   - Por exemplo, se uma partida terminar 20-12, a equipe vencedora adiciona 20 pontos, e a equipe perdedora adiciona 12 pontos às suas pontuações.
-2. **Classificações do Leaderboard**: As equipes são classificadas no leaderboard com base em seus pontos totais em todas as partidas.
-3. **Vencedor**: A equipe com a pontuação mais alta no final do torneio vence.
+![Classificação do Team Mexicano!](/pt/images/team-mexicano-standing.png "Classificação do Team Mexicano")
 
 ---
 
-## **Diferenças Entre Mexicano e Team Mexicano**
+## Pontuação no Team Mexicano
+
+O sistema de pontuação para o Team Mexicano é direto e espelha o do Mexicano:
+
+1. **Pontos por Partida**: A pontuação de cada equipe de uma partida é adicionada ao total acumulado.
+   - Por exemplo, se uma partida terminar 20–12, a equipe vencedora adiciona 20 pontos, e a equipe perdedora adiciona 12 pontos às suas pontuações.
+2. **Classificação do Leaderboard**: As equipes são classificadas no leaderboard com base em seus pontos totais em todas as partidas.
+3. **Vencedor**: A equipe com a maior pontuação no final do torneio vence.
+
+---
+
+## Diferenças Entre Mexicano e Team Mexicano
 
 Embora os dois formatos compartilhem muitas semelhanças, a diferença chave está na estrutura da equipe:
 
-| **Característica**      | **Mexicano**                                     | **Team Mexicano**                                  |
-|-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Estrutura da Equipe** | Jogadores alternam parceiros entre as partidas   | Equipes permanecem fixas durante todo o torneio    |
-| **Foco**                | Desempenho individual e adaptabilidade           | Trabalho em equipe e estratégia de longo prazo     |
-| **Emparelhamento de Oponentes** | Baseado nas classificações do leaderboard    | Baseado nas classificações do leaderboard          |
-| **Pontuação**           | Pontos individuais marcados em cada partida      | Pontos acumulados da equipe marcados em cada partida|
+| **Característica**        | **Mexicano**                                     | **Team Mexicano**                                  |
+|---------------------------|-------------------------------------------------|---------------------------------------------------|
+| **Estrutura da Equipe**   | Jogadores alternam parceiros entre as partidas   | Equipes permanecem fixas durante todo o torneio    |
+| **Foco**                  | Desempenho individual e adaptabilidade           | Trabalho em equipe e estratégia a longo prazo      |
+| **Parceria de Adversários**| Baseada na classificação do leaderboard         | Baseada na classificação do leaderboard            |
+| **Pontuação**             | Pontos individuais marcados de cada partida      | Pontos acumulados da equipe de cada partida        |
 
 ---
 
-## **Organizando um Torneio de Team Mexicano**
+## Organizando um Torneio de Team Mexicano
 
 Organizar um torneio de Team Mexicano é simples com a configuração correta:
 
-### **Participantes e Quadras**
+### Participantes e Quadras
 - Você precisará de um mínimo de 8 jogadores (4 equipes) para começar.
-- Para grupos maiores, certifique-se de que o número total de jogadores seja divisível por quatro para equipes equilibradas.
+- Para grupos maiores, garanta que o número total de jogadores seja divisível por quatro para equipes uniformes.
 - O número de quadras necessárias depende do número de equipes:
   - 4 equipes (8 jogadores) = 2 quadras
   - 6 equipes (12 jogadores) = 3 quadras
   - 8 equipes (16 jogadores) = 4 quadras
 
-### **Agendamento das Partidas**
-- Os emparelhamentos são determinados dinamicamente com base nas classificações do leaderboard após a primeira rodada.
+### Agendamento de Partidas
+- As parcerias são determinadas dinamicamente com base na classificação do leaderboard após a primeira rodada.
 - Garanta que cada equipe jogue várias partidas para acumular pontos.
 
-### **Duração das Partidas**
-- Uma única partida geralmente dura de 10 a 15 minutos para formatos mais curtos, como 16 ou 24 pontos.
+### Duração da Partida
+- Uma única partida geralmente dura de 10 a 15 minutos para formatos mais curtos como 16 ou 24 pontos.
 - Planeje de 2 a 3 horas para um torneio inteiro, dependendo do número de equipes.
 
-### **Marcação de Pontos**
-- Use uma ficha de pontuação ou aplicativo para acompanhar as pontuações das equipes e atualizar o leaderboard após cada partida.
+### Anotação de Pontuação
+- Use uma ficha de pontuação ou aplicativo (por exemplo [Padelution](https://www.padelution.com/americano)) para acompanhar as pontuações das equipes e atualizar o leaderboard após cada partida.
 
 ---
 
-## **Por Que Jogar Team Mexicano?**
+## Por Que Jogar Team Mexicano?
 
-Team Mexicano oferece uma experiência única que combina os emparelhamentos dinâmicos do Mexicano com a estratégia e camaradagem das equipes fixas. Aqui está o porquê é uma ótima escolha:
+Team Mexicano oferece uma experiência única que combina as parcerias dinâmicas do Mexicano com a estratégia e camaradagem das equipes fixas. Aqui está o porquê é uma ótima escolha:
 
 1. **Trabalho em Equipe Mais Forte**: Jogar com um parceiro fixo ajuda a construir confiança e refinar estratégias.
-2. **Justo e Desafiador**: O sistema de emparelhamento dinâmico garante partidas equilibradas com base no desempenho.
-3. **Inclusivo e Divertido**: Assim como no Mexicano, este formato é adequado para jogadores de todos os níveis.
-4. **Competição Aprimorada**: As equipes se esforçam para superar as outras enquanto fortalecem sua parceria.
+2. **Justo e Desafiador**: O sistema de parcerias dinâmicas garante partidas equilibradas com base no desempenho.
+3. **Inclusivo e Divertido**: Assim como o Mexicano, este formato é adequado para jogadores de todos os níveis.
 
 ---
 
-## **Conclusão**
+## Conclusão
 
-Team Mexicano é uma maneira emocionante de desfrutar do padel, oferecendo uma combinação perfeita de estratégia, trabalho em equipe e competição dinâmica. Seja organizando um torneio ou participando de um, este formato traz a emoção do jogo à vida, promovendo laços mais fortes e partidas inesquecíveis.
+Team Mexicano é uma forma emocionante de desfrutar do padel, oferecendo uma combinação perfeita de estratégia, trabalho em equipe e competição dinâmica. Seja organizando um torneio ou participando de um, este formato traz a emoção do jogo à vida, promovendo laços mais fortes e partidas inesquecíveis.
 
 Então, pegue seu parceiro, vá para a quadra e mergulhe no mundo do Team Mexicano para uma experiência como nenhuma outra!
-
-teste

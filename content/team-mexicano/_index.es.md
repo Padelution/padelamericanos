@@ -1,108 +1,118 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 # Equipo Mexicano: Una Guía para Este Emocionante Formato de Pádel en Equipo
 
-Si disfrutas de la naturaleza dinámica y adaptable del Pádel Mexicano pero deseas enfatizar el trabajo en equipo y la estrategia a largo plazo, **Equipo Mexicano** es la elección perfecta. Este formato mantiene a dos jugadores como un equipo fijo durante todo el torneo, añadiendo una capa adicional de colaboración y consistencia al juego.
+El Equipo Mexicano ofrece otro método dinámico para elegir oponentes. El factor clave es la clasificación de tu equipo y, después de cada ronda, verificas en qué posición estás en la clasificación para descubrir contra quién jugarás en la siguiente ronda.
 
-En esta guía, exploraremos qué hace único al Equipo Mexicano, cómo funciona y por qué es una opción fantástica tanto para jugar de forma casual como competitiva.
+Lo que lo hace agradable es la forma en que los equipos rotan después de cada ronda, lo que significa que se equilibran las diferencias de nivel de habilidad. Esto asegura que cada equipo pueda esperar partidos emocionantes y reñidos.
 
 ---
 
-## **¿Qué Es el Equipo Mexicano?**
+## ¿Qué Necesitas para el Equipo Mexicano?
 
-El Equipo Mexicano es una variante del formato tradicional Mexicano donde dos jugadores siempre compiten como un equipo fijo. A diferencia del Mexicano regular, donde los compañeros rotan entre partidos, el Equipo Mexicano mantiene las asociaciones intactas, permitiendo a los jugadores desarrollar y refinar sus estrategias como pareja.
+Para el Equipo Mexicano, no necesitas nada extra en comparación con un Mexicano regular, excepto un sistema o aplicación para llevar la puntuación. Servicios como [Padelution](https://www.padelution.com/americano) se pueden utilizar para hacer un seguimiento de las puntuaciones.
 
-### **Características Clave del Equipo Mexicano**
+Es importante tener un método claro para registrar las puntuaciones, ya que la clasificación de cada equipo después de cada ronda determina contra quién jugarán a continuación. Se recomienda un mínimo de 4 equipos/8 jugadores, y la cantidad óptima de pistas es 2. Puedes aumentar el número de equipos, pero es mejor tener un número de pistas divisible por 4 para garantizar una rotación fluida y que todos los equipos jueguen al mismo tiempo.
+
+## Reglas del Equipo Mexicano
+
+Todas las reglas básicas del pádel se aplican al jugar en Equipo Mexicano. Para empezar, puedes seleccionar aleatoriamente las primeras parejas. A partir de la segunda ronda, sin embargo, necesitas hacer un seguimiento de las puntuaciones y dejar que el sistema maneje la rotación. Los equipos clasificados en 1 y 3 jugarán, en la segunda ronda, entre sí y los equipos clasificados en 2 y 4 se enfrentarán en la otra pista.
+
 - **Equipos Fijos**: Dos jugadores forman un equipo y compiten juntos durante todo el torneo.
-- **Asociaciones Dinámicas**: Los equipos se emparejan con otros basándose en la clasificación del marcador, al igual que en el Mexicano regular.
-- **Enfoque en la Estrategia**: Los jugadores pueden construir una mejor colaboración y tácticas a medida que enfrentan a una variedad de oponentes.
+- **Emparejamientos Dinámicos**: Los equipos se emparejan con otros según la clasificación en la tabla, al igual que en el Mexicano regular.
+
+| Clasificación después de la primera ronda | Partidos para la 2ª ronda |
+|:-----------------------------------------:|:-------------------------:|
+|                 Equipo 1                  |   Equipo 1 vs. Equipo 2   |
+|                 Equipo 2                  |                           |
+|                 Equipo 3                  |   Equipo 3 vs. Equipo 4   |
+|                 Equipo 4                  |                           |
 
 ---
 
-## **¿Cómo Funciona el Equipo Mexicano?**
+## ¿Cómo Funciona la Puntuación?
 
-El formato sigue los mismos principios adaptables que el Mexicano pero con asociaciones fijas.
+La puntuación funciona de la misma manera que en el Americano y el Mexicano regular. Cada partido se juega hasta que se hayan anotado un total de 32 puntos. Por ejemplo, si tu equipo (Equipo 1) juega contra el Equipo 4 y tu equipo anota 20 puntos, entonces el Equipo 4 obtendrá 12 puntos. Esto significa que se han jugado un total de 32 puntos y es hora de pasar a la siguiente ronda.
 
-### **Emparejamiento de Partidos**
-- El primer emparejamiento de partidos se determina al azar, con los equipos asignados a oponentes a través de una lotería.
-- A partir del segundo partido, los emparejamientos se basan en las clasificaciones del marcador:
-  - Los dos primeros equipos juegan entre sí.
-  - Los equipos clasificados en tercer y cuarto lugar juegan entre sí.
-  - Los equipos con clasificaciones más bajas se emparejan de manera similar para garantizar partidos equilibrados.
+![Puntuación del Equipo Mexicano!](/es/images/team-mexicano-scores.png "Puntuación del Equipo Mexicano")
 
-### **Formato de Partido**
-- Los partidos se juegan hasta alcanzar un número fijo de puntos, generalmente 16, 24 o 32. Alternativamente, se puede utilizar un límite de tiempo de 10 a 20 minutos.
-- Las reglas de saque permanecen iguales que en el Mexicano:
-  - Cada equipo saca 4 o 6 veces antes de que el saque rote.
-  - Cada punto anotado se suma al puntaje general del equipo.
+### Ejemplo de puntuación desde la perspectiva del equipo 1
+- Ronda 1: Equipo 1 20 puntos y equipo 4 12 puntos
+- Ronda 2: Equipo 1 19 puntos y equipo 2 13 puntos
 
----
+El total de puntos acumulados después de dos rondas es 39 para el equipo 1.
 
-## **Puntuación en el Equipo Mexicano**
+### Entonces, ¿Quién es el Ganador?
+Al final del evento, el equipo en primer lugar en la clasificación es el ganador, seguido por los equipos en segundo, tercero, y así sucesivamente. La mayor ventaja del Equipo Mexicano es que, debido a cómo los equipos rotan después de cada ronda basándose en las clasificaciones, todos los partidos siguen siendo reñidos y competitivos, asegurando una experiencia divertida para todos los involucrados.
 
-El sistema de puntuación para el Equipo Mexicano es sencillo y refleja el del Mexicano:
-
-1. **Puntos por Partido**: El puntaje de cada equipo en un partido se suma a su total acumulado.
-   - Por ejemplo, si un partido termina 20–12, el equipo ganador suma 20 puntos, y el equipo perdedor suma 12 puntos a sus puntajes.
-2. **Clasificaciones del Marcador**: Los equipos se clasifican en el marcador según sus puntos totales en todos los partidos.
-3. **Ganador**: El equipo con el puntaje más alto al final del torneo gana.
+![Clasificación del Equipo Mexicano!](/es/images/team-mexicano-standing.png "Clasificación del Equipo Mexicano")
 
 ---
 
-## **Diferencias Entre Mexicano y Equipo Mexicano**
+## Puntuación en el Equipo Mexicano
 
-Si bien los dos formatos comparten muchas similitudes, la diferencia clave radica en la estructura del equipo:
+El sistema de puntuación para el Equipo Mexicano es directo y refleja el del Mexicano:
 
-| **Característica**      | **Mexicano**                                     | **Equipo Mexicano**                                |
-|-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Estructura del Equipo**| Los jugadores rotan compañeros entre partidos    | Los equipos permanecen fijos durante todo el torneo |
-| **Enfoque**             | Rendimiento individual y adaptabilidad           | Trabajo en equipo y estrategia a largo plazo        |
-| **Emparejamiento de Oponentes**| Basado en la clasificación del marcador       | Basado en la clasificación del marcador             |
-| **Puntuación**          | Puntos individuales anotados en cada partido     | Puntos acumulados del equipo anotados en cada partido |
+1. **Puntos por Partido**: La puntuación de cada equipo en un partido se suma a su total acumulado.
+   - Por ejemplo, si un partido termina 20–12, el equipo ganador suma 20 puntos y el equipo perdedor suma 12 puntos a sus puntuaciones.
+2. **Clasificación en la Tabla**: Los equipos se clasifican en la tabla según sus puntos totales en todos los partidos.
+3. **Ganador**: El equipo con la puntuación más alta al final del torneo gana.
 
 ---
 
-## **Organización de un Torneo de Equipo Mexicano**
+## Diferencias Entre Mexicano y Equipo Mexicano
+
+Aunque los dos formatos comparten muchas similitudes, la diferencia clave radica en la estructura del equipo:
+
+| **Característica**       | **Mexicano**                                     | **Equipo Mexicano**                               |
+|--------------------------|-------------------------------------------------|---------------------------------------------------|
+| **Estructura del Equipo**| Los jugadores rotan compañeros entre partidos    | Los equipos permanecen fijos durante todo el torneo|
+| **Enfoque**              | Rendimiento individual y adaptabilidad           | Trabajo en equipo y estrategia a largo plazo       |
+| **Emparejamiento de Oponentes** | Basado en la clasificación en la tabla       | Basado en la clasificación en la tabla             |
+| **Puntuación**           | Puntos individuales anotados en cada partido     | Puntos acumulados del equipo en cada partido       |
+
+---
+
+## Organización de un Torneo de Equipo Mexicano
 
 Organizar un torneo de Equipo Mexicano es sencillo con la configuración adecuada:
 
-### **Participantes y Canchas**
+### Participantes y Pistas
 - Necesitarás un mínimo de 8 jugadores (4 equipos) para comenzar.
 - Para grupos más grandes, asegúrate de que el número total de jugadores sea divisible por cuatro para tener equipos parejos.
-- El número de canchas requeridas depende del número de equipos:
-  - 4 equipos (8 jugadores) = 2 canchas
-  - 6 equipos (12 jugadores) = 3 canchas
-  - 8 equipos (16 jugadores) = 4 canchas
+- La cantidad de pistas requeridas depende del número de equipos:
+  - 4 equipos (8 jugadores) = 2 pistas
+  - 6 equipos (12 jugadores) = 3 pistas
+  - 8 equipos (16 jugadores) = 4 pistas
 
-### **Programación de Partidos**
-- Los emparejamientos se determinan dinámicamente según las clasificaciones del marcador después de la primera ronda.
+### Programación de Partidos
+- Los emparejamientos se determinan dinámicamente según la clasificación en la tabla después de la primera ronda.
 - Asegúrate de que cada equipo juegue varios partidos para acumular puntos.
 
-### **Duración de los Partidos**
+### Duración de los Partidos
 - Un solo partido suele durar de 10 a 15 minutos para formatos más cortos como 16 o 24 puntos.
-- Planifica de 2 a 3 horas para un torneo completo, dependiendo del número de equipos.
+- Planifica de 2 a 3 horas para todo el torneo, dependiendo del número de equipos.
 
-### **Mantenimiento de Puntuaciones**
-- Utiliza una tarjeta de puntuación o una aplicación para seguir los puntajes de los equipos y actualizar el marcador después de cada partido.
+### Llevar la Puntuación
+- Utiliza una tarjeta de puntuación o una aplicación (por ejemplo [Padelution](https://www.padelution.com/americano)) para llevar el registro de las puntuaciones de los equipos y actualizar la clasificación después de cada partido.
 
 ---
 
-## **¿Por Qué Jugar a Equipo Mexicano?**
+## ¿Por Qué Jugar al Equipo Mexicano?
 
-El Equipo Mexicano ofrece una experiencia única que combina los emparejamientos dinámicos del Mexicano con la estrategia y camaradería de los equipos fijos. Aquí tienes algunas razones por las que es una excelente elección:
+El Equipo Mexicano ofrece una experiencia única que combina los emparejamientos dinámicos del Mexicano con la estrategia y camaradería de los equipos fijos. Aquí tienes por qué es una excelente elección:
 
 1. **Trabajo en Equipo más Fuerte**: Jugar con un compañero fijo te ayuda a construir confianza y refinar estrategias.
 2. **Justo y Desafiante**: El sistema de emparejamiento dinámico garantiza partidos equilibrados basados en el rendimiento.
 3. **Inclusivo y Divertido**: Al igual que el Mexicano, este formato es adecuado para jugadores de todos los niveles.
-4. **Competencia Mejorada**: Los equipos se esfuerzan por superar a los demás mientras fortalecen su asociación.
 
 ---
 
-## **Conclusión**
+## Conclusión
 
-El Equipo Mexicano es una forma emocionante de disfrutar del pádel, ofreciendo una combinación perfecta de estrategia, trabajo en equipo y competencia dinámica. Ya sea que estés organizando un torneo o participando en uno, este formato da vida a la emoción del juego, fomentando la creación de lazos más fuertes y partidos inolvidables.
+El Equipo Mexicano es una forma emocionante de disfrutar del pádel, ofreciendo una combinación perfecta de estrategia, trabajo en equipo y competencia dinámica. Ya sea que estés organizando un torneo o participando en uno, este formato da vida a la emoción del juego, fomentando lazos más fuertes y partidos inolvidables.
 
-¡Así que toma a tu compañero, ve a la cancha y sumérgete en el mundo del Equipo Mexicano para vivir una experiencia única!
-
-test
+¡Así que toma a tu compañero, ve a la pista y sumérgete en el mundo del Equipo Mexicano para vivir una experiencia única!

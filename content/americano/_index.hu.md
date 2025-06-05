@@ -1,100 +1,93 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Útmutató
+weight: 1
 ---
-# Minden, amit tudni kell a Padel Americano-ról
+# Padel Americano - Minden, amit tudni kell
 
-A Padel Americano egy szórakoztató, társasági és versengő formátum a padel világában, amely tökéletes választás minden szintű játékos számára. A hagyományos padel mérkőzésektől eltérően az Americano a rotációra és a csapatválasztékra összpontosít, ezért népszerű választás versenyeken, ligákban és alkalmi összejöveteleken egyaránt. Íme egy átfogó útmutató a Padel Americano megértéséhez és játékához.
-
----
-
-## **Mi is az a Padel Americano?**
-
-Az Americano Padel egy olyan versenyformátum, ahol a résztvevők párosban játszanak, de partnereik és ellenfeleik az esemény során rotálnak. A cél az, hogy minél több pontot szerezzenek, akár egyénileg, akár párosként, a változattól függően.
+A Padel americano nagyszerű alternatíva az eredeti padeljátékhoz képest. A padel americano alapötlete az, hogy az esemény során minden forduló után csapatokat cseréltek, így minden játékos mindegyikkel játszik. Ez teszi az Americano-t annyira népszerűvé és szórakoztatóvá! A hosszú ideig ugyanazzal a partnerrel játszani kezd unalmassá válni, ezért mindenkinek ki kell próbálnia a Padel Americano-t. Nagyszerű módja annak is, hogy új embereket ismerj meg és velük játszhass. Azoknak a játékosoknak, akik szeretnének fejlődni, segít különböző szintű játékosokkal játszani.
 
 ---
 
-## **Padel Americano Alapvető Szabályai**
+## Mi szükséges az Americano játékához
 
-### **1. Mérkőzés Felállítása**
-- **Játékosok Száma:** Általában 8 játékos vesz részt két pályán. Nagyobb csoportok (pl. 16 játékos) több pályát is használhatnak. Néhány americano szoftver támogatja a különböző játékosmennyiségeket is.
-- **Játékidő:** Minden mérkőzést egy meghatározott pontszámig játszanak.
-- **Pontozás:** Az egyéni pontokat minden játékos számára nyomon követik, függetlenül a partnerüktől.
+Az Americano játékához nem kell sok plusz dolog az eredeti játékhoz képest. Természetesen szükséged lesz játékosokra, és általában szórakoztatáshoz jó, ha legalább 8 játékos van, és lehetőleg 2 pályát lefoglaltok (Lásd több példát a lenti táblázatból). Ha 8 játékos van, akkor jó időtartam a pályafoglalásra 2 óra.
+
+| Játékosok száma                                         | Minimum pályaszám |
+|-----------------------------------------------------------|--------------------------|
+|                           4-től 7-ig                          |             1            |
+|                          8-tól 11-ig                          |             2            |
+|                          12-től 15-ig                         |             3            |
+|                          16-tól 19-ig                         |             4            |
+|                          20-tól 23-ig                         |             5            |
+
+
+
+Extra játékosok pihenhetnek és szurkolhatnak, amíg mások játszanak
+
+Természetesen szükséged lesz labdákra minden pályához, valamint más alapvető felszerelésre minden játékos számára, mint például ütők. Mielőtt elkezdenétek, jó ötlet az összes játékost felosztani a pályákra, és biztosítani, hogy minden játékos tudja, hogyan kell játszani a padelt, majd elmagyarázni, hogyan működik a Padel Americano. Egy fontos dolog, hogy legyen egy jó, könnyen használható eszköz a pontszámok nyilvántartására minden forduló után. Egy nagyszerű példa erre a Padelution.com.
+
+## Szükséged lesz:
+
+- Játékosokra alapvető padel felszereléssel, például sportruházat, padel ütő és cipő.
+- Lefoglalt pályák a csatlakozó játékosok számától függően.
+- Labdák minden pályához, a legjobb, ha három labda van minden pályán.
+- Pontszámok nyilvántartására rendszer, például [Padelution](https://padelution.com/americano)
+- Legalább egy személy a szabályok magyarázatára és az összes pont gyűjtésének biztosítására minden forduló után.
+
+---
+## A Padel Americano szabályai
+
+A szabályok egyszerűek és könnyen tanulhatók. Az alapötlet az, hogy minden játékos játszik egymással az esemény során. Emellett mindenki kétszer találkozik egymással, de ez attól is függ, hogy mennyi idő van fenntartva a játékra.
+
+A győzelemhez a legtöbb pontot kell gyűjtened, tehát ebben a formátumban pontokat gyűjtesz magadnak. Például két pályán játszol, és most te vagy az A játékos. Kezded a B játékossal, és játszol a C és D játékosok ellen. Miután befejezted a fordulót, vagy maradsz ugyanazon a pályán, vagy váltasz pályát, de a lényeg az, hogy a következő játékban a C játékossal játszol a B és D játékosok ellen. Miután a második forduló befejeződik, újra mindannyian cseréltek, és a következő játékban a F játékossal játszol a G és H játékosok ellen.
+
+Az alapvető padel szabályok érvényesek, tehát ha különböző nézetek vannak arról, hogy a labda kint volt-e, jó ötlet ismételni a pontot, és gyorsan továbblépni. Az első adogató kiválasztása a játékosok szokásai szerint történhet, például "adogató labdával" játszva vagy pénzfeldobással. Minden játékos négy pontot adogat, majd a szerver cserélődik az ellenféllel.
+
+![Padel Americano pontok!](/hu/images/padel-americano.png "Padel Americano pontok!")
+
+### Példa a fordulókra (Az A játékos szemszögéből):
+- 1. forduló - A&B játékos vs. C&D játékos
+- 2. forduló  - A&C játékos vs. B&D játékos
+- 3. forduló - A&F játékos vs. G&H játékos
+
 
 ---
 
-### **2. Mérkőzés Rotációja**
-- Minden kör után a partnerek és ellenfelek előre meghatározott ütemezés szerint rotálnak. Ez biztosítja, hogy mindenki más-más játékosokkal játszhasson.
-- A rotációs rendszer kiegyensúlyozza az összkompetíciót, és ösztönzi a társasági interakciót a játékosok között.
+### Pontozás és hogyan lehet nyerni
+Általában minden fordulót 32 pontig játszanak, minden játékos négy alkalommal adogat, majd cserélődik a szerver. Például tegyük fel, hogy a csapatod 15 pontot gyűjtött, míg a másik csapat 17 pontot szerzett. Ez azt jelenti, hogy összesen 32 pontot játszottak, tehát ideje cserélni.
+
+A pontozási rendszerhez hozzáadod a csapatodnak / mindkettőtöknek a 15 pontot, míg az ellenfél minden tagja 17 pontot kap. Tegyük fel, hogy te és a partnered 20 pontot szereztetek a második meccsen, ami azt jelenti, hogy az ellenfelek 12 pontot kaptak.
+
+Vagy egy fix időtartamot is beállíthattok, és addig játszhattok, amíg az idő le nem jár, és pontokat gyűjtötök addig. Minden forduló után fontos a pontokat valamilyen rendszerben vagy táblázatban rögzíteni.
+
+Az a játékos, aki a legtöbb pontot gyűjti az esemény végén, az nyerő. Általában jó ötlet valakit felelőssé tenni a pontok gyűjtéséért, hogy az összes pontot regisztrálják az esemény után.
 
 ---
 
-### **3. Pontozási Rendszer**
-- A pontokat egyénileg adják ki a mérkőzés eredményétől függően:
-  - **Minden játékos:** annyi pontot szerez, amennyi labdát nyer.
+### Amikor ideje abbahagyni a játékot
+Miután letelt az idő, ideje megnézni, ki gyűjtötte a legtöbb pontot. Természetesen, ha mindenki játszott egymással, és még mindig van idő, játszhatsz extra fordulókat. Ha az idő letelik, mielőtt mindenki játszott volna egymással, általában jó ötlet az összes pontot kiegyenlíteni.
+
+![Padel Americano ponttábla!](/hu/assets/padel-americano-scoreboard.png "Padel Americano ponttábla!")
+
+
+Miután a hivatalos játékrész véget ért, miért ne élveznél egy italt a lounge-ban, ha lehetséges, és szocializálódj más játékosokkal? Ez úgyis az egyik legjobb dolog a Padelben!
 
 ---
 
-### **4. Mérkőzés Formátuma**
-- A mérkőzéseket általában **32 pontig** játszák.
-- Minden játékos 4 alkalommal adogat egymás után. Például az A és B játékosok játszanak a C és D játékosok ellen. A kezdő játékos, A adogat és 4 alkalommal adogat, majd C adogat 4 alkalommal, majd B adogat 4 alkalommal, majd D adogat 4 alkalommal. Ezután összesen 16 pontot játszanak. Majd az A játékos kezdi az új kört és 4 alkalommal adogat, és így tovább.
-- Ha a játék döntetlenre áll 16-16-nál, a játék döntetlen lesz, és mindkét játékos 16 pontot szerez.
+## Padel Americano változatai
 
----
+### [1. Team Americano](/hu/team-americano)
+- A játékosok csapatokra vannak osztva, és csapatként játszanak más csapatok ellen.
+- Bátorítja a közös munkát és a csapatszellemet.
 
-### **5. Pálya Szabályok**
-- A Padel Americano követi a szokásos padel pálya és játékszabályokat:
-  - A mérkőzéseket páros formátumban játszák.
-  - A labdának egyszernek kell pattannia, mielőtt a falakhoz vagy kerítéshez érne.
-  - Az adogatások átlósan történnek, és az ellenfél szervafelületére kell érkezniük.
-  - Pontot szerezni, ha az ellenfél nem tudja visszajuttatni a labdát, vagy megszeg bármely szabályt.
+### 2. Idő alapú Americano
+- A meccseket fix időtartamban játszák (pl. 10 perc), függetlenül az eredménytől.
+- Hatékonyan mozgatja a tornát.
 
----
-
-## **Padel Americano Változatai**
-
-### **1. Csapat Americano**
-- A játékosok csapatokra oszlanak, és együtt játszanak más csapatok ellen.
-- Ösztönzi a közös munkát és a csapatszellemet.
-
-### **2. Idő alapú Americano**
-- A mérkőzéseket meghatározott idő alatt játszák (pl. 10 perc), függetlenül az eredménytől.
-- Az idő alapú formátum hatékonyan mozgatja a tornát.
-
-### **3. Vegyes Americano (Mixicano)**
-- A férfi és női játékosok felváltva váltogatják a partnereket a körök során.
-- A bal oldali és jobb oldali játékosok mindig együtt játszanak, így nem lesz két játékos ugyanazon az oldalon ugyanabban a csapatban.
-- A játék sokszínűségét és befogadóképességét népszerűsíti.
-
----
-
-## **Padel Americano Megnyerése**
-
-Az összes kör végén az egyéni legmagasabb pontszámot elért játékost nyilvánítják győztesnek. Csapat formátumokban a legtöbb pontot szerző csapat nyeri a tornát.
-
----
-
-## **Miért érdemes játszani a Padel Americano-t?**
-
-1. **Társasági Interakció:** A játékosok mindenkihez kapcsolódhatnak, így remek lehetőség arra, hogy új embereket ismerjenek meg és közösséget építsenek.
-2. **Befogadóképesség:** Megfelelő minden szintű játékosnak, mivel a párosítások véletlenszerűek.
-3. **Gyors Tempójú Szórakozás:** A gyors rotáció magasan tartja az energiaszintet, és megszünteti a hosszú várakozásokat a mérkőzések között.
-
----
-
-## **Sikertippek**
-
-1. **Gyorsan Alkalmazkodj:** Legyél készen arra, hogy alkalmazkodj partnered erősségeihez és gyengeségeihez.
-2. **Koncentrálj a Következetességre:** Több pontot szerezni több kör alatt jobb, mint egyetlen mérkőzésre mindent feltenni.
-3. **Maradj Pozitív:** Vidám hozzáállásod motiválhatja a partneredet, és javíthatja az általános teljesítményedet.
-
----
-
-### **Összefoglalás**
-
-A Padel Americano egy sokoldalú és szórakoztató formátum, amely kiemeli a padel társasági és versengő vonásait. Legyen szó baráti mérkőzésről vagy nagyszabású versenyről, ezek a szabályok alapot biztosítanak egy izgalmas és emlékezetes eseményhez. Ragadd meg a rakétádat, lépj a pályára, és élvezd az Americano izgalmát!
-
----
-
-**Van saját tippek vagy élményeid a Padel Americano-val kapcsolatban? Osszd meg velünk!**
-
-test
+### [3. Vegyes Americano (Mixicano)](/hu/mixicano)
+- Férfi és női játékosok váltják egymást partnerek között a fordulók során.
+- A bal oldali és jobb oldali játékosok mindig együtt játszanak, így nem lesz két olyan játékos, aki ugyanarra az oldalra szeretne.
+- Támogatja a befogadást és a változatosságot a játékban.

@@ -1,98 +1,71 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: Úplný průvodce tímto dynamickým formátem
 
-Padel Mexicano je vzrušující a adaptabilní formát, který sociální a soutěžní aspekty padelu posouvá na vyšší úroveň. Na rozdíl od tradičních formátů Mexicano dynamicky upravuje s kým hrajete a proti komu na základě výsledků zápasů, vytvářející tak férovou a vyváženou soutěž, která vyrovnává pole hry během turnaje.
+Mexicano má zábavný a dynamický způsob rotace partnerů a soupeřů. Rozhodujícím faktorem je vaše umístění v žebříčku, a po každém kole se vrátíte, uvidíte, kde jste v žebříčku, a poté uvidíte, s kým budete hrát příště.
 
-Ať už jste zkušený hráč nebo začátečník, Mexicano je vynikající způsob, jak si užít padel, potkat nové soupeře a otestovat své dovednosti.
-
----
-
-## **Jak funguje Padel Mexicano?**
-
-Rozhodující funkcí Padel Mexicano je jeho adaptabilní systém párování zápasů. Namísto pevného plánu je určeno s kým hrajete a proti komu na základě vaší výkonnosti v předchozích zápasech.
-
-### **Počáteční párování zápasů**
-- Váš první zápas je určen losováním. Loterie rozhodne o vašich spoluhráčích a soupeřích pro počáteční zápas.
-
-### **Dynamický systém párování**
-- Od druhého zápasu jsou vaše zápasy založeny na pořadí v žebříčku. Cílem je spojovat hráče nebo týmy s podobnou úrovní dovedností, aby byly zajištěny soutěživé a vyrovnané zápasy.
-- Například:
-  - Hráči na 1. a 3. místě týmově hrají proti hráčům na 2. a 4. místě.
-  - Hráči na 5. a 7. místě týmově čelí hráčům na 6. a 8. místě.
-- Tento dynamický systém párování zajišťuje, že se s postupem turnaje vaše zápasy stávají více vyrovnanými, poskytující náročný zážitek pro špičkové hráče a zároveň zábavu pro všechny ostatní.
-
-### **Flexibilita v párování**
-- Systém Mexicano vám umožňuje hrát s týmiž hráči a proti nim opakovaně, v závislosti na vývoji žebříčku.
+Zábavným prvkem je způsob, jakým jsou hráči rotováni, což udržuje zápasy vyrovnané, protože pořadí určuje, jak jsou týmy složeny pro každé kolo. Tím se vyrovnávají rozdíly ve skill levelu a všichni si mohou užít těsné a napínavé zápasy.
 
 ---
 
-## **Skórování a formát zápasu**
+## Co potřebujete pro Mexicano?
 
-Zápasy v Mexicano jsou navrženy tak, aby byly krátké, energetické a zábavné. Zde je jak fungují:
+Pro Mexicano nepotřebujete nic extra ve srovnání s běžnými zápasy Padelu, kromě nějakého systému nebo aplikace na skórování. Můžete použít například služby jako Padelution k udržování skóre. Je důležité mít jasný způsob skórování, protože po každém kole jsou týmy dalšího kola určeny podle žebříčku každého hráče.
 
-### **Bodování zápasů**
-- Zápasy se obvykle hrají na konkrétní počet bodů, například 16, 24 nebo 32 bodů. Alternativně mohou mít zápasy stanovený časový limit, například 10–20 minut.
+Je dobré mít alespoň 8 hráčů a optimální počet kurtů je 2. Počet hráčů můžete zvýšit na libovolné číslo, ale pamatujte, že je dobré mít počet kurtů dělitelný číslem 4, aby rotace probíhala hladce a všichni hráli ve stejný čas.
 
-### **Pravidla podávání**
-- Každý tým podává 4 nebo 6krát, než se podání přesune na druhý tým.
+## Pravidla Mexicana
+Všechna základní pravidla padelu platí při hraní Mexicana. Na začátek můžete náhodně vybrat první páry, se kterými začnete. Od druhého kola však nechte systém, aby ukázal, jak bude rotace hráčů provedena. Hráči na 1. a 3. místě budou ve druhém kole hrát proti hráčům na 2. a 4. místě. Na druhém kurtu budou hrát hráči na 5. a 7. místě proti hráčům na 6. a 8. místě a tak dále.
 
-### **Výpočet bodů**
-- Každý vyhraný bod získává váš tým bod.
-- Na konci zápasu jsou body rovnoměrně rozděleny mezi členy týmu. Například:
-  - Pokud 24bodový zápas skončí výsledkem 14–10, hráči vítězného týmu obdrží každý 14 bodů, zatímco hráči poraženého týmu získají každý 10 bodů.
-- Vaše individuální skóre se sčítá napříč všemi zápasy a hráč s nejvíce body na konci turnaje vyhrává.
+| Pořadí po prvním kole | Týmy pro 2. kolo |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
 
+
+### Příklad skórování z pohledu týmu A
+- Kolo 1: Hráči A&D 20 bodů a hráči B&C 12 bodů
+- Kolo 2: Hráči A&C 19 bodů a hráči B&D 13 bodů
+
+Celkový počet bodů, které hráč A nasbíral po dvou kolech, je 39
+
+
+### Kdo je tedy vítěz?
+Po uplynutí času je vítězem hráč, který je na prvním místě v žebříčku. Nejdůležitějším faktorem by mělo být to, že všechny zápasy byly těsné díky způsobu výběru týmů po každém kole na základě pořadí hráčů.
+
+![Žebříček Padel Mexicano!](/cs/images/padel-mexicano.png "Žebříček Padel Mexicano")
 ---
 
-## **Tým Mexicano**
+## Tým Mexicano
 
-[Tým Mexicano](/cs/team-mexicano) přidává do formátu další vrstvu strategie. Místo rotace partnerů se hráči soutěží v předem domluvených týmech po celý turnaj. Skórování a dynamické párovací systémy zůstávají stejné, ale všechny body jsou počítány pro týmy místo jednotlivců.
+[Tým Mexicano](/cs/team-mexicano) přidává další vrstvu strategie do formátu. Místo rotace partnerů zde hráči soutěží ve předem domluvených týmech po celý turnaj. Skórování a dynamické párovací systémy zůstávají stejné, ale všechny body se počítají pro týmy místo jednotlivců.
 
 Tato variace je ideální pro skupiny, které se chtějí zaměřit na týmovou práci a dlouhodobé strategie.
 
 ---
 
-## **Organizace turnaje Padel Mexicano**
+## Proč hrát Padel Mexicano?
 
-Organizace Mexicano turnaje je jednoduchá s odpovídající přípravou. Postupujte podle těchto kroků, abyste zajistili hladký průběh události:
-
-### **Účastníci a kurty**
-- Budete potřebovat minimálně 8 účastníků nebo týmů k hraní Mexicano. Neexistuje horní limit, ale mít počet dělitelný čtyřmi je ideální pro plynulou rotaci zápasů.
-- Počet potřebných kurtů závisí na počtu účastníků:
-  - 8 hráčů = 2 kurty
-  - 12 hráčů = 3 kurty
-  - 16 hráčů = 4 kurty
-- Hráči všech úrovní dovedností mohou participovat a míchání úrovní může zápasy ještě zábavnější.
-
-### **Délka zápasu**
-- Standardní Mexicano turnaj trvá přibližně 2 hodiny.
-- Například 24bodový zápas obvykle trvá asi 12 minut.
-
-### **Vedení skóre**
-- Připravte skórovací kartu nebo použijte specializovanou aplikaci k zaznamenávání výsledků zápasů a dynamického výpočtu pořadí v žebříčku.
-
-### **Férová a zábavná soutěž**
-- Adaptabilní systém Mexicano zajišťuje, že hráči jsou pravidelně vyzváni bez pocitu, že jsou příliš slabí, což z něj činí vynikající volbu pro události s různými úrovněmi dovedností.
-
----
-
-## **Proč hrát Padel Mexicano?**
-
-Padel Mexicano vyniká svou inkluzivitou a adaptabilitou. Zde jsou důvody, proč je tento formát tak populární:
+Padel Mexicano vyniká svou inkluzivitou a přizpůsobivostí. Zde jsou důvody, proč je tento formát tak populární:
 - **Fair Play**: Zápasy se stávají stále vyváženějšími s postupem turnaje.
-- **Dynamická párování**: Hrajte s různými soupeři a proti nim, udržující zápasy svěží a angažující.
-- **Sociální zážitek**: Fantastický způsob, jak potkat nové hráče a budovat kamarádství.
+- **Dynamické párování**: Hrajte s různými soupeři, udržujte hry svěží a zajímavé.
+- **Sociální zážitek**: Skvělý způsob, jak poznat nové hráče a budovat kamarádství.
 - **Flexibilita**: Vhodné pro individuální i týmové turnaje.
 
 ---
 
-## **Závěr**
+## Závěr
 
-Padel Mexicano je více než jen herní formát – je to zážitek, který zdůrazňuje férovost, zábavu a adaptabilitu. Ať už organizujete turnaj nebo se účastníte, tento formát zaručuje vzrušující zápasy a skvělé vzpomínky. S jeho dynamickým systémem párování a inkluzivním skórováním je Mexicano nezbytné vyzkoušet pro každého nadšence padelu.
+Padel Mexicano je více než jen herní formát - je to zážitek, který zdůrazňuje spravedlnost, zábavu a přizpůsobivost. Ať už pořádáte turnaj nebo se do něj zapojujete, tento formát zaručuje vzrušující zápasy a skvělé vzpomínky. S jeho dynamickým párovacím systémem a inkluzivním skórováním je Mexicano nutností pro každého nadšence padelu.
 
-Takže se seberte s přáteli, vezměte své rakety a ponořte se do světa Padel Mexicano pro nezapomenutelný den na kurtech!
-
-test
+Takže se sežeňte své přátele, vezměte si rakety a ponořte se do světa Padel Mexicano pro nezapomenutelný den na kurtech!

@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Sprievodca
+weight: 1
 ---
-# Všetko o Padel Americano
+# Padel Americano - Všetko, čo potrebujete vedieť
 
-Padel Americano je zábavný, spoločenský a súťaživý formát padelu, ktorý je ideálny pre hráčov všetkých úrovní zručností. Na rozdiel od tradičných zápasov padelu sa Americano zameriava na rotáciu a rôznorodosť tímov, čo z neho robí populárnu voľbu pre turnaje, ligy a neformálne stretnutia. Tu je komplexný sprievodca porozumením a hraním Padel Americano.
-
----
-
-## **Čo je Padel Americano?**
-
-Americano Padel je turnajový formát, kde účastníci hrajú v pároch, ale ich partneri a súperi sa rotujú počas celého podujatia. Cieľom je získať čo najviac bodov, buď individuálne alebo ako pár, v závislosti od variantu.
+Padel americano je skvelou alternatívou k pôvodnému spôsobu hrania padelu. Základná myšlienka padel americano spočíva v tom, že po každom kole rotujete tímy, aby každý hráč hral s každým. Práve to robí Americano tak populárnym a zábavným! Hra s rovnakým partnerom dlhú dobu začne strácať vzrušenie, a preto by mal každý vyskúšať Padel Americano. Je to tiež veľmi dobrý spôsob, ako spoznať nových ľudí a hrať s nimi. Pre hráčov, ktorí sa chcú zlepšiť, je užitočné hrať s hráčmi na rôznych úrovniach.
 
 ---
 
-## **Základné pravidlá Padel Americano**
+## Čo je potrebné na hranie Americano
 
-### **1. Nastavenie zápasu**
-- **Počet hráčov:** Typicky sa zúčastňuje 8 hráčov na dvoch ihriskách. Väčšie skupiny (napr. 16 hráčov) môžu použiť viac ihrísk. Niektoré americano softvéry tiež podporujú rôzny počet hráčov.
-- **Trvanie hry:** Každý zápas sa hrá na stanovený počet bodov.
-- **Skóre:** Individuálne skóre sa sleduje pre každého hráča, bez ohľadu na jeho partnera.
+Na hranie Americano nepotrebujete veľa ďalších vecí v porovnaní s pôvodným spôsobom hrania. Samozrejme, potrebujete mať hráčov a zvyčajne je dobré mať na zábavu minimálne 8 hráčov a, ak je to možné, rezervované 2 kurty (Pozrite si viac príkladov v tabuľke nižšie). Ak máte 8 hráčov, dobrá doba rezervácie kurtu je 2 hodiny.
+
+| Počet hráčov                                         | Minimálny počet kurtov |
+|------------------------------------------------------|------------------------|
+|                           4 až 7                      |             1          |
+|                          8 až 11                      |             2          |
+|                          12 až 15                     |             3          |
+|                          16 až 19                     |             4          |
+|                          20 až 23                     |             5          |
+
+
+
+Ďalší hráči sa môžu oddýchnuť a povzbudiť ostatných počas hry.
+
+Potom samozrejme budete potrebovať lopty pre všetky kurty a ďalšie základné vybavenie pre všetkých hráčov, ako sú rakety. Pred začatím je dobré rozdeliť všetkých hráčov na kurty a uistiť sa, že každý hráč vie, ako hrať padel, a potom vysvetliť, ako funguje Padel Americano. Dôležitá vec je mať dobrý, ľahko použiteľný nástroj na udržiavanie skóre po každom kole. Jedným skvelým príkladom je Padelution.com.
+
+## Budete potrebovať:
+
+- Hráčov s základným vybavením na hranie padelu, teda športové oblečenie, padel rakety a topánky.
+- Rezervované kurty v závislosti od počtu sa zapájajúcich hráčov.
+- Lopty pre každý kurt, pričom optimálne sú tri lopty na kurt.
+- Systém na udržiavanie skóre, napr. [Padelution](https://padelution.com/americano)
+- Minimálne jednu osobu na vysvetlenie pravidiel a na zabezpečenie, že všetky skóre sú zaznamenané po každom kole.
+
+---
+## Pravidlá Padel Americano
+
+Pravidlá sú jednoduché a ľahko sa naučia. Základná myšlienka spočíva v tom, že každý hráč hrá s každým počas udalosti. Taktiež by každý mal hrať proti každému dvakrát, ale to závisí aj od času vyhradeného na hranie.
+
+Na víťazstvo potrebujete získať najväčší počet bodov, takže v tomto formáte zbierate body pre seba. Napríklad hráte na dvoch kurtoch a teraz ste hráč A. Začínate s hráčom B a hrajete proti hráčom C a D. Po dokončení vášho kola buď zostanete na rovnakom kurte alebo sa prehodíte na iný kurt, ale hlavná vec je, že ďalšie kolo budete hrať s hráčom C proti hráčom B a D. Po dokončení druhého kola sa všetci opäť rotujú a ďalej hráte s hráčom F proti G a H.
+
+Platia základné pravidlá padelu, takže ak existujú rôzne názory na to, či lopta bola vonku, je dobré opakovať bod a rýchlo pokračovať. Výber prvého podávača môže byť tiež urobený spôsobom, ktorý hráči poznajú, čiže hraním „podávajúcej lopty“ alebo hádzaním mince. Každý hráč podáva štyri body a potom sa podávač strieda s protihráčom.
+
+![Body Padel Americano!](/sk/images/padel-americano.png "Body Padel Americano!")
+
+### Príklad kôl (z pohľadu hráča A):
+- Kolo 1 - Hráč A&B vs. hráč C&D
+- Kolo 2 - Hráč A&C vs. hráč B&D
+- Kolo 3 - Hráč A&F vs. hráč G&H
 
 ---
 
-### **2. Rotácia zápasu**
-- Po každej kole sa partneri a súperi premiešajú podľa predom dohodnutého harmonogramu. Tým sa zabezpečí, že každý hrá s rôznymi hráčmi a proti nim.
-- Systém rotácie vyvažuje celkovú súťaž a podporuje spoločenskú interakciu medzi hráčmi.
+### Skórovanie a ako vyhrať
+Každé kolo sa zvyčajne hrá do celkového počtu 32 bodov, pričom každý hráč podáva 4-krát a potom sa strieda podávač. Napríklad, predpokladajme, že váš tím získa 15 bodov a druhý tím získa 17 bodov. To znamená, že celkový počet odohraných bodov je teraz 32, takže je čas na rotáciu.
+
+K skórovaciemu systému potom pridáte 15 bodov vášmu tímu / oboch vám a súper dostane 17 bodov každý. Potom predpokladajme, že vy a váš partner získate 20 bodov počas druhého zápasu, čo znamená, že skóre súpera je 12 bodov.
+
+Alternatívne môžete mať aj stanovený čas a hrať do uplynutia času a zbierať body do toho momentu. Po každom odehranom kole je dôležité pridať skóre do nejakého systému alebo tabule.
+
+Hráč, ktorý po skončení udalosti získa najviac bodov, je víťazom. Je zvyčajne dobrý nápad mať niekoho zodpovedného za zaznamenávanie skóre, aby boli všetky body zaregistrované po udalosti.
 
 ---
 
-### **3. Systém skórovania**
-- Body sa udeľujú individuálne na základe výsledku zápasu:
-  - **Každý hráč:** získa toľko bodov, koľko loptičiek vyhrá.
+### Kedy je čas prestať hrať
+Po uplynutí času je čas zistiť, kto zozbieral najviac bodov. Samozrejme, ak ešte zostáva čas potom, čo každý hral s každým, môžete hrať ďalšie kolá. Ak čas uplynie predtým, než každý hral proti každému, je zvyčajne dobré vyrovnať body s každým.
+
+![Tabuľka Padel Americano!](/sk/assets/padel-americano-scoreboard.png "Tabuľka Padel Americano!")
+
+Po oficiálnej časti hrania, prečo si neskúsiť vychutnať nejaké nápoje v salóne, ak je to možné, a pokecať s ostatnými hráčmi? To je predsa jedným z najlepších aspektov padelu!
 
 ---
 
-### **4. Formát zápasu**
-- Zápasy sa zvyčajne hrajú na **32 bodov**.
-- Každý hráč podáva 4-krát po sebe. Napríklad hráči A a B hrajú proti C a D. A začne podávať a podáva 4-krát, potom C podáva 4-krát, potom B podáva 4-krát, potom D podáva 4-krát. Potom sa odohrá 16 bodov. Potom hráč A začne podávať nové kolo a podáva 4-krát a tak ďalej.
-- Ak sa hra dostane do remízy 16-16, zápas bude remízový a obaja hráči získajú 16 bodov.
+## Varianty Padel Americano
 
----
-
-### **5. Pravidlá ihriska**
-- Padel Americano dodržiava štandardné pravidlá ihriska a hry padelu:
-  - Zápasy sa hrajú vo formáte štvorhry.
-  - Loptička musí odskočiť raz pred tým, než udrie do stien alebo plotu.
-  - Podania sa robia diagonálne a musia dopadnúť do servisného políčka súpera.
-  - Bod sa získava, ak súper nevráti loptičku alebo poruší nejaké pravidlá.
-
----
-
-## **Varianty Padel Americano**
-
-### **1. Team Americano**
-- Hráči sú rozdelení do tímov a hrajú spolu ako tím proti iným tímom.
+### [1. Tím Americano](/sk/team-americano)
+- Hráči sú rozdelení do tímov a hrajú spolu ako tím proti ostatným tímom.
 - Podporuje spoluprácu a tímový duch.
 
-### **2. Časovo obmedzené Americano**
-- Zápasy sa hrajú po stanovený čas (napr. 10 minút), bez ohľadu na skóre.
+### 2. Časovo obmedzené Americano
+- Zápasy sa hrajú počas stanoveného času (napr. 10 minút), bez ohľadu na skóre.
 - Udržuje turnaj efektívne v pohybe.
 
-### **3. Mixované Americano (Mixicano)**
+### [3. Mixované Americano (Mixicano)](/sk/mixicano)
 - Mužskí a ženskí hráči striedajú partnerov počas kôl.
-- Hráči z ľavej a pravej strany vždy hrajú spolu, takže v tíme nebudú dvaja hráči, ktorí preferujú ľavú alebo pravú stranu.
+- Hráči na ľavej a pravej strane vždy hrajú spolu, takže v tíme nebude mať dvoch hráčov, ktorí preferujú ľavú alebo pravú stranu.
 - Podporuje inkluzivitu a rôznorodosť v hre.
-
----
-
-## **Víťazstvo v Padel Americano**
-
-Na konci všetkých kôl je vyhláseným víťazom hráč s najvyšším individuálnym skóre. V tímových formátoch víťazí turnaj tím s najviac bodmi.
-
----
-
-## **Prečo hrať Padel Americano?**
-
-1. **Spoločenská interakcia:** Hráči sa stretávajú so všetkými, čo je skvelý spôsob, ako spoznať nových ľudí a vytvoriť komunitu.
-2. **Inkluzivita:** Vhodné pre hráčov všetkých úrovní zručností, keďže párovania sú náhodné.
-3. **Rýchla a zábavná hra:** Rýchla rotácia udržuje energiu na vysokej úrovni a eliminuje dlhé čakania medzi zápasmi.
-
----
-
-## **Tipy na úspech**
-
-1. **Rýchlo sa prispôsobte:** Buďte pripravení prispôsobiť svoj herný štýl podľa silných a slabých stránok vášho partnera.
-2. **Zamerajte sa na konzistenciu:** Vyhrávanie viac bodov cez viac kôl je lepšie ako vsadiť všetko na jeden zápas.
-3. **Zostaňte pozitívny:** Veselá nálada môže motivovať vášho partnera a zlepšiť vašu celkovú výkonnosť.
-
----
-
-### **Záver**
-
-Padel Americano je univerzálny a zábavný formát, ktorý prináša to najlepšie zo spoločenských a súťaživých aspektov padelu. Či už organizujete priateľský zápas alebo turnaj na plnú škálu, tieto pravidlá poskytujú základy pre vzrušujúce a nezabudnuteľné podujatie. Chyťte si raketu, vyrazte na ihrisko a užite si vzrušenie Americano!
-
----
-
-**Máte vlastné tipy alebo skúsenosti s Padel Americano? Zdieľajte ich s nami!**
-
-test

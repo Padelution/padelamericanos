@@ -1,106 +1,118 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 # Komanda Mexicano: Vadovas šiam įdomiam komandiniam Padel formato variantui
 
-Jei mėgstate dinamišką ir prisitaikančią Padel Mexicano prigimtį, bet norite pabrėžti komandinį darbą ir ilgalaikę strategiją, **Komanda Mexicano** yra puikus pasirinkimas. Šis formatas išlaiko du žaidėjus kaip pastovią komandą visą turnyrą, pridedant papildomą bendradarbiavimo ir nuoseklumo lygį žaidimui.
+Komanda Mexicano siūlo dar vieną dinamišką būdą pasirinkti priešininkus. Pagrindinis veiksnys yra jūsų komandos reitingas, o po kiekvieno raundo patikrinama, kurioje vietoje esate reitinge, kad sužinotumėte, su kuo žaisite kitame raunde.
 
-Šiame vadove išsamiai aptarsime, kas daro Komandą Mexicano unikalią, kaip ji veikia ir kodėl tai yra fantastiškas pasirinkimas tiek atsitiktiniam, tiek konkurencingam žaidimui.
-
----
-
-## **Kas Yra Komanda Mexicano?**
-
-Komanda Mexicano yra tradicinio Mexicano formato variacija, kur du žaidėjai visada varžosi kaip pastovi komanda. Skirtingai nuo įprasto Mexicano, kur partneriai keičiasi tarp rungtynių, Komanda Mexicano išlaiko partnerystes nepakitomis, leisdama žaidėjams kurti ir tobulinti savo strategijas kaip pora.
-
-### **Komandos Mexicano Svarbiausios Ypatybės**
-- **Pastovios Komandos**: Du žaidėjai sudaro komandą ir varžosi kartu visą turnyrą.
-- **Dinaminės Poros**: Komandos poros susitinka su kitomis pagal lyderių lentelės pozicijas, kaip ir įprastoje Mexicano formate.
-- **Dėmesys Strategijai**: Žaidėjai gali stiprinti komandinį darbą ir taktiką susidurdami su įvairiais priešininkais.
+Tai, kas tai daro įdomu, yra tai, kad komandos po kiekvieno raundo keičiasi, kas reiškia, kad įgūdžių lygio skirtumai išsilygina. Tai užtikrina, kad kiekviena komanda gali tikėtis artimų ir įdomių rungtynių.
 
 ---
 
-## **Kaip Veikia Komanda Mexicano?**
+## Ko Jums Reikės Komandai Mexicano?
 
-Šis formatas seka tuos pačius prisitaikymo principus kaip Mexicano, bet su pastoviomis partnerystėmis.
+Komandai Mexicano jums nereikės nieko papildomo palyginti su įprastu Mexicano, išskyrus sistemą ar programėlę rezultatams fiksuoti. Paslaugos kaip [Padelution](https://www.padelution.com/americano) gali būti naudojamos rezultatams sekti.
 
-### **Rungtynių Poravimas**
-- Pirmas rungtynių poravimas nustatomas atsitiktinai, komandoms priskiriant priešininkus loterijos būdu.
-- Nuo antros rungtynių poros, poravimai pagrįsti lyderių lentelės reitingais:
-  - Pirmos dvi komandos varžosi tarpusavyje.
-  - Trečios ir ketvirtos vietos komandos varžosi tarpusavyje.
-  - Mažiau įvertintos komandos poruojamos panašiai, užtikrinant subalansuotas rungtynes.
+Svarbu turėti aiškų būdą rezultatams fiksuoti, nes kiekvienos komandos reitingas po kiekvieno raundo nulemia, su kuo jos žais kitą kartą. Rekomenduojama turėti mažiausiai 4 komandas/8 žaidėjus, o optimalus aikštelių skaičius yra 2. Galite padidinti komandų skaičių, bet geriausia turėti aikštelių skaičių, kuris dalijasi iš 4, kad būtų užtikrintas sklandus ratavimas ir kad visos komandos žaistų tuo pačiu metu.
 
-### **Rungtynių Formatas**
-- Rungtynės vyksta iki nustatyto taškų skaičiaus, paprastai 16, 24 arba 32. Alternatyviai, gali būti naudojamas nustatytas laiko limitas nuo 10 iki 20 minučių.
-- Servavimo taisyklės lieka tokios pat kaip Mexicano:
-  - Kiekviena komanda servuoja 4 arba 6 kartus prieš pasikeičiant servą.
-  - Kiekvienas pelnytas taškas pridedamas prie komandos bendro rezultato.
+## Komandos Mexicano Taisyklės
+
+Visos pagrindinės padel taisyklės taikomos žaidžiant Komandos Mexicano. Pradžioje galite atsitiktinai pasirinkti pirmąsias poras. Tačiau nuo antro raundo ir toliau, turite sekti rezultatus ir leisti sistemai tvarkyti ratavimą. Komandos, kurios yra 1 ir 3 reitingo vietose, antroje rato pusėje žais viena prieš kitą, o komandos, kurios yra 2 ir 4 reitingo vietose, susitiks antroje aikštėje.
+
+- **Fiksuotos Komandos**: Dviem žaidėjams sudaroma komanda ir jie kartu varžosi per visą turnyrą.
+- **Dinaminės Poros**: Komandos poruojamos su kitomis pagal lyderių lentelės pozicijas, kaip ir įprasto Mexicano atveju.
+
+| Reitingai po pirmo raundo | Rungtynės 2 raundui |
+|:---------------------------:|:---------------------:|
+|            Komanda 1        |   Komanda 1 prieš Komandą 2   |
+|            Komanda 2        |                       |
+|            Komanda 3        |   Komanda 3 prieš Komandą 4   |
+|            Komanda 4        |                       |
 
 ---
 
-## **Taškų Skaičiavimas Komandoje Mexicano**
+## Kaip Veikia Rezultatų Skaičiavimas?
 
-Taškų skaičiavimo sistema Komandoje Mexicano yra paprasta ir atspindi Mexicano sistemą:
+Rezultatų skaičiavimas veikia taip pat kaip Amerikano ir įprasto Mexicano atveju. Kiekvienos rungtynės žaidžiamos, kol surinkta iš viso 32 taškai. Pavyzdžiui, jei jūsų komanda (Komanda 1) žaidžia prieš Komandą 4 ir jūsų komanda surinko 20 taškų, tada Komanda 4 gaus 12 taškų. Tai reiškia, kad iš viso jau žaista 32 taškai ir laikas pereiti prie kito raundo.
 
-1. **Taškai Už Rungtynes**: Kiekvienos komandos rezultatas iš rungtynių pridedamas prie jų bendro rezultato.
+![Komandos Mexicano taškai!](/lt/images/team-mexicano-scores.png "Komandos Mexicano taškai")
+
+### Pavyzdys taškų skaičiavimo iš Komandos 1 perspektyvos
+- Raundas 1: Komanda 1 20 taškų ir Komanda 4 12 taškų
+- Raundas 2: Komanda 1 19 taškų ir Komanda 2 13 taškų
+
+Iš viso taškų po dviejų raundų yra 39 Komandai 1
+
+### Tada, kas yra Nugalėtojas?
+Renginio pabaigoje komanda, užėmusi pirmąją vietą reitinge, yra nugalėtoja, po to seka komandos antra, trečia ir t.t. Didžiausias Komandos Mexicano privalumas yra tas, kad dėl to, kaip komandos keičiasi po kiekvieno raundo pagal reitingus, visos rungtynės lieka artimos ir konkurencingos, užtikrinant smagią patirtį visiems dalyvaujantiems.
+
+![Komandos Mexicano pozicija!](/lt/images/team-mexicano-standing.png "Komandos Mexicano pozicija")
+
+---
+
+## Taškų Skaičiavimas Komandos Mexicano
+
+Taškų skaičiavimo sistema Komandos Mexicano yra paprasta ir atspindi Mexicano sistemą:
+
+1. **Taškai Už Rungtynes**: Kiekvienos komandos taškai iš rungtynių pridedami prie jų bendro rezultato.
    - Pavyzdžiui, jei rungtynės baigiasi 20–12, laimėjusi komanda prideda 20 taškų, o pralaimėjusi komanda prideda 12 taškų prie savo rezultatų.
-2. **Lyderių Lentelės Reitingai**: Komandos yra įvertinamos lyderių lentelėje pagal jų visų rungtynių taškus.
-3. **Nugalėtojas**: Komanda su aukščiausiu rezultatu turnyro pabaigoje laimi.
+2. **Lyderių Lentelės Reitingai**: Komandos yra įvertinamos lyderių lentelėje pagal jų bendrą taškų skaičių visose rungtynėse.
+3. **Nugalėtojas**: Komanda su didžiausiu rezultatu turnyro pabaigoje laimi.
 
 ---
 
-## **Skirtumai Tarp Mexicano ir Komandos Mexicano**
+## Skirtumai Tarp Mexicano ir Komandos Mexicano
 
-Nors abu formatai turi daug panašumų, pagrindinis skirtumas yra komandos struktūroje:
+Nors abu formatai turi daug panašumų, pagrindinis skirtumas yra komandų struktūroje:
 
-| **Ypatybė**            | **Mexicano**                                     | **Komanda Mexicano**                              |
+| **Ypatybė**            | **Mexicano**                                     | **Komanda Mexicano**                                  |
 |-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Komandos Struktūra**  | Žaidėjai keičia partnerius tarp rungtynių       | Komandos lieka pastovios visą turnyrą               |
-| **Dėmesys**             | Individualus pasirodymas ir prisitaikymas       | Komandinis darbas ir ilgalaikė strategija          |
-| **Priešininkų Poravimas**| Pagrįstas lyderių lentelės pozicijomis         | Pagrįstas lyderių lentelės pozicijomis            |
-| **Taškavimas**          | Individualūs taškai pelnyti iš kiekvienų rungtynių | Kumuliatyvūs komandos taškai pelnyti iš kiekvienų rungtynių |
+| **Komandos Struktūra**      | Žaidėjai keičia partnerius tarp rungtynių         | Komandos lieka fiksuotos per visą turnyrą      |
+| **Dėmesys**               | Individualus pasirodymas ir prisitaikymas         | Komandinis darbas ir ilgalaikė strategija                   |
+| **Priešininkų Poravimas**    | Pagal lyderių lentelės pozicijas                  | Pagal lyderių lentelės pozicijas                    |
+| **Taškavimas**             | Individualūs taškai surinkti iš kiekvienų rungtynių        | Komandiniai taškai surinkti iš kiekvienų rungtynių     |
 
 ---
 
-## **Komandos Mexicano Turnyro Organizavimas**
+## Komandos Mexicano Turnyro Organizavimas
 
 Komandos Mexicano turnyrą organizuoti paprasta su tinkamu įrenginiu:
 
-### **Dalyviai ir Aikštelės**
-- Jums reikės mažiausiai 8 žaidėjų (4 komandos), kad pradėtumėte.
-- Dideliems grupėms užtikrinkite, kad bendras žaidėjų skaičius būtų dalus iš keturių lygioms komandoms.
+### Dalyviai ir Aikštelės
+- Pradėti reikės mažiausiai 8 žaidėjų (4 komandos).
+- Didelėms grupėms užtikrinkite, kad bendras žaidėjų skaičius dalintųsi iš keturių, kad komandos būtų lygios.
 - Reikalingas aikštelių skaičius priklauso nuo komandų skaičiaus:
-  - 4 komandos (8 žaidėjai) = 2 aikštelės
-  - 6 komandos (12 žaidėjų) = 3 aikštelės
-  - 8 komandos (16 žaidėjų) = 4 aikštelės
+  - 4 komandos (8 žaidėjai) = 2 aikštės
+  - 6 komandos (12 žaidėjų) = 3 aikštės
+  - 8 komandos (16 žaidėjų) = 4 aikštės
 
-### **Rungtynių Tvarkaraštis**
-- Poravimai nustatomi dinamiškai pagal lyderių lentelės reitingus po pirmo raundo.
-- Užtikrinkite, kad kiekviena komanda žaistų kelias rungtynes, kad sukauptų taškų.
+### Rungtynių Tvarkaraštis
+- Poros nustatomos dinamiškai pagal lyderių lentelės pozicijas po pirmo raundo.
+- Užtikrinkite, kad kiekviena komanda žaistų kelias rungtynes, kad surinktų taškus.
 
-### **Rungtynių Trukmė**
-- Vienos rungtynės paprastai trunka 10–15 minučių trumpesniems formatams, tokiems kaip 16 arba 24 taškai.
+### Rungtynių Trukmė
+- Vienos rungtynės paprastai trunka 10–15 minučių trumpesniuose formatais, tokiuose kaip 16 ar 24 taškai.
 - Planuokite 2–3 valandas visam turnyrui, priklausomai nuo komandų skaičiaus.
 
-### **Taškų Laikymas**
-- Naudokite rezultatų lentelę ar programėlę, kad sektumėte komandų rezultatus ir atnaujintumėte lyderių lentelę po kiekvienų rungtynių.
+### Rezultatų Fiksavimas
+- Naudokite rezultatų lentelę ar programėlę (pvz., [Padelution](https://www.padelution.com/americano)) komandų rezultatams sekti ir atnaujinti lyderių lentelę po kiekvienų rungtynių.
 
 ---
 
-## **Kodėl Žaisti Komandos Mexicano?**
+## Kodėl Žaisti Komandos Mexicano?
 
-Komanda Mexicano siūlo unikalų patyrimą, kuris jungia Mexicano dinamines poras su strategija ir bendravimu tarp pastovių komandų. Štai kodėl tai puikus pasirinkimas:
+Komanda Mexicano siūlo unikalų patyrimą, kuris jungia Mexicano dinamiškas poras su strategija ir komandinumu fiksuotomis komandomis. Štai kodėl tai puikus pasirinkimas:
 
-1. **Stipresnis Komandinis Darbas**: Žaidimas su pastoviu partneriu padeda jums kurti pasitikėjimą ir tobulinti strategijas.
-2. **Teisingas ir Iššūkis**: Dinaminė porų sistema užtikrina subalansuotas rungtynes pagal rezultatus.
-3. **Įtraukiantis ir Smagus**: Kaip Mexicano, šis formatas tinka žaidėjams visų lygių.
-4. **Papildytas Konkurencingumas**: Komandos siekia pralenkti kitas, stiprindamos savo partnerystę.
+1. **Stipresnis Komandinis Darbas**: Žaisti su fiksuotu partneriu padeda jums kurti pasitikėjimą ir tobulinti strategijas.
+2. **Teisingas ir Iššūkis**: Dinaminė poravimo sistema užtikrina subalansuotas rungtynes pagal pasirodymą.
+3. **Įtraukimas ir Smagumas**: Kaip ir Mexicano atveju, šis formatas tinka žaidėjams visų lygių.
 
 ---
 
-## **Išvada**
+## Išvada
 
-Komanda Mexicano yra įdomus būdas mėgautis padel, siūlantis puikų derinį iš strategijos, komandinio darbo ir dinaminio varžybų džiaugsmo. Nesvarbu, ar organizuojate turnyrą, ar prisijungiate prie vieno, šis formatas atneš žaidimo įkarštį, skatindamas stipresnius ryšius ir neįkainojamas rungtynes.
+Komanda Mexicano yra įdomus būdas mėgautis padel, siūlantis puikų strategijos, komandinio darbo ir dinamiškos konkurencijos derinį. Nesvarbu, ar organizuojate turnyrą, ar prisijungiate prie vieno, šis formatas prideda žaidimo įkarštį, skatina stipresnius ryšius ir neįkainojamas rungtynes.
 
-Tad pasiimkite savo partnerį, išeikite į aikštelę ir įsijunkite į Komandos Mexicano pasaulį, kuris suteiks jums nepakartojamą patirtį!
+Tad pasiimkite savo partnerį, ženkite į aikštę ir panirkite į Komandos Mexicano pasaulį, kuris siūlo nepakartojamą patirtį!

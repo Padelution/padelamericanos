@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Den Ultimata Guiden till Team Americano
 
 ## Introduktion
-Team Americano är en dynamisk och konkurrenskraftig variant av det traditionella Padel Americano-formatet. Spelat med fasta lag om två spelare är detta format perfekt för grupper som vill betona teamwork och strategi. Med fokus på samarbete och konsekventa partnerskap är Team Americano idealiskt för både avslappnade och konkurrensinriktade padelspelare.
-
-Denna guide ger dig allt du behöver veta för att organisera, spela och lyckas i Team Americano.
+Team Americano har samma grundidé som Padel Americano, men istället för att byta partner efter varje runda, håller du dig till samma spelare tills slutet. Detta är ett utmärkt sätt att bli mer bekant med din partner under evenemanget och faktiskt lära dig om deras sätt att spela. Detta kommer också förbättra ditt spel! En annan fördel med Team Americano är att under matchen kan ni bli ett bättre team och öka era chanser att vinna.
 
 ---
 
-## Vad är Team Americano?
-Team Americano spelas med fasta par, där två spelare bildar ett lag och tävlar mot andra lag i korta, högenergiska matcher. Till skillnad från traditionell Americano roterar inte partners, vilket gör att lag kan bygga och genomföra långsiktiga strategier.
+## Vad behöver du för Team Americano??
+Uppställningen är mycket lik vanlig Padel Americano. För optimalt nöje rekommenderas det att du har åtminstone 4 lag, vilket innebär 8 spelare. Sedan, beroende på hur många spelare ni är, behöver du en padelbana (se tabellen nedan för optimalt antal banor jämfört med antalet spelare). På samma sätt som med vanlig Americano är det en bra idé att ha någon form av system eller app för att hålla poäng. Dessutom gör [Padelution](https://www.padelution.com/americano) det mycket enkelt.
 
-- **Spelare**: 8, 12, 16 eller fler spelare uppdelade i lag om två.
-- **Lag**: Vanligtvis 4 eller fler lag.
-- **Matchvaraktighet**: Varje match spelas till ett bestämt antal poäng (vanligtvis 32).
-- **Poängberäkning**: Kumulativa poäng över alla matcher avgör det vinnande laget.
+| Antal lag | Minsta antal banor |
+|-----------|---------------------|
+|    4 till 7    |           2           |
+|    8 till 11   |           3           |
+|   12 till 15   |           4           |
+|   16 till 19   |           5           |
+|   20 till 23   |           6           |
 
----
-
-## Varför Välja Team Americano?
-1. **Fokus på Teamwork**: Uppmuntrar starkt samarbete och partnerskapsstrategier.
-2. **Flexibilitet**: Fungerar bra för turneringar med olika antal spelare.
-3. **Konkurrenskraftigt och Roligt**: Kombinerar de bästa aspekterna av tävling och nöje.
-4. **Skalbarhet**: Lätt att anpassa för större grupper och flera banor.
+Extra spelare kan vila och heja på andra
 
 ---
 
-## Hur man Organiserar en Team Americano-turnering
-Att organisera en Team Americano-turnering är enkelt med rätt planering. Följ dessa steg:
+## Reglerna för team Americano
+Den grundläggande idén är att varje lag spelar mot alla andra lag under evenemanget, så jämfört med vanlig Americano finns det ingen rotation inom lagen.
 
-### 1. Bestäm Antalet Lag
-Team Americano fungerar bäst med 4 eller fler lag:
-- 8 spelare = 4 lag
-- 12 spelare = 6 lag
-- 16 spelare = 8 lag
+Till exempel, om du spelar på två banor och är lag A. Du börjar spela mot lag B. Efter att första rundan är klar, stannar du antingen på samma bana eller byter bana, men det viktigaste är att du nästa gång spelar mot lag C. Efter att andra rundan är klar, roterar ni alla igen, och nästa gång spelar ni mot lag D.
 
-### 2. Skapa en Matchschema
-Planera en rotation så att alla lag möter varandra. För 4 lag (Lag A, B, C, D):
-- Match 1: Lag A vs. Lag B
-- Match 2: Lag C vs. Lag D
-- Match 3: Lag A vs. Lag C
-- Match 4: Lag B vs. Lag D
-- Fortsätt tills alla lag har spelat.
-
-För fler lag, justera rotationen så att rättvisa säkerställs.
-
-### 3. Sätt Matchregler
-- **Poäng**: Varje match spelas till ett fast antal poäng (t.ex. 32).
-- **Byt Sidor**: Byt sida varje 16 poäng för att balansera miljöfaktorer.
-- **Kumulativ Poängberäkning**: Lag tjänar poäng i varje match, som läggs till deras totalpoäng.
-
-### 4. Registrera Poäng
-Använd en poängtavla eller americano-app för att spåra poängen varje lag tjänar över matcherna.
-
-### 5. Bestäm Vinnare
-Vid turneringens slut är laget med högst kumulativa poäng deklarerade som vinnare. Vid oavgjort, överväg en avgörande match.
+Grundreglerna för padel gäller, så om ni inte är överens om ifall bollen var inne eller ute, är det bra att upprepa poängen och gå vidare ganska snabbt. Att välja första serv är också något som kan göras på det sätt som spelarna är vana vid, som att spela en "servörs boll" eller kasta en slant.
 
 ---
 
-## Strategier för Team Americano
-1. **Partnerskemi**: Förstå din partners styrkor och svagheter.
-2. **Fokusera på Konsistens**: Sikta på jämn prestation över matcherna.
-3. **Anpassa dig till Motståndarna**: Utveckla strategier för att motverka olika spelstilar.
-4. **Kommunicera Effektivt**: Tydlig och koncis kommunikation kan göra hela skillnaden.
+## Exempel på rundor (från lag A:s perspektiv):
+- Runda 1 - Lag A mot Lag B
+- Runda 2 - Lag A mot Lag C
+- Runda 3 - Lag A mot Lag D
+
+![Mike & Juan är lag A](/sv/images/team-americano.png "Mike & Juan är lag A")
 
 ---
 
-## Vanliga Frågor
-### Vad händer om det finns fler än 4 lag?
-För större grupper, öka antalet omgångar för att säkerställa att alla lag tävlar rättvist. Du kan också använda flera banor för att påskynda matcherna.
+### Poängsättning och hur man vinner
+Varje runda spelas vanligtvis till totalt 32 poäng. Varje spelare servar 4 gånger innan det är dags att byta till nästa serv. En viktig poäng att komma ihåg är att om ditt lag till exempel får 15 poäng och motståndarlaget får 17 poäng, tilldelar du 15 poäng till ditt lag och 17 poäng till motståndarlaget. Totalt antal poäng som spelats är nu 32, och er runda är klar.
 
-### Vad händer om två lag har lika många poäng totalt?
-En avgörande match till 16 eller 32 poäng kan spelas för att avgöra vinnaren.
+Efter varje runda är det viktigt att föra in poängen på en poängtavla eller i något organiserat system, t.ex. Padelution. Laget med flest poäng ackumulerade vid evenemangets slut utses till vinnare. Det är en bra idé att utse någon som ansvarar för att följa poängen, för att säkerställa att alla poäng registreras korrekt under hela evenemanget.
 
-### Kan nybörjare njuta av Team Americano?
-Ja! Formatet är tillgängligt och roligt för spelare på alla nivåer, vilket gör det perfekt för grupper med blandad skicklighet.
+![Marie/Bob är det vinnande laget](/sv/images/team-americano-scores.png "Marie/Bob är det vinnande laget")
 
----
+### Efter att tiden är slut
+När tiden är ute eller alla lag har spelat mot varandra minst två gånger, är det dags att se vilket lag som samlade flest poäng. Kom ihåg att, till skillnad från i vanlig Americano, vinner och förlorar ni tillsammans som ett lag, så den slutliga poängtavlan bör visa lagen organiserade i fallande ordning med start från det lag som har samlat flest poäng.
 
-## Slutsats
-Team Americano är ett spännande och socialt sätt att njuta av padel. Genom att hålla spelare i konsekventa par främjar formatet teamwork, strategi och en spännande tävlingsinriktning. Med tydliga regler och lite planering kan du arrangera en lyckad Team Americano-händelse som spelare på alla nivåer kommer att älska.
-
-test
+När de officiella matcherna är över, varför inte koppla av med några drycker i loungen och umgås med andra spelare? Trots allt är socialt umgänge en av de bästa delarna med att spela padel!

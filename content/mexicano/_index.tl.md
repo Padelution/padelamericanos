@@ -1,98 +1,72 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: Isang Buong Gabay sa Dynamic na Format na Ito
 
-Ang Padel Mexicano ay isang nakaka-eksite at adaptibong format na nagdadala sa mga sosyal at kompetitibong aspeto ng padel sa ibang antas. Sa kaibahan sa tradisyonal na mga format, ang Mexicano ay dinamikong nag-aadjust kung sino ang iyong makakalaro at makakalaban batay sa mga resulta ng laban, lumilikha ng patas at balanseng kompetisyon na nagpapantay ng laban habang nagtatagal ang torneo.
+Ang Mexicano ay may kakaibang paraan ng pagpapalit-palit ng mga kasosyo at kalaban. Ang nagdedesisyon kung sino ang iyong kasosyo at kalaban ay batay sa iyong ranggo, at pagkatapos ng bawat round, babalik ka, titingnan kung saan ka nag-land sa ranggo, at saka mo makikita kung sino ang iyong kakampi sa susunod na laro.
 
-Kahit ikaw ay isang beteranong manlalaro o isang baguhan, ang Mexicano ay isang mahusay na paraan upang tamasahin ang padel, makilala ang mga bagong kalaban, at subukan ang iyong mga kakayahan.
+Ang katuwaan ay ang paraan kung paano pinapalitan ang mga manlalaro ay nagpapanatili ng mga laban na magkakatalo dahil ang mga standings ang nagtatakda kung paano binubuo ang mga koponan para sa bawat round. Sa ganitong paraan, ang agwat sa antas ng galing ay nagiging pantay, at lahat ay makakaranas ng mga laban na magkakatalo at mahigpit.
 
----
-
-## **Paano Gumagana ang Padel Mexicano?**
-
-Ang pangunahing tampok ng Padel Mexicano ay ang adaptibong sistema ng pagtutugma ng laban. Sa halip na isang tiyak na iskedyul, ang kung sino ang iyong makakalaro at makakalaban ay natutukoy batay sa iyong performance sa mga naunang laban.
-
-### **Panimulang Pagtutugma ng Laban**
-- Ang iyong unang laro ay natutukoy sa pamamagitan ng isang random na paghahalo. Ang isang loterya ang nagdedetermina ng iyong mga kasamahan at mga kalaban para sa panimulang laban.
-
-### **Dinamikong Sistema ng Pagtutugma**
-- Simula sa ikalawang laro, ang iyong mga laban ay batay sa nangungunang pwesto sa leaderboard. Layunin na ipares ang mga manlalaro o koponan ng parehong antas ng kasanayan upang tiyakin ang kompetitibo at pantay na mga laban.
-- Halimbawa:
-  - Ang mga manlalaro na nasa ranggo 1 at 3 ay magtutulung-tulungan laban sa mga manlalaro na nasa ranggo 2 at 4.
-  - Ang mga manlalaro na nasa ranggo 5 at 7 ay magtutulung-tulungan laban sa mga manlalaro na nasa ranggo 6 at 8.
-- Ang sistemang ito ng dinamikong pagtutugma ay tiyak na nagpapantay ng laban habang nagtatagal ang torneo, nagbibigay ng hamon para sa mga nangungunang manlalaro habang nagbibigay ng saya para sa lahat.
-
-### **Pagganap sa Pagtutugma**
-- Pinapayagan ka ng sistema ng Mexicano na makapaglaro kasama at laban sa parehong mga manlalaro ng ilang beses, depende sa pag-unlad ng leaderboard.
 
 ---
 
-## **Pagtutugma at Format ng Laban**
+## Ano ang kailangan mo para sa Mexicano?
 
-Ang mga laban sa Mexicano ay idinisenyo upang maging maikli, enerhiya, at nakaka-engganyo. Narito kung paano ito gumagana:
+Para sa Mexicano, hindi mo kailangan ng anumang karagdagang bagay kumpara sa regular na mga laban sa Padel maliban sa ilang sistema o app para panatilihin ang score. Maaari mong gamitin, halimbawa, ang mga serbisyo tulad ng Padelution para panatilihin ang score. Mahalaga na mayroong malinaw na paraan para sa scoring dahil pagkatapos ng bawat round, ang mga koponan para sa susunod na round ay itinatakda batay sa ranggo ng bawat manlalaro.
 
-### **Mga Punto sa Laban**
-- Karaniwang nilalaro ang mga laro hanggang sa isang tiyak na bilang ng mga puntos, tulad ng 16, 24, o 32 puntos. Bilang alternatibo, maaaring magkaroon ng itinakdang limitasyon sa oras ang mga laban, tulad ng 10–20 minuto.
+Maganda na mayroon kang hindi bababa sa 8 na manlalaro, at ang pinakamainam na bilang ng court ay 2. Maaari mong dagdagan ang bilang ng manlalaro hangga't gusto mo, ngunit tandaan na maganda na may bilang ng court na maide-divide ng 4 para magkaroon ng magaan na pagpapalit-palit, at lahat ay maglalaro sa parehong oras.
 
-### **Mga Patakaran sa Paglilingkod**
-- Ang bawat koponan ay naglilingkod ng 4 o 6 beses bago mag-rotate ang paglilingkod sa kabilang koponan.
+## Mga Patakaran ng Mexicano
+Ang lahat ng pangunahing patakaran ng padel ay naaangkop kapag naglalaro ng Mexicano. Sa simula, maaari mong piliin nang random ang unang mga koponan na magsisimula. Simula sa ikalawang round, gayunpaman, hayaan mong ang sistema ang gumawa ng pagpapalit-palit ng mga manlalaro. Ang mga manlalaro na nasa ranggong 1 at 3 ay, sa susunod na round, maglalaro laban sa mga manlalaro na nasa ranggong 2 at 4. Sa kabilang court, ang mga manlalaro na nasa ranggong 5 at 7 ay maglalaro laban sa mga manlalaro na nasa ranggong 6 at 8, at iba pa.
 
-### **Pagbilang ng Puntos**
-- Bawat punto na panalo ay nagbibigay ng isang punto sa iyong koponan.
-- Sa dulo ng laban, ang mga puntos ay hatiin nang pantay sa mga miyembro ng koponan. Halimbawa:
-  - Kung ang isang laban na may 24 puntos ay natapos sa iskor na 14–10, ang mga manlalaro ng koponan na nanalo ay tatanggap ng 14 puntos bawat isa, samantalang ang mga manlalaro ng koponan na natalo ay tatanggap ng 10 puntos bawat isa.
-- Ang iyong indibidwal na iskor ay nag-iipon sa lahat ng laban, at ang manlalaro na may pinakamaraming puntos sa dulo ng torneo ang panalo.
+| Standings pagkatapos ng unang round | Mga Koponan para sa 2nd round |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
+
+
+### Halimbawa ng scoring mula sa perspektibo ng koponan A
+- Round 1: Mga Manlalaro A&D 20 puntos at mga Manlalaro B&C 12 puntos
+- Round 2: Mga Manlalaro A&C 19 puntos at mga Manlalaro B&D 13 puntos
+
+Ang kabuuang puntos na nakuha ng manlalaro A pagkatapos ng dalawang round ay 39
+
+
+### Sino nga ba ang panalo?
+Pagkatapos ng oras, ang panalo ay ang manlalaro na nasa unang puwesto sa ranggo. Ang pinakamahalagang bagay pa rin ay ang katotohanang lahat ng laban ay mahigpit dahil sa paraan ng pagpili ng mga koponan pagkatapos ng bawat round batay sa standings ng mga manlalaro.
+
+![Padel Mexicano ranking!](/tl/images/padel-mexicano.png "Padel Mexicano ranking")
+---
+
+
+## Team Mexicano
+
+[Team Mexicano](/tl/team-mexicano) ay nagdadagdag ng isa pang antas ng diskarte sa format. Sa halip na magpalit-palitan ng mga kasosyo, ang mga manlalaro ay nagtutunggalian sa mga pre-arranged na koponan sa buong torneo. Ang scoring at dynamic pairing systems ay nananatili, ngunit lahat ng puntos ay kinukwenta para sa mga koponan kaysa sa mga indibidwal.
+
+Ang pagbabagong ito ay perpekto para sa mga grupo na nagnanais mag-focus sa teamwork at mga pangmatagalang diskarte.
+
+---
+## Bakit Maglaro ng Padel Mexicano?
+
+Napapansin ang Padel Mexicano sa kanyang kahusayan at kakayahang mag-ayos. Narito ang ilang mga dahilan kung bakit ang format na ito ay sobrang popular:
+- **Fair Play**: Ang mga laban ay lumalapit sa pagiging balanseng balanse habang nagtutuloy ang torneo.
+- **Dynamic Pairings**: Maglaro kasama at laban sa iba't ibang mga kalaban, na nagpapanatili ng mga laro na bago at nakaka-engganyo.
+- **Sosyal na Karanasan**: Isang kahanga-hangang paraan upang makilala ang mga bagong manlalaro at magtayo ng samahan.
+- **Flexibilidad**: Angkop para sa mga indibidwal at pangkoponang torneo.
 
 ---
 
-## **Team Mexicano**
+## Kongklusyon
 
-Nagdaragdag ang [Team Mexicano](/tl/team-mexicano) ng isa pang antas ng diskarte sa format. Sa halip na magpalitan ng mga kasama, ang mga manlalaro ay lumalaban sa mga pre-arranged na koponan sa buong torneo. Nanatili ang mga sistema ng pagtutugma at dinamikong pagpares, ngunit ang lahat ng puntos ay kinokolekta para sa mga koponan kaysa sa mga indibidwal.
+Ang Padel Mexicano ay higit sa isang format ng laro—ito ay isang karanasan na nagbibigay-diin sa katarungan, katuwaan, at kakayahang mag-ayos. Anuman ang iyong ginagampanan, mula sa pag-oorganisa ng torneo hanggang sa pagsali dito, itong format na ito ay nagbibigay ng nakaaaliw na mga laban at magagandang alaala. Sa kanyang dynamic pairing system at inclusive scoring, ang Mexicano ay isang dapat subukan para sa alinmang tagahanga ng padel.
 
-Ang pagbabagong ito ay perpekto para sa mga grupo na nagnanais magtuon sa teamwork at mga pangmatagalang diskarte.
-
----
-
-## **Pamamahala ng Padel Mexicano Tournament**
-
-Madali ang pag-organisa ng isang torneo ng Mexicano sa tamang paghahanda. Sundan ang mga hakbang na ito upang tiyakin ang isang magaan na kaganapan:
-
-### **Mga Kalahok at Mga Court**
-- Kailangan mo ng hindi bababa sa 8 mga kalahok o koponan upang maglaro ng Mexicano. Walang itinakdang limitasyon, ngunit ang pagkakaroon ng isang bilang na maide-divide ng apat ay angkop para sa magaan na pag-ikot ng laban.
-- Ang bilang ng mga court na kinakailangan ay depende sa bilang ng mga kalahok:
-  - 8 manlalaro = 2 court
-  - 12 manlalaro = 3 court
-  - 16 manlalaro = 4 court
-- Maaaring makalahok ang mga manlalaro ng lahat ng antas ng kasanayan, at ang paghalo ng mga antas ay maaaring gawing mas masaya ang mga laro.
-
-### **Tagal ng Laban**
-- Karaniwang tumatagal ng mga 2 oras ang isang standard na torneo ng Mexicano.
-- Halimbawa, karaniwang tumatagal ng mga 12 minuto ang isang laban na may 24 puntos upang matapos.
-
-### **Pagtatala ng Puntos**
-- Ihanda ang iskorcard o gumamit ng isang espesyal na app upang magtala ng mga resulta ng laban at kalkulahin ang nangungunang pwesto sa leaderboard nang dinamikong.
-
-### **Patas at Masayang Kompetisyon**
-- Pinapantay ng adaptibong sistema ng Mexicano ang mga manlalaro nang patuloy nang hindi nararamdaman na hindi pantay, na ginagawang isang mahusay na pagpipilian para sa mga kaganapan na may iba't ibang antas ng kasanayan.
-
----
-
-## **Bakit Maglaro ng Padel Mexicano?**
-
-Napapansin ang Padel Mexicano sa kanyang kasali sa lahat at kakayahang mag-ayos. Narito ang ilang mga dahilan kung bakit ang format na ito ay sobrang popular:
-- **Patas na Laro**: Ang mga laban ay lumalabas na mas balanseng habang nagtatagal ang torneo.
-- **Dinamikong Pagtutugma**: Maglaro kasama at laban sa iba't ibang mga kalaban, na nagpapanatili ng mga laro na bago at nakaka-engganyo.
-- **Sosyal na Karanasan**: Isang kahanga-hangang paraan upang makilala ang mga bagong manlalaro at magtayo ng pagkakaibigan.
-- **Pagganap**: Angkop para sa parehong mga indibidwal at team-based na mga torneo.
-
----
-
-## **Pagtatapos**
-
-Ang Padel Mexicano ay higit sa isang format ng laro—ito ay isang karanasan na nagbibigay-diin sa katarungan, saya, at kakayahang mag-ayos. Anuman ang iyong ginagampanan sa isang torneo o sumali dito, itong format ay nagbibigay ng nakaka-eksite na mga laban at magagandang alaala. Sa kanyang dinamikong sistema ng pagtutugma at kasali sa pagbilang ng puntos, ang Mexicano ay isang dapat subukan para sa sinumang tagahanga ng padel.
-
-Kaya't magtipon ng iyong mga kaibigan, kunin ang inyong mga raket, at lumubog sa mundo ng Padel Mexicano para sa isang hindi malilimutang araw sa mga court!
-
-test
+Kaya't magtipon-tipon ng iyong mga kaibigan, kunin ang inyong mga raket, at lumusong sa mundo ng Padel Mexicano para sa isang hindi malilimutang araw sa mga court!

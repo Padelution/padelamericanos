@@ -1,108 +1,118 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
-# Timu ya Mexicano: Mwongozo wa Format ya Padel Inayotegemea Timu Hii ya Kusisimua
+# Timu ya Mexicano: Mwongozo wa Format ya Kusisimua ya Padel Inayotegemea Timu
 
-Ikiwa unapenda asili ya kibadilifu na inayoweza kubadilika ya Padel Mexicano lakini unataka kutilia mkazo ushirikiano na mkakati wa muda mrefu, **Timu ya Mexicano** ndio chaguo kamili. Format hii inaweka wachezaji wawili kama timu iliyowekwa wakati wote wa mashindano, ikiweka safu ya ushirikiano na uaminifu zaidi kwenye mchezo.
+Timu ya Mexicano inatoa njia nyingine ya kuchagua wapinzani. Kigezo muhimu ni cheo cha timu yako, na baada ya kila raundi, unachunguza wapi unakaa kwenye cheo ili kujua utacheza dhidi ya nani katika raundi inayofuata.
 
-Katika mwongozo huu, tutachunguza ni nini kinachofanya Timu ya Mexicano kuwa tofauti, jinsi inavyofanya kazi, na kwa nini ni chaguo bora kwa michezo ya kawaida na ya ushindani.
-
----
-
-## **Ni Nini Timu ya Mexicano?**
-
-Timu ya Mexicano ni tofauti ya asili ya Mexicano ya jadi ambapo wachezaji wawili daima wanashindana kama timu iliyowekwa. Tofauti na Mexicano ya kawaida, ambapo washirika hubadilishwa kati ya mechi, Timu ya Mexicano inaendelea kuweka ushirikiano, kuruhusu wachezaji kuendeleza na kuboresha mikakati yao kama timu.
-
-### **Vipengele Muhimu vya Timu ya Mexicano**
-- **Timu Zilizowekwa**: Wachezaji wawili hufanya timu na kushindana pamoja wakati wote wa mashindano.
-- **Upangaji wa Timu**: Timu hupangwa dhidi ya zingine kulingana na nafasi zao kwenye jedwali la msimamo, kama ilivyo kwenye Mexicano ya kawaida.
-- **Kuzingatia Mkakati**: Wachezaji wanaweza kujenga ushirikiano na mikakati imara wanapokutana na wapinzani mbalimbali.
+Kile kinachofanya iwe ya kufurahisha ni jinsi timu zinavyobadilishwa baada ya kila raundi ambayo inamaanisha kuwa pengo la kiwango cha ujuzi linapatikana. Hii inahakikisha kuwa kila timu inaweza kutarajia michezo iliyokaribiana na yenye kusisimua.
 
 ---
 
-## **Timu ya Mexicano Inafanyaje Kazi?**
+## Unahitaji Nini kwa Timu ya Mexicano?
 
-Format hii inafuata kanuni sawa za kubadilika kama Mexicano lakini na washirika waliothibitishwa.
+Kwa Timu ya Mexicano, hauhitaji kitu chochote ziada ikilinganishwa na Mexicano ya kawaida, isipokuwa mfumo au programu ya kuhesabu alama. Huduma kama [Padelution](https://www.padelution.com/americano) inaweza kutumika kufuatilia alama.
 
-### **Upangaji wa Mechi**
-- Upangaji wa mechi ya kwanza unategemea nasibu, timu zinapangiwa wapinzani kupitia bahati nasibu.
-- Kuanzia mechi ya pili kuendelea, upangaji unategemea nafasi kwenye jedwali la msimamo:
-  - Timu mbili bora zinacheza dhidi ya kila.
-  - Timu ya tatu na ya nne zinacheza dhidi ya kila.
-  - Timu zenye nafasi za chini zinapangwa kwa njia sawa ili kuhakikisha mechi zenye usawa.
+Ni muhimu kuwa na njia wazi ya kurekodi alama, kwani cheo cha kila timu baada ya kila raundi kinabainisha watakaocheza dhidi yao baadaye. Inapendekezwa kuwa na angalau timu 4/wachezaji 8, na idadi bora ya viwanja ni 2. Unaweza kuongeza idadi ya timu, lakini ni bora kuwa na idadi ya viwanja inayoweza kugawanywa kwa 4 ili kuhakikisha mzunguko laini na kwamba timu zote zinacheza wakati mmoja.
 
-### **Muundo wa Mechi**
-- Mechi hucheza hadi idadi ya pointi iliyowekwa, kawaida 16, 24, au 32. Vinginevyo, muda uliowekwa wa dakika 10–20 unaweza kutumika.
-- Kanuni za kutumikia zinabaki sawa na Mexicano:
-  - Kila timu hutumikia mara 4 au 6 kabla ya zamu ya kutumikia kubadilika.
-  - Kila pointi iliyofungwa inaongeza kwenye alama ya jumla ya timu.
+## Sheria za Timu ya Mexicano
+
+Sheria zote za msingi za padel zinatumika wakati wa kucheza Timu ya Mexicano. Kuanzia mwanzo, unaweza kuchagua jozi za kwanza kwa nasibu. Kutoka raundi ya pili na kuendelea, hata hivyo, unahitaji kufuatilia alama na kuruhusu mfumo kushughulikia mzunguko. Timu zilizo kwenye nafasi ya 1 na 3 zitacheza dhidi yao katika raundi ya pili na timu zilizo kwenye nafasi ya 2 na 4 zitacheza dhidi yao kwenye uwanja mwingine.
+
+- **Timu Zilizowekwa**: Wachezaji wawili hufanya timu na kushindana pamoja kwenye mashindano yote.
+- **Upangaji wa Kinadharia**: Timu zinapangwa dhidi ya zingine kulingana na nafasi kwenye jedwali la cheo, kama ilivyo kwa Mexicano ya kawaida.
+
+| Cheo baada ya raundi ya kwanza | Michezo kwa raundi ya 2 |
+|:---------------------------:|:---------------------:|
+|            Timu 1           |   Timu 1 vs. Timu 2   |
+|            Timu 2           |                       |
+|            Timu 3           |   Timu 3 vs. Timu 4   |
+|            Timu 4           |                       |
 
 ---
 
-## **Kupiga Alama katika Timu ya Mexicano**
+## Jinsi Uhesabuji Unavyofanya Kazi?
 
-Mfumo wa kupiga alama kwa Timu ya Mexicano ni rahisi na unafanana na ule wa Mexicano:
+Uhesabuji unafanya kazi kwa njia ile ile kama inavyofanya kazi kwa Americano na Mexicano ya kawaida. Kila mchezo unachezwa hadi jumla ya alama 32 zimepatikana. Kwa mfano, ikiwa timu yako (Timu 1) inacheza dhidi ya Timu 4 na timu yako inapata alama 20, basi Timu 4 itapata alama 12. Hii inamaanisha kuwa jumla ya alama 32 sasa imechezwa na ni wakati wa kuendelea na raundi inayofuata.
 
-1. **Pointi kwa Kila Mechi**: Alama ya kila timu kutoka kwenye mechi inaongezwa kwenye jumla yao.
-   - Kwa mfano, ikiwa mechi inamalizika 20–12, timu inayoshinda inaongeza pointi 20, na timu inayopoteza inaongeza pointi 12 kwenye alama zao.
-2. **Nafasi kwenye Jedwali la Msimamo**: Timu zinapangwa kwenye jedwali la msimamo kulingana na jumla yao ya pointi kwenye mechi zote.
+![Alama za Timu ya Mexicano!](/sw/images/team-mexicano-scores.png "Alama za Timu ya Mexicano!")
+
+### Mfano wa uhesabuji kutoka mtazamo wa timu 1
+- Raundi 1: Timu 1 alama 20 na timu 4 alama 12
+- Raundi 2: Timu 1 alama 19 na timu 2 alama 13
+
+Jumla ya alama zilizokusanywa baada ya raundi mbili ni 39 kwa timu 1
+
+### Basi, nani ni Mshindi?
+Mwisho wa tukio, timu inayoshika nafasi ya kwanza kwenye cheo ndiyo mshindi, ikifuatiwa na timu zilizo kwenye nafasi ya pili, ya tatu, na kadhalika. Faida kubwa ya Timu ya Mexicano ni kwamba, kwa sababu ya jinsi timu zinavyobadilishwa baada ya kila raundi kulingana na cheo, michezo yote inabaki kuwa karibu na yenye ushindani, ikihakikisha uzoefu wa kufurahisha kwa kila mmoja aliyejihusisha.
+
+![Cheo cha Timu ya Mexicano!](/sw/images/team-mexicano-standing.png "Cheo cha Timu ya Mexicano")
+
+---
+
+## Uhesabuji katika Timu ya Mexicano
+
+Mfumo wa uhesabuji kwa Timu ya Mexicano ni wa moja kwa moja na unafanana na ule wa Mexicano:
+
+1. **Alama kwa Kila Mchezo**: Alama ya kila timu kutoka kwenye mchezo inaongezwa kwenye jumla yao ya alama.
+   - Kwa mfano, ikiwa mchezo unamalizika 20–12, timu inayoshinda inaongeza alama 20, na timu inayopoteza inaongeza alama 12 kwenye alama zao.
+2. **Cheo kwenye Jedwali la Cheo**: Timu zinapangwa kwenye jedwali la cheo kulingana na jumla yao ya alama katika michezo yote.
 3. **Mshindi**: Timu yenye alama kubwa mwishoni mwa mashindano ndiyo mshindi.
 
 ---
 
-## **Tofauti Kati ya Mexicano na Timu ya Mexicano**
+## Tofauti Kati ya Mexicano na Timu ya Mexicano
 
-Ingawa format hizo mbili zinafanana kwa mengi, tofauti kuu iko kwenye muundo wa timu:
+Ingawa muundo wa timu mbili unashiriki mifano mingi, tofauti kuu iko kwenye muundo wa timu:
 
-| **Kipengele**           | **Mexicano**                                     | **Timu ya Mexicano**                              |
+| **Kipengele**            | **Mexicano**                                     | **Timu ya Mexicano**                                  |
 |-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Muundo wa Timu**      | Wachezaji hubadilisha washirika kati ya mechi    | Timu inabaki imara wakati wote wa mashindano      |
-| **Kuzingatia**          | Utendaji binafsi na uwezo wa kubadilika         | Ushirikiano na mkakati wa muda mrefu              |
-| **Upangaji wa Wapinzani**| Kulingana na nafasi kwenye jedwali la msimamo  | Kulingana na nafasi kwenye jedwali la msimamo    |
-| **Kupiga Alama**        | Pointi binafsi zilizofungwa kwenye kila mechi   | Pointi za jumla za timu zilizofungwa kwenye kila mechi |
+| **Muundo wa Timu**      | Wachezaji wanabadilishana washirika kati ya michezo         | Timu zinabaki imara kwa muda wote wa mashindano      |
+| **Umakini**               | Utendaji binafsi na uwezo wa kubadilika         | Ushirikiano na mkakati wa muda mrefu                   |
+| **Upangaji wa Wapinzani**    | Kulingana na nafasi kwenye jedwali la cheo                  | Kulingana na nafasi kwenye jedwali la cheo                    |
+| **Uhesabuji**             | Alama binafsi zilizopatikana kutoka kila mchezo        | Alama za timu zilizopatikana kutoka kila mchezo     |
 
 ---
 
-## **Kuandaa Mashindano ya Timu ya Mexicano**
+## Kuandaa Mashindano ya Timu ya Mexicano
 
-Kuandaa mashindano ya Timu ya Mexicano ni rahisi ukiwa na mpangilio sahihi:
+Kuandaa mashindano ya Timu ya Mexicano ni rahisi na mipangilio sahihi:
 
-### **Washiriki na Viwanja**
+### Washiriki na Viwanja
 - Utahitaji angalau wachezaji 8 (timu 4) kuanza.
-- Kwa makundi makubwa, hakikisha idadi ya jumla ya wachezaji inaweza kugawanywa kwa nne kwa timu sawa.
+- Kwa makundi makubwa, hakikisha idadi ya jumla ya wachezaji inaweza kugawanywa kwa nne ili kupata timu sawa.
 - Idadi ya viwanja inayohitajika inategemea idadi ya timu:
   - Timu 4 (wachezaji 8) = Viwanja 2
   - Timu 6 (wachezaji 12) = Viwanja 3
   - Timu 8 (wachezaji 16) = Viwanja 4
 
-### **Upangaji wa Mechi**
-- Upangaji unategemea nafasi kwenye jedwali la msimamo baada ya raundi ya kwanza.
-- Hakikisha kila timu inacheza mechi kadhaa ili kupata pointi.
+### Ratiba ya Mchezo
+- Upangaji unategemea dinamiki kulingana na nafasi kwenye jedwali la cheo baada ya raundi ya kwanza.
+- Hakikisha kila timu inacheza michezo mingi ili kupata alama.
 
-### **Muda wa Mechi**
-- Mechi moja kawaida inachukua dakika 10–15 kwa format fupi kama pointi 16 au 24.
+### Muda wa Mchezo
+- Mchezo mmoja kawaida huchukua dakika 10–15 kwa muundo mfupi kama vile alama 16 au 24.
 - Panga kwa masaa 2–3 kwa mashindano yote, kulingana na idadi ya timu.
 
-### **Kupiga Alama**
-- Tumia kadi ya alama au programu kufuatilia alama za timu na kusasisha jedwali la msimamo baada ya kila mechi.
+### Kuhifadhi Alama
+- Tumia kadi ya alama au programu (kwa mfano [Padelution](https://www.padelution.com/americano)) kufuatilia alama za timu na kusasisha jedwali la cheo baada ya kila mchezo.
 
 ---
 
-## **Kwa Nini Kucheza Timu ya Mexicano?**
+## Kwa Nini Kucheza Timu ya Mexicano?
 
-Timu ya Mexicano inatoa uzoefu wa kipekee unaochanganya upangaji wa kibadilifu wa Mexicano na mkakati na urafiki wa timu iliyowekwa. Hapa kuna sababu ni chaguo zuri:
+Timu ya Mexicano inatoa uzoefu wa kipekee unaounganisha upangaji wa kinadharia wa Mexicano na mkakati na urafiki wa timu imara. Hapa kuna sababu kuu kwa nini ni chaguo zuri:
 
-1. **Ushirikiano Imara**: Kucheza na mshirika aliye thabiti husaidia kujenga imani na kuboresha mikakati.
-2. **Haki na Kupendeza**: Mfumo wa upangaji wa kibadilifu unahakikisha mechi zenye usawa kulingana na utendaji.
-3. **Inclusive na Furaha**: Kama Mexicano, format hii ni nzuri kwa wachezaji wa viwango vyote.
-4. **Ushindani Ulioimarishwa**: Timu zinajitahidi kushinda wengine huku wakiboresha ushirikiano wao.
+1. **Ushirikiano wa Nguvu**: Kucheza na mshirika imara husaidia kujenga imani na kuboresha mikakati.
+2. **Haki na Changamoto**: Mfumo wa upangaji wa kinadharia unahakikisha michezo iliyobalance kulingana na utendaji.
+3. **Inclusive na ya Kufurahisha**: Kama Mexicano, muundo huu ni mzuri kwa wachezaji wa viwango vyote.
 
 ---
 
-## **Hitimisho**
+## Hitimisho
 
-Timu ya Mexicano ni njia ya kusisimua ya kufurahia padel, ikiunganisha mkusanyiko kamili wa mkakati, ushirikiano, na ushindani wa kibadilifu. Kama unapanga mashindano au kujiunga na moja, format hii inaleta msisimko wa mchezo kuwa hai, ikiongeza uhusiano imara na mechi zisizosahaulika.
+Timu ya Mexicano ni njia ya kusisimua ya kufurahia padel, ikitoa mchanganyiko kamili wa mkakati, ushirikiano, na ushindani wa kinadharia. Iwe unapanga mashindano au kujiunga nayo, muundo huu unaiweka mchezo kuwa hai, ukiongeza uhusiano imara na michezo isiyosahaulika.
 
-Basi chukua mshirika wako, tupa mpira, na zama kwenye ulimwengu wa Timu ya Mexicano kwa uzoefu usio na kifani!
-
-jaribio
+Basi chukua mshirika wako, tayari uwanjani, na zama kwenye ulimwengu wa Timu ya Mexicano kwa uzoefu usio na kifani!

@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Najúplnejší sprievodca Team Americano
+# Najúplnejší sprievodca Teamom Americano
 
 ## Úvod
-Team Americano je dynamická a konkurenčná variácia tradičného formátu Padel Americano. Hrá sa s pevnými dvojicami hráčov a je ideálny pre skupiny, ktoré chcú zdôrazniť tímovú prácu a stratégiu. S dôrazom na spoluprácu a konzistentné partnerstvá je Team Americano ideálny pre príležitostných aj súťažných hráčov padelu.
-
-Tento sprievodca poskytuje všetko, čo potrebujete vedieť, aby ste zorganizovali, hrali a vynikali v Team Americano.
+Team Americano má rovnakú základnú myšlienku ako Padel Americano, ale namiesto toho, aby ste po každom kole menili partnerov, zostávate s rovnakým hráčom až do konca. Toto je skvelý spôsob, ako sa počas udalosti viac zoznámiť s vaším partnerom a skutočne sa dozvedieť o jeho spôsobe hry. Tým sa zlepší aj vaša hra! Ďalšou výhodou Teamu Americano je, že počas zápasu môžete stať sa lepším tímom a zvýšiť svoje šance na výhru.
 
 ---
 
-## Čo je Team Americano?
-Team Americano sa hrá s pevnými dvojicami, kde sa dva hráči spoja do tímu a súperia proti ostatným tímom v krátkych, vysokoenergetických zápasoch. Na rozdiel od tradičného Americano sa partneri nemenia, čo umožňuje tímom budovať a vykonávať dlhodobé stratégie.
+## Čo potrebujete pre Team Americano??
+Nastavenie je veľmi podobné ako pri bežnom Padel Americano. Pre optimálne zábavu sa odporúča mať aspoň 4 tímy, čo znamená 8 hráčov. Potom, v závislosti od toho, koľko hráčov máte, potrebujete padelový kurt (pozrite si tabuľku nižšie pre optimálny počet kurtov oproti počtu hráčov). Podobne ako pri bežnom Americano, je dobrý nápad mať nejaký systém alebo aplikáciu na udržiavanie skóre. Tiež na to je veľmi jednoduchá [Padelution](https://www.padelution.com/americano).
 
-- **Hráči**: 8, 12, 16 alebo viac hráčov rozdelených do tímov po dvoch.
-- **Tímy**: Zvyčajne 4 alebo viac tímov.
-- **Trvanie zápasu**: Každý zápas sa hrá na určitý počet bodov (zvyčajne 32).
-- **Skóre**: Kumulatívne body získané všetkými zápasmi určujú víťazný tím.
+| Počet tímov | Minimálny počet kurtov |
+|-------------|-------------------------|
+|     4 až 7  |            2            |
+|     8 až 11 |            3            |
+|    12 až 15 |            4            |
+|    16 až 19 |            5            |
+|    20 až 23 |            6            |
 
----
-
-## Prečo si vybrať Team Americano?
-1. **Dôraz na tímovú prácu**: Podporuje silnú spoluprácu a stratégie partnerov.
-2. **Flexibilita**: Funguje dobre pre turnaje s rôznym počtom hráčov.
-3. **Súťaživé a zábavné**: Kombinuje najlepšie aspekty súťaže a zábavy.
-4. **Škálovateľnosť**: Ľahko sa prispôsobuje pre väčšie skupiny a viacero kurtov.
+Ďalší hráči sa môžu oddýchnuť a povzbudiť ostatných
 
 ---
 
-## Ako zorganizovať turnaj Team Americano
-Organizácia turnaja Team Americano je jednoduchá s primeraným plánovaním. Postupujte podľa týchto krokov:
+## Pravidlá Teamu Americano
+Základná myšlienka spočíva v tom, že každý tím hrá proti všetkým ostatným tímom počas udalosti, takže v porovnaní s bežným Americanom sa neuskutočňuje rotácia vnútri tímov.
 
-### 1. Určte počet tímov
-Team Americano najlepšie funguje s 4 alebo viac tímami:
-- 8 hráčov = 4 tímy
-- 12 hráčov = 6 tímov
-- 16 hráčov = 8 tímov
+Napríklad hráte na dvoch kurtách a teraz ste tím A. Začínate hrať proti tímu B. Po skončení prvého kola buď zostanete na rovnakom kurte alebo prejdete na iný kurt, ale hlavná vec je, že ďalším súperom bude tím C. Po skončení druhého kola sa znovu rotujete a ďalej hráte proti tímu D.
 
-### 2. Vytvorte harmonogram zápasov
-Plánujte rotáciu, aby sa všetky tímy stretli navzájom. Pre 4 tímy (Tím A, B, C, D):
-- Zápas 1: Tím A vs. Tím B
-- Zápas 2: Tím C vs. Tím D
-- Zápas 3: Tím A vs. Tím C
-- Zápas 4: Tím B vs. Tím D
-- Pokračujte, kým všetky tímy neodohrajú.
-
-Pre viac tímov prispôsobte rotáciu tak, aby bola spravodlivá.
-
-### 3. Nastavte pravidlá zápasu
-- **Body**: Každý zápas sa hrá na pevný počet bodov (napr. 32).
-- **Výmena strán**: Vymeňujte strany každých 16 bodov na vyváženie environmentálnych faktorov.
-- **Kumulatívne skóre**: Tímy získavajú body v každom zápase, ktoré sa pripočítavajú k ich celkovému skóre.
-
-### 4. Zaznamenávanie skóre
-Použite tabuľu skóre alebo aplikáciu americano na sledovanie bodov, ktoré každý tím získa cez zápasy.
-
-### 5. Určte víťazov
-Na konci turnaja je tímu s najvyšším kumulatívnym skóre vyhlásený víťazom. V prípade remízy zvážte rozhodujúci zápas.
+Platia základné pravidlá padelu, takže ak sa nesúhlasíte s tým, či loptička bola v hre alebo mimo, je dobré opakovať bod a rýchlo pokračovať. Výber prvého podávajúceho sa tiež môže robiť spôsobom, ktorý hráči poznajú, ako napríklad hrať „loptičku podávača“ alebo hod mincou.
 
 ---
 
-## Stratégie pre Team Americano
-1. **Chemická väzba s partnerom**: Porozumejte silným a slabým stránkam vášho partnera.
-2. **Zameranie na konzistentnosť**: Snažte sa o stabilný výkon cez zápasy.
-3. **Prispôsobte sa súperom**: Vyvíjajte stratégie na zvládnutie rôznych herných štýlov.
-4. **Efektívna komunikácia**: Jasné a stručné komunikovanie môže urobiť veľký rozdiel.
+## Príklad kôl (z pohľadu tímu A):
+- Kolo 1 - Tím A vs. Tím B
+- Kolo 2 - Tím A vs. Tím C
+- Kolo 3 - Tím A vs. Tím D
+
+![Mike & Juan sú tím A](/sk/images/team-americano.png "Mike & Juan sú tím A")
 
 ---
 
-## Často kladené otázky
-### Čo ak je tímov viac ako 4?
-Pre väčšie skupiny zvyšte počet kôl, aby sa zabezpečilo, že všetky tímy súťažia spravodlivo. Môžete tiež použiť viacero kurtov na zrýchlenie zápasov.
+### Skórovanie a ako vyhrať
+Každé kolo sa zvyčajne hrá na celkový počet 32 bodov. Každý hráč podáva 4-krát pred tým, než prejde na ďalšieho podávajúceho. Dôležité je si uvedomiť, že ak váš tím získa 15 bodov a súperný tím získa 17 bodov, priradíte 15 bodov vášmu tímu a 17 bodov súpernému tímu. Celkový počet odohraných bodov je teraz 32 a vaše kolo je ukončené.
 
-### Čo sa stane, ak dve tímy majú rovnaký počet bodov?
-Na určenie víťaza sa môže hrať rozhodujúci zápas na 16 alebo 32 bodov.
+Po každom kole je dôležité zaznamenať skóre na tabuli alebo v nejakom organizovanom systéme, napríklad v Padelution. Tím s najviac nazbieranými bodmi do konca udalosti je vyhlásený za víťaza. Je dobrý nápad určiť niekoho, kto bude sledovať skóre, aby sa zabezpečilo, že všetky body budú správne zaznamenané počas celej udalosti.
 
-### Môžu začiatočníci mať radosť z Team Americano?
-Áno! Tento formát je prístupný a zábavný pre hráčov všetkých úrovní, čo ho robí ideálnym pre skupiny so zmiešanými schopnosťami.
+![Marie/Bob sú víťazný tím](/sk/images/team-americano-scores.png "Marie/Bob sú víťazný tím")
 
----
+### Po uplynutí času
+Po uplynutí času alebo keď všetky tímy hrali proti sebe aspoň dvakrát, je čas zistiť, ktorý tím nazbieral najviac bodov. Pamätajte, že na rozdiel od bežného Americano, vyhrávate a prehrávate spoločne ako tím, takže konečná tabuľka by mala zobrazovať tímy zoradené zostupne začínajúc s tímom, ktorý nazbieral najviac bodov.
 
-## Záver
-Team Americano je vzrušujúci a spoločenský spôsob, ako si užiť padel. Tento formát podporuje tímovú prácu, stratégiu a vzrušujúcu súťaživosť tým, že hráčov udržiava v konzistentných dvojiciach. S jasnými pravidlami a trochou plánovania môžete usporiadať úspešnú udalosť Team Americano, ktorú si obľúbia hráči všetkých úrovní.
-
-test
+Keď sa oficiálne zápasy skončia, prečo si neskúsiť oddýchnuť s niečím na pitie v salóne a stretnúť sa s ostatnými hráčmi? Nakoniec, socializácia je jednou z najlepších častí hrania padelu!

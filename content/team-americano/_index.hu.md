@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Az Ultimate Guide a Team Americano-hoz
+# Az Ultimátum Útmutató a Team Americano-hoz
 
 ## Bevezetés
-A Team Americano egy dinamikus és versengő változata a hagyományos Padel Americano formátumnak. Két játékosból álló fix csapatokkal játszva ez a formátum tökéletes választás olyan csoportok számára, akik szeretnék hangsúlyozni a csapatmunkát és a stratégiát. A Team Americano a közös munkára és állandó partnerkapcsolatokra összpontosítva ideális mind a laza, mind a versengő padel játékosok számára.
-
-Ez a útmutató mindent tartalmaz, amire szükséged van ahhoz, hogy szervezd, játssz, és kiemelkedj a Team Americano-ban.
+A Team Americano ugyanazt az alapötletet képviseli, mint a Padel Americano, de ahelyett, hogy minden kör után partnercserét végeznél, ugyanazzal a játékossal maradsz végig. Ez remek módja annak, hogy jobban megismerd a partneredet az esemény során, valóban megismerd a játékstílusát. Ez javítani fogja a játékodat is! A Team Americano másik előnye az, hogy a mérkőzés során jobb csapattá válhattok és növelhetitek a nyerési esélyeiteket.
 
 ---
 
-## Mi is az a Team Americano?
-A Team Americano fix párokkal játszódik, ahol két játékos alkot egy csapatot és versenyez más csapatok ellen rövid, magas energiájú meccseken. Ellentétben a hagyományos Americano-val, a partnerek nem váltakoznak, lehetővé téve a csapatoknak hosszú távú stratégiák kidolgozását és végrehajtását.
+## Mit kell tudnod a Team Americano-hoz??
+A beállítás nagyon hasonló a rendes Padel Americano-hoz. Az optimális szórakozás érdekében ajánlott legalább 4 csapatot, azaz 8 játékost tartani. Ezután attól függően, hogy hány játékosod van, szükséged lesz egy padel pályára (lásd az alábbi táblázatot az optimális pályák számához viszonyítva a játékosok számát). Hasonlóan a rendes Americano-hoz, jó ötlet valamilyen rendszert vagy alkalmazást használni az eredmények nyilvántartásához. Ebben segít a [Padelution](https://www.padelution.com/americano).
 
-- **Játékosok**: 8, 12, 16 vagy több játékos két fős csapatokba osztva.
-- **Csapatok**: Általában 4 vagy több csapat.
-- **Meccs Időtartama**: Minden meccset egy meghatározott pontszámig játszanak (általában 32).
-- **Pontozás**: Az összes meccsen elért pontok határozzák meg a győztes csapatot.
+| Csapatok száma | Minimum pályák száma |
+|-----------------|--------------------------|
+|      4-től 7-ig     |             2            |
+|     8-tól 11-ig     |             3            |
+|     12-től 15-ig    |             4            |
+|     16-tól 19-ig    |             5            |
+|     20-tól 23-ig    |             6            |
 
----
-
-## Miért válasszuk a Team Americano-t?
-1. **Csapatmunka hangsúlyozása**: Erős együttműködést és partnerstratégiákat ösztönöz.
-2. **Rugalmas**: Jól működik különböző játékosok számával rendelkező versenyek esetén.
-3. **Versengő és Szórakoztató**: Kombinálja a versengés és szórakozás legjobb aspektusait.
-4. **Skálázhatóság**: Egyszerűen alkalmazkodható nagyobb csoportokhoz és több pályához.
+Extra játékosok pihenhetnek és szurkolhatnak másoknak
 
 ---
 
-## Hogyan szervezzünk egy Team Americano versenyt
-Egy Team Americano verseny szervezése egyszerű a megfelelő tervezéssel. Kövesd ezeket lépéseket:
+## A Team Americano szabályai
+Az alapötlet az, hogy minden csapat játszik az összes többi csapat ellen az esemény során, így a rendes Americano-hoz képest nincs rotáció a csapatokon belül.
 
-### 1. Határozd meg a Csapatok Számát
-A Team Americano legjobban 4 vagy több csapattal működik:
-- 8 játékos = 4 csapat
-- 12 játékos = 6 csapat
-- 16 játékos = 8 csapat
+Például két pályán játszol és most csapat A vagy. Első körben csapat B ellen játszotok. Miután az első kör véget ér, vagy ugyanazon a pályán maradsz, vagy pályát cserélsz, de a lényeg az, hogy a következő meccsed csapat C ellen lesz. Miután a második kör véget ér, újra rotálódik mindenki, és a következő meccsed csapat D ellen lesz.
 
-### 2. Készíts Egy Meccs Menetrendet
-Tervezz egy forgórendszert, hogy minden csapat szembenézzen egymással. 4 csapat esetén (A Csapat, B Csapat, C Csapat, D Csapat):
-- Meccs 1: A Csapat vs. B Csapat
-- Meccs 2: C Csapat vs. D Csapat
-- Meccs 3: A Csapat vs. C Csapat
-- Meccs 4: B Csapat vs. D Csapat
-- Folytasd, amíg minden csapat játszott.
-
-Több csapat esetén igazítsd a forgást, hogy biztosítsd az egyenlőséget.
-
-### 3. Állítsd Be a Meccs Szabályait
-- **Pontok**: Minden meccset egy meghatározott pontszámig játszanak (pl. 32).
-- **Oldalak Váltása**: Válts oldalakat minden 16 pontnál az környezeti tényezők kiegyensúlyozására.
-- **Kumulatív Pontozás**: A csapatok pontokat szereznek minden meccsen, amelyeket hozzáadnak az összpontszámukhoz.
-
-### 4. Jegyezd fel a Pontokat
-Használj egy eredménytáblát vagy americano alkalmazást a csapatok által szerzett pontok követésére a meccsek során.
-
-### 5. Határozd meg a Győzteseket
-A verseny végén a legmagasabb kumulatív pontszámot elért csapat nyeri. Döntetlen esetén fontold meg a pótforduló meccset.
+A padel alapvető szabályai érvényesek, tehát ha nem értesz egyet abban, hogy a labda bent vagy kint volt, jó ötlet ismételni a pontot és gyorsan továbblépni. Az első adogató kiválasztása is megtörténhet a játékosok megszokott módja szerint, például a "szerváló labdájának" eljátszása vagy egy érmével dobálás.
 
 ---
 
-## Stratégiák a Team Americano-hoz
-1. **Partner Kémia**: Ismerd meg a partnered erősségeit és gyengeségeit.
-2. **Koncentrálj a Következetességre**: Törekedj az egyenletes teljesítményre a meccseken át.
-3. **Alkalmazkodj az Ellenfelekhez**: Fejlessz ki stratégiákat különböző játékstílusok ellen.
-4. **Hatékony Kommunikáció**: Világos és tömör kommunikáció sokat számíthat.
+## Példa a körökre (csapat A szemszögéből):
+- 1. kör - Csapat A vs. Csapat B
+- 2. kör - Csapat A vs. Csapat C
+- 3. kör - Csapat A vs. Csapat D
+
+![Mike & Juan csapat A](/hu/images/team-americano.png "Mike & Juan csapat A")
 
 ---
 
-## Gyakran Ismételt Kérdések
-### Mi történik, ha 4 csapatnál több van?
-Nagyobb csoportok esetén növeld a fordulók számát, hogy biztosítsd az összes csapat fair versenyét. Több pályát is használhatsz a meccsek felgyorsítására.
+### Pontozás és hogyan nyerhetsz
+Minden kör általában 32 pontig játszódik. Minden játékos 4-szer adogat, mielőtt a következő adogatóra váltanának. Fontos megjegyezni, hogy például ha a csapatod 15 pontot szerez, és az ellenfél csapata 17 pontot, akkor 15 pontot írsz a csapatodnak és 17 pontot az ellenfélnek. A játszott összpontszám most 32, és a köröd véget ér.
 
-### Mi történik, ha két csapat azonos pontszámmal zár?
-Egy döntő meccset 16 vagy 32 pontig játszhatnak a győztes meghatározására.
+Minden kör után fontos rögzíteni az eredményeket egy eredménytáblán vagy valamilyen szervezett rendszerben, például a Padelution. Az esemény végére a legtöbb pontot gyűjtő csapat nyeri. Jó ötlet valakit kijelölni az eredmények nyomon követésére, hogy biztosítsa, hogy az összes pontot helyesen rögzítik az esemény során.
 
-### Lehetnek kezdők is élvezni a Team Americano-t?
-Igen! A formátum elérhető és szórakoztató minden szintű játékos számára, így tökéletes vegyes szintű csoportok számára.
+![Marie/Bob a győztes csapat](/hu/images/team-americano-scores.png "Marie/Bob a győztes csapat")
 
----
+### Miután lejárt az idő
+Miután lejárt az idő vagy az összes csapat legalább kétszer játszott egymással, itt az ideje megnézni, melyik csapat gyűjtötte a legtöbb pontot. Ne feledd, hogy ellentétben a rendes Americano-val, együtt nyeritek és veszítitek a csapattal, így a végső eredménytáblán a csapatokat csökkenő sorrendben kell szerepeltetni, kezdve a legtöbb pontot gyűjtő csapattal.
 
-## Következtetés
-A Team Americano izgalmas és társaságkedvelő módja a padel élvezetének. A játékosokat állandó párosokban tartva a formátum támogatja a csapatmunkát, a stratégiát és egy izgalmas versengő szélt. Világos szabályok és egy kis tervezéssel sikeres Team Americano eseményt tarthatsz, amit minden szintű játékos imádni fog.
-
-test
+Miután az hivatalos mérkőzések véget értek, miért ne lazíts egy kicsit italozással a lounge-ban és ismerkedj meg más játékosokkal? Végül is a társasági élet az egyik legjobb része a padel játékának!

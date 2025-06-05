@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # De Ultieme Gids voor Team Americano
 
 ## Inleiding
-Team Americano is een dynamische en competitieve variant van het traditionele Padel Americano-formaat. Gespeeld met vaste teams van twee spelers, is dit formaat perfect voor groepen die teamwork en strategie willen benadrukken. Met de nadruk op samenwerking en consistente partnerschappen is Team Americano ideaal voor zowel casual als competitieve padelspelers.
-
-Deze gids biedt alles wat je moet weten om Team Americano te organiseren, te spelen en uit te blinken.
+Team Americano heeft hetzelfde basisidee als Padel Americano, maar in plaats van na elke ronde van partner te wisselen, blijf je bij dezelfde speler tot het einde. Dit is een geweldige manier om tijdens het evenement meer vertrouwd te raken met je partner en daadwerkelijk te leren over hun speelstijl. Dit zal ook je spel verbeteren! Een ander voordeel van Team Americano is dat je tijdens de wedstrijd een beter team kunt worden en je kansen om te winnen kunt verbeteren.
 
 ---
 
-## Wat Is Team Americano?
-Team Americano wordt gespeeld met vaste paren, waar twee spelers een team vormen en tegen andere teams spelen in korte, energieke wedstrijden. In tegenstelling tot traditioneel Americano, roteren partners niet, waardoor teams langetermijnstrategieën kunnen opbouwen en uitvoeren.
+## Wat heb je nodig voor Team Americano??
+De opstelling is erg vergelijkbaar met regulier Padel Americano. Voor optimaal plezier wordt aanbevolen om minimaal 4 teams te hebben, wat neerkomt op 8 spelers. Vervolgens, afhankelijk van het aantal spelers dat je hebt, heb je een padelbaan nodig (zie tabel hieronder voor optimale hoeveelheid banen ten opzichte van aantal spelers). Net als bij regulier Americano is het een goed idee om een soort systeem of app te hebben om de score bij te houden. Ook hiervoor maakt [Padelution](https://www.padelution.com/americano) het erg gemakkelijk.
 
-- **Spelers**: 8, 12, 16 of meer spelers verdeeld in teams van twee.
-- **Teams**: Meestal 4 of meer teams.
-- **Wedstrijdduur**: Elke wedstrijd wordt gespeeld tot een vast aantal punten (meestal 32).
-- **Scoren**: Cumulatieve punten over alle wedstrijden bepalen het winnende team.
+| Aantal teams | Minimale aantal banen |
+|--------------|------------------------|
+|     4 tot 7  |           2            |
+|     8 tot 11 |           3            |
+|    12 tot 15 |           4            |
+|    16 tot 19 |           5            |
+|    20 tot 23 |           6            |
 
----
-
-## Waarom Kiezen voor Team Americano?
-1. **Focus op Teamwork**: Moedigt sterke samenwerking en partnerstrategieën aan.
-2. **Flexibiliteit**: Werkt goed voor toernooien met verschillende aantallen spelers.
-3. **Competitief en Leuk**: Combineert de beste aspecten van competitie en plezier.
-4. **Schalbaarheid**: Gemakkelijk aan te passen voor grotere groepen en meerdere banen.
+Extra spelers kunnen rusten en anderen aanmoedigen
 
 ---
 
-## Hoe Organiseer je een Team Americano Toernooi
-Het organiseren van een Team Americano toernooi is eenvoudig met een goede planning. Volg deze stappen:
+## De regels van team Americano
+Het basisidee is dat elk team tegen alle andere teams speelt tijdens het evenement, dus in vergelijking met regulier Americano is er geen rotatie binnen de teams.
 
-### 1. Bepaal het Aantal Teams
-Team Americano werkt het beste met 4 of meer teams:
-- 8 spelers = 4 teams
-- 12 spelers = 6 teams
-- 16 spelers = 8 teams
+Bijvoorbeeld, je speelt op twee banen en je bent nu team A. Je begint te spelen tegen team B. Na de eerste ronde blijf je op dezelfde baan of wissel je van baan, maar het belangrijkste is dat je vervolgens tegen team C speelt. Na de tweede ronde wissel je allemaal weer en speel je vervolgens tegen team D.
 
-### 2. Maak een Wedstrijdschema
-Plan een rotatie zodat alle teams tegen elkaar spelen. Voor 4 teams (Team A, B, C, D):
-- Wedstrijd 1: Team A vs. Team B
-- Wedstrijd 2: Team C vs. Team D
-- Wedstrijd 3: Team A vs. Team C
-- Wedstrijd 4: Team B vs. Team D
-- Ga door totdat alle teams hebben gespeeld.
-
-Pas voor meer teams de rotatie aan om eerlijkheid te waarborgen.
-
-### 3. Stel de Wedstrijdregels in
-- **Punten**: Elke wedstrijd wordt gespeeld tot een vast aantal punten (bijv. 32).
-- **Van kant wisselen**: Wissel van kant na elke 16 punten om omgevingsfactoren in evenwicht te brengen.
-- **Cumulatieve Score**: Teams verdienen punten in elke wedstrijd, die worden toegevoegd aan hun totaalscore.
-
-### 4. Noteer Scores
-Gebruik een scorebord of een americano-app om de punten bij te houden die elk team verdient in de wedstrijden.
-
-### 5. Bepaal de Winnaars
-Aan het einde van het toernooi wordt het team met de hoogste cumulatieve score uitgeroepen tot winnaar. In geval van een gelijkspel, overweeg een beslissingswedstrijd.
+De basisregels van padel zijn van toepassing, dus als je het niet eens bent over of een bal in of uit was, is het goed om het punt te herhalen en snel verder te gaan. Het kiezen van de eerste serveerder kan ook worden gedaan op de manier waarop de spelers gewend zijn, zoals het spelen van een "serveerderbal" of het opgooien van een munt.
 
 ---
 
-## Strategieën voor Team Americano
-1. **Chemie met Partner**: Begrijp de sterke en zwakke punten van je partner.
-2. **Focus op Consistentie**: Streef naar een stabiele prestatie over de wedstrijden.
-3. **Aanpassen aan Tegenstanders**: Ontwikkel strategieën om verschillende speelstijlen tegen te gaan.
-4. **Effectief Communiceren**: Duidelijke en beknopte communicatie kan het verschil maken.
+## Voorbeeld van rondes (vanuit het perspectief van team A):
+- Ronde 1 - Team A vs. Team B
+- Ronde 2 - Team A vs. Team C
+- Ronde 3 - Team A vs. Team D
+
+![Mike & Juan zijn team A](/nl/images/team-americano.png "Mike & Juan zijn team A")
 
 ---
 
-## Veelgestelde Vragen
-### Wat als er meer dan 4 teams zijn?
-Voor grotere groepen, verhoog het aantal rondes om ervoor te zorgen dat alle teams eerlijk tegen elkaar spelen. Je kunt ook meerdere banen gebruiken om de wedstrijden te versnellen.
+### Scoren en hoe te winnen
+Elke ronde wordt meestal gespeeld tot een totaal van 32 punten. Elke speler serveert 4 keer voordat hij doorgaat naar de volgende serveerder. Een belangrijk punt om te onthouden is dat, bijvoorbeeld, als jouw team 15 punten verdient en het tegenstandende team 17 punten verdient, je 15 punten aan jouw team toewijst en 17 punten aan het tegenstandende team. Het totale aantal gespeelde punten is nu 32 en je ronde is afgelopen.
 
-### Wat gebeurt er als twee teams gelijkspelen in totaal aantal punten?
-Er kan een beslissingswedstrijd van 16 of 32 punten worden gespeeld om de winnaar te bepalen.
+Na elke ronde is het essentieel om de scores bij te houden op een scorebord of in een georganiseerd systeem, bijvoorbeeld Padelution. Het team met de meeste punten aan het einde van het evenement wordt uitgeroepen tot de winnaar. Het is een goed idee om iemand aan te wijzen om de scores bij te houden, zodat alle punten gedurende het evenement correct worden geregistreerd.
 
-### Kunnen beginners genieten van Team Americano?
-Ja! Het formaat is toegankelijk en leuk voor spelers van alle niveaus, waardoor het perfect is voor groepen met verschillende vaardigheidsniveaus.
+![Marie/Bob zijn het winnende team](/nl/images/team-americano-scores.png "Marie/Bob zijn het winnende team")
 
----
+### Na afloop van de tijd
+Na afloop van de tijd of nadat alle teams minstens twee keer tegen elkaar hebben gespeeld, is het tijd om te zien welk team de meeste punten heeft verzameld. Onthoud dat, in tegenstelling tot bij regulier Americano, je samen als team wint en verliest, dus het eindklassement moet de teams tonen georganiseerd in aflopende volgorde, te beginnen met het team dat de meeste punten heeft verzameld.
 
-## Conclusie
-Team Americano is een spannende en sociale manier om van padel te genieten. Door spelers in consistente paren te houden, bevordert het formaat teamwork, strategie en een opwindend competitief element. Met duidelijke regels en wat planning kun je een succesvol Team Americano-evenement organiseren waar spelers van alle niveaus van zullen genieten.
-
-test
+Nadat de officiële wedstrijden voorbij zijn, waarom niet ontspannen met wat drankjes in de lounge en mengen met andere spelers? Uiteindelijk is socializen een van de leukste aspecten van padel spelen!

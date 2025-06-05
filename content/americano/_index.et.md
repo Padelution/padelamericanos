@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Juhend
+weight: 1
 ---
-# Kõik Padel Americano kohta
+# Padel Americano - Kõik, mida pead teadma
 
-Padel Americano on lõbus, sotsiaalne ja konkurentsivõimeline padeli formaat, mis sobib ideaalselt mängijatele kõigil oskustasemetel. Erinevalt traditsioonilistest padeli mängudest keskendub Americano pöörlemisele ja meeskonna mitmekesisusele, muutes selle populaarseks valikuks turniiride, liigade ja juhuslike koosviibimiste jaoks. Siin on põhjalik juhend Padel Americano mõistmiseks ja mängimiseks.
-
----
-
-## **Mis on Padel Americano?**
-
-Americano Padel on turniiri formaat, kus osalejad mängivad paarides, kuid nende partnerid ja vastased vahetuvad ürituse jooksul. Eesmärk on saada võimalikult palju punkte, kas individuaalselt või paarina, olenevalt variandist.
+Padel americano on suurepärane alternatiiv originaalsele padeli mängimise viisile. Padel americano põhiline idee on see, et pärast iga ringi pöörduvad tiimid, nii et iga mängija mängib iga teisega. Just see teebki Americano nii populaarseks ja lõbusaks! Pika aja jooksul sama partneriga mängimine hakkab põnevust kaotama, seetõttu peaks igaüks proovima Padel Americanot. See on ka väga hea viis uute inimestega kohtumiseks ja nendega mängimiseks. Mängijatele, kes soovivad samuti paremaks saada, aitab see mängida erineva tasemega mängijatega.
 
 ---
 
-## **Padel Americano põhireeglid**
+## Mida on vaja Americano mängimiseks
 
-### **1. Mängu seadistus**
-- **Mängijate arv:** Tavaliselt osaleb 8 mängijat kahe väljakul. Suuremad grupid (nt 16 mängijat) võivad kasutada rohkem väljakuid. Mõned Americano tarkvarad toetavad ka erinevaid mängijate arve.
-- **Mängu kestus:** Iga mängu mängitakse kindla punktisummani.
-- **Punktiarvestus:** Iga mängija individuaalsed punktid jälgitakse, sõltumata nende partnerist.
+Americano mängimiseks ei ole vaja palju lisavarustust võrreldes originaalse mängimisviisiga. Muidugi on vaja mängijaid ja tavaliselt on lõbusa aja veetmiseks hea, kui on vähemalt 8 mängijat ja võimalusel broneeritud 2 väljakut (Vaata rohkem näiteid allolevast tabelist). Kui sul on 8 mängijat, on hea väljaku broneerimise kestvus 2 tundi.
+
+| Mängijate arv                                           | Minimaalne väljakute arv |
+|--------------------------------------------------------|--------------------------|
+|                           4 kuni 7                      |             1            |
+|                          8 kuni 11                      |             2            |
+|                          12 kuni 15                     |             3            |
+|                          16 kuni 19                     |             4            |
+|                          20 kuni 23                     |             5            |
+
+
+
+Lisamängijad saavad puhata ja kaasa elada, kui teised mängivad
+
+Lisaks on vaja palle kõigile väljakutele ja muud põhivarustust kõigile mängijatele, nagu reketid. Enne alustamist on hea jagada kõik mängijad väljakutele ja veenduda, et iga mängija teab, kuidas mängida padelit ning seejärel selgitada, kuidas Padel Americano toimib. Üks oluline asi on omada head ja lihtsalt kasutatavat tööriista punktide pidamiseks pärast iga ringi. Üks suurepärane näide on Padelution.com.
+
+## Sul on vaja:
+
+- Mängijad põhivarustusega padeli mängimiseks, st spordirõivad, padeli reket ja jalatsid.
+- Broneeritud väljakud vastavalt liituvate mängijate arvule.
+- Palle iga väljaku jaoks, optimaalselt kolm palli väljaku kohta.
+- Süsteem punktide pidamiseks, nt [Padelution](https://padelution.com/americano)
+- Vähemalt üks isik, kes selgitab reegleid ja veendub, et kõik punktid kogutakse pärast iga ringi.
+
+---
+## Padel Americano reeglid
+
+Reeglid on lihtsad ja kergesti õpitavad. Põhiline idee on see, et iga mängija mängib iga teisega sündmuse käigus. Samuti peaksid kõik kohtuma kaks korda, kuid see sõltub ka mängimiseks reserveeritud ajast.
+
+Võitmiseks pead koguma kõige rohkem punkte, seega selles formaadis kogud punkte enda jaoks. Näiteks mängid kahe väljaku peal ja oled nüüd mängija A. Alustad mängijaga B ja mängid mängijate C & D vastu. Pärast sinu ringi lõppu jääte kas samale väljakule või vahetate väljakuid, kuid peamine on see, et järgmisena mängid mängijaga C mängijate B ja D vastu. Pärast teise ringi lõppu pöördute kõik uuesti ja järgmisena mängite mängijaga F mängijate G & H vastu.
+
+Padeli põhireeglid kehtivad, seega kui on erinevad arvamused, kas pall oli väljas, on hea punkt korrata ja liikuda edasi üsna kiiresti. Esimese pallingu valimine võib toimuda viisil, kuidas mängijad on harjunud, olgu selleks siis "pallingu mängimine" või mündi viskamine. Iga mängija teeb neli pallinguvooru ja seejärel pöörate pallingu vastasmeeskonnale.
+
+![Padel Americano punktid!](/et/images/padel-americano.png "Padel Americano punktid!")
+
+### Ringide näide (mängija A vaatenurgast):
+- Ring 1 - Mängijad A&B vs. mängija C&D
+- Ring 2 - Mängijad A&C vs. mängija B&D
+- Ring 3 - Mängijad A&F vs. mängija G&H
 
 ---
 
-### **2. Mängu pöörlemine**
-- Iga ringi järel segatakse partnerid ja vastased ümber eelnevalt kokkulepitud ajakava järgi. See tagab, et kõik mängivad erinevate mängijatega.
-- Pööramissüsteem tasakaalustab üldist võistlust ja soodustab sotsiaalset suhtlust mängijate vahel.
+### Punktid ja kuidas võita
+Iga ringi mängitakse tavaliselt kuni kokku 32 punktini ja iga mängija teeb neli pallinguvooru, seejärel pöörate pallingu. Näiteks, kui teie tiim kogub 15 punkti ja teine tiim kogub 17 punkti. See tähendab, et mängitud punktide koguarv on nüüd 32, seega on aeg pöörata.
+
+Punktiarvestussüsteemi lisate siis 15 punkti teie tiimile / mõlemale teist ja vastane saab 17 punkti igaüks. Oletame, et sina ja su partner saate teise mängu ajal 20 punkti, mis tähendab, et vastaste punktisumma on 12 punkti.
+
+Võite ka määrata kindla aja ja mängida kuni aeg on täis ning koguda punkte selleks ajaks. Pärast iga ringi mängimist on oluline punktid mõnes süsteemis või tahvlil kokku arvutada.
+
+Mängija, kes on pärast sündmust kogunud kõige rohkem punkte, on võitja. Tavaliselt on hea mõte määrata keegi vastutavaks punktide kogumise eest, et kõik punktid registreeritaks pärast sündmust.
 
 ---
 
-### **3. Punktiarvestussüsteem**
-- Punkte antakse individuaalselt vastavalt mängu tulemusele:
-  - **Iga mängija:** teenib nii palju punkte kui palju võidetud palle nad saavad.
+### Millal on aeg mängimine lõpetada
+Kui aeg on täis, on aeg vaadata, kes kogus kõige rohkem punkte. Muidugi, kui kõigiga pole veel mängitud pärast aja lõppu, võib mängida lisaringe. Kui aeg saab enne, kui kõik on kõigiga mänginud, on tavaliselt hea mõte lihtsalt võrdsustada punktid kõigiga.
+
+![Padel Americano punktitabel!](/et/assets/padel-americano-scoreboard.png "Padel Americano punktitabel!")
+
+Pärast ametliku mängimise osa lõppu, miks mitte nautida mõnda jooki lounges, kui võimalik, ja suhelda teiste mängijatega? See on niikuinii üks parimaid aspekte padelis!
 
 ---
 
-### **4. Mängu formaat**
-- Mänge mängitakse tavaliselt **32 punktini**.
-- Iga mängija servib 4 korda järjest. Näiteks mängivad mängijad A ja B vastu mängijaid C ja D. A alustab servimist ja servib 4 korda, seejärel C servib 4 korda, seejärel B servib 4 korda, seejärel D servib 4 korda. Kokku mängitakse 16 punkti. Seejärel alustab mängija A uut ringi ja servib 4 korda jne.
-- Kui mäng jõuab seisuni 16-16, on mäng viigis ja mõlemad mängijad teenivad 16 punkti.
+## Padel Americano variatsioonid
 
----
-
-### **5. Väljaku reeglid**
-- Padel Americano järgib standardset padeli väljaku ja mängureegleid:
-  - Mänge mängitakse paarismänguna.
-  - Pall peab põrkama enne seinte või aia tabamist.
-  - Servitakse diagonaalselt ja pall peab maanduma vastase servikasti.
-  - Punkti saab, kui vastane ei suuda palli tagasi lüüa või rikub mõnda reeglit.
-
----
-
-## **Padel Americano variatsioonid**
-
-### **1. Meeskonna Americano**
-- Mängijad jagunevad meeskondadeks ja mängivad koos teiste meeskondade vastu.
+### [1. Meeskonna Americano](/et/team-americano)
+- Mängijad jagunevad meeskondadeks ja mängivad koos meeskonnana teiste meeskondade vastu.
 - Julgustab koostööd ja meeskonnavaimu.
 
-### **2. Ajapõhine Americano**
+### 2. Ajapõhine Americano
 - Mänge mängitakse kindla aja (nt 10 minutit) jooksul, sõltumata punktisummast.
 - Hoiab turniiri tõhusalt liikumas.
 
-### **3. Segapaaride Americano (Mixicano)**
+### [3. Segatud Americano (Mixicano)](/et/mixicano)
 - Mees- ja naismängijad vahetavad partnereid ringide vahel.
-- Vasakpoolne ja parempoolne mängija mängivad alati koos, nii et ühes meeskonnas ei ole kahte mängijat, kes eelistavad mängida vasakul või paremal küljel.
+- Vasakpoolne ja parempoolne mängija mängivad alati koos, nii et ühes meeskonnas ei ole kahte mängijat, kes eelistavad vasakut või paremat külge.
 - Edendab kaasatust ja mitmekesisust mängus.
-
----
-
-## **Padel Americano võitmine**
-
-Kõigi ringide lõpus kuulutatakse võitjaks mängija, kellel on kõrgeim individuaalne punktisumma. Meeskonnaformaadis võidab turniiri meeskond, kellel on kõige rohkem punkte.
-
----
-
-## **Miks mängida Padel Americanot?**
-
-1. **Sotsiaalne suhtlus:** Mängijad saavad suhelda kõigiga, mis on suurepärane võimalus uute inimestega kohtumiseks ja kogukonna loomiseks.
-2. **Kaasatus:** Sobib kõigil oskustasemetel mängijatele, kuna paarid on juhuslikud.
-3. **Kiire tempoga lõbu:** Kiire pöörlemine hoiab energiat kõrgel ja kõrvaldab pikad ooteajad mängude vahel.
-
----
-
-## **Edu saavutamiseks mõned näpunäited**
-
-1. **Kiire kohandumine:** Ole valmis kohandama oma mängustiili vastavalt partneri tugevustele ja nõrkustele.
-2. **Keskendu järjepidevusele:** Rohkemate punktide võitmine mitme ringi jooksul on parem kui panustamine ühele mängule.
-3. **Jää positiivseks:** Rõõmus suhtumine võib motiveerida sinu partnerit ja parandada üldist esitust.
-
----
-
-### **Järeldus**
-
-Padel Americano on mitmekülgne ja meelelahutuslik formaat, mis toob esile parima padeli sotsiaalsest ja konkurentsivõimelisest küljest. Olgu tegemist sõbraliku matši või suuremahulise turniiriga, need reeglid pakuvad põneva ja meeldejääva sündmuse aluse. Võta oma reket, mine väljakule ja naudi Americano põnevust!
-
----
-
-**Kas sul on endal näpunäiteid või kogemusi Padel Americanoga? Jagage neid meiega!**
-
-test

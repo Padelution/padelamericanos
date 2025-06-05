@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Panduan
+weight: 1
 ---
-# Segalanya Tentang Padel Americano
+# Padel Americano - Semua yang perlu anda tahu
 
-Padel Americano adalah format padel yang menyeronokkan, sosial, dan kompetitif yang sesuai untuk pemain dari semua peringkat kemahiran. Berbeza dengan perlawanan padel tradisional, Americano memberi tumpuan kepada pusingan dan variasi pasukan, menjadikannya pilihan popular untuk kejohanan, liga, dan perjumpaan santai. Berikut adalah panduan lengkap untuk memahami dan bermain Padel Americano.
-
----
-
-## **Apakah Padel Americano?**
-
-Padel Americano adalah format kejohanan di mana peserta bermain secara berpasangan, tetapi rakan sepasukan dan lawan mereka bertukar-tukar sepanjang acara. Objektifnya adalah untuk mendapatkan sebanyak mungkin mata, sama ada secara individu atau sebagai pasangan, bergantung kepada variasi.
+Padel americano adalah alternatif hebat kepada cara asal bermain padel. Idea asas padel americano adalah bahawa semasa acara, selepas setiap pusingan, anda menukar pasukan supaya setiap pemain bermain dengan setiap orang. Ini menjadikan Americano begitu popular dan menyeronokkan! Bermain dengan rakan yang sama untuk jangka masa yang lama mula kehilangan keghairahan, dan itulah sebabnya mengapa semua orang harus mencuba Padel Americano. Ia juga cara yang sangat baik untuk berkenalan dengan orang baru dan bermain bersama mereka. Bagi pemain yang juga ingin menjadi lebih baik, bermain dengan pelbagai tahap pemain membantu.
 
 ---
 
-## **Peraturan Asas Padel Americano**
+## Apa yang diperlukan untuk bermain Americano
 
-### **1. Persediaan Perlawanan**
-- **Bilangan Pemain:** Biasanya, 8 pemain mengambil bahagian di atas dua gelanggang. Kumpulan yang lebih besar (contohnya, 16 pemain) boleh menggunakan lebih banyak gelanggang. Sesetengah perisian americano juga menyokong bilangan pemain yang berbeza.
-- **Tempoh Permainan:** Setiap perlawanan dimainkan untuk bilangan mata tertentu.
-- **Penjuru:** Skor individu dikesan untuk setiap pemain, tanpa mengira rakan sepasukan mereka.
+Untuk bermain Americano, anda tidak memerlukan banyak perkara tambahan berbanding cara asal bermain. Tentu saja, anda perlu pemain, dan biasanya, untuk berseronok, adalah baik untuk mempunyai sekurang-kurangnya 8 pemain dan, jika mungkin, 2 gelanggang yang ditempah (Lihat lebih banyak contoh dari jadual di bawah). Jika anda mempunyai 8 pemain, tempoh yang baik untuk tempahan gelanggang adalah 2 jam.
+
+| Bilangan pemain                                         | Bilangan minimum gelanggang |
+|--------------------------------------------------------|--------------------------|
+|                           4 hingga 7                   |             1            |
+|                          8 hingga 11                   |             2            |
+|                          12 hingga 15                  |             3            |
+|                          16 hingga 19                  |             4            |
+|                          20 hingga 23                  |             5            |
+
+
+
+Pemain tambahan boleh berehat dan memberi semangat sementara yang lain sedang bermain
+
+Kemudian tentu saja anda memerlukan bola untuk semua gelanggang dan peralatan asas lain untuk semua pemain, seperti raket. Sebelum memulakan, adalah baik untuk mengasingkan semua pemain ke dalam gelanggang dan memastikan setiap pemain tahu cara bermain padel dan kemudian menerangkan bagaimana Padel Americano berfungsi. Satu perkara penting adalah mempunyai alat yang baik dan mudah digunakan untuk menyimpan mata selepas setiap pusingan. Satu contoh hebat adalah Padelution.com.
+
+## Anda akan memerlukan:
+
+- Pemain dengan peralatan asas untuk bermain padel, iaitu pakaian sukan, raket padel, dan kasut.
+- Gelanggang yang ditempah bergantung kepada bilangan pemain yang menyertai.
+- Bola untuk setiap gelanggang, dengan tiga bola setiap gelanggang adalah optimum.
+- Sistem untuk menyimpan mata, iaitu [Padelution](https://padelution.com/americano)
+- Sekurang-kurangnya satu orang untuk menerangkan peraturan dan memastikan semua mata dikumpulkan selepas setiap pusingan.
+
+---
+## Peraturan Padel Americano
+
+Peraturannya adalah mudah dan mudah dipelajari. Idea asasnya adalah setiap pemain bermain dengan setiap orang semasa acara. Juga, setiap orang harus berhadapan dengan setiap orang dua kali, tetapi ini juga bergantung pada masa yang diperuntukkan untuk bermain.
+
+Untuk menang, anda perlu mengumpulkan jumlah mata yang terbesar, jadi dalam format ini, anda mengumpulkan mata untuk diri sendiri. Sebagai contoh, anda bermain di dua gelanggang dan anda sekarang pemain A. Anda mula dengan pemain B dan bermain melawan pemain C & D. Selepas pusingan anda selesai, anda akan kekal di gelanggang yang sama atau menukar gelanggang, tetapi perkara utamanya adalah anda akan bermain dengan pemain C seterusnya menentang pemain B dan D. Selepas pusingan kedua selesai, anda semua akan bergilir lagi, dan seterusnya, anda bermain dengan pemain F menentang G & H.
+
+Peraturan asas padel digunakan, jadi jika terdapat pandangan yang berbeza tentang sama ada bola itu keluar, adalah baik untuk mengulangi poin tersebut dan teruskan dengan cepat. Memilih pelayan pertama juga boleh dilakukan dengan cara pemain biasa, jadi bermain dengan "bola pelayan" atau melempar syiling. Setiap pemain melayan empat poin, dan kemudian anda menukar pelayan dengan pasukan lawan.
+
+![Mata Padel Americano!](/ms/images/padel-americano.png "Mata Padel Americano!")
+
+### Contoh pusingan (dari perspektif Pemain A):
+- Pusingan 1 - Pemain A&B vs. pemain C&D
+- Pusingan 2 - Pemain A&C vs. pemain B&D
+- Pusingan 3 - Pemain A&F vs. pemain G&H
 
 ---
 
-### **2. Pusingan Perlawanan**
-- Selepas setiap pusingan, rakan sepasukan dan lawan ditukar mengikut jadual yang telah dirancang terlebih dahulu. Ini memastikan setiap orang bermain dengan dan menentang pemain yang berbeza.
-- Sistem pusingan menyeimbangkan persaingan keseluruhan dan menggalakkan interaksi sosial di kalangan pemain.
+### Penjaringan dan cara untuk menang
+Setiap pusingan biasanya dimainkan sehingga jumlah 32 mata, dan setiap pemain melayan 4 kali, dan kemudian anda menukar pelayan. Sebagai contoh, katakanlah bahawa pasukan anda mengumpulkan 15 mata, dan pasukan lain mengumpulkan 17 mata. Ini bermakna jumlah mata yang dimainkan sekarang adalah 32, jadi sudah tiba masanya untuk bergilir.
+
+Kepada sistem penjaringan, anda kemudian tambahkan 15 mata kepada pasukan anda / kedua-dua anda, dan lawan mendapat 17 mata setiap orang. Kemudian katakanlah bahawa anda dan rakan anda mendapat 20 mata semasa perlawanan kedua, yang bermakna mata lawan adalah 12 mata.
+
+Sebagai alternatif, anda juga boleh mempunyai masa tetap dan bermain sehingga masa habis dan mengumpulkan mata sehingga itu. Selepas setiap pusingan dimainkan, adalah penting untuk menambah mata dalam sistem atau papan mata.
+
+Pemain yang telah mengumpulkan paling banyak mata selepas acara selesai adalah pemenang. Biasanya adalah idea yang baik untuk mempunyai seseorang yang bertanggungjawab untuk mengumpulkan mata supaya semua mata didaftarkan selepas acara.
 
 ---
 
-### **3. Sistem Penjuru**
-- Mata diberikan secara individu berdasarkan hasil perlawanan:
-  - **Setiap pemain:** mendapat sebanyak mata seperti bilangan bola yang dimenangi.
+### Apabila tiba masanya untuk berhenti bermain
+Selepas masa tamat, adalah masanya untuk melihat siapa yang mengumpulkan paling banyak mata. Tentu saja, jika masih ada masa selepas semua orang bermain dengan setiap orang, anda boleh bermain pusingan tambahan. Jika masa tamat sebelum semua orang bermain menentang setiap orang, adalah baik untuk hanya menyamakan mata dengan semua orang.
+
+![Papan Mata Padel Americano!](/ms/assets/padel-americano-scoreboard.png "Papan Mata Padel Americano!")
+
+Selepas bahagian rasmi bermain selesai, mengapa tidak menikmati minuman di ruang rehat jika memungkinkan dan bersosialisasi dengan pemain lain? Itulah salah satu aspek terbaik Padel!
 
 ---
 
-### **4. Format Perlawanan**
-- Perlawanan biasanya dimainkan hingga **32 mata**.
-- Setiap pemain menyajikan 4 kali berturut-turut. Contohnya, pemain A dan B berlawan menentang C dan D. A mula menyajikan dan menyajikan 4 kali, kemudian C menyajikan 4 kali, kemudian B menyajikan 4 kali, kemudian D menyajikan 4 kali. Kemudian jumlah 16 mata dimainkan. Kemudian pemain A mula menyajikan pusingan baru dan menyajikan 4 kali dan seterusnya.
-- Jika permainan mencapai seri pada 16-16, permainan akan dianggap seri dan kedua-dua pemain akan mendapat 16 mata.
+## Variasi Padel Americano
 
----
+### [1. Team Americano](/ms/team-americano)
+- Pemain dibahagikan kepada pasukan, dan bermain bersama sebagai pasukan menentang pasukan lain.
+- Mendorong kerjasama dan semangat pasukan.
 
-### **5. Peraturan Gelanggang**
-- Padel Americano mengikuti peraturan gelanggang padel standard dan permainan:
-  - Perlawanan dimainkan dalam format berganda.
-  - Bola harus memantul sekali sebelum mengenai dinding atau pagar.
-  - Pelayan dibuat secara diagonal dan harus mendarat di petak perkhidmatan lawan.
-  - Satu mata akan diperoleh jika lawan gagal mengembalikan bola atau melanggar sebarang peraturan.
+### 2. Time-Based Americano
+- Perlawanan dimainkan untuk masa tetap (contohnya, 10 minit), tanpa mengira mata.
+- Menjaga kecekapan turnamen.
 
----
-
-## **Varian Padel Americano**
-
-### **1. Team Americano**
-- Pemain dibahagikan kepada pasukan, dan bermain bersama sebagai satu pasukan menentang pasukan lain.
-- Menggalakkan kerjasama dan semangat pasukan.
-
-### **2. Time-Based Americano**
-- Perlawanan dimainkan untuk masa yang tetap (contohnya, 10 minit), tanpa mengira skor.
-- Menyokong pergerakan kejohanan secara cekap.
-
-### **3. Mixed Americano (Mixicano)**
-- Pemain lelaki dan perempuan bertukar-tukar rakan sepasangan setiap pusingan.
-- Pemain sisi kiri dan kanan sentiasa bermain bersama, jadi tidak akan ada dua pemain yang lebih suka sisi kiri atau kanan dalam pasukan yang sama.
+### [3. Mixed Americano (Mixicano)](/ms/mixicano)
+- Pemain lelaki dan perempuan bergilir pasangan di setiap pusingan.
+- Pemain sisi kiri dan sisi kanan sentiasa bermain bersama, jadi tidak akan ada dua pemain yang lebih suka sisi kiri atau kanan dalam pasukan yang sama.
 - Mempromosikan inklusiviti dan variasi dalam permainan.
-
----
-
-## **Menang dalam Padel Americano**
-
-Pada akhir semua pusingan, pemain dengan mata individu tertinggi diisytiharkan sebagai pemenang. Dalam format pasukan, pasukan dengan mata terbanyak memenangi kejohanan.
-
----
-
-## **Mengapa Bermain Padel Americano?**
-
-1. **Interaksi Sosial:** Pemain berpeluang berinteraksi dengan semua orang, menjadikannya cara yang hebat untuk berjumpa dengan orang baru dan membina komuniti.
-2. **Inklusiviti:** Sesuai untuk pemain dari semua peringkat kemahiran, kerana pasangan dipilih secara rawak.
-3. **Keseronokan Berkelajuan Tinggi:** Pusingan cepat mengekalkan tenaga tinggi dan menghapuskan jeda yang panjang di antara perlawanan.
-
----
-
-## **Petua untuk Kejayaan**
-
-1. **Adaptasi Dengan Cepat:** Sedia untuk menyesuaikan gaya bermain anda untuk sepadan dengan kekuatan dan kelemahan rakan sepasukan anda.
-2. **Tumpukan Kepada Konsistensi:** Memenangi lebih banyak mata dalam beberapa pusingan adalah lebih baik daripada menumpukan kepada satu perlawanan sahaja.
-3. **Kekal Positif:** Sikap ceria boleh memotivasikan rakan sepasukan anda dan meningkatkan prestasi keseluruhan anda.
-
----
-
-### **Kesimpulan**
-
-Padel Americano adalah format yang serba boleh dan menghiburkan yang menonjolkan sisi sosial dan kompetitif padel. Sama ada anda mengatur perlawanan mesra atau kejohanan sepenuhnya, peraturan-peraturan ini memberikan asas untuk acara yang mengujakan dan berkesan. Ambil raket anda, ke gelanggang, dan nikmati keseronokan Americano!
-
----
-
-**Adakah anda mempunyai petua atau pengalaman sendiri dengan Padel Americano? Kongsi dengan kami!**
-
-test

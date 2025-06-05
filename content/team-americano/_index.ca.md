@@ -1,87 +1,57 @@
 ---
-draft: false
+esborrany: fals
+barra lateral:
+  excloure: cert
 ---
 
 # La Guia Definitiva per a l'Equip Americano
 
 ## Introducció
-L'Equip Americano és una variació dinàmica i competitiva del format tradicional de Padel Americano. Jugat amb equips fixes de dos jugadors, aquest format és perfecte per a grups que volen posar l'accent en el treball d'equip i l'estratègia. Amb un enfocament en la col·laboració i les associacions constants, l'Equip Americano és ideal tant per a jugadors de padel casuals com competitius.
-
-Aquesta guia proporciona tot el que necessites saber per organitzar, jugar i destacar en l'Equip Americano.
+L'Equip Americano té la mateixa idea bàsica que el Padel Americano, però en lloc de canviar de parella després de cada ronda, t'has de quedar amb el mateix jugador fins al final. Aquesta és una gran manera de conèixer millor el teu company durant l'esdeveniment i realment aprendre sobre la seva manera de jugar. Això també millorarà el teu joc! Un altre avantatge de l'Equip Americano és que durant el partit, podeu esdevenir un millor equip i millorar les vostres probabilitats de guanyar.
 
 ---
 
-## Què és l'Equip Americano?
-L'Equip Americano es juga amb parelles fixes, on dos jugadors formen un equip i competeixen contra altres equips en partits curts i d'alta energia. A diferència de l'Americano tradicional, els socis no roten, permetent als equips construir i executar estratègies a llarg termini.
+## Què necessites per a l'Equip Americano??
+La configuració és molt similar al Padel Americano regular. Per a una diversió òptima, es recomana tenir com a mínim 4 equips, el que significa 8 jugadors. Llavors, depenent de quants jugadors tinguis, necessites una pista de pádel (consulta la taula següent per a la quantitat òptima de pistes en funció de la quantitat de jugadors). De manera similar al Americano regular, és una bona idea tenir algun tipus de sistema o aplicació per mantenir la puntuació. A més, per a això, [Padelution](https://www.padelution.com/americano) ho fa molt fàcil.
 
-- **Jugadors**: 8, 12, 16 o més jugadors dividits en equips de dos.
-- **Equips**: Normalment 4 o més equips.
-- **Durada del Partit**: Cada partit es juga fins a un nombre fix de punts (normalment 32).
-- **Puntuació**: Els punts acumulatius a través de tots els partits determinen l'equip guanyador.
+| Nombre d'equips | Nombre mínim de pistes |
+|-----------------|--------------------------|
+|      4 a 7     |             2            |
+|     8 a 11     |             3            |
+|     12 a 15    |             4            |
+|     16 a 19    |             5            |
+|     20 a 23    |             6            |
 
----
-
-## Per què triar l'Equip Americano?
-1. **Èmfasi en el Treball d'Equip**: Fomenta una col·laboració forta i estratègies de parella.
-2. **Flexibilitat**: Funciona bé per a tornejos amb diversos nombres de jugadors.
-3. **Competitiu i Divertit**: Combina els millors aspectes de la competició i el gaudi.
-4. **Escalabilitat**: Fàcil d'adaptar per a grups més grans i múltiples pistes.
+Els jugadors addicionals poden descansar i animar els altres
 
 ---
 
-## Com Organitzar un Torneig d'Equip Americano
-Organitzar un torneig d'Equip Americano és senzill amb una planificació adequada. Segueix aquests passos:
+## Les normes de l'Equip Americano
+La idea bàsica és que cada equip jugui contra tots els altres equips durant l'esdeveniment, així que en comparació amb el Americano regular, no hi ha rotació dins dels equips.
 
-### 1. Determinar el Nombre d'Equips
-L'Equip Americano funciona millor amb 4 o més equips:
-- 8 jugadors = 4 equips
-- 12 jugadors = 6 equips
-- 16 jugadors = 8 equips
+Per exemple, esteu jugant en dues pistes i ara sou l'equip A. Comenceu a jugar contra l'equip B. Després que s'hagi acabat la primera ronda, bé us quedeu a la mateixa pista o canvieu de pistes, però la cosa principal és que a continuació jugareu contra l'equip C. Després que s'hagi acabat la segona ronda, tots rotareu de nou, i a continuació jugareu contra l'equip D.
 
-### 2. Crear un Calendari de Partits
-Planeja una rotació perquè tots els equips es enfrontin entre ells. Per a 4 equips (Equip A, B, C, D):
-- Partit 1: Equip A vs. Equip B
-- Partit 2: Equip C vs. Equip D
-- Partit 3: Equip A vs. Equip C
-- Partit 4: Equip B vs. Equip D
-- Continua fins que tots els equips hagin jugat.
-
-Per a més equips, ajusta la rotació adequadament per garantir la equitat.
-
-### 3. Establir les Normes del Partit
-- **Punts**: Cada partit es juga fins a un nombre fix de punts (p. ex., 32).
-- **Canvi de Bandes**: Canvia de banda cada 16 punts per equilibrar els factors ambientals.
-- **Puntuació Acumulativa**: Els equips guanyen punts en cada partit, que s'afegeixen a la seva puntuació total.
-
-### 4. Registrar les Puntuacions
-Utilitza un marcador o aplicació americano per seguir els punts que guanya cada equip en els partits.
-
-### 5. Determinar els Guanyadors
-Al final del torneig, l'equip amb la puntuació acumulativa més alta és declarat guanyador. En cas d'empat, considera un partit de desempat.
+S'apliquen les normes bàsiques del pádel, així que si no esteu d'acord sobre si una pilota va ser dins o fora, és bo repetir el punt i avançar ràpidament. La selecció del primer servidor també es pot fer de la manera en què els jugadors estan acostumats, com ara jugar una "bola del servidor" o llançar una moneda.
 
 ---
 
-## Estratègies per a l'Equip Americano
-1. **Química entre Parella**: Comprèn les forces i les debilitats del teu company.
-2. **Centra't en la Consistència**: Apunta a un rendiment constant a través dels partits.
-3. **Adapta't als Oponents**: Desenvolupa estratègies per contrarestar diferents estils de joc.
-4. **Comunica de Forma Efectiva**: Una comunicació clara i concisa pot fer tota la diferència.
+## Exemple de rondes (des de la perspectiva de l'equip A):
+- Ronda 1 - Equip A vs. Equip B
+- Ronda 2 - Equip A vs. Equip C
+- Ronda 3 - Equip A vs. Equip D
+
+![Mike & Juan són l'equip A](/ca/images/team-americano.png "Mike & Juan són l'equip A")
 
 ---
 
-## Preguntes Freqüents
-### Què passa si hi ha més de 4 equips?
-Per a grups més grans, incrementa el nombre de rondes per garantir que tots els equips competeixin de manera justa. També pots utilitzar múltiples pistes per accelerar els partits.
+### Puntuació i com guanyar
+Cada ronda es juga típicament fins a un total de 32 punts. Cada jugador serveix 4 vegades abans de rotar al següent servidor. Un punt clau a recordar és que, per exemple, si el vostre equip guanya 15 punts i l'equip opositor guanya 17 punts, assignareu 15 punts al vostre equip i 17 punts a l'equip opositor. El total de punts jugats és ara de 32, i la vostra ronda ha acabat.
 
-### Què passa si dos equips empaten en punts totals?
-Es pot jugar un partit de desempat a 16 o 32 punts per determinar el guanyador.
+Després de cada ronda, és essencial registrar les puntuacions en un marcador o en algun sistema organitzat, és a dir, Padelution. L'equip amb més punts acumulats al final de l'esdeveniment és declarat el guanyador. És una bona idea designar algú per fer el seguiment de les puntuacions, assegurant-se que tots els punts estiguin registrats correctament durant l'esdeveniment.
 
-### Poden els principiants gaudir de l'Equip Americano?
-¡Sí! El format és accessible i divertit per a jugadors de tots els nivells, fet que el fa perfecte per a grups amb habilitats mixtes.
+![Marie/Bob són l'equip guanyador](/ca/images/team-americano-scores.png "Marie/Bob són l'equip guanyador")
 
----
+### Després que s'acabi el temps
+Després que s'acabi el temps o que tots els equips hagin jugat entre ells com a mínim dues vegades, és hora de veure quin equip ha recollit més punts. Recordeu que, a diferència del Americano regular, guanyeu i perdeu junts com a equip, així que el marcador final hauria de mostrar els equips organitzats en ordre descendent començant per l'equip que ha recollit més punts.
 
-## Conclusió
-L'Equip Americano és una forma emocionant i social de gaudir del padel. Mantenint els jugadors en parelles constants, el format promou el treball d'equip, l'estratègia i un emocionant toc competitiu. Amb normes clares i una mica de planificació, pots organitzar un esdeveniment d'Equip Americano reeixit que als jugadors de tots els nivells els encantarà.
-
-test
+Un cop hagin acabat els partits oficials, per què no relaxar-se amb alguna beguda a la sala d'estar i relacionar-se amb altres jugadors? Després de tot, socialitzar és una de les millors parts de jugar al pádel!

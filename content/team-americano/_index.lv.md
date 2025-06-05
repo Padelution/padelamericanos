@@ -1,87 +1,57 @@
 ---
-draft: false
+drafts: false
+sidebar:
+  exclude: true
 ---
 
-# Galīgais ceļvedis uz Americano komandu
+# Visaptverošais ceļvedis uz Team Americano
 
 ## Ievads
-Team Americano ir dinamisks un konkurences spējīgs variants tradicionālajam Padel Americano formātam. Šajā formātā, kas tiek spēlēts ar fiksētām divu spēlētāju komandām, lieliski piemērots grupām, kas vēlas uzsvērt komandas darbu un stratēģiju. Ar uzsvaru uz sadarbību un pastāvīgām partnerattiecībām, Team Americano ir ideāli piemērots gan ikdienas, gan konkurences padel spēlētājiem.
-
-Šis ceļvedis sniedz visu nepieciešamo informāciju, lai organizētu, spēlētu un izcēlotos Team Americano.
+Team Americano pamatā ir tāda pati ideja kā Padel Americano, bet atšķirībā no partneru maiņas pēc katras kārtas, tu paliec ar tajā pašā spēlētāju līdz galam. Tas ir lielisks veids, kā iepazīties vairāk ar savu partneri pasākuma laikā un patiešām uzzināt par viņu spēlēšanas veidu. Tas arī uzlabos tavu spēli! Vēl viena Team Americano priekšrocība ir tā, ka spēles laikā tu vari kļūt par labāku komandu un uzlabot savas uzvaras iespējas.
 
 ---
 
-## Kas ir Team Americano?
-Team Americano tiek spēlēts ar fiksētām pāriem, kur divi spēlētāji veido komandu un sacenšas pret citām komandām īsos, augsta enerģijas mačos. Atšķirībā no tradicionālā Americano, partneri nesmainās, ļaujot komandām izveidot un īstenot ilgtermiņa stratēģijas.
+## Kas tev ir nepieciešams Team Americano?
+Iestatīšana ir ļoti līdzīga parastajam Padel Americano. Lai iegūtu maksimālu prieku, ieteicams, lai būtu vismaz 4 komandas, kas nozīmē 8 spēlētājus. Tad, atkarībā no spēlētāju skaita, tev ir nepieciešams padel laukums (skatīt tabulu zemāk par optimālo laukumu skaitu attiecībā pret spēlētāju skaitu). Līdzīgi kā parastajā Americano, ir laba doma izmantot kādu sistēmu vai lietotni rezultātu uzturēšanai. Turklāt tam [Padelution](https://www.padelution.com/americano) padara to ļoti vieglu.
 
-- **Spēlētāji**: 8, 12, 16 vai vairāk spēlētāju sadalīti komandās pa diviem.
-- **Komandas**: Parasti 4 vai vairāk komandas.
-- **Mača ilgums**: Katrs mačs tiek spēlēts līdz noteiktam punktu skaitam (parasti 32).
-- **Punktu skaitīšana**: Kopējie punkti visos mačos nosaka uzvarētāju komandu.
+| Komandu skaits | Minimālais laukumu skaits |
+|-----------------|--------------------------|
+|      4 līdz 7   |             2            |
+|     8 līdz 11   |             3            |
+|     12 līdz 15  |             4            |
+|     16 līdz 19  |             5            |
+|     20 līdz 23  |             6            |
 
----
-
-## Kāpēc izvēlēties Team Americano?
-1. **Uzsvars uz komandas darbu**: Veicina stipru sadarbību un partneru stratēģijas.
-2. **Elastība**: Labi darbojas turnīriem ar dažādu spēlētāju skaitu.
-3. **Konkurētspējīgs un jautrs**: Apvieno labākās konkurences un prieka aspektus.
-4. **Mērogojamība**: Viegli pielāgojams lielām grupām un vairākiem laukumiem.
+Papildus spēlētāji var atpūsties un iedrošināt citus
 
 ---
 
-## Kā organizēt Team Americano turnīru
-Team Americano turnīra organizēšana ir vienkārša ar pareizu plānošanu. Seko šiem soļiem:
+## Team Americano noteikumi
+Pamatideja ir tāda, ka katrā komandā spēlē pret visām citām komandām pasākuma laikā, tāpēc salīdzinot ar parasto Americano, nav rotācijas iekšā komandās.
 
-### 1. Noteikt komandu skaitu
-Team Americano vislabāk darbojas ar 4 vai vairāk komandām:
-- 8 spēlētāji = 4 komandas
-- 12 spēlētāji = 6 komandas
-- 16 spēlētāji = 8 komandas
+Piemēram, tu spēlē uz diviem laukumiem un tagad esi komanda A. Tu sāc spēlēt pret komandu B. Pēc pirmās kārtas beigām tu vai nu paliec uz tā paša laukuma vai pāriet uz citu, bet galvenais ir tas, ka nākamajā spēlē tu spēlēsi pret komandu C. Pēc otra raunda beigām jūs visi atkal rotējaties, un nākamreiz tu spēlēsi pret komandu D.
 
-### 2. Izveidot maču grafiku
-Izveido rotāciju, lai visas komandas saskartos viena ar otru. Piemēram, 4 komandām (Komanda A, B, C, D):
-- Mačs 1: Komanda A pret Komandu B
-- Mačs 2: Komanda C pret Komandu D
-- Mačs 3: Komanda A pret Komandu C
-- Mačs 4: Komanda B pret Komandu D
-- Turpiniet līdz visām komandām ir spēlējušas.
-
-Ja ir vairāk komandu, pielāgojiet rotāciju, lai nodrošinātu taisnīgumu.
-
-### 3. Noteikt mača noteikumus
-- **Punkti**: Katrs mačs tiek spēlēts līdz fiksētam punktu skaitam (piemēram, 32).
-- **Mainīt puses**: Mainiet puses katru 16 punktu, lai izlīdzinātu vides faktorus.
-- **Kumulatīvā punktu skaitīšana**: Komandas iegūst punktus katrā mačā, kas tiek pievienoti kopējam rezultātam.
-
-### 4. Reģistrēt rezultātus
-Izmantojiet rezultātu tabulu vai americano lietotni, lai sekotu punktiem, ko katrā mačā iegūst katra komanda.
-
-### 5. Noteikt uzvarētājus
-Turnīra beigās komanda ar augstāko kumulatīvo rezultātu tiek pasludināta par uzvarētāju. Gadījumā, ja ir neizšķirts, var apsvērt papildu maču.
+Pamatnoteikumi padel spēlei ir piemērojami, tāpēc ja nesanāk vienoties, vai bumba bija iekšā vai ārā, ir labi atkārtot punktu un ātri turpināt. Pirmā servera izvēle var būt tāda, kā spēlētāji ir pieraduši, piemēram, spēlējot "servera bumbu" vai metot monētu.
 
 ---
 
-## Stratēģijas Team Americano
-1. **Partneru ķīmija**: Izprotiet savas partnera stiprās un vājās puses.
-2. **Uzmanība uz konsistenci**: Mērķējiet uz stabilu sniegumu visos mačos.
-3. **Pielāgošanās pretiniekiem**: Izstrādājiet stratēģijas, lai pretotos dažādām spēles stilu.
-4. **Efektīva komunikācija**: Skaidra un precīza komunikācija var izdarīt lielu atšķirību.
+## Raundu piemērs (no komandas A perspektīvas):
+- 1. raunds - Komanda A pret Komandu B
+- 2. raunds - Komanda A pret Komandu C
+- 3. raunds - Komanda A pret Komandu D
+
+![Miks un Huans ir komanda A](/lv/images/team-americano.png "Miks un Huans ir komanda A")
 
 ---
 
-## Bieži uzdotie jautājumi
-### Ja komandu ir vairāk par 4, kas notiek?
-Lielāku grupu gadījumā palieliniet raundu skaitu, lai nodrošinātu, ka visas komandas sacenšas taisnīgi. Varat arī izmantot vairākus laukumus, lai paātrinātu mačus.
+### Rezultātu noteikšana un kā uzvarēt
+Katrs raunds parasti tiek spēlēts līdz kopējam 32 punktu skaitam. Katrs spēlētājs servē 4 reizes pirms pārejas uz nākamo serveri. Svarīgs punkts, ko atcerēties, ir tas, ka, piemēram, ja tava komanda nopelna 15 punktus un pretinieku komanda nopelna 17 punktus, tu piešķirsi 15 punktus savai komandai un 17 punktus pretinieku komandai. Kopējais spēlēto punktu skaits ir tagad 32, un tavs raunds ir pabeigts.
 
-### Kas notiek, ja divas komandas ir vienādi punktu skaitā?
-Var spēlēt papildu maču līdz 16 vai 32 punktiem, lai noskaidrotu uzvarētāju.
+Pēc katra raunda ir būtiski ierakstīt rezultātus uz rezultātu tabulas vai kādā organizētā sistēmā, piemēram, Padelution. Komanda ar visvairāk punktiem, kas uzkrāti pasākuma beigās, tiek pasludināta par uzvarētāju. Ir laba doma iecelt kādu, kas sekos rezultātiem, nodrošinot, ka visi punkti tiek pareizi ierakstīti pasākuma laikā.
 
-### Vai sākotnējie spēlētāji var baudīt Team Americano?
-Jā! Šis formāts ir pieejams un jautrs visu līmeņu spēlētājiem, padarot to ideālu miksētu prasmju grupām.
+![Marija/Bobs ir uzvarētā komanda](/lv/images/team-americano-scores.png "Marija/Bobs ir uzvarētā komanda")
 
----
+### Kad beidzas laiks
+Kad beidzas laiks vai visām komandām ir bijis iespēja spēlēt pret visām citām vismaz divas reizes, ir laiks noskaidrot, kura komanda ir savākusi visvairāk punktu. Atcerieties, ka, atšķirībā no parastā Americano, jūs uzvarat un zaudējat kopā kā komanda, tāpēc galīgajā rezultātu tabulā komandas ir jāsakārto dilstošā secībā, sākot ar komandu, kas ir savākusi visvairāk punktu.
 
-## Secinājums
-Team Americano ir aizraujošs un sociāls veids, kā baudīt padel. Uzturot spēlētājus pastāvīgos pāros, šis formāts veicina komandas darbu, stratēģiju un aizraujošu konkurences aspektu. Ar skaidrām noteikumiem un nedaudz plānošanas, jūs varat rīkot veiksmīgu Team Americano pasākumu, ko novērtēs visu līmeņu spēlētāji.
-
-test
+Kad oficiālās spēles ir beigušās, kāpēc neatslābināties ar dzērieniem bārā un iepazīties ar citiem spēlētājiem? Galu galā, sociālās saziņas veidošana ir viena no labākajām daļām, kad spēlē padel!

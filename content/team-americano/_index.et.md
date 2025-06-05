@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Ultimaatne juhend Team Americano jaoks
 
 ## Sissejuhatus
-Team Americano on dünaamiline ja konkurentsivõimeline variant traditsioonilisest Padel Americano formaadist. Mängitakse kindlate kahe mängijaga meeskondadega, see formaat on ideaalne gruppidele, kes soovivad rõhutada meeskonnatööd ja strateegiat. Koostööle ja püsivatele partnerlussuhetele keskendudes on Team Americano ideaalne nii juhuslike kui ka konkurentsivõimeliste padelimängijate jaoks.
-
-See juhend pakub kõike, mida vajate, et korraldada, mängida ja olla edukas Team Americano mängus.
+Team Americano-l on sama põhiline idee nagu Padel Americano-l, kuid erinevalt partnerite vahetamisest iga ringi järel, jääte samale mängijale kuni lõpuni. See on suurepärane viis oma partneriga rohkem tuttavaks saada ürituse ajal ja tegelikult õppida tundma nende mängustiili. See parandab ka teie mängu! Team Americano-l on veel üks eelis - mängu ajal saate paremaks tiimiks ja suurendate võiduvõimalusi.
 
 ---
 
-## Mis on Team Americano?
-Team Americano mängitakse kindlate paaridega, kus kaks mängijat moodustavad meeskonna ja võistlevad teiste meeskondade vastu lühikestes, kõrge energiatasemega mängudes. Erinevalt traditsioonilisest Americanost ei pöördu partnerid, võimaldades meeskondadel luua ja ellu viia pikaajalisi strateegiaid.
+## Mida on vaja Team Americano jaoks??
+Seadistus on väga sarnane tavalisele Padel Americano-le. Optimaalse lõbu saavutamiseks soovitatakse teil olla vähemalt 4 tiimi, mis tähendab 8 mängijat. Seejärel, olenevalt mängijate arvust, vajate padeliväljakut (vt allolevat tabelit optimaalse väljakute arvu vs mängijate arvu kohta). Sarnaselt tavalisele Americano-le on hea mõte kasutada mingit süsteemi või rakendust skoori pidamiseks. Selle jaoks on [Padelution](https://www.padelution.com/americano) väga mugav.
 
-- **Mängijad**: 8, 12, 16 või rohkem mängijat jagunevad kahe mängija meeskondadeks.
-- **Meeskonnad**: Tavaliselt 4 või enam meeskonda.
-- **Mängu kestvus**: Iga mäng mängitakse kindla punktisummani (tavaliselt 32 punkti).
-- **Punktid**: Kõigi mängude kogupunktid määravad võitva meeskonna.
+| Tiimide arv | Minimaalne väljakute arv |
+|-------------|--------------------------|
+|      4 kuni 7     |             2            |
+|     8 kuni 11     |             3            |
+|     12 kuni 15    |             4            |
+|     16 kuni 19    |             5            |
+|     20 kuni 23    |             6            |
 
----
-
-## Miks valida Team Americano?
-1. **Rõhk meeskonnatööl**: Julgustab tugevat koostööd ja partnerluse strateegiaid.
-2. **Kohanduvus**: Sobib hästi turniirideks erineva mängijate arvuga.
-3. **Konkurentsivõimeline ja lõbus**: Kombineerib parimad võistlusmomendid ja naudingu.
-4. **Skaleeritavus**: Lihtne kohandada suuremate gruppide ja mitme väljakuga.
+Lisamängijad saavad puhata ja teisi ergutada
 
 ---
 
-## Kuidas korraldada Team Americano turniiri
-Team Americano turniiri korraldamine on lihtne õige planeerimisega. Järgige neid samme:
+## Team Americano reeglid
+Põhiline idee on see, et iga tiim mängib kõigi teiste tiimide vastu ürituse ajal, seega võrreldes tavalise Americano-ga, ei toimu tiimide sees pööret.
 
-### 1. Määrake meeskondade arv
-Team Americano toimib kõige paremini 4 või enama meeskonnaga:
-- 8 mängijat = 4 meeskonda
-- 12 mängijat = 6 meeskonda
-- 16 mängijat = 8 meeskonda
+Näiteks mängite kahe väljaku peal ja olete nüüd tiim A. Alustate mängimist tiimi B vastu. Pärast esimest ringi kas jätkate samal väljakul või vahetate väljakuid, kuid peamine on see, et järgmisena mängite tiimi C vastu. Pärast teise ringi lõppu pöördute kõik uuesti ja järgmisena mängite tiimi D vastu.
 
-### 2. Koostage mängude ajakava
-Planeerige pöörlemine, et kõik meeskonnad mängiksid omavahel. Nelja meeskonna (Meeskond A, B, C, D) jaoks:
-- Mäng 1: Meeskond A vs Meeskond B
-- Mäng 2: Meeskond C vs Meeskond D
-- Mäng 3: Meeskond A vs Meeskond C
-- Mäng 4: Meeskond B vs Meeskond D
-- Jätkake, kuni kõik meeskonnad on mänginud.
-
-Rohkemate meeskondade puhul kohandage pöörlemist vastavalt, et tagada õiglus.
-
-### 3. Määrake mängureeglid
-- **Punktid**: Iga mäng mängitakse kindla punktisummani (nt 32).
-- **Vaheta külgi**: Vaheta külgi iga 16 punkti tagamaks keskkonnategurite tasakaalu.
-- **Kumulatiivne skoorimine**: Meeskonnad teenivad punkte igas mängus, mis lisatakse nende koguskoorile.
-
-### 4. Salvestage punktid
-Kasutage punktitabelit või americano rakendust, et jälgida iga meeskonna punktide kogusummat mängude jooksul.
-
-### 5. Määrake võitjad
-Turniiri lõpus kuulutatakse kõrgeima kumulatiivse skooriga meeskond võitjaks. Viigi korral kaaluge lisamängu.
+Padeli põhireeglid kehtivad, seega kui te ei ole nõus, kas pall oli sees või väljas, on hea punkt korrata ja liikuda üsna kiiresti edasi. Esimese pallingu valimine võib samuti toimuda nii, nagu mängijad on harjunud, näiteks mängides "pallingu palli" või visates münti.
 
 ---
 
-## Strateegiad Team Americano jaoks
-1. **Partnerkeemia**: Mõistke oma partneri tugevusi ja nõrkusi.
-2. **Keskendu järjepidevusele**: Püüa saavutada stabiilne esitus kõigis mängudes.
-3. **Kohandu vastastele**: Arendage strateegiaid erinevate mängustiilide vastu.
-4. **Kommunikeeri efektiivselt**: Selge ja arusaadav suhtlus võib teha kogu vahe.
+## Ringide näide (tiim A vaatenurgast):
+- Ring 1 - Tiim A vs Tiim B
+- Ring 2 - Tiim A vs Tiim C
+- Ring 3 - Tiim A vs Tiim D
+
+![Mike & Juan on tiim A](/et/images/team-americano.png "Mike & Juan on tiim A")
 
 ---
 
-## Korduma kippuvad küsimused
-### Mis juhtub, kui meeskondi on rohkem kui 4?
-Suuremate gruppide korral suurendage voorude arvu, et tagada kõikide meeskondade õiglane võistlemine. Samuti võite kasutada mitut väljakut mängude kiirendamiseks.
+### Skoorimine ja kuidas võita
+Iga ringi mängitakse tavaliselt kokku 32 punktini. Iga mängija servib 4 korda enne järgmise pallingu tegemist. Oluline punkt meelde jätta on see, et näiteks kui teie tiim teenib 15 punkti ja vastastiim teenib 17 punkti, määratakse 15 punkti teie tiimile ja 17 punkti vastastiimile. Kokku mängitakse nüüd 32 punkti ja teie ring on lõppenud.
 
-### Mis juhtub, kui kaks meeskonda on võrdsed kogupunktides?
-Viigilahendusmäng 16 või 32 punktini võib määrata võitja.
+Iga ringi järel on oluline skoorid fikseerida tahvlile või mõnda korraldatud süsteemi, näiteks Padelution. Tiim, kellel on ürituse lõpuks kogunenud kõige rohkem punkte, kuulutatakse võitjaks. On hea mõte määrata keegi skooride jälgimiseks, tagades, et kõik punktid fikseeritakse ürituse vältel korrektselt.
 
-### Kas algajad saavad nautida Team Americano mängu?
-Jah! Formaat on ligipääsetav ja lõbus mängijatele kõigil tasemetel, muutes selle ideaalseks segaoskustega gruppidele.
+![Marie/Bob on võitnud tiim](/et/images/team-americano-scores.png "Marie/Bob on võitnud tiim")
 
----
+### Pärast aja lõppu
+Kui aeg on läbi või kõik tiimid on mänginud vähemalt kaks korda üksteise vastu, on aeg näha, milline tiim kogus kõige rohkem punkte. Pidage meeles, et erinevalt tavalisest Americano-st võidate ja kaotate koos tiimiga, seega peaks lõplik punktitabel näitama tiime kahanevas järjekorras, alustades tiimist, kellel on kõige rohkem kogutud punkte.
 
-## Järeldus
-Team Americano on põnev ja sotsiaalne viis nautida padelit. Mängijaid püsivate paaridena hoides soosib formaat meeskonnatööd, strateegiat ja põnevat võistluslikku serva. Selgete reeglite ja veidi planeerimisega saate korraldada eduka Team Americano ürituse, mis meeldib kõigil tasemetel mängijatele.
-
-test
+Kui ametlikud mängud on läbi, miks mitte lõõgastuda mõne joogiga lounge'is ja suhelda teiste mängijatega? Lõppude lõpuks on sotsialiseerumine üks parimaid osi padeli mängimisel!

@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Team Americano İçin En Kapsamlı Rehber
+# Team Americano İçin En İyi Kılavuz
 
 ## Giriş
-Team Americano, geleneksel Padel Americano formatının dinamik ve rekabetçi bir varyasyonudur. İki oyuncudan oluşan sabit takımlarla oynanan bu format, takım çalışmasını ve stratejiyi vurgulamak isteyen gruplar için mükemmeldir. İşbirliği ve sürekli ortaklıklara odaklanan Team Americano, hem gelişigüzel hem de rekabetçi padel oyuncuları için idealdir.
-
-Bu rehber, Team Americano'yu organize etmek, oynamak ve başarılı olmak için ihtiyacınız olan her şeyi sunar.
+Team Americano, Padel Americano ile aynı temel fikre sahiptir, ancak her turdan sonra partnerleri değiştirmek yerine aynı oyuncuyla sonuna kadar devam edersiniz. Bu, etkinlik sırasında ortağınızla daha fazla tanışmanın harika bir yoludur ve gerçekten oyun tarzlarını öğrenmenizi sağlar. Bu aynı zamanda oyununuzu geliştirecektir! Team Americano'nun bir diğer faydası ise maç sırasında daha iyi bir takım olmanızı ve kazanma şansınızı artırmanızı sağlamasıdır.
 
 ---
 
-## Team Americano Nedir?
-Team Americano, sabit çiftlerle oynanan, iki oyuncunun bir takım oluşturduğu ve diğer takımlara karşı kısa, yüksek enerjili maçların yapıldığı bir oyundur. Geleneksel Americano'dan farklı olarak, ortaklar dönüşmez ve takımların uzun vadeli stratejiler geliştirmesine ve uygulamasına olanak tanır.
+## Team Americano için neler gerekli??
+Kurulum, düzenli Padel Americano'ya çok benzer. Optimum eğlence için en az 4 takımın, yani 8 oyuncunun olması önerilir. Sonra, kaç oyuncunuz olduğuna bağlı olarak bir padel kortuna ihtiyacınız vardır (oyuncu sayısına göre optimum kort sayısı için aşağıdaki tabloya bakınız). Düzenli Americano'ya benzer şekilde, skoru tutmak için bir sistem veya uygulamanın olması iyi bir fikirdir. Ayrıca bunun için [Padelution](https://www.padelution.com/americano) çok kolaylık sağlar.
 
-- **Oyuncular**: 8, 12, 16 veya daha fazla oyuncu, ikişer kişilik takımlara bölünmüş.
-- **Takımlar**: Genellikle 4 veya daha fazla takım.
-- **Maç Süresi**: Her maç belirli bir sayıda puana (genellikle 32) oynanır.
-- **Skorlama**: Tüm maçlardaki birikmiş puanlar, kazanan takımı belirler.
+| Takım Sayısı | Minimum kort sayısı |
+|--------------|----------------------|
+|      4 ila 7 |             2        |
+|     8 ila 11 |             3        |
+|    12 ila 15 |             4        |
+|    16 ila 19 |             5        |
+|    20 ila 23 |             6        |
 
----
-
-## Neden Team Americano'yu Seçmelisiniz?
-1. **Takım Çalışmasına Odaklanma**: Güçlü işbirliğini ve ortak stratejileri teşvik eder.
-2. **Esneklik**: Farklı oyuncu sayılarıyla iyi çalışır.
-3. **Rekabetçi ve Eğlenceli**: Yarışmanın ve keyfin en iyi yönlerini birleştirir.
-4. **Ölçeklenebilirlik**: Daha büyük gruplar ve birden fazla kort için kolayca uyarlanabilir.
+Ek oyuncular dinlenebilir ve diğerlerine tezahürat yapabilir
 
 ---
 
-## Bir Team Americano Turnuvası Nasıl Organize Edilir?
-Team Americano turnuvası düzgün planlama ile kolayca organize edilebilir. Şu adımları izleyin:
+## Team Americano kuralları
+Temel fikir, her takımın etkinlik sırasında tüm diğer takımlara karşı oynamasıdır, bu nedenle düzenli Americano'ya göre takımlar içinde dönüşüm yoktur.
 
-### 1. Takım Sayısını Belirleyin
-Team Americano, genellikle 4 veya daha fazla takımla daha iyi çalışır:
-- 8 oyuncu = 4 takım
-- 12 oyuncu = 6 takım
-- 16 oyuncu = 8 takım
+Örneğin, iki kortta oynuyorsunuz ve şu anda A takımındasınız. B takımına karşı oynamaya başlıyorsunuz. İlk tur bittiğinde ya aynı kortta kalırsınız ya da kortları değiştirirsiniz, ancak asıl önemli olan bir sonraki maçı C takımına karşı oynamanızdır. İkinci tur bittiğinde, hepiniz tekrar dönüşür ve bir sonraki maçı D takımına karşı oynarsınız.
 
-### 2. Maç Programı Oluşturun
-Tüm takımların birbirleriyle karşılaştığı bir rotasyon planlayın. 4 takım için (Takım A, B, C, D):
-- Maç 1: Takım A vs. Takım B
-- Maç 2: Takım C vs. Takım D
-- Maç 3: Takım A vs. Takım C
-- Maç 4: Takım B vs. Takım D
-- Tüm takımlar oynayana kadar devam edin.
-
-Daha fazla takım için, adil bir şekilde sağlamak için rotasyonu ayarlayın.
-
-### 3. Maç Kurallarını Belirleyin
-- **Puanlar**: Her maç belirli bir sayıda puana (örneğin, 32) oynanır.
-- **Taraf Değişimi**: Çevresel faktörleri dengelemek için her 16 puanda bir taraf değiştirin.
-- **Kümülatif Skorlama**: Takımlar her maçta puan kazanır ve bunlar toplam skorlarına eklenir.
-
-### 4. Skorları Kaydedin
-Her takımın maçlar boyunca kazandığı puanları takip etmek için bir skor tablosu veya americano uygulaması kullanın.
-
-### 5. Kazananları Belirleyin
-Turnuva sonunda, en yüksek kümülatif puana sahip takım kazanan ilan edilir. Beraberlik durumunda, bir eleme maçı düşünün.
+Padel'in temel kuralları geçerlidir, bu nedenle bir topun içerde mi yoksa dışarıda mı olduğu konusunda anlaşmazlık varsa, noktayı tekrarlamak ve adil bir şekilde hızlıca devam etmek iyidir. İlk servisi seçmek de oyuncuların alışkın olduğu şekilde yapılabilir, örneğin "servis atanın topu" oynamak veya para atmak.
 
 ---
 
-## Team Americano Stratejileri
-1. **Ortak Kimyası**: Ortaklarınızın güçlü ve zayıf yönlerini anlayın.
-2. **Süreklilik Odaklı Olun**: Maçlar boyunca istikrarlı performans hedefleyin.
-3. **Rakiplere Uyum Sağlayın**: Farklı oyun stillerine karşı stratejiler geliştirin.
-4. **Etkili İletişim**: Net ve özlü iletişim fark yaratabilir.
+## Tur örneği (A takımı bakış açısından):
+- Tur 1 - A Takımı vs. B Takımı
+- Tur 2 - A Takımı vs. C Takımı
+- Tur 3 - A Takımı vs. D Takımı
+
+![Mike & Juan A takımıdır](/tr/images/team-americano.png "Mike & Juan A takımıdır")
 
 ---
 
-## Sıkça Sorulan Sorular
-### Eğer 4'ten fazla takım varsa ne olacak?
-Daha büyük gruplar için, tüm takımların adil bir şekilde yarıştığı tur sayısını artırın. Maçları hızlandırmak için birden fazla kort da kullanabilirsiniz.
+### Skorlama ve Nasıl Kazanılır
+Her tur genellikle toplam 32 puana oynanır. Her oyuncu, bir sonraki servise geçmeden önce 4 kez servis yapar. Unutulmaması gereken önemli bir nokta, örneğin, eğer takımınız 15 puan kazanırsa ve rakip takım 17 puan kazanırsa, 15 puanı takımınıza ve 17 puanı rakip takıma atarsınız. Oynanan toplam puanlar şimdi 32'dir ve turunuz tamamlanmış olur.
 
-### Eğer iki takımın toplam puanı eşitse ne olur?
-Kazananı belirlemek için 16 veya 32 puana kadar bir eleme maçı oynanabilir.
+Her turdan sonra, skorları bir skorbordda veya düzenli bir sistemde, yani Padelution'da kaydetmek önemlidir. Etkinliğin sonunda en fazla puanı toplayan takım kazanan ilan edilir. Skorları takip etmek için birini belirlemek iyi bir fikirdir, böylece etkinlik boyunca tüm puanların düzgün bir şekilde kaydedildiğinden emin olunur.
 
-### Acemi oyuncular Team Americano'dan keyif alabilir mi?
-Evet! Bu format, tüm seviyelerdeki oyuncular için erişilebilir ve eğlenceli olup, farklı yetenek seviyelerine sahip gruplar için mükemmeldir.
+![Marie/Bob kazanan takımdır](/tr/images/team-americano-scores.png "Marie/Bob kazanan takımdır")
 
----
+### Süre dolduğunda
+Süre dolduğunda veya tüm takımlar birbirine en az iki kez karşı oynadığında, en fazla puanı toplayan takımı görmenin zamanı gelir. Düzenli Americano'dan farklı olarak, birlikte kazanıp kaybettiğinizi unutmayın, bu nedenle nihai skorbord, en fazla puan toplayan takımla başlayarak azalan düzende düzenlenmelidir.
 
-## Sonuç
-Team Americano, padel oynamanın heyecan verici ve sosyal bir yoludur. Oyuncuları sabit çiftler halinde tutarak, format takım çalışmasını, stratejiyi ve heyecan verici rekabeti teşvik eder. Net kurallar ve biraz planlama ile, her seviyeden oyuncunun seveceği başarılı bir Team Americano etkinliği düzenleyebilirsiniz.
-
-test
+Resmi maçlar bittikten sonra, neden biraz içki içip diğer oyuncularla sosyalleşmeyi düşünmüyorsunuz? Sonuçta, padel oynamanın en güzel yanlarından biri sosyalleşmektir!

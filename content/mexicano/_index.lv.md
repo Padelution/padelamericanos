@@ -1,98 +1,72 @@
 ---
-draft: false
+drafts: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: Pilnīgs ceļvedis par šo dinamisko formātu
 
-Padel Mexicano ir aizraujošs un pielāgojams formāts, kas padel sociālās un sacensību aspektus pacēlusi uz jaunu līmeni. Atšķirībā no tradicionālajiem formātiem, Mexicano dinamiski pielāgo, ar kādiem spēlējat un pret kuriem spēlējat, pamatojoties uz spēļu rezultātiem, radot taisnīgu un līdzsvarotu sacensību, kas izlīdzina spēles laukumu, kad turnīrs attīstās.
+Mexicano ir jautra un dinamiska veida partneru un pretinieku rotācija. Izšķirošais faktors ir tava pozīcija rangā, un pēc katras kārtas tu atgriezies, redzi, kur atrodies rangā, un tad redzi, ar kuru nākamo spēlēsi.
 
-Vai esat pieredzējis spēlētājs vai sācējs, Mexicano ir lieliska iespēja baudīt padel, satikt jaunus pretiniekus un pārbaudīt savas prasmes.
+Izklaides faktors ir tas, ka spēlētāju rotācijas veids saglabā spēles tuvumā, jo rezultāti nosaka, kā tiek veidoti komandu sastāvi katrā kārtā. Tādējādi prasmju līmeņa starpības izlīdzinās, un visi var baudīt ciešas un aizraujošas spēles.
 
----
-
-## **Kā darbojas Padel Mexicano?**
-
-Padel Mexicano definējošā iezīme ir tā adaptīvā spēļu pāru sistēma. Tā vietā, lai būtu fiksēts grafiks, ar kādiem spēlējat un pret kuriem spēlējat, tiek noteikts pēc jūsu iepriekšējo spēļu veiksmes.
-
-### **Sākotnējais spēļu pārošanās**
-- Jūsu pirmo spēli nosaka nejauša izloze. Izloze nosaka jūsu komandas biedrus un pretiniekus sākotnējai spēlei.
-
-### **Dinamiskā pārošanās sistēma**
-- Sākot no otrās spēles, jūsu spēles ir balstītas uz vadlīnijas stāvokli. Mērķis ir pārīt spēlētājus vai komandas ar līdzīgām prasmēm, lai nodrošinātu sacensību un vienlīdzīgas spēles.
-- Piemēram:
-  - 1. un 3. vietā ierindoti spēlētāji veido komandu, lai spēlētu pret 2. un 4. vietā ierindotiem spēlētājiem.
-  - 5. un 7. vietā ierindoti spēlētāji veido komandu, lai spēlētu pret 6. un 8. vietā ierindotiem spēlētājiem.
-- Šī dinamiskā pārošanās sistēma nodrošina, ka, kad turnīrs attīstās, jūsu spēles kļūst vienlīdzīgākas, nodrošinot izaicinošu pieredzi labākajiem spēlētājiem, vienlaikus saglabājot prieku visiem pārējiem.
-
-### **Pāru elastība**
-- Mexicano sistēma ļauj jums spēlēt ar un pret tādiem pašiem spēlētājiem vairākas reizes, atkarībā no vadlīnijas attīstības.
 
 ---
 
-## **Rezultātu skaitīšana un spēles formāts**
+## Kas tev ir nepieciešams Mexicano spēlēšanai?
 
-Spēles Mexicano ir izstrādātas, lai būtu īsas, enerģiskas un iesaistošas. Šeit ir, kā tās darbojas:
+Mexicano spēlē nav nepieciešams nekas papildus, salīdzinot ar parastajām Padel spēlēm, izņemot kādu sistēmu vai lietotni rezultātu uzturēšanai. Vari izmantot, piemēram, pakalpojumus kā Padelution rezultātu uzturēšanai. Svarīgi ir izveidot skaidru rezultātu noteikšanas veidu, jo pēc katras kārtas nākamās kārtas komandas tiek noteiktas, pamatojoties uz katra spēlētāja rangiem.
 
-### **Spēļu punkti**
-- Spēles parasti tiek spēlētas līdz konkrētam punktu skaitam, piemēram, 16, 24 vai 32 punktiem. Kā alternatīvu, spēles var būt ar noteiktu laika ierobežojumu, piemēram, 10–20 minūtes.
+Ir labi, ja ir vismaz 8 spēlētāji, un optimālais laukumu skaits ir 2. Vari palielināt spēlētāju skaitu tik daudz, cik vēlies, bet ņem vērā, ka ir labi, ja laukumu skaits ir dalāms ar 4, lai rotācija noritētu bez problēmām, un visi spēlēs vienlaicīgi.
 
-### **Servēšanas noteikumi**
-- Katra komanda servē 4 vai 6 reizes, pirms serveja pāriet uz otru komandu.
+## Mexicano noteikumi
+Visi pamatnoteikumi padel attiecas, kad spēlē Mexicano. Sākumā vari izvēlēties pirmās pārus gadījuma kārtā. Sākot no otrās kārtas, ļauj sistēmai darboties, lai parādītu, kā tiks veikta spēlētāju rotācija. Spēlētāji, kuri ieņem 1. un 3. vietu, nākamajā kārtā spēlēs pret spēlētājiem, kuri ieņem 2. un 4. vietu. Otrajā laukumā spēlētāji, kuri ieņem 5. un 7. vietu, spēlēs pret spēlētājiem, kuri ieņem 6. un 8. vietu, un tā tālāk.
 
-### **Punktu aprēķināšana**
-- Katrs iegūtais punkts dod jūsu komandai punktu.
-- Spēles beigās punkti tiek sadalīti vienādi starp komandas biedriem. Piemēram:
-  - Ja 24 punktu spēle beidzas ar rezultātu 14–10, uzvarētās komandas spēlētāji katrs saņem 14 punktus, bet zaudētās komandas spēlētāji katrs saņem 10 punktus.
-- Jūsu individuālais rezultāts uzkrājas visās spēlēs, un spēlētājs ar visvairāk punktiem turnīra beigās uzvar.
+| Rezultāti pēc pirmās kārtas | Komandas 2. kārtai |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 pret 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 pret 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
 
+
+### Rezultātu piemērs no A komandas perspektīvas
+- 1. kārta: Spēlētāji A&D 20 punkti un spēlētāji B&C 12 punkti
+- 2. kārta: Spēlētāji A&C 19 punkti un spēlētāji B&D 13 punkti
+
+Kopējais punktu skaits, ko spēlētājs A ir uzkrājis pēc divām kārtām, ir 39
+
+
+### Tad, kurš ir uzvarētājs?
+Kad laiks beidzas, uzvarētājs ir spēlētājs, kurš ir pirmajā vietā rangā. Visbiežāk svarīgais faktors joprojām ir tas, ka visas spēles bija izlīdzinātas, jo komandas tiek izvēlētas pēc katras kārtas, pamatojoties uz spēlētāju rezultātiem.
+
+![Padel Mexicano rangs!](/lv/images/padel-mexicano.png "Padel Mexicano rangs")
 ---
 
-## **Komanda Mexicano**
 
-[Team Mexicano](/lv/team-mexicano) pievieno šim formātam vēl vienu stratēģijas slāni. Spēlētāji nevis maina partnerus, bet sacenšas iepriekš noteiktās komandās visu turnīru garumā. Rezultātu un dinamiskās pārošanās sistēmas paliek tādas pašas, bet visi punkti tiek aprēķināti komandām, nevis individuāli.
+## Komanda Mexicano
 
-Šī variācija ir ideāla grupām, kas vēlas koncentrēties uz komandas darbu un ilgtermiņa stratēģijām.
+[Komanda Mexicano](/lv/team-mexicano) pievieno vēl vienu stratēģijas slāni formātam. Tā vietā, lai rotētu partnerus, spēlētāji sacenšas iepriekš noteiktās komandās visā turnīrā. Rezultātu un dinamisko pāru sistēmas paliek tādas pašas, bet visi punkti tiek aprēķināti komandām, nevis individuāli.
 
----
-
-## **Padel Mexicano Turnīra organizēšana**
-
-Mexicano turnīra organizēšana ir vienkārša ar pareizu sagatavošanos. Sekojiet šiem soļiem, lai nodrošinātu veiksmīgu pasākumu:
-
-### **Dalībnieki un korti**
-- Jums būs nepieciešami vismaz 8 dalībnieki vai komandas, lai spēlētu Mexicano. Nav augšējās robežas, bet skaits, kas dalāms ar četrām, ir ideāls, lai nodrošinātu plūstošu spēļu rotāciju.
-- Nepieciešamo kortu skaits ir atkarīgs no dalībnieku skaita:
-  - 8 spēlētāji = 2 korti
-  - 12 spēlētāji = 3 korti
-  - 16 spēlētāji = 4 korti
-- Spēlētāji ar visām prasmju līmenīm var piedalīties, un prasmju līmeņu sajaukums var padarīt spēles vēl aizraujošākas.
-
-### **Spēles ilgums**
-- Parasti Mexicano turnīrs ilgst aptuveni 2 stundas.
-- Piemēram, 24 punktu spēle parasti aizņem apmēram 12 minūtes.
-
-### **Punktu uzskaitīšana**
-- Sagatavojiet rezultātu karti vai izmantojiet īpašu lietotni rezultātu ierakstīšanai un vadlīnijas stāvokļa dinamiskai aprēķināšanai.
-
-### **Taisnīga un jautra sacensība**
-- Mexicano adaptīvā sistēma nodrošina, ka spēlētāji ir pastāvīgi izaicināti, nejūtoties pārāk vāji, padarot to par lielisku izvēli pasākumiem ar dažādiem prasmju līmeņiem.
+Šī variācija ir ideāla grupām, kuras vēlas koncentrēties uz komandas darbu un ilgtermiņa stratēģijām.
 
 ---
+## Kāpēc spēlēt Padel Mexicano?
 
-## **Kāpēc spēlēt Padel Mexicano?**
-
-Padel Mexicano izceļas ar savu iekļaujamību un pielāgojamību. Šeit ir daži iemesli, kāpēc šis formāts ir tik populārs:
-- **Godīga spēle**: Spēles kļūst arvien līdzsvarotākas, kad turnīrs attīstās.
-- **Dinamiskās pārošanās**: Spēlējiet ar un pret dažādiem pretiniekiem, saglabājot spēles svaigumu un iesaistītību.
+Padel Mexicano izceļas ar savu iekļaušanu un pielāgojamību. Šeit ir daži iemesli, kāpēc šis formāts ir tik populārs:
+- **Godīga spēle**: Spēles kļūst arvien līdzsvarotākas, jo turnīrs attīstās.
+- **Dinamiski pāri**: Spēlē ar un pret dažādiem pretiniekiem, saglabājot spēles svaigas un aizraujošas.
 - **Sociālā pieredze**: Fantastisks veids, kā satikt jaunus spēlētājus un veidot draudzību.
 - **Elastība**: Piemērots gan individuāliem, gan komandu turnīriem.
 
 ---
 
-## **Secinājums**
+## Secinājums
 
-Padel Mexicano ir vairāk nekā vienkāršs spēles formāts – tas ir pieredze, kas uzsver taisnīgumu, prieku un pielāgojamību. Vai jūs organizējat turnīru vai piedalāties tajā, šis formāts garantē aizraujošas spēles un lieliskus atmiņu. Ar tās dinamisko pārošanās sistēmu un iekļaujošo rezultātu skaitīšanu Mexicano ir obligāti jāizmēģina jebkuram padel entuziastam.
+Padel Mexicano ir vairāk nekā tikai spēles formāts – tas ir pieredze, kas uzsver godīgumu, izklaidi un pielāgojamību. Vai tu rīko turnīru vai piedalies tajā, šis formāts garantē aizraujošas spēles un lielas atmiņas. Ar tās dinamisko pāru sistēmu un iekļaujošo rezultātu skaitīšanu Mexicano ir obligāti jāizmēģina jebkuram padel entuziastam.
 
-Tāpēc pulcējiet savus draugus, ņemiet savas raketes un ielaidieties Padel Mexicano pasaulē neaizmirstamai dienai kortos!
-
-test
+Tāpēc pulcē savus draugus, ņem raketes un iegrim spēles pasaulē ar Padel Mexicano, lai neaizmirstama diena laukumos!

@@ -1,98 +1,71 @@
 ---
-draft: false
+taslak: false
+yanbilgi:
+  hariç tut: true
 ---
 
 # Padel Mexicano: Bu Dinamik Format Hakkında Kapsamlı Rehber
 
-Padel Mexicano, padel oyununun sosyal ve rekabetçi yönlerini başka bir seviyeye taşıyan heyecan verici ve uyarlanabilir bir formattır. Geleneksel formatlardan farklı olarak, Mexicano, maç sonuçlarına göre kiminle ve karşı kiminle oynayacağınızı dinamik olarak ayarlar ve turnuva ilerledikçe oyun alanını dengeleyen adil ve dengeli bir rekabet yaratır.
+Mexicano, partnerleri ve rakipleri döndürmenin eğlenceli ve dinamik bir yoluna sahiptir. Karar verici faktör sıralamada nerede olduğunuzdur ve her turdan sonra geri döner, sıralamada nerede olduğunuzu görür ve ardından bir sonraki oynayacağınız kişiyi görürsünüz.
 
-Deneyimli bir oyuncu veya acemi olun, Mexicano, padel oynamanın mükemmel bir yoludur, yeni rakiplerle tanışmanızı ve becerilerinizi test etmenizi sağlar.
-
----
-
-## **Padel Mexicano Nasıl Çalışır?**
-
-Padel Mexicano'nun belirleyici özelliği, uyarlanabilir maç eşleştirme sistemidir. Sabit bir programın aksine, kiminle ve karşı kiminle oynayacağınız daha önceki maçlardaki performansınıza göre belirlenir.
-
-### **İlk Maç Eşleştirmesi**
-- İlk oyununuz rastgele bir çekilişle belirlenir. Bir kura, ilk maç için takım arkadaşlarınızı ve rakiplerinizi belirler.
-
-### **Dinamik Eşleştirme Sistemi**
-- İkinci oyundan itibaren eşleşmeleriniz liderlik sıralamasına dayanır. Amaç, benzer beceri seviyelerine sahip oyuncuları veya takımları eşleştirmek ve rekabetçi ve dengeli maçlar sağlamaktır.
-- Örneğin:
-  - 1. ve 3. sıradaki oyuncular, 2. ve 4. sıradaki oyunculara karşı oynamak üzere takım oluşturur.
-  - 5. ve 7. sıradaki oyuncular, 6. ve 8. sıradaki oyunculara karşı oynamak üzere takım oluşturur.
-- Bu dinamik eşleştirme sistemi, turnuva ilerledikçe maçlarınızın daha dengeli hale gelmesini sağlar, üst düzey oyuncular için zorlayıcı bir deneyim sunarken diğer oyuncular için eğlenceli bir ortamı korur.
-
-### **Eşleştirmelerde Esneklik**
-- Mexicano sistemi, liderlik tablosunun nasıl geliştiğine bağlı olarak aynı oyuncularla defalarca oynamanıza izin verir.
+Eğlenceli faktör, oyuncuların nasıl döndürüldüğü şeklinde olduğundan maçlar sıkı kalır çünkü durumlar her tur için takımların nasıl bir araya getirileceğini belirler. Bu şekilde, beceri seviyesi farkları dengelenir ve herkes sıkı ve çekişmeli maçların tadını çıkarabilir.
 
 ---
 
-## **Skorlama ve Maç Formatı**
+## Mexicano için neye ihtiyacınız var?
 
-Mexicano'daki maçlar kısa, enerjik ve etkileyici olacak şekilde tasarlanmıştır. İşte nasıl çalışır:
+Mexicano için, normal Padel maçlarıyla karşılaştırıldığında skor tutmak için bazı sistem veya uygulamalar dışında ekstra bir şeye ihtiyacınız yoktur. Skor tutmak için örneğin Padelution gibi hizmetleri kullanabilirsiniz. Skor tutmak için net bir yolun olması önemlidir çünkü her turdan sonra, bir sonraki turun takımları her oyuncunun sıralamasına göre belirlenir.
 
-### **Maç Puanları**
-- Oyunlar genellikle belirli bir puan sayısına, örneğin 16, 24 veya 32 puan gibi, oynanır. Alternatif olarak, maçlar 10–20 dakikalık belirli bir süre sınırına sahip olabilir.
+En az 8 oyuncunun olması iyi olur ve optimal kort sayısı 2'dir. Oyuncu sayısını istediğiniz kadar artırabilirsiniz, ancak dönüşümün sorunsuz olması ve herkesin aynı anda oynaması için 4'e bölünebilen kort sayısına dikkat etmek iyi olacaktır.
 
-### **Servis Kuralları**
-- Her takımın servis hakkı, servisin diğer takıma geçmeden önce 4 veya 6 kez olur.
+## Mexicano Kuralları
+Mexicano oynarken tüm temel padel kuralları geçerlidir. Başlamak için ilk çiftleri rastgele seçebilirsiniz. Ancak ikinci turdan itibaren, oyuncuların dönüşümünü göstermek için sisteme izin vereceksiniz. Bir sonraki turda, 1. ve 3. sıradaki oyuncular, 2. ve 4. sıradaki oyunculara karşı oynayacaktır. Diğer kortta, 5. ve 7. sıradaki oyuncular, 6. ve 8. sıradaki oyunculara karşı oynayacaktır ve böyle devam eder.
 
-### **Puan Hesaplama**
-- Kazanılan her puan, takımınıza bir puan kazandırır.
-- Maçın sonunda puanlar takım üyeleri arasında eşit olarak bölünür. Örneğin:
-  - 24 puanlık bir maç 14-10 skoruyla biterse, kazanan takımın oyuncuları her biri 14 puan alırken, kaybeden takımın oyuncuları her biri 10 puan alır.
-- Bireysel puanınız tüm maçlarda birikir ve turnuvanın sonunda en çok puana sahip oyuncu kazanır.
+| İlk turdan sonra sıralama | 2. tur için Takımlar |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
 
+
+### Takım A perspektifinden skor örneği
+- Tur 1: Oyuncular A ve D 20 puan ve oyuncular B ve C 12 puan
+- Tur 2: Oyuncular A ve C 19 puan ve oyuncular B ve D 13 puan
+
+İki turdan sonra toplam puanı olan oyuncu A'nın 39'dur
+
+
+### Peki kazanan kim?
+Süre dolduğunda, kazanan sıralamada birinci olan oyuncudur. En önemli faktör yine de takımların her turdan sonra oyuncuların durumlarına göre seçilmesi nedeniyle tüm maçların çekişmeli olması gerektiğidir.
+
+![Padel Mexicano sıralaması!](/tr/images/padel-mexicano.png "Padel Mexicano sıralaması")
 ---
 
-## **Team Mexicano**
+## Team Mexicano
 
-[Team Mexicano](/tr/team-mexicano), formata başka bir strateji katmanı ekler. Oyuncuların partnerlerini değiştirmek yerine, turnuva boyunca önceden belirlenmiş takımlarda yarışırlar. Skorlama ve dinamik eşleştirme sistemleri aynı kalır, ancak tüm puanlar bireyler yerine takımlar için hesaplanır.
+[Team Mexicano](/tr/team-mexicano), formata başka bir strateji katmanı ekler. Partnerleri döndürmek yerine, oyuncular turnuva boyunca önceden belirlenmiş takımlarda yarışırlar. Skorlama ve dinamik eşleştirme sistemleri aynı kalır, ancak tüm puanlar bireyler yerine takımlar için hesaplanır.
 
 Bu varyasyon, takım çalışmasına ve uzun vadeli stratejilere odaklanmak isteyen gruplar için mükemmeldir.
 
 ---
 
-## **Padel Mexicano Turnuvası Düzenleme**
+## Neden Padel Mexicano Oynamalısınız?
 
-Doğru hazırlıkla Mexicano turnuvası düzenlemek oldukça basittir. Sorunsuz bir etkinlik için şu adımları izleyin:
-
-### **Katılımcılar ve Kortlar**
-- Mexicano oynamak için en az 8 katılımcı veya takımınıza ihtiyacınız olacak. Üst sınır yoktur, ancak dörtle bölünebilen bir sayının olması maç rotasyonları için idealdir.
-- Gerekli kort sayısı katılımcı sayısına bağlıdır:
-  - 8 oyuncu = 2 kort
-  - 12 oyuncu = 3 kort
-  - 16 oyuncu = 4 kort
-- Tüm beceri seviyelerinden oyuncular katılabilir ve seviyelerin karıştırılması oyunları daha da keyifli hale getirebilir.
-
-### **Maç Süresi**
-- Standart bir Mexicano turnuvası yaklaşık 2 saat sürer.
-- Örneğin, 24 puanlık bir maç genellikle tamamlanması için yaklaşık 12 dakika alır.
-
-### **Skor Tutma**
-- Maç sonuçlarını kaydetmek ve liderlik sıralamalarını dinamik olarak hesaplamak için bir skor kartı hazırlayın veya özel bir uygulama kullanın.
-
-### **Adil ve Eğlenceli Rekabet**
-- Mexicano'nun uyarlanabilir sistemi, oyuncuların sürekli olarak zorlanmasını sağlar, ancak maçlarda ezilmiş hissetmelerini engeller, bu da farklı beceri seviyelerinin bulunduğu etkinlikler için mükemmel bir seçim yapar.
-
----
-
-## **Neden Padel Mexicano Oynamalısınız?**
-
-Padel Mexicano, kapsayıcılığı ve uyarlanabilirliğiyle öne çıkar. Bu formatın neden bu kadar popüler olduğunu anlatan bazı nedenler şunlardır:
+Padel Mexicano, kapsayıcılığı ve uyarlanabilirliği ile dikkat çeker. Bu formatın neden bu kadar popüler olduğuna dair bazı nedenler:
 - **Adil Oyun**: Turnuva ilerledikçe maçlar giderek dengelenir.
-- **Dinamik Eşleştirmeler**: Çeşitli rakiplerle oynayın ve karşı oynayın, oyunları taze ve etkileyici tutun.
-- **Sosyal Deneyim**: Yeni oyuncularla tanışmanın ve dostluk kurmanın harika bir yoludur.
+- **Dinamik Eşleştirmeler**: Çeşitli rakiplerle oynayın, oyunları taze ve ilgi çekici tutun.
+- **Sosyal Deneyim**: Yeni oyuncularla tanışmanın ve dostluk kurmanın harika bir yolu.
 - **Esneklik**: Hem bireysel hem de takım tabanlı turnuvalar için uygundur.
 
 ---
 
-## **Sonuç**
+## Sonuç
 
-Padel Mexicano, sadece bir oyun formatından daha fazlasıdır - adil, eğlenceli ve uyarlanabilir bir deneyimi vurgular. Bir turnuva düzenliyor ya da birine katılıyorsanız, bu format heyecan verici maçlar ve harika anılar garanti eder. Dinamik eşleştirme sistemi ve kapsayıcı skorlama ile Mexicano, her padel tutkunu için denemeye değer bir seçenektir.
+Padel Mexicano sadece bir oyun formatı değil, adil, eğlenceli ve uyarlanabilirliği vurgulayan bir deneyimdir. Bir turnuva düzenliyor ya da birine katılıyorsanız, bu format heyecan verici maçlar ve harika anılar garanti eder. Dinamik eşleştirme sistemi ve kapsayıcı skoruyla Mexicano, her padel tutkunu için denemeye değer bir formattır.
 
-Bu yüzden arkadaşlarınızı toplayın, raketlerinizi alın ve unutulmaz bir gün için Padel Mexicano dünyasına dalın!
-
-test
+O halde arkadaşlarınızı toplayın, raketlerinizi alın ve unutulmaz bir gün geçirmek için Padel Mexicano dünyasına dalın!

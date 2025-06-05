@@ -1,98 +1,72 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: Pilnas vadovas šiam dinamiškam formatui
 
-Padel Mexicano yra įdomus ir prisitaikantis formatas, kuris padel socialinius ir konkurencinius aspektus pakelia į kitą lygį. Skirtingai nei tradiciniai formatai, Mexicano dinamiškai prisitaiko prie to, su kuo žaidžiate ir prieš ką pagal rungtynių rezultatus, sukurdamas sąžiningą ir subalansuotą varžybų aplinką, lyginant žaidimo lauką, kai turnyras tobulėja.
+Mexicano turi linksma ir dinamiška partnerių bei priešininkų keitimosi būdą. Nulemiantis veiksnys yra jūsų vieta reitinge, o po kiekvieno raundo jūs grįžtate, žiūrite, kur atsidūrėte reitinge, ir tada matote, su kuo žaisite toliau.
 
-Nesvarbu, ar esate patyręs žaidėjas, ar pradedantysis, Mexicano yra puikus būdas mėgautis padel, susipažinti su naujais priešininkais ir išbandyti savo įgūdžius.
+Linksmas faktorius yra tas, kad žaidėjų keitimasis išlaiko mačus artimus, nes rezultatai nulemia, kaip sudaromi komandos kiekvienam raundui. Taip lyginamos įgūdžių skirtumai, ir visi gali mėgautis artimais ir įtemptais mačais.
 
----
-
-## **Kaip veikia Padel Mexicano?**
-
-Padel Mexicano išsiskiria adaptaciniu rungtynių poravimo sistem. Vietoje fiksuoto tvarkaraščio, su kuo žaidžiate ir prieš ką nusprendžiama pagal jūsų pasirodymą ankstesnėse rungtynėse.
-
-### **Pradinis Rungtynių Poravimas**
-- Jūsų pirmas žaidimas nusprendžiamas atsitiktiniu burtų traukimu. Loterija nustato jūsų komandos draugus ir priešininkus pradiniams mačams.
-
-### **Dinaminė Poravimo Sistema**
-- Pradedant nuo antro žaidimo, jūsų susitikimai grindžiami lyderių lentelės pozicijomis. Tikslas yra poruoti žaidėjus ar komandas su panašiais įgūdžių lygiais, užtikrinant konkurencingus ir lygiavertės lygio žaidimus.
-- Pavyzdžiui:
-  - 1 ir 3 pozicijose esantys žaidėjai sudaro komandą prieš 2 ir 4 pozicijose esančius žaidėjus.
-  - 5 ir 7 pozicijose esantys žaidėjai susijungia prieš 6 ir 8 pozicijose esančius žaidėjus.
-- Ši dinaminė poravimo sistema užtikrina, kad kai turnyras tobulėja, jūsų susitikimai tampa lygiaverčiai, suteikiant iššūkį geriausiems žaidėjams ir išlaikant smagumą visiems kitiems.
-
-### **Lankstumas Poravimuose**
-- Mexicano sistema leidžia jums žaisti su tais pačiais žaidėjais ar prieš juos kelis kartus, priklausomai nuo to, kaip kinta lyderių lentelė.
 
 ---
 
-## **Taškų Skaičiavimas ir Rungtynių Formatas**
+## Ko reikia Mexicano žaidimui?
 
-Mexicano rungtynės yra suprojektuotos būti trumpos, energingos ir įtraukiančios. Taip jos veikia:
+Mexicano žaidimui, jums nereikia nieko papildomo, lyginant su įprastais Padelio mačais, išskyrus sistemą ar programėlę rezultatams laikyti. Galite naudoti, pavyzdžiui, paslaugas kaip Padelution rezultatams laikyti. Svarbu turėti aiškų būdą rezultatams laikyti, nes po kiekvieno raundo, kitų raundų komandos nustatomos pagal kiekvieno žaidėjo reitingą.
 
-### **Taškų Skaičiavimas**
-- Žaidimai dažniausiai vyksta iki konkretaus taškų skaičiaus, tokio kaip 16, 24 ar 32 taškai. Alternatyviai, rungtynės gali turėti nustatytą laiko limitą, pvz., 10–20 minučių.
+Gerai turėti bent 8 žaidėjus, o optimalus kortų skaičius yra 2. Galite padidinti žaidėjų skaičių iki tiek, kiek norite, tačiau atsiminkite, kad gerai, jog kortų skaičius būtų dalus iš 4, kad keitimasis vyktų sklandžiai, ir visi žaistų tuo pačiu metu.
 
-### **Servavimo Taisyklės**
-- Kiekviena komanda servuoja 4 arba 6 kartus prieš eilę pasikeičiant kitai komandai.
+## Mexicano taisyklės
+Visos pagrindinės padelio taisyklės taikomos žaidžiant Mexicano. Pradžioje galite atsitiktinai pasirinkti pirmas poras pradėti. Tačiau pradedant nuo antro raundo, leisite sistemai parodyti, kaip bus atliekamas žaidėjų keitimasis. Žaidėjai, kurie yra 1 ir 3 reitingo vietose, kitame raunde žais su žaidėjais, kurie yra 2 ir 4 reitingo vietose. Kitoje aikštėje, žaidėjai, kurie yra 5 ir 7 reitingo vietose, žais su žaidėjais, kurie yra 6 ir 8 reitingo vietose, ir taip toliau.
 
-### **Taškų Skaičiavimas**
-- Kiekvienas laimėtas taškas suteikia jūsų komandai tašką.
-- Rungtynių pabaigoje taškai yra lygiaverčiai pasiskirstomi tarp komandos narių. Pavyzdžiui:
-  - Jei 24 taškų rungtynės baigiasi rezultatu 14–10, laimėjusios komandos žaidėjai kiekvienas gauna po 14 taškų, o pralaimėjusios komandos žaidėjai kiekvienas gauna po 10 taškų.
-- Jūsų individualus rezultatas kaupiasi visose rungtynėse, o žaidėjas su daugiausia taškų turnyro pabaigoje laimi.
+| Rezultatai po pirmo raundo | Komandos 2-ajam raundui |
+|:---------------------------:|:------------------------:|
+|              1              |       1/3 prieš 2/4      |
+|              2              |                          |
+|              3              |                          |
+|              4              |                          |
+|              5              |       5/7 prieš 6/8      |
+|              6              |                          |
+|              7              |                          |
+|              8              |                          |
 
+
+### Rezultatų pavyzdys iš A komandos perspektyvos
+- Raundas 1: Žaidėjai A ir D 20 taškų, o žaidėjai B ir C 12 taškų
+- Raundas 2: Žaidėjai A ir C 19 taškų, o žaidėjai B ir D 13 taškų
+
+Iš viso taškų, kuriuos surinko žaidėjas A po dviejų raundų, yra 39
+
+
+### Tai kas yra nugalėtojas?
+Kai laikas baigiasi, nugalėtojas yra žaidėjas, kuris yra pirmoje vietoje reitinge. Svarbiausias faktorius vis tiek turėtų būti tai, kad visi mačai buvo įtempti dėl komandų sudarymo būdo po kiekvieno raundo, remiantis žaidėjų reitingais.
+
+![Padel Mexicano reitingas!](/lt/images/padel-mexicano.png "Padel Mexicano reitingas")
 ---
 
-## **Komanda Mexicano**
 
-[Team Mexicano](/lt/team-mexicano) prideda dar vieną strategijos sluoksnį prie formataus. Vietoje partnerių keitimo, žaidėjai varžosi su iš anksto sudarytomis komandomis visą turnyrą. Taškų skaičiavimo ir dinaminės poravimo sistemos lieka tokios pat, tačiau visi taškai skaičiuojami komandoms, o ne atskiriems žaidėjams.
+## Team Mexicano
 
-Ši variacija puikiai tinka grupėms, kurios siekia sutelkti dėmesį į komandinį darbą ir ilgalaikes strategijas.
+[Team Mexicano](/lt/team-mexicano) prideda dar vieną strategijos sluoksnį šiam formatui. Vietoje partnerių keitimosi, žaidėjai varžosi su iš anksto sudarytomis komandomis visą turnyrą. Rezultatų skaičiavimo ir dinaminio poravimo sistemos lieka tokios pat, tačiau visi taškai skaičiuojami komandoms, o ne atskiriems žaidėjams.
 
----
-
-## **Padel Mexicano Turnyro Organizavimas**
-
-Padel Mexicano turnyrą organizuoti paprasta su tinkama pasiruošimu. Sekite šiuos žingsnius, kad užtikrintumėte sklandų renginį:
-
-### **Dalyviai ir Aikštelės**
-- Jums reikės bent 8 dalyvių ar komandų, kad galėtumėte žaisti Mexicano. Nėra viršutinės ribos, tačiau turėti skaičių, kuris dalijasi iš keturių, yra idealu sklandžiam mačų sukimui.
-- Reikalingas aikštelių skaičius priklauso nuo dalyvių skaičiaus:
-  - 8 žaidėjai = 2 aikštelės
-  - 12 žaidėjų = 3 aikštelės
-  - 16 žaidėjų = 4 aikštelės
-- Visų įgūdžių lygių žaidėjai gali dalyvauti, o lygių maišymas gali padaryti žaidimus dar įdomesnius.
-
-### **Rungtynių Trukmė**
-- Standartinis Mexicano turnyras trunka apie 2 valandas.
-- Pavyzdžiui, 24 taškų rungtynės paprastai trunka apie 12 minutes.
-
-### **Rezultatų Laikymas**
-- Paruoškite rezultatų lentelę arba naudokite skirtą programėlę, kad įrašytumėte rungtynių rezultatus ir dinamiškai skaičiuotumėte lyderių lentelės pozicijas.
-
-### **Sąžiningos ir Įdomios Varžybos**
-- Mexicano adaptacinė sistema užtikrina, kad žaidėjai nuolat būtų iššūkio, nejaučiant, kad yra nepalyginti, todėl tai puikus pasirinkimas renginiams su įvairiais įgūdžių lygiais.
+Ši variacija puikiai tinka grupėms, kurios nori sutelkti dėmesį į komandinį darbą ir ilgalaikes strategijas.
 
 ---
-
-## **Kodėl žaisti Padel Mexicano?**
+## Kodėl žaisti Padel Mexicano?
 
 Padel Mexicano išsiskiria savo įtraukumu ir prisitaikomumu. Štai keletas priežasčių, kodėl šis formatas yra toks populiarus:
-- **Sąžiningas Žaidimas**: Rungtynės tampa vis labiau subalansuotos, kai turnyras tobulėja.
-- **Dinaminiai Poravimai**: Žaiskite su ir prieš įvairius priešininkus, kad žaidimai būtų švieži ir įtraukiantys.
-- **Socialinis Patyrimas**: Fantastiškas būdas susipažinti su naujais žaidėjais ir kurti draugystę.
-- **Lankstumas**: Tinka tiek individualiems, tiek komandinėms turnyrams.
+- **Teisingas žaidimas**: Mačai tampa vis labiau subalansuoti, kai turnyras eina į priekį.
+- **Dinaminis poravimas**: Žaiskite su ir prieš įvairius priešininkus, išlaikydami žaidimus šviežius ir įdomius.
+- **Socialinis išgyvenimas**: Fantastiškas būdas susipažinti su naujais žaidėjais ir kurti draugystę.
+- **Lankstumas**: Tinka tiek individualiems, tiek komandinio pobūdžio turnyrams.
 
 ---
 
-## **Išvada**
+## Išvada
 
-Padel Mexicano yra daugiau nei tik žaidimo formatas – tai patirtis, kuri pabrėžia sąžiningumą, smagumą ir prisitaikomumą. Nesvarbu, ar organizuojate turnyrą, ar prisijungiate prie vieno, šis formatas garantuoja įdomius mačus ir puikias atsiminimus. Su savo dinamine poravimo sistema ir įtraukiančiu rezultatų skaičiavimu, Mexicano yra privaloma išbandyti bet kuriam padel entuziastui.
+Padel Mexicano yra daugiau nei tik žaidimo formatas – tai patirtis, kuri pabrėžia teisingumą, linksmybes ir prisitaikomumą. Nesvarbu, ar organizuojate turnyrą, ar prisijungiate prie jo, šis formatas garantuoja įdomius mačus ir puikias atsiminimus. Su dinaminiu poravimo būdu ir įtraukiamu rezultatų skaičiavimu, Mexicano yra privaloma išbandyti bet kuriam padelio entuziastui.
 
-Tad sukvieskite savo draugus, pasiimkite raketes ir įsikunkite į Padel Mexicano pasaulį, kur jūsų laukia nepraleidžiama diena aikštėje!
-
-test
+Tad sukvieskite savo draugus, pasiimkite raketes ir įsijunkite į Padel Mexicano pasaulį, kad turėtumėte neįkainojamą dieną kortose!

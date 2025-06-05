@@ -1,85 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Panduan Terbaik untuk Tim Americano
 
 ## Pengantar
-Tim Americano adalah variasi dinamis dan kompetitif dari format Padel Americano tradisional. Dimainkan dengan tim tetap dua pemain, format ini sempurna untuk kelompok yang ingin menekankan kerja sama tim dan strategi. Dengan fokus pada kolaborasi dan kemitraan yang konsisten, Tim Americano ideal untuk pemain padel yang santai maupun kompetitif.
-
-Panduan ini memberikan semua yang Anda butuhkan untuk mengatur, bermain, dan unggul dalam Tim Americano.
+Tim Americano memiliki ide dasar yang sama dengan Padel Americano, tetapi alih-alih berganti pasangan setiap putaran, Anda tetap dengan pemain yang sama hingga akhir. Ini adalah cara yang bagus untuk lebih akrab dengan pasangan Anda selama acara dan benar-benar memahami cara bermain mereka. Ini juga akan meningkatkan permainan Anda! Keuntungan lain dari Tim Americano adalah bahwa selama pertandingan, Anda dapat menjadi tim yang lebih baik dan meningkatkan peluang Anda untuk menang.
 
 ---
 
-## Apa Itu Tim Americano?
-Tim Americano dimainkan dengan pasangan tetap, di mana dua pemain membentuk tim dan bersaing melawan tim lain dalam pertandingan singkat dan penuh energi. Berbeda dengan Americano tradisional, pasangan tidak berputar, memungkinkan tim untuk membangun dan menjalankan strategi jangka panjang.
+## Apa yang Anda Butuhkan untuk Tim Americano??
+Penyiapan sangat mirip dengan Padel Americano reguler. Untuk kesenangan optimal, disarankan untuk memiliki setidaknya 4 tim, yang berarti 8 pemain. Kemudian, tergantung pada jumlah pemain yang Anda miliki, Anda memerlukan lapangan padel (lihat tabel di bawah untuk jumlah optimal lapangan vs. jumlah pemain). Sama seperti Americano reguler, ide bagus untuk memiliki sistem atau aplikasi untuk mencatat skor. Juga, untuk ini, [Padelution](https://www.padelution.com/americano) membuatnya sangat mudah.
 
-- **Pemain**: 8, 12, 16, atau lebih pemain dibagi menjadi tim dua.
-- **Tim**: Biasanya 4 atau lebih tim.
-- **Durasi Pertandingan**: Setiap pertandingan dimainkan hingga jumlah poin tertentu (biasanya 32).
-- **Penilaian**: Poin kumulatif di semua pertandingan menentukan tim pemenang.
+| Jumlah tim | Jumlah minimum lapangan |
+|------------|-------------------------|
+|   4 hingga 7|            2            |
+|   8 hingga 11|           3            |
+|   12 hingga 15|          4            |
+|   16 hingga 19|          5            |
+|   20 hingga 23|          6            |
 
----
-
-## Mengapa Memilih Tim Americano?
-1. **Menekankan Kerja Sama Tim**: Mendorong kolaborasi yang kuat dan strategi mitra.
-2. **Fleksibilitas**: Berfungsi baik untuk turnamen dengan berbagai jumlah pemain.
-3. **Kompetitif dan Menyenangkan**: Menggabungkan aspek kompetisi dan kesenangan terbaik.
-4. **Skalabilitas**: Mudah untuk disesuaikan untuk kelompok besar dan lapangan ganda.
+Pemain tambahan dapat istirahat dan memberi semangat kepada yang lain
 
 ---
 
-## Cara Mengatur Turnamen Tim Americano
-Mengatur turnamen Tim Americano mudah dengan perencanaan yang tepat. Ikuti langkah-langkah ini:
+## Aturan Tim Americano
+Ide dasarnya adalah setiap tim bermain melawan semua tim lain selama acara, jadi dibandingkan dengan Americano reguler, tidak ada rotasi di dalam tim.
 
-### 1. Tentukan Jumlah Tim
-Tim Americano bekerja paling baik dengan 4 atau lebih tim:
-- 8 pemain = 4 tim
-- 12 pemain = 6 tim
-- 16 pemain = 8 tim
+Misalnya, Anda bermain di dua lapangan dan sekarang tim A. Anda mulai bermain melawan tim B. Setelah putaran pertama selesai, Anda akan tetap di lapangan yang sama atau beralih lapangan, tetapi yang utama adalah Anda akan bermain selanjutnya melawan tim C. Setelah putaran kedua selesai, Anda semua bergantian lagi, dan selanjutnya Anda bermain melawan tim D.
 
-### 2. Buat Jadwal Pertandingan
-Rencanakan rotasi agar semua tim saling berhadapan. Untuk 4 tim (Tim A, B, C, D):
-- Pertandingan 1: Tim A vs. Tim B
-- Pertandingan 2: Tim C vs. Tim D
-- Pertandingan 3: Tim A vs. Tim C
-- Pertandingan 4: Tim B vs. Tim D
-- Lanjutkan hingga semua tim telah bermain.
-
-Untuk lebih banyak tim, sesuaikan rotasi tersebut untuk memastikan keadilan.
-
-### 3. Tetapkan Aturan Pertandingan
-- **Poin**: Setiap pertandingan dimainkan hingga jumlah poin tetap (misalnya, 32).
-- **Bergantian Sisi**: Bergantian sisi setiap 16 poin untuk menyeimbangkan faktor lingkungan.
-- **Penilaian Kumulatif**: Tim mendapatkan poin di setiap pertandingan, yang ditambahkan ke skor total mereka.
-
-### 4. Catat Skor
-Gunakan papan skor atau aplikasi americano untuk melacak poin yang diperoleh setiap tim di semua pertandingan.
-
-### 5. Tentukan Pemenang
-Pada akhir turnamen, tim dengan skor kumulatif tertinggi dinyatakan sebagai pemenang. Jika terjadi hasil imbang, pertimbangkan pertandingan playoff.
+Aturan dasar padel berlaku, jadi jika Anda tidak setuju apakah bola itu masuk atau keluar, lebih baik ulangi poin tersebut dan lanjutkan dengan cepat. Memilih pelayan pertama juga dapat dilakukan sesuai dengan kebiasaan pemain, seperti bermain "bola pelayan" atau melempar koin.
 
 ---
 
-## Strategi untuk Tim Americano
-1. **Kimia dengan Mitra**: Pahami kelebihan dan kelemahan mitra Anda.
-2. **Fokus pada Konsistensi**: Bertujuan untuk kinerja yang stabil di semua pertandingan.
-3. **Adaptasi terhadap Lawan**: Kembangkan strategi untuk melawan gaya permainan yang berbeda.
-4. **Berkomunikasi dengan Efektif**: Komunikasi yang jelas dan ringkas bisa membuat perbedaan.
+## Contoh Putaran(dari sudut pandang tim A):
+- Putaran 1 - Tim A vs. Tim B
+- Putaran 2 - Tim A vs. Tim C
+- Putaran 3 - Tim A vs. Tim D
+
+![Mike & Juan adalah tim A](/id/images/team-americano.png "Mike & Juan adalah tim A")
 
 ---
 
-## Pertanyaan yang Sering Diajukan
-### Bagaimana jika ada lebih dari 4 tim?
-Untuk kelompok yang lebih besar, tingkatkan jumlah putaran untuk memastikan semua tim bersaing dengan adil. Anda juga dapat menggunakan lapangan ganda untuk mempercepat pertandingan.
+### Skor dan Cara Menang
+Setiap putaran biasanya dimainkan hingga total 32 poin. Setiap pemain melayani 4 kali sebelum bergantian ke pelayan berikutnya. Hal penting untuk diingat adalah, misalnya, jika tim Anda mendapatkan 15 poin dan tim lawan mendapatkan 17 poin, Anda akan memberikan 15 poin untuk tim Anda dan 17 poin untuk tim lawan. Total poin yang dimainkan sekarang adalah 32, dan putaran Anda selesai.
 
-### Apa yang terjadi jika dua tim memiliki jumlah poin yang sama?
-Pertandingan tiebreaker hingga 16 atau 32 poin dapat dimainkan untuk menentukan pemenang.
+Setelah setiap putaran, penting untuk mencatat skor pada papan skor atau dalam sistem yang terorganisir, misalnya Padelution. Tim dengan jumlah poin terbanyak yang terakumulasi pada akhir acara dinyatakan sebagai pemenang. Ide bagus untuk menunjuk seseorang untuk melacak skor, memastikan bahwa semua poin tercatat dengan benar sepanjang acara.
 
-### Apakah pemula dapat menikmati Tim Americano?
-Ya! Format ini mudah diakses dan menyenangkan untuk pemain dari semua tingkatan, menjadikannya sempurna untuk kelompok dengan berbagai tingkat keterampilan.
+![Marie/Bob adalah tim pemenang](/id/images/team-americano-scores.png "Marie/Bob adalah tim pemenang")
 
----
+### Setelah Waktu Habis
+Setelah waktu habis atau semua tim telah bermain melawan satu sama lain setidaknya dua kali, saatnya untuk melihat tim mana yang mengumpulkan poin terbanyak. Ingatlah bahwa, berbeda dengan Americano reguler, Anda menang dan kalah bersama sebagai tim, sehingga papan skor akhir harus menunjukkan tim yang diatur secara menurun mulai dari tim yang memiliki poin terbanyak terkumpul.
 
-## Kesimpulan
-Tim Americano adalah cara yang menyenangkan dan sosial untuk menikmati padel. Dengan menjaga pemain dalam pasangan yang konsisten, format ini mempromosikan kerja sama tim, strategi, dan keunggulan kompetitif yang mendebarkan. Dengan aturan yang jelas dan sedikit perencanaan, Anda dapat menyelenggarakan acara Tim Americano yang sukses yang disukai oleh pemain dari semua tingkatan.
+Setelah pertandingan resmi selesai, mengapa tidak bersantai dengan minuman di lounge dan bergaul dengan pemain lain? Bagaimanapun, bersosialisasi adalah salah satu bagian terbaik dari bermain padel!

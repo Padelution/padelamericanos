@@ -1,98 +1,72 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Padel Mexicano: Panduan Lengkap Format Dinamis Ini
+# Padel Mexicano: Panduan Lengkap untuk Format Dinamis Ini
 
-Padel Mexicano adalah format yang menarik dan adaptif yang membawa aspek sosial dan kompetitif padel ke tingkat yang lebih tinggi. Berbeda dengan format tradisional, Mexicano secara dinamis menyesuaikan siapa yang Anda mainkan bersama dan lawan berdasarkan hasil pertandingan, menciptakan kompetisi yang adil dan seimbang yang menyamakan peluang seiring dengan berjalannya turnamen.
+Mexicano memiliki cara yang menyenangkan dan dinamis dalam memutar pasangan dan lawan. Faktor penentu adalah posisi Anda dalam peringkat, dan setelah setiap putaran, Anda kembali, melihat di mana Anda berada dalam peringkat, dan kemudian melihat dengan siapa Anda akan bermain selanjutnya.
 
-Baik Anda seorang pemain berpengalaman atau pemula, Mexicano adalah cara yang sangat baik untuk menikmati padel, bertemu lawan baru, dan menguji keterampilan Anda.
+Faktor yang menyenangkan adalah cara pemain diputar menjaga pertandingan tetap ketat karena peringkat menentukan bagaimana tim disusun untuk setiap putaran. Dengan cara ini, kesenjangan tingkat keterampilan merata, dan semua orang dapat menikmati pertandingan yang ketat dan seru.
 
----
-
-## **Bagaimana Padel Mexicano Bekerja?**
-
-Fitur utama dari Padel Mexicano adalah sistem pasangan pertandingan adaptifnya. Alih-alih jadwal tetap, siapa yang Anda mainkan bersama dan lawan ditentukan berdasarkan performa Anda dalam pertandingan sebelumnya.
-
-### **Pasangan Pertandingan Awal**
-- Pertandingan pertama Anda ditentukan melalui undian acak. Lotre menentukan rekan setim dan lawan Anda untuk pertandingan awal.
-
-### **Sistem Pasangan Dinamis**
-- Mulai dari pertandingan kedua, pasangan Anda didasarkan pada peringkat papan peringkat. Tujuannya adalah memasangkan pemain atau tim dengan tingkat keterampilan yang serupa untuk memastikan pertandingan yang kompetitif dan seimbang.
-- Contohnya:
-  - Pemain peringkat 1 dan 3 berpasangan melawan pemain peringkat 2 dan 4.
-  - Pemain peringkat 5 dan 7 berpasangan menghadapi pemain peringkat 6 dan 8.
-- Sistem pasangan dinamis ini memastikan bahwa seiring dengan berjalannya turnamen, pertandingan Anda menjadi lebih seimbang, memberikan pengalaman yang menantang bagi pemain teratas sambil tetap menyenangkan bagi yang lain.
-
-### **Fleksibilitas dalam Pasangan**
-- Sistem Mexicano memungkinkan Anda bermain dengan dan melawan pemain yang sama beberapa kali, tergantung pada bagaimana perkembangan papan peringkat.
 
 ---
 
-## **Skor dan Format Pertandingan**
+## Apa yang Anda Butuhkan untuk Mexicano?
 
-Pertandingan dalam Mexicano dirancang untuk singkat, energik, dan menarik. Berikut cara kerjanya:
+Untuk Mexicano, Anda tidak memerlukan apa pun tambahan jika dibandingkan dengan pertandingan Padel reguler kecuali sistem atau aplikasi untuk mencatat skor. Anda dapat menggunakan, misalnya, layanan seperti Padelution untuk mencatat skor. Penting untuk memiliki cara yang jelas untuk penilaian karena setelah setiap putaran, tim untuk putaran berikutnya ditentukan berdasarkan peringkat setiap pemain.
 
-### **Poin Pertandingan**
-- Pertandingan biasanya dimainkan hingga jumlah poin tertentu, seperti 16, 24, atau 32 poin. Atau, pertandingan dapat memiliki batas waktu tertentu, seperti 10–20 menit.
+Sebaiknya memiliki setidaknya 8 pemain, dan jumlah lapangan optimal adalah 2. Anda dapat menambah jumlah pemain sesuai keinginan, tetapi perlu diingat bahwa lebih baik memiliki jumlah lapangan yang dapat dibagi dengan 4 agar rotasi berjalan lancar, dan semua orang akan bermain pada saat yang sama.
 
-### **Aturan Pelayanan**
-- Setiap tim melakukan pelayanan sebanyak 4 atau 6 kali sebelum giliran pelayanan beralih ke tim lain.
+## Aturan Mexicano
+Semua aturan dasar padel berlaku saat bermain Mexicano. Untuk memulai, Anda dapat secara acak memilih pasangan pertama untuk memulai. Mulai dari putaran kedua, namun, Anda akan membiarkan sistem menunjukkan bagaimana rotasi pemain akan dilakukan. Pemain peringkat 1 dan 3 akan, pada putaran berikutnya, bermain melawan pemain peringkat 2 dan 4. Di lapangan lain, pemain peringkat 5 dan 7 akan bermain melawan pemain peringkat 6 dan 8, dan seterusnya.
 
-### **Perhitungan Poin**
-- Setiap poin yang dimenangkan tim Anda mendapatkan satu poin.
-- Pada akhir pertandingan, poin dibagi secara merata di antara anggota tim. Contohnya:
-  - Jika pertandingan 24 poin berakhir dengan skor 14–10, pemain tim pemenang masing-masing menerima 14 poin, sementara pemain tim yang kalah masing-masing mendapatkan 10 poin.
-- Skor individu Anda mengumpulkan poin di seluruh pertandingan, dan pemain dengan poin terbanyak di akhir turnamen menjadi pemenang.
+| Peringkat setelah putaran pertama | Tim untuk Putaran ke-2 |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
 
+
+### Contoh penilaian dari sudut pandang tim A
+- Putaran 1: Pemain A&D 20 poin dan pemain B&C 12 poin
+- Putaran 2: Pemain A&C 19 poin dan pemain B&D 13 poin
+
+Total poin yang dikumpulkan pemain A setelah dua putaran adalah 39
+
+
+### Lalu siapa pemenangnya?
+Setelah waktu habis, pemenangnya adalah pemain yang berada di posisi pertama dalam peringkat. Faktor paling penting tetap harus menjadi fakta bahwa semua pertandingan ketat karena cara tim dipilih setelah setiap putaran berdasarkan posisi pemain.
+
+![Peringkat Padel Mexicano!](/id/images/padel-mexicano.png "Peringkat Padel Mexicano")
 ---
 
-## **Tim Mexicano**
 
-[Tim Mexicano](/id/team-mexicano) menambahkan lapisan strategi lain ke format ini. Alih-alih bergantian pasangan, pemain bersaing dalam tim yang sudah diatur sepanjang turnamen. Sistem skoring dan pasangan dinamis tetap sama, tetapi semua poin dihitung untuk tim daripada individu.
+## Tim Mexicano
 
-Variasi ini sempurna untuk kelompok yang ingin fokus pada kerja tim dan strategi jangka panjang.
+[Tim Mexicano](/id/team-mexicano) menambahkan lapisan strategi lain ke dalam format. Alih-alih memutar pasangan, pemain bersaing dalam tim yang sudah disusun sepanjang turnamen. Sistem penilaian dan pemilihan dinamis tetap sama, tetapi semua poin dihitung untuk tim daripada individu.
 
----
-
-## **Mengatur Turnamen Padel Mexicano**
-
-Mengatur turnamen Mexicano adalah hal yang mudah dengan persiapan yang tepat. Ikuti langkah-langkah ini untuk memastikan acara berjalan lancar:
-
-### **Peserta dan Lapangan**
-- Anda memerlukan setidaknya 8 peserta atau tim untuk bermain Mexicano. Tidak ada batasan atas, tetapi memiliki jumlah yang dapat dibagi oleh empat adalah ideal untuk rotasi pertandingan yang lancar.
-- Jumlah lapangan yang diperlukan tergantung pada jumlah peserta:
-  - 8 pemain = 2 lapangan
-  - 12 pemain = 3 lapangan
-  - 16 pemain = 4 lapangan
-- Pemain dari semua tingkatan keterampilan dapat berpartisipasi, dan mencampur tingkatan dapat membuat pertandingan menjadi lebih menyenangkan.
-
-### **Durasi Pertandingan**
-- Turnamen Mexicano standar berlangsung sekitar 2 jam.
-- Misalnya, pertandingan 24 poin biasanya memakan waktu sekitar 12 menit untuk diselesaikan.
-
-### **Pencatatan Skor**
-- Siapkan kartu skor atau gunakan aplikasi khusus untuk mencatat hasil pertandingan dan menghitung papan peringkat secara dinamis.
-
-### **Kompetisi yang Adil dan Menyenangkan**
-- Sistem adaptif Mexicano memastikan bahwa pemain secara konsisten diuji tanpa merasa kalah, menjadikannya pilihan yang sangat baik untuk acara dengan berbagai tingkatan keterampilan.
+Variasi ini sempurna untuk kelompok yang ingin fokus pada kerja sama tim dan strategi jangka panjang.
 
 ---
-
-## **Mengapa Bermain Padel Mexicano?**
+## Mengapa Bermain Padel Mexicano?
 
 Padel Mexicano menonjol karena inklusivitas dan adaptabilitasnya. Berikut adalah beberapa alasan mengapa format ini begitu populer:
-- **Bermain Adil**: Pertandingan menjadi semakin seimbang seiring dengan berjalannya turnamen.
+- **Bermain Adil**: Pertandingan menjadi semakin seimbang seiring berjalannya turnamen.
 - **Pasangan Dinamis**: Bermain dengan dan melawan berbagai lawan, menjaga pertandingan tetap segar dan menarik.
 - **Pengalaman Sosial**: Cara fantastis untuk bertemu pemain baru dan membangun rasa persaudaraan.
 - **Fleksibilitas**: Cocok untuk turnamen baik individu maupun berbasis tim.
 
 ---
 
-## **Kesimpulan**
+## Kesimpulan
 
-Padel Mexicano lebih dari sekadar format permainan—ini adalah pengalaman yang menekankan pada keadilan, kesenangan, dan adaptabilitas. Baik Anda mengatur turnamen atau bergabung dalam satu, format ini menjamin pertandingan yang menarik dan kenangan yang luar biasa. Dengan sistem pasangan dinamis dan skoring inklusifnya, Mexicano adalah sesuatu yang harus dicoba bagi setiap penggemar padel.
+Padel Mexicano lebih dari sekadar format permainan—ini adalah pengalaman yang menekankan keadilan, kesenangan, dan adaptabilitas. Baik Anda mengatur turnamen atau bergabung dalam satu, format ini menjamin pertandingan yang menarik dan kenangan yang hebat. Dengan sistem pasangan dinamis dan penilaian inklusifnya, Mexicano adalah sesuatu yang harus dicoba bagi setiap penggemar padel.
 
-Jadi kumpulkan teman-teman Anda, ambil raket Anda, dan telusuri dunia Padel Mexicano untuk hari yang tak terlupakan di lapangan!
-
-test
+Jadi kumpulkan teman-teman Anda, ambil raket Anda, dan masuk ke dunia Padel Mexicano untuk hari yang tak terlupakan di lapangan!

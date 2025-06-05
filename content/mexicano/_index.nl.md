@@ -1,98 +1,72 @@
 ---
-draft: false
+concept: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: Een Complete Gids voor Dit Dynamische Format
 
-Padel Mexicano is een opwindend en aanpasbaar format dat de sociale en competitieve aspecten van padel naar een hoger niveau tilt. In tegenstelling tot traditionele formats past Mexicano zich dynamisch aan wie je mee speelt en tegen wie op basis van de wedstrijdresultaten, waardoor een eerlijke en gebalanceerde competitie ontstaat die het speelveld gelijk maakt naarmate het toernooi vordert.
+Mexicano heeft een leuke en dynamische manier om partners en tegenstanders te roteren. Het beslissende factor is waar je staat in de ranglijst, en na elke ronde ga je terug, zie waar je belandt in de ranglijst, en dan zie je met wie je de volgende keer speelt.
 
-Of je nu een ervaren speler bent of een beginner, Mexicano is een uitstekende manier om van padel te genieten, nieuwe tegenstanders te ontmoeten en je vaardigheden te testen.
+Het leuke is dat de manier waarop spelers worden geroteerd ervoor zorgt dat de wedstrijden spannend blijven, aangezien de stand bepaalt hoe de teams voor elke ronde worden samengesteld. Op deze manier worden de vaardigheidsverschillen gelijkgetrokken en kan iedereen genieten van spannende en gelijkopgaande wedstrijden.
 
----
-
-## **Hoe Werkt Padel Mexicano?**
-
-Het kenmerkende van Padel Mexicano is het aanpasbare wedstrijdkoppelsysteem. In plaats van een vast schema wordt bepaald met wie je speelt en tegen wie op basis van je prestaties in eerdere wedstrijden.
-
-### **Initiële Wedstrijdkoppeling**
-- Je eerste wedstrijd wordt beslist door een willekeurige trekking. Een loterij bepaalt je teamgenoten en tegenstanders voor de eerste wedstrijd.
-
-### **Dynamisch Koppelsysteem**
-- Vanaf de tweede wedstrijd zijn je wedstrijden gebaseerd op de ranglijststand. Het doel is om spelers of teams van vergelijkbare vaardigheidsniveaus te koppelen om competitieve en gelijkwaardige wedstrijden te garanderen.
-- Bijvoorbeeld:
-  - Spelers gerangschikt 1 en 3 vormen een team om te spelen tegen spelers gerangschikt 2 en 4.
-  - Spelers gerangschikt 5 en 7 vormen een team om te spelen tegen spelers gerangschikt 6 en 8.
-- Dit dynamische koppelsysteem zorgt ervoor dat naarmate het toernooi vordert, je wedstrijden meer gelijkwaardig worden, wat een uitdagende ervaring biedt voor top spelers en tegelijkertijd leuk blijft voor iedereen.
-
-### **Flexibiliteit in Koppelingen**
-- Het Mexicano systeem staat toe dat je meerdere keren met dezelfde spelers speelt, afhankelijk van hoe de ranglijst evolueert.
 
 ---
 
-## **Scoren en Wedstrijdformat**
+## Wat heb je nodig voor Mexicano?
 
-Wedstrijden in Mexicano zijn ontworpen om kort, energiek en boeiend te zijn. Zo werken ze:
+Voor Mexicano heb je niets extra's nodig in vergelijking met reguliere Padel-wedstrijden, behalve een systeem of app om de score bij te houden. Je kunt bijvoorbeeld diensten zoals Padelution gebruiken om de score bij te houden. Het is belangrijk om een duidelijke manier te hebben voor het scoren, aangezien na elke ronde de teams voor de volgende ronde worden bepaald door de ranglijst van elke speler.
 
-### **Wedstrijdpunten**
-- Wedstrijden worden meestal gespeeld tot een specifiek aantal punten, zoals 16, 24 of 32 punten. Als alternatief kunnen wedstrijden een vastgestelde tijdslimiet hebben, zoals 10-20 minuten.
+Het is goed om minimaal 8 spelers te hebben, en het optimale aantal banen is 2. Je kunt het aantal spelers zo groot maken als je wilt, maar houd er rekening mee dat het goed is om een aantal banen te hebben dat deelbaar is door 4 zodat de rotatie soepel verloopt en iedereen tegelijkertijd speelt.
 
-### **Serveerregels**
-- Elk team serveert 4 of 6 keer voordat de service naar het andere team roteert.
+## Regels van Mexicano
+Alle basisregels van padel zijn van toepassing bij het spelen van Mexicano. Om te beginnen, kun je willekeurig de eerste paren kiezen om mee te beginnen. Vanaf de tweede ronde laat je echter het systeem zijn werk doen om te laten zien hoe de rotatie van spelers zal worden gedaan. Spelers gerangschikt op 1 en 3 zullen in de volgende ronde spelen tegen spelers gerangschikt op 2 en 4. Op de andere baan zullen spelers gerangschikt op 5 en 7 spelen tegen spelers gerangschikt op 6 en 8, enzovoort.
 
-### **Puntberekening**
-- Elk gewonnen punt verdient je team een punt.
-- Aan het einde van de wedstrijd worden de punten gelijk verdeeld onder teamleden. Bijvoorbeeld:
-  - Als een 24-puntenwedstrijd eindigt met een score van 14-10, ontvangen de spelers van het winnende team elk 14 punten, terwijl de spelers van het verliezende team elk 10 punten krijgen.
-- Je individuele score hoopt zich op over alle wedstrijden, en de speler met de meeste punten aan het einde van het toernooi wint.
+| Stand na eerste ronde | Teams voor 2e ronde |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
 
+
+### Voorbeeld van scoren vanuit het perspectief van team A
+- Ronde 1: Spelers A&D 20 punten en spelers B&C 12 punten
+- Ronde 2: Spelers A&C 19 punten en spelers B&D 13 punten
+
+Totaal aantal punten dat speler A heeft verzameld na twee rondes is 39
+
+
+### Dus wie is de winnaar?
+Na afloop is de winnaar de speler die op de eerste plaats staat in de ranglijst. Het belangrijkste blijft echter het feit dat alle wedstrijden spannend waren vanwege de manier waarop teams na elke ronde worden samengesteld op basis van de stand van de spelers.
+
+![Padel Mexicano ranglijst!](/nl/images/padel-mexicano.png "Padel Mexicano ranglijst")
 ---
 
-## **Team Mexicano**
 
-[Team Mexicano](/nl/team-mexicano) voegt een extra laag strategie toe aan het format. In plaats van partners te laten rouleren, strijden spelers in vooraf gerangschikte teams gedurende het hele toernooi. De score- en dynamische koppelsystemen blijven hetzelfde, maar alle punten worden berekend voor teams in plaats van individuen.
+## Team Mexicano
+
+[Team Mexicano](/nl/team-mexicano) voegt een extra laag strategie toe aan het format. In plaats van partners te roteren, strijden spelers in vooraf bepaalde teams gedurende het toernooi. Het score- en dynamische koppelsysteem blijft hetzelfde, maar alle punten worden berekend voor teams in plaats van individuen.
 
 Deze variatie is perfect voor groepen die zich willen richten op teamwork en langetermijnstrategieën.
 
 ---
-
-## **Een Padel Mexicano Toernooi Organiseren**
-
-Het organiseren van een Mexicano toernooi is eenvoudig met de juiste voorbereiding. Volg deze stappen om een soepel evenement te garanderen:
-
-### **Deelnemers en Banen**
-- Je hebt minimaal 8 deelnemers of teams nodig om Mexicano te spelen. Er is geen bovengrens, maar een aantal deelbaar door vier is ideaal voor soepele wedstrijdrotaties.
-- Het aantal benodigde banen is afhankelijk van het aantal deelnemers:
-  - 8 spelers = 2 banen
-  - 12 spelers = 3 banen
-  - 16 spelers = 4 banen
-- Spelers van alle niveaus kunnen deelnemen, en het mixen van niveaus kan de wedstrijden nog leuker maken.
-
-### **Wedstrijdduur**
-- Een standaard Mexicano toernooi duurt ongeveer 2 uur.
-- Bijvoorbeeld, een 24-puntenwedstrijd duurt meestal ongeveer 12 minuten om te voltooien.
-
-### **Score bijhouden**
-- Bereid een scorekaart voor of gebruik een speciale app om wedstrijdresultaten te registreren en de ranglijststand dynamisch te berekenen.
-
-### **Eerlijke en Leuke Competitie**
-- Het aanpasbare systeem van Mexicano zorgt ervoor dat spelers consequent worden uitgedaagd zonder zich overtroefd te voelen, waardoor het een uitstekende keuze is voor evenementen met gemengde vaardigheidsniveaus.
-
----
-
-## **Waarom Padel Mexicano Spelen?**
+## Waarom Padel Mexicano spelen?
 
 Padel Mexicano valt op door zijn inclusiviteit en aanpasbaarheid. Hier zijn enkele redenen waarom dit format zo populair is:
 - **Fair Play**: Wedstrijden worden steeds evenwichtiger naarmate het toernooi vordert.
 - **Dynamische Koppelingen**: Speel met en tegen verschillende tegenstanders, waardoor de wedstrijden fris en boeiend blijven.
 - **Sociale Ervaring**: Een fantastische manier om nieuwe spelers te ontmoeten en kameraadschap op te bouwen.
-- **Flexibiliteit**: Geschikt voor zowel individuele als teamgebaseerde toernooien.
+- **Flexibiliteit**: Geschikt voor zowel individuele als teamtoernooien.
 
 ---
 
-## **Conclusie**
+## Conclusie
 
-Padel Mexicano is meer dan alleen een spelformat - het is een ervaring die de nadruk legt op eerlijkheid, plezier en aanpasbaarheid. Of je nu een toernooi organiseert of eraan deelneemt, dit format garandeert spannende wedstrijden en geweldige herinneringen. Met zijn dynamische koppelsysteem en inclusieve scoring is Mexicano een must voor elke padel liefhebber.
+Padel Mexicano is meer dan alleen een spelformat - het is een ervaring die de nadruk legt op eerlijkheid, plezier en aanpasbaarheid. Of je nu een toernooi organiseert of eraan deelneemt, dit format garandeert spannende wedstrijden en geweldige herinneringen. Met zijn dynamische koppelsysteem en inclusieve scoring is Mexicano een must voor elke padel-liefhebber.
 
 Dus verzamel je vrienden, pak je rackets en duik in de wereld van Padel Mexicano voor een onvergetelijke dag op de banen!
-
-test

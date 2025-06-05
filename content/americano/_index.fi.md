@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Opas
+weight: 1
 ---
-# Kaikki Padel Americanosta
+# Padel Americano - Kaikki mitä sinun tarvitsee tietää
 
-Padel Americano on hauska, sosiaalinen ja kilpailullinen padel-formaatti, joka sopii pelaajille kaikilla taitotasoilla. Toisin kuin perinteisissä padelotteluissa, Americano keskittyy kiertoon ja joukkueiden vaihteluun, mikä tekee siitä suositun valinnan turnauksiin, sarjoihin ja rentoihin kokoontumisiin. Tässä kattava opas Padel Americanon ymmärtämiseen ja pelaamiseen.
-
----
-
-## **Mikä on Padel Americano?**
-
-Americano Padel on turnausformaatti, jossa osallistujat pelaavat pareittain, mutta heidän kumppaninsa ja vastustajansa vaihtuvat tapahtuman aikana. Tavoitteena on saada mahdollisimman monta pistettä, joko yksilönä tai parina, riippuen variantista.
+Padel americano on loistava vaihtoehto alkuperäiselle padelin pelitavalle. Padel americanon perusajatus on, että tapahtuman aikana jokaisen kierroksen jälkeen joukkueet vaihtuvat, jotta jokainen pelaaja pelaa toistensa kanssa. Tämä tekee Americanosta niin suositun ja hauskan! Saman kumppanin kanssa pelaaminen pitkään alkaa menettää jännityksensä, ja siksi kaikkien tulisi kokeilla Padel Americanoa. Se on myös erittäin hyvä tapa tavata uusia ihmisiä ja pelata heidän kanssaan. Pelaajille, jotka haluavat kehittyä, on hyödyllistä pelata eri tasoisia pelaajia vastaan.
 
 ---
 
-## **Padel Americanon Perussäännöt**
+## Mitä tarvitaan Americanon pelaamiseen
 
-### **1. Ottelun Valmistelu**
-- **Pelaajien Lukumäärä:** Tyypillisesti 8 pelaajaa osallistuu kahdella kentällä. Suuremmat ryhmät (esim. 16 pelaajaa) voivat käyttää enemmän kenttiä. Joissakin Americano-ohjelmistoissa tuetaan myös eri pelaajamääriä.
-- **Pelin Kesto:** Jokainen ottelu pelataan asetetun pistemäärän saavuttamiseksi.
-- **Pistelasku:** Yksilölliset pisteet seurataan jokaiselle pelaajalle, riippumatta heidän kumppanistaan.
+Americanon pelaamiseen ei tarvita paljoa ylimääräisiä asioita verrattuna alkuperäiseen pelitapaan. Tietysti tarvitset pelaajia, ja yleensä hauskanpitoa varten on hyvä olla vähintään 8 pelaajaa ja mahdollisuuksien mukaan varattuna 2 kenttää (Katso lisää esimerkkejä taulukosta alla). Jos pelaajia on 8, hyvä varausaika kentälle on 2 tuntia.
+
+| Pelaajien lukumäärä                                      | Minimimäärä kenttiä |
+|---------------------------------------------------------|---------------------|
+|                           4–7                           |             1       |
+|                          8–11                           |             2       |
+|                          12–15                          |             3       |
+|                          16–19                          |             4       |
+|                          20–23                          |             5       |
+
+
+
+Lisäpelaajat voivat levätä ja kannustaa, kun toiset pelaavat
+
+Sitten tarvitset tietysti pallot kaikille kentille ja muut perusvarusteet kaikille pelaajille, kuten mailat. Ennen pelin aloittamista on hyvä jakaa kaikki pelaajat kentille ja varmistaa, että jokainen pelaaja osaa pelata padelia ja selittää sitten, miten Padel Americano toimii. Yksi tärkeä asia on hyvä, helppokäyttöinen työkalu pisteytyksen pitämiseen jokaisen kierroksen jälkeen. Yksi loistava esimerkki on Padelution.com.
+
+## Tarvitset:
+
+- Pelaajia perusvarusteilla padelin pelaamiseen, eli urheiluvaatteet, padel-maila ja kengät.
+- Varattuja kenttiä pelaajien määrän mukaan.
+- Pallot jokaiselle kentälle, optimaalisesti kolme palloa per kenttä.
+- Pisteytysjärjestelmä, esim. [Padelution](https://padelution.com/americano)
+- Ainakin yksi henkilö selittämään säännöt ja varmistamaan, että kaikki pisteet kerätään jokaisen kierroksen jälkeen.
+
+---
+## Padel Americanon säännöt
+
+Säännöt ovat yksinkertaiset ja helppo oppia. Perusajatus on, että jokainen pelaaja pelaa toistensa kanssa tapahtuman aikana. Lisäksi jokaisen tulisi kohdata toisensa kahdesti, mutta tämä riippuu myös varatusta peliajasta.
+
+Voittaaksesi sinun on kerättävä suurin määrä pisteitä, joten tässä formaatissa keräät pisteitä itsellesi. Esimerkiksi pelaat kahdella kentällä ja olet nyt pelaaja A. Aloitat pelaajan B kanssa ja pelaat pelaajia C & D vastaan. Kun kierroksesi on päättynyt, joko pysyt samalla kentällä tai vaihdat kenttiä, mutta tärkeintä on, että seuraavaksi pelaat pelaajan C kanssa pelaajia B ja D vastaan. Toisen kierroksen päätyttyä kaikki vaihtavat jälleen, ja seuraavaksi pelaat pelaajan F kanssa pelaajia G & H vastaan.
+
+Padelin perussäännöt pätevät, joten jos on erilaisia näkemyksiä siitä, oliko pallo ulkona, on hyvä toistaa piste ja siirtyä eteenpäin melko nopeasti. Ensimmäisen syöttäjän valinta voidaan myös tehdä pelaajien tottumalla tavalla, joten voi pelata "syöttäjän palloa" tai heittää kolikkoa. Jokainen pelaaja syöttää neljä pistettä, minkä jälkeen vaihdat syöttäjää vastustajajoukkueen kanssa.
+
+![Padel Americano pisteet!](/fi/images/padel-americano.png "Padel Americano pisteet!")
+
+### Esimerkki kierroksista (Pelaajan A näkökulmasta):
+- Kierros 1 - Pelaaja A&B vs. pelaaja C&D
+- Kierros 2 - Pelaaja A&C vs. pelaaja B&D
+- Kierros 3 - Pelaaja A&F vs. pelaaja G&H
 
 ---
 
-### **2. Ottelun Kierto**
-- Jokaisen kierroksen jälkeen kumppanit ja vastustajat sekoitetaan ennalta sovitun aikataulun mukaisesti. Tämä varmistaa, että jokainen pelaa eri pelaajien kanssa ja vastaan.
-- Kiertojärjestelmä tasapainottaa kokonaiskilpailua ja kannustaa sosiaaliseen vuorovaikutukseen pelaajien kesken.
+### Pisteytys ja voittaminen
+Jokainen kierros pelataan yleensä yhteensä 32 pisteeseen, ja jokainen pelaaja syöttää 4 kertaa, minkä jälkeen vaihdat syöttäjää. Esimerkiksi sanotaan, että joukkueesi kerää 15 pistettä ja vastustajajoukkue kerää 17 pistettä. Tämä tarkoittaa, että pelattuja pisteitä on nyt yhteensä 32, joten on aika vaihtaa.
+
+Pisteytysjärjestelmään lisäät sitten 15 pistettä joukkueellesi / molemmille, ja vastustaja saa 17 pistettä kummallekin. Sanotaan sitten, että sinä ja kumppanisi saavutatte 20 pistettä toisessa ottelussa, mikä tarkoittaa, että vastustajan pistemäärä on 12 pistettä.
+
+Vaihtoehtoisesti voit myös asettaa kiinteän ajan ja pelata siihen asti ja kerätä pisteitä siihen asti. Jokaisen kierroksen jälkeen on tärkeää lisätä pisteet järjestelmään tai taulukkoon.
+
+Pelaaja, joka on kerännyt eniten pisteitä tapahtuman jälkeen, on voittaja. On yleensä hyvä idea, että joku on vastuussa pisteiden keräämisestä, jotta kaikki pisteet rekisteröidään tapahtuman jälkeen.
 
 ---
 
-### **3. Pisteytysjärjestelmä**
-- Pisteitä annetaan yksilöllisesti ottelun tuloksen perusteella:
-  - **Jokainen pelaaja:** ansaitsee yhtä monta pistettä kuin monta palloa he voittavat.
+### Kun on aika lopettaa pelaaminen
+Kun aika on loppu, on aika nähdä, kuka on kerännyt eniten pisteitä. Toki, jos kaikkien ei ole vielä pelattu toistensa kanssa, voit pelata ylimääräisiä kierroksia. Jos aika loppuu ennen kuin kaikki ovat pelanneet toisiaan vastaan, on yleensä hyvä idea tasoittaa pisteet kaikkien kesken.
+
+![Padel Americano pistetaulukko!](/fi/assets/padel-americano-scoreboard.png "Padel Americano pistetaulukko!")
+
+Virallisen pelaamisen jälkeen, miksi et nauttisi joistakin juomista loungessa, jos mahdollista, ja sosialisoit muiden pelaajien kanssa? Sehän on yksi parhaista asioista padelissa!
 
 ---
 
-### **4. Ottelun Formaatti**
-- Ottelut pelataan yleensä **32 pisteeseen**.
-- Jokainen pelaaja syöttää 4 kertaa peräkkäin. Esimerkiksi pelaajat A ja B pelaavat C:tä ja D:tä vastaan. A aloittaa syöttämällä ja syöttää 4 kertaa, sitten C syöttää 4 kertaa, sitten B syöttää 4 kertaa, sitten D syöttää 4 kertaa. Sitten pelataan yhteensä 16 pistettä. Sitten pelaaja A aloittaa uuden kierroksen syöttämällä 4 kertaa ja niin edelleen.
-- Jos peli päättyy tasapeliin 16-16, peli päättyy tasapeliin ja molemmat pelaajat saavat 16 pistettä.
+## Padel Americanon muunnelmat
 
----
-
-### **5. Kenttäsäännöt**
-- Padel Americano noudattaa standardia padel-kenttää ja pelisääntöjä:
-  - Ottelut pelataan kaksinpeliformaatissa.
-  - Pallon on pomppiessa kerran ennen seinään tai aitaan osumista.
-  - Syötöt tehdään vinottain ja ne on laskeuduttava vastustajan syöttöruutuun.
-  - Piste saadaan, jos vastustaja ei palauta palloa tai rikkoo mitään sääntöjä.
-
----
-
-## **Padel Americanon Varianteja**
-
-### **1. Joukkue-Americano**
-- Pelaajat jaetaan joukkueisiin ja pelaavat yhdessä joukkueena muiden joukkueita vastaan.
+### [1. Joukkue-Americano](/fi/team-americano)
+- Pelaajat jaetaan joukkueisiin ja pelaavat yhdessä joukkueena muiden joukkueiden kanssa.
 - Kannustaa yhteistyöhön ja joukkuehengen luomiseen.
 
-### **2. Aikapohjainen Americano**
+### 2. Aikapohjainen Americano
 - Ottelut pelataan kiinteän ajan (esim. 10 minuuttia) verran, riippumatta pisteistä.
 - Pitää turnauksen liikkumassa tehokkaasti.
 
-### **3. Seka-Americano (Mixicano)**
-- Mies- ja naispelaajat vaihtavat kumppaneita kierrosten välillä.
-- Vasemman ja oikean puolen pelaajat pelaavat aina yhdessä, joten samassa joukkueessa ei ole kahta pelaajaa, jotka mieluummin pelaavat vasemmalla tai oikealla puolella.
+### [3. Seka-Americano (Mixicano)](/fi/mixicano)
+- Miehet ja naiset vuorottelevat kumppaneina eri kierroksilla.
+- Vasen- ja oikeapuolen pelaajat pelaavat aina yhdessä, joten samassa joukkueessa ei ole kahta pelaajaa, jotka mieluummin pelaavat vasemmalla tai oikealla puolella.
 - Edistää inklusiivisuutta ja vaihtelua pelissä.
-
----
-
-## **Padel Americanon Voittaminen**
-
-Kaikkien kierrosten jälkeen pelaaja, jolla on korkein yksilöllinen pistemäärä, julistetaan voittajaksi. Joukkueformaatissa eniten pisteitä saanut joukkue voittaa turnauksen.
-
----
-
-## **Miksi Pelata Padel Americanoa?**
-
-1. **Sosiaalinen Vuorovaikutus:** Pelaajat pääsevät vuorovaikutuksiin kaikkien kanssa, mikä tekee siitä loistavan tavan tavata uusia ihmisiä ja rakentaa yhteisöä.
-2. **Inklusiivisuus:** Soveltuu pelaajille kaikilla taitotasoilla, koska parit arvotaan.
-3. **Nopea ja Hauska:** Nopea kierto pitää energian korkealla ja poistaa pitkät odotusajat otteluiden välillä.
-
----
-
-## **Vinkkejä Menestykseen**
-
-1. **Sopeudu Nopeasti:** Ole valmis muuttamaan pelityyliäsi vastaamaan kumppanisi vahvuuksia ja heikkouksia.
-2. **Keskitä Huomio Tasaisuuteen:** Voittaa enemmän pisteitä useiden kierrosten aikana on parempi kuin panostaa kaikki kaikki yhteen otteluun.
-3. **Pysy Positiivisena:** Iloinen asenne voi motivoida kumppaniasi ja parantaa kokonaissuoritustasi.
-
----
-
-### **Johtopäätös**
-
-Padel Americano on monipuolinen ja viihdyttävä formaatti, joka tuo esiin padelin sosiaaliset ja kilpailulliset puolet parhaalla mahdollisella tavalla. Olit sitten järjestämässä ystävällistä ottelua tai täysimittaista turnausta, nämä säännöt tarjoavat perustan jännittävälle ja unohtumattomalle tapahtumalle. Ota mailasi, astu kentälle ja nauti Americanon jännityksestä!
-
----
-
-**Onko sinulla omia vinkkejä tai kokemuksia Padel Americanosta? Jaa ne kanssamme!**
-
-test

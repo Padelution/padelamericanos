@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Guide
+weight: 1
 ---
-# Allt Om Padel Americano
+# Padel Americano - Allt du behöver veta
 
-Padel Americano är en rolig, social och tävlingsinriktad form av padel som passar spelare på alla färdighetsnivåer. Till skillnad från traditionella padelmatcher fokuserar Americano på rotation och lagvariation, vilket gör det till ett populärt val för turneringar, ligor och avslappnade sammankomster. Här är en omfattande guide för att förstå och spela Padel Americano.
-
----
-
-## **Vad är Padel Americano?**
-
-Americano Padel är en turneringsform där deltagarna spelar i par, men deras partners och motståndare roterar under hela evenemanget. Målet är att göra så många poäng som möjligt, antingen individuellt eller som ett par, beroende på variationen.
+Padel americano är ett utmärkt alternativ till det ursprungliga sättet att spela padel. Grundidén med padel americano är att under evenemanget, efter varje omgång, roterar lagen så att varje spelare spelar med varandra. Det är precis det som gör Americano så populärt och roligt! Att spela med samma partner under lång tid börjar förlora spänningen, och därför borde alla prova Padel Americano. Det är också ett mycket bra sätt att träffa nya människor och spela med dem. För spelare som också vill bli bättre, hjälper det att spela med spelare på olika nivåer.
 
 ---
 
-## **Grundläggande Regler för Padel Americano**
+## Vad som behövs för att spela Americano
 
-### **1. Matchuppställning**
-- **Antal Spelare:** Vanligtvis deltar 8 spelare på två banor. Större grupper (t.ex. 16 spelare) kan använda fler banor. Vissa americano-program stödjer också olika antal spelare.
-- **Matchens Varaktighet:** Varje match spelas till ett bestämt antal poäng.
-- **Poängberäkning:** Individuella poäng spåras för varje spelare, oavsett deras partner.
+För att spela Americano behöver du inte mycket extra jämfört med det ursprungliga sättet att spela. Självklart behöver du spelare, och vanligtvis för att ha roligt är det bra att ha ett minimum av 8 spelare och, om möjligt, boka 2 banor (Se fler exempel från tabellen nedan). Om du har 8 spelare är en bra bokningstid för banan 2 timmar.
+
+| Antal spelare                                         | Minimum antal banor |
+|-----------------------------------------------------------|--------------------------|
+|                           4 till 7                          |             1            |
+|                          8 till 11                          |             2            |
+|                          12 till 15                         |             3            |
+|                          16 till 19                         |             4            |
+|                          20 till 23                         |             5            |
+
+
+
+Extra spelare kan vila och heja medan andra spelar
+
+Sedan behöver du förstås bollar för alla banor och annan grundläggande utrustning för alla spelare, som racketar. Innan du börjar är det bra att fördela alla spelare på banorna och se till att varje spelare vet hur man spelar padel och sedan förklara hur Padel Americano fungerar. En viktig sak är att ha ett bra, lättanvänt verktyg för att hålla poäng efter varje omgång. Ett bra exempel är Padelution.com.
+
+## Du kommer att behöva:
+
+- Spelare med grundläggande utrustning för att spela padel, dvs. sportkläder, padelracket och skor.
+- Bokade banor beroende på antalet spelare som deltar.
+- Bollar för varje bana, där tre bollar per bana är optimalt.
+- System för att hålla poäng, t.ex. [Padelution](https://padelution.com/americano)
+- Minst en person för att förklara reglerna och se till att alla poäng samlas in efter varje omgång.
+
+---
+## Reglerna för Padel Americano
+
+Reglerna är enkla och lätta att lära sig. Grundidén är att varje spelare spelar med varandra under evenemanget. Dessutom bör alla möta varandra två gånger, men detta beror också på den tid som är reserverad för att spela.
+
+För att vinna måste du samla den största mängden poäng, så i detta format samlar du poäng för dig själv. Till exempel spelar du på två banor och du är nu spelare A. Du börjar med spelare B och spelar mot spelare C & D. Efter att din omgång är klar kommer du antingen att stanna på samma bana eller byta bana, men det viktigaste är att du nästa gång spelar med spelare C mot spelare B och D. Efter att den andra omgången är klar roterar ni alla igen, och nästa gång spelar du med spelare F mot G & H.
+
+Grundreglerna för padel gäller, så om det finns olika åsikter om ifall bollen var ute är det bra att upprepa poängen och gå vidare ganska snabbt. Att välja den första servaren kan också göras på det sätt som spelarna är vana vid, så att spela en "servarens boll" eller kasta en slant. Varje spelare servar fyra poäng, och sedan roterar du servaren med det motstående laget.
+
+![Padel Americano poäng!](/sv/images/padel-americano.png "Padel Americano poäng!")
+
+### Exempel på omgångar (från spelare As perspektiv):
+- Omgång 1 - Spelare A&B vs. spelare C&D
+- Omgång 2  - Spelare A&C vs. spelare B&D
+- Omgång 3 - Spelare A&F vs. spelare G&H
 
 ---
 
-### **2. Matchrotation**
-- Efter varje omgång blandas partners och motståndare om enligt en förutbestämd schema. Detta säkerställer att alla spelar med och mot olika spelare.
-- Roteringssystemet balanserar den övergripande tävlingen och uppmuntrar social interaktion mellan spelarna.
+### Poängberäkning och hur man vinner
+Varje omgång spelas vanligtvis tills totalt 32 poäng, och varje spelare servar 4 gånger, och sedan roterar du servaren. Till exempel, låt oss säga att ditt lag samlar 15 poäng, och det andra laget samlar 17 poäng. Detta betyder att det totala antalet poäng som spelats nu är 32, så det är dags att rotera.
+
+Till poängsystemet lägger du sedan till 15 poäng till ditt lag / er båda, och motståndaren får 17 poäng var. Sedan låt oss säga att du och din partner får 20 poäng under den andra matchen, vilket innebär att motståndarens poäng är 12 poäng.
+
+Som ett alternativ kan du också ha en fast tid och spela tills tiden är slut och samla poäng fram till dess. Efter varje omgång är spelad är det viktigt att lägga till poäng i något system eller poängtavla.
+
+Den spelare som har samlat flest poäng efter evenemanget är klar är vinnaren. Det är vanligtvis en bra idé att ha någon ansvarig för att samla poäng så att alla poäng registreras efter evenemanget.
 
 ---
 
-### **3. Poängsystem**
-- Poäng tilldelas individuellt baserat på matchens utfall:
-  - **Varje spelare:** tjänar lika många poäng som antalet vunna bollar de spelar.
+### När det är dags att sluta spela
+När tiden är ute är det dags att se vem som har samlat flest poäng. Självklart, om det fortfarande finns tid efter att alla har spelat med varandra, kan du spela extra omgångar. Om tiden är ute innan alla har spelat mot varandra är det vanligtvis en bra idé att bara jämna ut poängen med alla.
+
+![Padel Americano poängtavla!](/sv/assets/padel-americano-scoreboard.png "Padel Americano poängtavla!")
+
+Efter den officiella delen av spelet är klar, varför inte njuta av några drycker i loungen om möjligt och umgås med andra spelare? Det är ändå en av de bästa aspekterna av Padel!
 
 ---
 
-### **4. Matchformat**
-- Matcher spelas vanligtvis till **32 poäng**.
-- Varje spelare servar 4 gånger i rad. Till exempel spelar spelare A och B mot C och D. A börjar serva och servar 4 gånger, sedan servar C 4 gånger, sedan servar B 4 gånger, sedan servar D 4 gånger. Då spelas totalt 16 poäng. Sedan börjar spelare A serva en ny omgång och servar 4 gånger och så vidare.
-- Om spelet når oavgjort vid 16-16 kommer spelet att sluta oavgjort och båda spelarna kommer att få 16 poäng.
+## Variationer av Padel Americano
 
----
-
-### **5. Banregler**
-- Padel Americano följer standard padelbana och spelregler:
-  - Matcher spelas i dubbelformat.
-  - Bollen måste studsa en gång innan den träffar väggarna eller staketet.
-  - Serverna görs diagonalt och måste landa i motståndarens serviceruta.
-  - En poäng erhålls om motståndaren misslyckas med att returnera bollen eller bryter mot några regler.
-
----
-
-## **Variationer av Padel Americano**
-
-### **1. Team Americano**
-- Spelare delas in i lag och spelar tillsammans som ett lag mot andra lag.
+### [1. Team Americano](/sv/team-americano)
+- Spelarna delas in i lag och spelar tillsammans som ett lag mot andra lag.
 - Uppmuntrar samarbete och laganda.
 
-### **2. Tidsbaserad Americano**
-- Matcher spelas under en fastställd tid (t.ex. 10 minuter), oavsett poängställningen.
+### 2. Tidsbaserad Americano
+- Matcher spelas under en fast tid (t.ex. 10 minuter), oavsett poängen.
 - Håller turneringen effektivt igång.
 
-### **3. Mixad Americano (Mixicano)**
+### [3. Mixed Americano (Mixicano)](/sv/mixicano)
 - Manliga och kvinnliga spelare alternerar partners mellan omgångarna.
-- Vänster- och högerspelare spelar alltid tillsammans, så det kommer inte att finnas två spelare som föredrar vänster- eller högersidan i samma lag.
+- Vänster- och högerspelare spelar alltid tillsammans, så det kommer inte att vara två spelare som föredrar vänster eller höger sida i samma lag.
 - Främjar inkludering och variation i spelet.
-
----
-
-## **Att Vinna Padel Americano**
-
-Vid slutet av alla omgångar utses spelaren med högst individuella poäng till vinnare. I lagformat vinner laget med flest poäng turneringen.
-
----
-
-## **Varför Spela Padel Americano?**
-
-1. **Social Interaktion:** Spelare får interagera med alla, vilket gör det till ett utmärkt sätt att träffa nya människor och bygga gemenskap.
-2. **Inkludering:** Passar spelare på alla färdighetsnivåer, eftersom paren slumpas.
-3. **Snabbt och Roligt:** Den snabba rotationen håller energin hög och eliminerar långa väntetider mellan matcherna.
-
----
-
-## **Tips för Framgång**
-
-1. **Anpassa Dig Snabbt:** Var beredd att anpassa din spelstil för att matcha din partners styrkor och svagheter.
-2. **Fokusera på Konsistens:** Att vinna fler poäng över flera omgångar är bättre än att satsa allt på en enda match.
-3. **Behåll Positiviteten:** En glad attityd kan motivera din partner och förbättra din totala prestation.
-
----
-
-### **Slutsats**
-
-Padel Americano är en mångsidig och underhållande format som framhäver det bästa av padelns sociala och tävlingsinriktade aspekter. Oavsett om du organiserar en vänskapsmatch eller en stor turnering, utgör dessa regler grunden för en spännande och minnesvärd händelse. Ta tag i din racket, ge dig ut på banan och njut av spänningen med Americano!
-
----
-
-**Har du egna tips eller erfarenheter med Padel Americano? Dela med dig av dem till oss!**
-
-test

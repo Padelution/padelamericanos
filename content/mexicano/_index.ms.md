@@ -1,96 +1,71 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Padel Mexicano: Panduan Lengkap untuk Format Dinamik Ini
 
-Padel Mexicano adalah format yang menarik dan fleksibel yang membawa aspek sosial dan persaingan padel ke tahap yang lebih tinggi. Berbeza dengan format tradisional, Mexicano menyesuaikan secara dinamik siapa yang anda mainkan bersama dan lawan berdasarkan keputusan perlawanan, mencipta persaingan yang adil dan seimbang yang menyamakan medan permainan seiring dengan kemajuan kejohanan.
+Mexicano mempunyai cara yang menyeronokkan dan dinamik untuk menukar rakan sebaya dan lawan. Faktor penentu adalah kedudukan anda dalam ranking, dan selepas setiap pusingan, anda kembali, melihat di mana anda berada dalam ranking, dan kemudian anda lihat dengan siapa anda akan bermain seterusnya.
 
-Sama ada anda seorang pemain berpengalaman atau pemula, Mexicano adalah cara yang sangat baik untuk menikmati padel, berjumpa dengan lawan baru, dan menguji kemahiran anda.
-
----
-
-## **Bagaimana Padel Mexicano Berfungsi?**
-
-Ciri utama Padel Mexicano adalah sistem pasangan perlawanan yang fleksibel. Berbeza dengan jadual tetap, siapa yang anda mainkan bersama dan lawan ditentukan oleh prestasi anda dalam perlawanan sebelumnya.
-
-### **Pasangan Perlawanan Awal**
-- Permainan pertama anda ditentukan melalui cabutan rawak. Loteri menentukan rakan sepasukan dan lawan anda untuk perlawanan awal.
-
-### **Sistem Pasangan Dinamik**
-- Bermula dari permainan kedua, pasangan anda berdasarkan kedudukan papan pemimpin. Matlamatnya adalah untuk memasangkan pemain atau pasukan yang mempunyai tahap kemahiran yang sama untuk memastikan permainan yang bersaing dan seimbang.
-- Contohnya:
-  - Pemain yang berada di tempat 1 dan 3 bergabung untuk bermain menentang pemain yang berada di tempat 2 dan 4.
-  - Pemain yang berada di tempat 5 dan 7 bergabung untuk berdepan dengan pemain yang berada di tempat 6 dan 8.
-- Sistem pasangan dinamik ini memastikan bahawa seiring dengan kemajuan kejohanan, perlawanan anda menjadi lebih seimbang, memberikan pengalaman mencabar untuk pemain teratas sambil mengekalkan keseronokan untuk semua orang.
-
-### **Keserasian dalam Pasangan**
-- Sistem Mexicano membenarkan anda bermain dengan dan menentang pemain yang sama beberapa kali, bergantung kepada bagaimana papan pemimpin berkembang.
+Faktor yang menyeronokkan adalah cara pemain dipusingkan menjadikan perlawanan lebih sengit kerana kedudukan menentukan bagaimana pasukan disusun untuk setiap pusingan. Dengan cara ini, jurang tahap kemahiran diimbangi, dan semua orang dapat menikmati perlawanan yang sengit dan ketat.
 
 ---
 
-## **Penjodohbilitan dan Format Perlawanan**
+## Apa yang anda perlukan untuk Mexicano?
 
-Perlawanan dalam Mexicano direka untuk menjadi pendek, bertenaga, dan menarik. Inilah cara kerjanya:
+Untuk Mexicano, anda tidak memerlukan apa-apa tambahan jika dibandingkan dengan perlawanan Padel biasa kecuali sistem atau aplikasi untuk menyimpan mata. Anda boleh menggunakan, sebagai contoh, perkhidmatan seperti Padelution untuk menyimpan mata. Penting untuk mempunyai cara yang jelas untuk sistem mata kerana selepas setiap pusingan, pasukan pusingan seterusnya ditentukan oleh ranking setiap pemain.
 
-### **Mata Perlawanan**
-- Permainan biasanya dimainkan sehingga mencapai jumlah mata tertentu, seperti 16, 24, atau 32 mata. Sebagai alternatif, perlawanan boleh mempunyai had masa tertentu, seperti 10–20 minit.
+Adalah baik untuk mempunyai sekurang-kurangnya 8 pemain, dan jumlah gelanggang optimum adalah 2. Anda boleh menambah bilangan pemain sehingga mana-mana yang anda mahu, tetapi diingatkan bahawa adalah baik untuk mempunyai jumlah gelanggang yang boleh dibahagikan dengan 4 supaya pusingan berjalan lancar, dan setiap orang akan bermain pada masa yang sama.
 
-### **Peraturan Pemberian**
-- Setiap pasukan memberikan pemberian 4 atau 6 kali sebelum pemberian berpindah kepada pasukan lain.
+## Peraturan Mexicano
+Semua peraturan asas padel digunakan apabila bermain Mexicano. Untuk mula, anda boleh secara rawak memilih pasangan pertama untuk memulakan. Bermula dari pusingan kedua, walaupun, anda akan membiarkan sistem melakukan tugasnya untuk menunjukkan bagaimana pemusingan pemain akan dilakukan. Pemain yang berada di ranking 1 dan 3 akan, dalam pusingan seterusnya, bermain melawan pemain yang berada di ranking 2 dan 4. Di gelanggang lain, pemain yang berada di ranking 5 dan 7 akan bermain melawan pemain yang berada di ranking 6 dan 8, dan seterusnya.
 
-### **Pengiraan Mata**
-- Setiap mata yang dimenangi memberikan satu mata kepada pasukan anda.
-- Pada akhir perlawanan, mata dibahagikan secara saksama di antara ahli pasukan. Contohnya:
-  - Jika perlawanan 24 mata berakhir dengan skor 14–10, setiap pemain pasukan yang menang menerima 14 mata, manakala setiap pemain pasukan yang kalah mendapat 10 mata.
-- Skor individu anda dikumpulkan di sepanjang semua perlawanan, dan pemain dengan jumlah mata terbanyak pada akhir kejohanan menjadi pemenang.
+| Kedudukan selepas pusingan pertama | Pasukan untuk Pusingan ke-2 |
+|:---------------------------------:|:---------------------------:|
+|                 1                 |         1/3 vs. 2/4         |
+|                 2                 |                             |
+|                 3                 |                             |
+|                 4                 |                             |
+|                 5                 |         5/7 vs. 6/8         |
+|                 6                 |                             |
+|                 7                 |                             |
+|                 8                 |                             |
+
+
+### Contoh penjaringan dari perspektif pasukan A
+- Pusingan 1: Pemain A&D 20 mata dan pemain B&C 12 mata
+- Pusingan 2: Pemain A&C 19 mata dan pemain B&D 13 mata
+
+Jumlah mata yang dikumpulkan oleh pemain A selepas dua pusingan adalah 39
+
+
+### Jadi siapakah pemenangnya?
+Selepas masa tamat, pemenangnya adalah pemain yang berada di tempat pertama dalam ranking. Faktor yang paling penting masih harus menjadi fakta bahawa semua perlawanan adalah sengit kerana cara pasukan dipilih setiap pusingan berdasarkan kedudukan pemain.
+
+![Kedudukan Padel Mexicano!](/ms/images/padel-mexicano.png "Kedudukan Padel Mexicano")
+---
+
+## Pasukan Mexicano
+
+[Pasukan Mexicano](/ms/team-mexicano) menambah lapisan strategi lain kepada format ini. Sebaliknya memusingkan rakan, pemain bersaing dalam pasukan yang telah diatur sebelumnya sepanjang kejohanan. Sistem penjaringan dan pemusingan dinamik tetap sama, tetapi semua mata dikira untuk pasukan daripada individu.
+
+Variasi ini sesuai untuk kumpulan yang ingin memberi tumpuan kepada kerjasama dan strategi jangka panjang.
 
 ---
 
-## **Pasukan Mexicano**
+## Mengapa Bermain Padel Mexicano?
 
-[Team Mexicano](/ms/team-mexicano) menambah lapisan strategi lain kepada format ini. Berbeza dengan menukar rakan sepasukan, pemain bersaing dalam pasukan yang telah diatur sepanjang kejohanan. Sistem penjodohbilitan dan dinamik kekal sama, tetapi semua mata dikira untuk pasukan daripada individu.
-
-Variasi ini sesuai untuk kumpulan yang ingin memberi tumpuan kepada kerja pasukan dan strategi jangka panjang.
-
----
-
-## **Menganjurkan Kejohanan Padel Mexicano**
-
-Menganjurkan kejohanan Mexicano adalah mudah dengan persediaan yang betul. Ikuti langkah-langkah ini untuk memastikan acara yang lancar:
-
-### **Peserta dan Padang**
-- Anda memerlukan sekurang-kurangnya 8 peserta atau pasukan untuk bermain Mexicano. Tiada had atas, tetapi mempunyai jumlah yang boleh dibahagikan dengan empat adalah ideal untuk putaran perlawanan yang lancar.
-- Bilangan padang yang diperlukan bergantung kepada bilangan peserta:
-  - 8 pemain = 2 padang
-  - 12 pemain = 3 padang
-  - 16 pemain = 4 padang
-- Pemain dari semua tahap kemahiran boleh menyertai, dan campuran tahap boleh menjadikan permainan lebih menyeronokkan.
-
-### **Tempoh Perlawanan**
-- Kejohanan Mexicano standard mengambil masa kira-kira 2 jam.
-- Sebagai contoh, perlawanan 24 mata biasanya mengambil masa kira-kira 12 minit untuk diselesaikan.
-
-### **Penyimpanan Skor**
-- Sediakan kad skor atau gunakan aplikasi khas untuk merakam keputusan perlawanan dan mengira kedudukan papan pemimpin secara dinamik.
-
-### **Persaingan Adil dan Menyenangkan**
-- Sistem Mexicano yang fleksibel memastikan bahawa pemain sentiasa diuji tanpa berasa kalah, menjadikannya pilihan yang sangat baik untuk acara dengan pelbagai tahap kemahiran.
-
----
-
-## **Mengapa Bermain Padel Mexicano?**
-
-Padel Mexicano menonjol dengan kebolehterimaan dan kelenturan. Berikut adalah beberapa sebab mengapa format ini begitu popular:
-- **Permainan Adil**: Perlawanan menjadi semakin seimbang seiring dengan kemajuan kejohanan.
-- **Penjodohbilitan Dinamik**: Bermain dengan dan menentang pelbagai lawan, menjadikan permainan segar dan menarik.
-- **Pengalaman Sosial**: Cara yang hebat untuk berjumpa dengan pemain baru dan membina keakraban.
+Padel Mexicano menonjol kerana inklusiviti dan kebolehlihatannya. Berikut adalah beberapa sebab mengapa format ini begitu popular:
+- **Permainan Bersih**: Perlawanan menjadi semakin seimbang seiring dengan kemajuan kejohanan.
+- **Pemusingan Dinamik**: Bermain dengan dan menentang pelbagai lawan, menjadikan permainan segar dan menarik.
+- **Pengalaman Sosial**: Cara yang hebat untuk berkenalan dengan pemain baru dan membina semangat kesukarelawan.
 - **Keserasian**: Sesuai untuk kejohanan individu dan berpasukan.
 
 ---
 
-## **Kesimpulan**
+## Kesimpulan
 
-Padel Mexicano lebih daripada sekadar format permainan—ia adalah pengalaman yang menekankan keadilan, keseronokan, dan kelenturan. Sama ada anda mengatur kejohanan atau menyertai satu, format ini menjamin perlawanan yang mengujakan dan kenangan yang indah. Dengan sistem pasangan yang dinamik dan sistem penjodohbilitan yang inklusif, Mexicano adalah satu format yang wajib dicuba bagi peminat padel mana pun.
+Padel Mexicano lebih daripada sekadar format permainan—ia merupakan pengalaman yang menekankan keadilan, keseronokan, dan kebolehlihatan. Sama ada anda mengatur kejohanan atau menyertainya, format ini menjanjikan perlawanan yang mengujakan dan kenangan yang hebat. Dengan sistem pemusingan dinamiknya dan penjaringan yang inklusif, Mexicano adalah satu yang harus dicuba oleh peminat padel mana pun.
 
-Jadi kumpulkan rakan-rakan anda, ambil raket anda, dan terjun ke dunia Padel Mexicano untuk satu hari yang tidak akan terlupakan di padang!
+Jadi kumpulkan rakan anda, ambil raket anda, dan terjun ke dunia Padel Mexicano untuk satu hari yang tidak akan terlupakan di gelanggang!

@@ -1,87 +1,57 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
 # Mwongozo Bora wa Timu ya Americano
 
 ## Utangulizi
-Timu ya Americano ni toleo la kipekee na lenye ushindani la mfumo wa kawaida wa Padel Americano. Kichezeshwa na timu za wachezaji wawili, mfumo huu ni kamili kwa makundi yanayotaka kutilia mkazo ushirikiano na mkakati. Kwa kuzingatia ushirikiano na ushirikiano wa mara kwa mara, Timu ya Americano ni bora kwa wachezaji wa padel wa kawaida na ushindani.
-
-Mwongozo huu unatoa kila kitu unachohitaji kujua ili kuandaa, kucheza, na kufanikiwa katika Timu ya Americano.
+Timu ya Americano ina wazo sawa na Padel Americano, lakini badala ya kubadilisha washirika baada ya kila mzunguko, unabaki na mchezaji huyo huyo hadi mwisho. Hii ni njia nzuri ya kuwa zaidi na mshirika wako wakati wa tukio na kujifunza jinsi wanavyocheza. Hii pia itaboresha mchezo wako! Faida nyingine ya Timu ya Americano ni kwamba wakati wa mechi, unaweza kuwa timu bora na kuongeza nafasi zako za kushinda.
 
 ---
 
-## Timu ya Americano Ni Nini?
-Timu ya Americano inachezwa na jozi za wachezaji, ambapo wachezaji wawili hufanya timu na kushindana dhidi ya timu zingine katika mechi fupi na zenye nguvu nyingi. Tofauti na Americano ya kawaida, washirika hawarudi nyuma, kuruhusu timu kujenga na kutekeleza mikakati ya muda mrefu.
+## Unahitaji nini kwa Timu ya Americano??
+Mipangilio ni sawa sana na Padel Americano ya kawaida. Kwa furaha bora, inapendekezwa kuwa na angalau timu 4, ambayo inamaanisha wachezaji 8. Kisha, kulingana na idadi ya wachezaji ulio nao, unahitaji uwanja wa padel (ona jedwali hapa chini kwa idadi bora ya viwanja ikilinganishwa na idadi ya wachezaji). Vivyo hivyo na Americano ya kawaida, ni wazo zuri kuwa na aina fulani ya mfumo au programu ya kuhifadhi alama. Pia, kwa hili, [Padelution](https://www.padelution.com/americano) inafanya iwe rahisi sana.
 
-- **Wachezaji**: Wachezaji 8, 12, 16, au zaidi wamegawanywa katika timu za wachezaji wawili.
-- **Timu**: Kawaida timu 4 au zaidi.
-- **Muda wa Mechi**: Kila mechi inachezwa hadi idadi ya alama iliyowekwa (kawaida 32).
-- **Uhesabuji**: Alama za jumla katika mechi zote hufafanua timu inayoshinda.
+| Idadi ya timu | Idadi ya chini ya viwanja |
+|-----------------|--------------------------|
+|      4 hadi 7     |             2            |
+|     8 hadi 11     |             3            |
+|     12 hadi 15    |             4            |
+|     16 hadi 19    |             5            |
+|     20 hadi 23    |             6            |
 
----
-
-## Kwa Nini Chagua Timu ya Americano?
-1. **Kutilia Mkazo Ushirikiano**: Inahimiza ushirikiano imara na mikakati ya washirika.
-2. **Utelezi**: Inafanya kazi vizuri kwa mashindano na idadi tofauti ya wachezaji.
-3. **Ushindani na Furaha**: Inachanganya vipengele bora vya ushindani na furaha.
-4. **Uwezekano wa Kupanuka**: Rahisi kubadilika kwa makundi makubwa na viwanja vingi.
+Wachezaji ziada wanaweza kupumzika na kuwashangilia wengine
 
 ---
 
-## Jinsi ya Kuandaa Mashindano ya Timu ya Americano
-Kuandaa mashindano ya Timu ya Americano ni rahisi kwa mipango sahihi. Fuata hatua hizi:
+## Sheria za Timu ya Americano
+Wazo kuu ni kwamba kila timu inacheza dhidi ya timu zingine zote wakati wa tukio, kwa hivyo ikilinganishwa na Americano ya kawaida, hakuna mzunguko ndani ya timu.
 
-### 1. Kujua Idadi ya Timu
-Timu ya Americano inafanya kazi vizuri na timu 4 au zaidi:
-- Wachezaji 8 = Timu 4
-- Wachezaji 12 = Timu 6
-- Wachezaji 16 = Timu 8
+Kwa mfano, unacheza kwenye viwanja viwili na sasa wewe ni timu A. Unaanza kucheza dhidi ya timu B. Baada ya mzunguko wa kwanza kukamilika, utabaki kwenye uwanja huo huo au kubadilisha viwanja, lakini jambo kuu ni kwamba baadaye utacheza dhidi ya timu C. Baada ya mzunguko wa pili kukamilika, nyote mtarudia tena, na baadaye mtaanza kucheza dhidi ya timu D.
 
-### 2. Unda Ratiba ya Mechi
-Panga mzunguko ili timu zote zipambane. Kwa timu 4 (Timu A, B, C, D):
-- Mechi 1: Timu A vs. Timu B
-- Mechi 2: Timu C vs. Timu D
-- Mechi 3: Timu A vs. Timu C
-- Mechi 4: Timu B vs. Timu D
-- Endelea hadi timu zote zimecheza.
-
-Kwa timu zaidi, badilisha mzunguko kwa usawa.
-
-### 3. Weka Sheria za Mechi
-- **Alama**: Kila mechi inachezwa hadi idadi iliyowekwa ya alama (k.m., 32).
-- **Badilisha Upande**: Badilisha pande kila baada ya alama 16 kwa kusawazisha mambo ya mazingira.
-- **Uhesabuji wa Jumla**: Timu hupata alama katika kila mechi, ambazo huongezwa kwenye alama yao jumla.
-
-### 4. Rekodi Alama
-Tumia ubao wa alama au programu ya americano kufuatilia alama ambazo kila timu inapata katika mechi.
-
-### 5. Kujua Washindi
-Mwishoni mwa mashindano, timu yenye alama ya jumla kubwa zaidi hutangazwa mshindi. Kwa kesi ya sare, fikiria mechi ya mtoano.
+Sheria za msingi za padel zinatumika, kwa hivyo ikiwa hamkubaliani ikiwa mpira ulikuwa ndani au nje, ni vizuri kurudia pointi na kuendelea haraka. Kuchagua mtumishi wa kwanza pia inaweza kufanywa kama wachezaji wanavyozoea, kama kucheza "mchezo wa mtumishi" au kutupa sarafu.
 
 ---
 
-## Mikakati ya Timu ya Americano
-1. **Kemia ya Washirika**: Elewa nguvu na udhaifu wa mshirika wako.
-2. **Jielekeze kwenye Utekelezaji wa Kawaida**: Lenga utendaji thabiti katika mechi zote.
-3. **Adapt kwa Wapinzani**: Unda mikakati ya kupinga mitindo tofauti ya kucheza.
-4. **Sisitiza Mawasiliano yenye Ufanisi**: Mawasiliano wazi na kifupi yanaweza kufanya tofauti kubwa.
+## Mfano wa mizunguko(kutoka mtazamo wa timu A):
+- Mzunguko wa 1 - Timu A vs. Timu B
+- Mzunguko wa 2  - Timu A vs. Timu C
+- Mzunguko wa 3 - Timu A vs. Timu D
+
+![Mike & Juan ni timu A](/sw/images/team-americano.png "Mike & Juan ni timu A")
 
 ---
 
-## Maswali Yanayoulizwa Mara kwa Mara
-### Ikiwa kuna timu zaidi ya 4?
-Kwa makundi makubwa, ongeza idadi ya raundi ili kuhakikisha timu zote zinashindana kwa usawa. Unaweza pia kutumia viwanja vingi kuharakisha mechi.
+### Kupiga Alama na jinsi ya kushinda
+Kila mzunguko kwa kawaida unachezwa hadi jumla ya pointi 32. Kila mchezaji anatumikia mara 4 kabla ya kugeuka kwa mtumishi mwingine. Kitu muhimu kukumbuka ni kwamba, kwa mfano, ikiwa timu yako inapata pointi 15 na timu pinzani inapata pointi 17, utapitisha pointi 15 kwa timu yako na pointi 17 kwa timu pinzani. Jumla ya pointi zilizochezwa sasa ni 32, na mzunguko wako umekamilika.
 
-### Kuna nini ikiwa timu mbili zina alama sawa jumla?
-Mechi ya kuamua mshindi hadi alama 16 au 32 inaweza kuchezwa ili kufafanua mshindi.
+Baada ya kila mzunguko, ni muhimu kurekodi alama kwenye ubao au katika mfumo ulioandaliwa, yaani Padelution. Timu yenye pointi nyingi zilizokusanywa mwishoni mwa tukio inatangazwa mshindi. Ni wazo zuri kumteua mtu kufuatilia alama, kuhakikisha kuwa pointi zote zimerekodiwa vizuri wakati wa tukio.
 
-### Je, wachezaji wa mwanzo wanaweza kufurahia Timu ya Americano?
-Ndio! Mfumo huu ni rahisi kufikia na furaha kwa wachezaji wa viwango vyote, hivyo ni kamili kwa makundi yenye ujuzi tofauti.
+![Marie/Bob ni timu inayoshinda](/sw/images/team-americano-scores.png "Marie/Bob ni timu inayoshinda")
 
----
+### Baada ya muda kukamilika
+Baada ya muda kukamilika au timu zote kucheza dhidi ya kila mmoja angalau mara mbili, ni wakati wa kuona ni timu ipi iliyokusanya pointi nyingi zaidi. Kumbuka kwamba, tofauti na Americano ya kawaida, unashinda na kupoteza pamoja kama timu, kwa hivyo ubao wa alama wa mwisho unapaswa kuonyesha timu zimepangwa kwa mpangilio wa kushuka kuanzia na timu ambayo ina pointi nyingi zilizokusanywa.
 
-## Hitimisho
-Timu ya Americano ni njia ya kusisimua na ya kijamii ya kufurahia padel. Kwa kuweka wachezaji katika jozi za mara kwa mara, mfumo unakuza ushirikiano, mkakati, na ushindani wa kusisimua. Kwa sheria wazi na mipango kidogo, unaweza kuandaa tukio la Timu ya Americano lenye mafanikio ambalo wachezaji wa viwango vyote watapenda.
-
-jaribio
+Baada ya mechi rasmi kukamilika, kwa nini usitulie na vinywaji kwenye eneo la mapumziko na kuchangamana na wachezaji wengine? Baada ya yote, kuchangamana ni moja ya sehemu bora za kucheza padel!

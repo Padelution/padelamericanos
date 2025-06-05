@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Rehber
+weight: 1
 ---
-# Padel Americano Hakkında Her Şey
+# Padel Americano - Bilmeniz gereken her şey
 
-Padel Americano, tüm beceri seviyelerindeki oyuncular için mükemmel olan eğlenceli, sosyal ve rekabetçi bir padel formatıdır. Geleneksel padel maçlarının aksine, Americano dönüş ve takım çeşitliliğine odaklanır ve bu nedenle turnuvalar, ligler ve rahat toplantılar için popüler bir tercihtir. İşte Padel Americano'yu anlamanın ve oynamanın kapsamlı bir rehberi.
-
----
-
-## **Padel Americano Nedir?**
-
-Americano Padel, katılımcıların çiftler halinde oynadığı ancak ortaklarının ve rakiplerinin etkinlik boyunca dönüşümlü olarak değiştiği bir turnuva formatıdır. Amacı, değişikliklere bağlı olarak bireysel olarak veya çift olarak mümkün olduğunca çok sayıda puan kazanmaktır.
+Padel americano, padel oynamanın orijinal yoluna harika bir alternatiftir. Padel americano'nun temel fikri, etkinlik sırasında her turdan sonra takımları döndürmek, böylece her oyuncunun birbiriyle oynamasını sağlamaktır. İşte bu, Americano'yu bu kadar popüler ve eğlenceli kılar! Uzun süre aynı ortağıyla oynamak heyecanı kaybettirmeye başlar ve bu yüzden herkesin Padel Americano'yu denemesi gerekmektedir. Ayrıca, yeni insanlarla tanışmanın ve onlarla oynamanın çok iyi bir yoludur. Ayrıca daha iyi olmak isteyen oyuncular için farklı seviyelerde oyuncularla oynamak faydalı olur.
 
 ---
 
-## **Padel Americano'nun Temel Kuralları**
+## Amerikano oynamak için gerekenler
 
-### **1. Maç Kurulumu**
-- **Oyuncu Sayısı:** Genellikle, 8 oyuncu iki kortta yer alır. Daha büyük gruplar (örneğin, 16 oyuncu) daha fazla kort kullanabilir. Bazı americano yazılımları farklı oyuncu sayılarını da destekler.
-- **Maç Süresi:** Her maç belirli bir puan sayısı için oynanır.
-- **Skorlama:** Ortaklarına bakılmaksızın her oyuncu için bireysel skorlar takip edilir.
+Amerikano oynamak için orijinal oyun şekline kıyasla çok fazla ekstra şeye ihtiyacınız yok. Tabii ki oyunculara ihtiyacınız var ve genellikle eğlenmek için en az 8 oyuncuya ve mümkünse 2 saha rezervasyonuna ihtiyaç vardır (Aşağıdaki tablodan daha fazla örnek görün). 8 oyuncunuz varsa, saha rezervasyonu için iyi bir süre 2 saat.
+
+| Oyuncu Sayısı              | Minimum Saha Sayısı |
+|---------------------------|---------------------|
+|                           4 - 7                   |             1            |
+|                           8 - 11                  |             2            |
+|                           12 - 15                 |             3            |
+|                           16 - 19                 |             4            |
+|                           20 - 23                 |             5            |
+
+
+
+Ek oyuncular dinlenebilir ve diğerleri oynarken tezahürat yapabilir
+
+Sonra elbette tüm sahalar için toplamda üç top ve tüm oyuncular için diğer temel ekipmanlar olan raketler gibi toplarınız olmalıdır. Başlamadan önce, tüm oyuncuları sahalara bölmek ve her oyuncunun padel oynamayı nasıl bildiğinden emin olmak ve ardından Padel Americano'nun nasıl çalıştığını açıklamak iyidir. Önemli bir şey, her turdan sonra skoru tutmak için iyi, kullanımı kolay bir araca sahip olmaktır. Padelution.com harika bir örnektir.
+
+## İhtiyacınız olacaklar:
+
+- Padel oynamak için temel ekipmana sahip oyuncular, yani spor kıyafetleri, padel raket ve ayakkabı.
+- Katılan oyuncu sayısına bağlı olarak rezerve edilmiş sahalar.
+- Her saha için toplar, her saha için üç top en iyisidir.
+- Skorları tutmak için sistem, örn. [Padelution](https://padelution.com/americano)
+- Kuralları açıklamak ve her turdan sonra tüm skorların toplandığından emin olmak için en az bir kişi.
+
+---
+## Padel Americano'nun kuralları
+
+Kurallar basit ve öğrenmesi kolaydır. Temel fikir, etkinlik sırasında her oyuncunun birbiriyle oynamasıdır. Ayrıca, herkesin birbirine iki kez karşı gelmesi gerekmektedir, ancak bu aynı zamanda oynama için ayrılan zamana da bağlıdır.
+
+Kazanmak için en fazla puanı toplamanız gerekmektedir, bu nedenle bu formatta kendiniz için puan topluyorsunuz. Örneğin, iki sahada oynuyorsunuz ve şu anda oyuncu A'sınız. Oyuna B oyuncusuyla başlıyorsunuz ve C ve D oyuncularına karşı oynuyorsunuz. Turunuz bittiğinde, ya aynı sahada kalırsınız ya da sahaları değiştirirsiniz, ancak ana şey şudur ki bir sonraki oyunda C oyuncusuyla B ve D oyuncularına karşı oynarsınız. İkinci tur bittiğinde, hepiniz tekrar dönersiniz ve bir sonraki oyunda F oyuncusuyla G ve H oyuncularına karşı oynarsınız.
+
+Padel'in temel kuralları geçerlidir, bu nedenle topun dışarıda olup olmadığı konusunda farklı görüşler varsa, puanı tekrar etmek ve adil bir şekilde devam etmek iyidir. İlk servis alıcıyı seçmek de oyuncuların alışkın olduğu şekilde yapılabilir, yani "servis atanın topu" oynama veya para atma. Her oyuncu dört puan servis yapar ve ardından servisçiyi rakip takımla değiştirir.
+
+![Padel Americano puanları!](/tr/images/padel-americano.png "Padel Americano puanları!")
+
+### Tur örnekleri (Oyuncu A bakış açısından):
+- Tur 1 - Oyuncu A&B vs. oyuncu C&D
+- Tur 2 - Oyuncu A&C vs. oyuncu B&D
+- Tur 3 - Oyuncu A&F vs. oyuncu G&H
 
 ---
 
-### **2. Maç Dönüşü**
-- Her turdan sonra, ortaklar ve rakipler önceden belirlenmiş bir programa göre karıştırılır. Bu, herkesin farklı oyuncularla birlikte oynamasını sağlar.
-- Dönüşüm sistemi genel rekabeti dengelemekte ve oyuncular arasında sosyal etkileşimi teşvik etmektedir.
+### Skorlama ve nasıl kazanılır
+Her tur genellikle toplam 32 puana kadar oynanır, her oyuncu dört kez servis yapar ve ardından servisçiyi değiştirir. Örneğin, diyelim ki takımınız 15 puan topladı ve diğer takım 17 puan topladı. Bu, şimdi toplamda 32 puan oynandığı anlamına gelir, bu yüzden sıra değiştirme zamanıdır.
+
+Skorlama sistemine, takımınıza / her ikinize 15 puan eklersiniz ve rakip her birine 17 puan alır. Ardından diyelim ki siz ve ortağınız ikinci maçta 20 puan alırsınız, bu da rakibin 12 puan aldığı anlamına gelir.
+
+Alternatif olarak, sabit bir zaman belirleyebilir ve zaman dolana kadar oynayabilir ve o zamana kadar puan toplayabilirsiniz. Her tur oynandıktan sonra, puanları bir sistemde veya skorborda eklemek önemlidir.
+
+Etkinlik bittikten sonra en fazla puanı toplayan oyuncu kazanır. Genellikle tüm puanların etkinlikten sonra kaydedilmesi için sorumlu birinin olması iyi bir fikirdir.
 
 ---
 
-### **3. Skorlama Sistemi**
-- Puanlar, maç sonucuna bağlı olarak bireysel olarak verilir:
-  - **Her oyuncu:** kazandıkları her top için aldıkları kadar puan kazanır.
+### Oynamayı bırakma zamanı geldiğinde
+Zaman dolduğunda, en fazla puanı toplayanın kim olduğunu görmek için zamanı gelmiştir. Tabii ki, herkes birbiriyle oynadıktan sonra hala zaman varsa, ekstra tur oynayabilirsiniz. Herkes birbirine karşı oynamadan önce zaman dolar ise, genellikle herkesin puanlarını eşitlemek iyi bir fikirdir.
+
+![Padel Americano skorbordu!](/tr/assets/padel-americano-scoreboard.png "Padel Americano skorbordu!")
+
+Resmi oyun kısmı bittikten sonra, mümkünse louncta bir şeyler içmeyi ve diğer oyuncularla sosyalleşmeyi neden denemiyorsunuz? Zaten Padel'in en iyi yönlerinden biridir!
 
 ---
 
-### **4. Maç Formatı**
-- Maçlar genellikle **32 puan** üzerinden oynanır.
-- Her oyuncu 4 kez servis yapar. Örneğin, A ve B oyuncuları C ve D oyuncularına karşı oynar. A servis yapmaya başlar ve 4 kez servis yapar, ardından C 4 kez servis yapar, sonra B 4 kez servis yapar, sonra D 4 kez servis yapar. Toplamda 16 puan oynanır. Sonra oyuncu A yeni bir turda servis yapmaya başlar ve 4 kez servis yapar ve böyle devam eder.
-- Oyun 16-16'da berabere kalırsa, oyun berabere biter ve her iki oyuncu da 16 puan alır.
+## Padel Americano'nun Çeşitleri
 
----
-
-### **5. Kort Kuralları**
-- Padel Americano, standart padel kortu ve oyun kurallarını takip eder:
-  - Maçlar çiftler formatında oynanır.
-  - Top, duvarlara veya çite çarpmadan önce bir kez zıplamalıdır.
-  - Servisler çapraz yapılır ve rakibin servis kutusuna düşmelidir.
-  - Rakip topu geri gönderemezse veya herhangi bir kuralı ihlal ederse bir puan kazanılır.
-
----
-
-## **Padel Americano Çeşitleri**
-
-### **1. Takım Americano**
+### [1. Takım Amerikano](/tr/team-americano)
 - Oyuncular takımlara ayrılır ve diğer takımlara karşı birlikte oynar.
 - İşbirliğini ve takım ruhunu teşvik eder.
 
-### **2. Zaman Tabanlı Americano**
-- Maçlar sabit bir süre (örneğin, 10 dakika) boyunca oynanır, skordan bağımsız olarak.
-- Turnuvayı verimli bir şekilde ilerletir.
+### 2. Zaman Odaklı Amerikano
+- Maçlar sabit bir süre (örneğin, 10 dakika) oynanır, skordan bağımsız.
+- Turnuvayı verimli bir şekilde sürdürür.
 
-### **3. Karışık Americano (Mixicano)**
-- Erkek ve kadın oyuncular tur başına ortak değiştirir.
-- Sol taraf ve sağ taraf oyuncuları her zaman birlikte oynar, böylece aynı takımda sol veya sağ tarafı tercih eden iki oyuncu olmaz.
-- Oyunda kapsayıcılığı ve çeşitliliği teşvik eder.
-
----
-
-## **Padel Americano'yu Kazanma**
-
-Tüm turların sonunda, en yüksek bireysel skora sahip oyuncu kazanan ilan edilir. Takım formatlarında, en fazla puana sahip olan takım turnuvayı kazanır.
-
----
-
-## **Neden Padel Americano Oynamalısınız?**
-
-1. **Sosyal Etkileşim:** Oyuncular herkesle etkileşimde bulunur, bu da yeni insanlarla tanışmanın ve topluluk oluşturmanın harika bir yoludur.
-2. **Kapsayıcılık:** Çiftler rastgele eşleştirildiği için tüm beceri seviyelerindeki oyuncular için uygundur.
-3. **Hızlı ve Eğlenceli:** Hızlı dönüşüm enerjiyi yüksek tutar ve maçlar arasındaki uzun bekleme sürelerini ortadan kaldırır.
-
----
-
-## **Başarı İçin İpuçları**
-
-1. **Hızlı Uyum Sağlayın:** Oyun tarzınızı ortağınızın güçlü ve zayıf yönlerine uyarlama konusunda hazır olun.
-2. **Sürekliliğe Odaklanın:** Birden fazla turda daha fazla puan kazanmak, tek bir maça tamamen odaklanmaktan daha iyidir.
-3. **Olumlu Kalın:** Neşeli bir tutum, ortağınızı motive edebilir ve genel performansınızı artırabilir.
-
----
-
-### **Sonuç**
-
-Padel Americano, padel'in sosyal ve rekabetçi yönlerini en iyi şekilde ortaya çıkaran çok yönlü ve eğlenceli bir formattır. Arkadaşça bir maç veya büyük ölçekli bir turnuva düzenliyor olun, bu kurallar heyecan verici ve unutulmaz bir etkinlik için temel oluşturur. Raketinizi alın, korta çıkın ve Americano'nun heyecanını yaşayın!
-
----
-
-**Kendi Padel Americano ipuçlarınız veya deneyimleriniz var mı? Bizimle paylaşın!**
-
-test
+### [3. Karışık Amerikano (Mixicano)](/tr/mixicano)
+- Erkek ve kadın oyuncular tur başına partner değiştirir.
+- Sol ve sağ taraf oyuncuları her zaman birlikte oynar, böylece aynı takımda sol veya sağ tarafı tercih eden iki oyuncu olmaz.
+- Oyun içinde kapsayıcılığı ve çeşitliliği teşvik eder.

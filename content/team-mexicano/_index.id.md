@@ -1,108 +1,118 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 # Tim Mexicano: Panduan Format Padel Berbasis Tim yang Menarik Ini
 
-Jika Anda menikmati sifat dinamis dan adaptif dari Padel Mexicano tetapi ingin menekankan kerja sama tim dan strategi jangka panjang, **Tim Mexicano** adalah pilihan yang sempurna. Format ini menjaga dua pemain sebagai tim tetap sepanjang turnamen, menambahkan lapisan kerja sama dan konsistensi ekstra dalam permainan.
+Tim Mexicano menawarkan metode dinamis lain untuk memilih lawan. Faktor kunci adalah peringkat tim Anda, dan setelah setiap putaran, Anda memeriksa di mana Anda berada dalam peringkat untuk mengetahui siapa lawan yang akan Anda hadapi di putaran berikutnya.
 
-Dalam panduan ini, kita akan menjelajahi apa yang membuat Tim Mexicano unik, bagaimana cara kerjanya, dan mengapa ini adalah pilihan fantastis baik untuk bermain santai maupun kompetitif.
+Yang membuatnya menyenangkan adalah cara tim berputar setelah setiap putaran yang berarti kesenjataan tingkat keterampilan seimbang. Hal ini memastikan bahwa setiap tim dapat mengharapkan pertandingan yang ketat dan menarik.
 
 ---
 
-## **Apa Itu Tim Mexicano?**
+## Apa yang Anda Butuhkan untuk Tim Mexicano?
 
-Tim Mexicano adalah variasi dari format Mexicano tradisional di mana dua pemain selalu bersaing sebagai tim tetap. Berbeda dengan Mexicano reguler, di mana mitra bergantian antara pertandingan, Tim Mexicano menjaga kemitraan tetap utuh, memungkinkan pemain untuk mengembangkan dan menyempurnakan strategi mereka sebagai pasangan.
+Untuk Tim Mexicano, Anda tidak memerlukan apa pun tambahan dibandingkan dengan Mexicano biasa, kecuali sistem atau aplikasi untuk mencatat skor. Layanan seperti [Padelution](https://www.padelution.com/americano) dapat digunakan untuk melacak skor.
 
-### **Fitur Utama Tim Mexicano**
+Penting untuk memiliki metode yang jelas untuk mencatat skor, karena peringkat setiap tim setelah setiap putaran menentukan lawan mereka selanjutnya. Direkomendasikan minimal 4 tim/8 pemain, dan jumlah optimal lapangan adalah 2. Anda dapat meningkatkan jumlah tim, tetapi lebih baik memiliki jumlah lapangan yang dapat dibagi dengan 4 untuk memastikan rotasi yang lancar dan agar semua tim bermain pada saat yang sama.
+
+## Aturan Tim Mexicano
+
+Semua aturan dasar padel berlaku saat bermain Tim Mexicano. Untuk memulai, Anda dapat secara acak memilih pasangan pertama. Namun, mulai dari putaran kedua, Anda perlu melacak skor dan biarkan sistem menangani rotasi. Tim peringkat 1 dan 3 akan, pada putaran kedua, bermain satu sama lain dan tim peringkat 2 dan 4 akan saling berhadapan di lapangan lain.
+
 - **Tim Tetap**: Dua pemain membentuk tim dan bersaing bersama sepanjang turnamen.
-- **Pemilihan Pasangan Dinamis**: Tim dipasangkan melawan tim lain berdasarkan peringkat leaderboard, seperti dalam Mexicano reguler.
-- **Fokus pada Strategi**: Pemain dapat membangun kerja sama tim yang lebih kuat dan taktik saat mereka menghadapi berbagai lawan.
+- **Pasangan Dinamis**: Tim dipasangkan dengan yang lain berdasarkan posisi di papan peringkat, seperti halnya dalam Mexicano biasa.
+
+| Peringkat setelah putaran pertama | Pertandingan untuk putaran ke-2 |
+|:---------------------------------:|:-----------------------------:|
+|            Tim 1                  |   Tim 1 vs. Tim 2             |
+|            Tim 2                  |                               |
+|            Tim 3                  |   Tim 3 vs. Tim 4             |
+|            Tim 4                  |                               |
 
 ---
 
-## **Bagaimana Tim Mexicano Bekerja?**
+## Bagaimana Cara Kerja Penilaian?
 
-Format ini mengikuti prinsip adaptif yang sama dengan Mexicano namun dengan kemitraan tetap.
+Penilaian berfungsi sama seperti dalam Americano dan Mexicano biasa. Setiap pertandingan dimainkan hingga total 32 poin tercapai. Misalnya, jika tim Anda (Tim 1) bermain melawan Tim 4 dan tim Anda mencetak 20 poin, maka Tim 4 akan mendapatkan 12 poin. Ini berarti total 32 poin telah dimainkan dan saatnya beralih ke putaran berikutnya.
 
-### **Pemilihan Pasangan Pertandingan**
-- Pasangan pertandingan pertama ditentukan secara acak, dengan tim ditugaskan lawan melalui undian.
-- Mulai dari pertandingan kedua, pasangan didasarkan pada peringkat leaderboard:
-  - Dua tim teratas bermain melawan satu sama lain.
-  - Tim yang berperingkat ketiga dan keempat bermain melawan satu sama lain.
-  - Tim dengan peringkat lebih rendah dipasangkan secara serupa untuk memastikan pertandingan seimbang.
+![Skor Tim Mexicano!](/id/images/team-mexicano-scores.png "Skor Tim Mexicano!")
 
-### **Format Pertandingan**
-- Pertandingan dimainkan hingga jumlah poin tertentu, biasanya 16, 24, atau 32. Atau, batas waktu set sekitar 10–20 menit dapat digunakan.
-- Aturan pelayanan tetap sama dengan Mexicano:
-  - Setiap tim melakukan pelayanan 4 atau 6 kali sebelum giliran pelayanan berganti.
-  - Setiap poin yang dicetak menambahkan ke skor keseluruhan tim.
+### Contoh penilaian dari perspektif tim 1
+- Putaran 1: Tim 1 20 poin dan tim 4 12 poin
+- Putaran 2: Tim 1 19 poin dan tim 2 13 poin
+
+Total poin yang terkumpul setelah dua putaran adalah 39 untuk tim 1
+
+### Lalu, siapa Pemenangnya?
+Pada akhir acara, tim yang berada di peringkat pertama dalam peringkat adalah pemenang, diikuti oleh tim di peringkat kedua, ketiga, dan seterusnya. Keuntungan terbesar dari Tim Mexicano adalah bahwa, karena bagaimana tim berputar setelah setiap putaran berdasarkan peringkat, semua pertandingan tetap ketat dan kompetitif, memastikan pengalaman yang menyenangkan bagi semua yang terlibat.
+
+![Peringkat Tim Mexicano!](/id/images/team-mexicano-standing.png "Peringkat Tim Mexicano")
 
 ---
 
-## **Penilaian dalam Tim Mexicano**
+## Penilaian dalam Tim Mexicano
 
 Sistem penilaian untuk Tim Mexicano sederhana dan mencerminkan Mexicano:
 
 1. **Poin Per Pertandingan**: Skor setiap tim dari sebuah pertandingan ditambahkan ke total kumulatif mereka.
-   - Sebagai contoh, jika sebuah pertandingan berakhir 20–12, tim pemenang menambahkan 20 poin, dan tim yang kalah menambahkan 12 poin ke skor mereka.
-2. **Peringkat Leaderboard**: Tim diberi peringkat di leaderboard berdasarkan total poin mereka dari semua pertandingan.
-3. **Pemenang**: Tim dengan skor tertinggi pada akhir turnamen memenangkan.
+   - Misalnya, jika sebuah pertandingan berakhir 20–12, tim pemenang menambahkan 20 poin, dan tim yang kalah menambahkan 12 poin ke skor mereka.
+2. **Peringkat Papan Peringkat**: Tim diberi peringkat di papan peringkat berdasarkan total poin mereka di seluruh pertandingan.
+3. **Pemenang**: Tim dengan skor tertinggi pada akhir turnamen adalah pemenang.
 
 ---
 
-## **Perbedaan Antara Mexicano dan Tim Mexicano**
+## Perbedaan Antara Mexicano dan Tim Mexicano
 
-Meskipun kedua format tersebut memiliki banyak kesamaan, perbedaan utamanya terletak pada struktur tim:
+Meskipun kedua format tersebut memiliki banyak kesamaan, perbedaan kunci terletak pada struktur tim:
 
-| **Fitur**               | **Mexicano**                                     | **Tim Mexicano**                                  |
-|-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Struktur Tim**        | Pemain bergantian mitra antara pertandingan      | Tim tetap sepanjang turnamen                      |
-| **Fokus**               | Kinerja individu dan adaptabilitas               | Kerja sama tim dan strategi jangka panjang        |
-| **Pemilihan Lawan**     | Berdasarkan peringkat leaderboard                | Berdasarkan peringkat leaderboard                 |
-| **Penilaian**           | Poin individu yang dicetak dari setiap pertandingan | Poin tim kumulatif yang dicetak dari setiap pertandingan |
+| **Fitur**                | **Mexicano**                                      | **Tim Mexicano**                                   |
+|--------------------------|---------------------------------------------------|----------------------------------------------------|
+| **Struktur Tim**         | Pemain berputar pasangan antara pertandingan      | Tim tetap selama turnamen                          |
+| **Fokus**                | Kinerja individu dan adaptabilitas                | Kerja sama tim dan strategi jangka panjang        |
+| **Pasangan Lawan**       | Berdasarkan posisi di papan peringkat             | Berdasarkan posisi di papan peringkat              |
+| **Penilaian**            | Poin individu yang dicetak dari setiap pertandingan| Poin tim kumulatif yang dicetak dari setiap pertandingan|
 
 ---
 
-## **Mengatur Turnamen Tim Mexicano**
+## Mengatur Turnamen Tim Mexicano
 
 Mengatur turnamen Tim Mexicano adalah hal yang sederhana dengan pengaturan yang tepat:
 
-### **Peserta dan Lapangan**
+### Peserta dan Lapangan
 - Anda memerlukan minimal 8 pemain (4 tim) untuk memulai.
-- Untuk kelompok yang lebih besar, pastikan jumlah total pemain dapat dibagi dengan empat untuk tim yang seimbang.
+- Untuk kelompok yang lebih besar, pastikan jumlah total pemain dapat dibagi oleh empat untuk tim yang seimbang.
 - Jumlah lapangan yang diperlukan tergantung pada jumlah tim:
   - 4 tim (8 pemain) = 2 lapangan
   - 6 tim (12 pemain) = 3 lapangan
   - 8 tim (16 pemain) = 4 lapangan
 
-### **Penjadwalan Pertandingan**
-- Pasangan ditentukan secara dinamis berdasarkan peringkat leaderboard setelah putaran pertama.
+### Penjadwalan Pertandingan
+- Pasangan ditentukan secara dinamis berdasarkan peringkat papan peringkat setelah putaran pertama.
 - Pastikan setiap tim bermain beberapa pertandingan untuk mengumpulkan poin.
 
-### **Durasi Pertandingan**
+### Durasi Pertandingan
 - Satu pertandingan biasanya berlangsung 10–15 menit untuk format pendek seperti 16 atau 24 poin.
 - Rencanakan 2–3 jam untuk seluruh turnamen, tergantung pada jumlah tim.
 
-### **Pencatatan Skor**
-- Gunakan kartu skor atau aplikasi untuk melacak skor tim dan memperbarui leaderboard setelah setiap pertandingan.
+### Pencatatan Skor
+- Gunakan kartu skor atau aplikasi (misalnya [Padelution](https://www.padelution.com/americano)) untuk melacak skor tim dan memperbarui papan peringkat setelah setiap pertandingan.
 
 ---
 
-## **Mengapa Bermain Tim Mexicano?**
+## Mengapa Bermain Tim Mexicano?
 
-Tim Mexicano menawarkan pengalaman unik yang menggabungkan pasangan dinamis dari Mexicano dengan strategi dan kerjasama tim yang tetap. Berikut alasan mengapa ini adalah pilihan yang bagus:
+Tim Mexicano menawarkan pengalaman unik yang menggabungkan pasangan dinamis dari Mexicano dengan strategi dan kerjasama tim tetap. Berikut alasan mengapa ini adalah pilihan yang bagus:
 
 1. **Kerja Sama Tim yang Lebih Kuat**: Bermain dengan mitra tetap membantu Anda membangun kepercayaan dan menyempurnakan strategi.
-2. **Adil dan Menantang**: Sistem pemilihan dinamis memastikan pertandingan seimbang berdasarkan kinerja.
-3. **Inklusif dan Menyenangkan**: Seperti Mexicano, format ini cocok untuk pemain dari berbagai tingkatan.
-4. **Kompetisi yang Ditingkatkan**: Tim berusaha untuk melampaui tim lain sambil memperkuat kemitraan mereka.
+2. **Adil dan Menantang**: Sistem pasangan dinamis memastikan pertandingan seimbang berdasarkan kinerja.
+3. **Inklusif dan Menyenangkan**: Seperti Mexicano, format ini cocok untuk pemain dari semua tingkatan.
 
 ---
 
-## **Kesimpulan**
+## Kesimpulan
 
-Tim Mexicano adalah cara yang menarik untuk menikmati padel, menawarkan perpaduan sempurna antara strategi, kerja sama tim, dan kompetisi dinamis. Baik Anda mengatur turnamen atau bergabung dalam satu, format ini membawa sensasi permainan menjadi hidup, memupuk ikatan yang lebih kuat dan pertandingan yang tak terlupakan.
+Tim Mexicano adalah cara yang menarik untuk menikmati padel, menawarkan perpaduan sempurna antara strategi, kerja sama tim, dan persaingan dinamis. Baik Anda mengatur turnamen atau bergabung dalam satu, format ini membawa sensasi permainan menjadi hidup, memupuk ikatan yang lebih kuat dan pertandingan yang tak terlupakan.
 
-Jadi ambil mitra Anda, ke lapangan, dan jelajahi dunia Tim Mexicano untuk pengalaman yang tak tertandingi!
-
-test
+Jadi ambil mitra Anda, ke lapangan, dan nikmati pengalaman Tim Mexicano untuk sensasi yang tak tertandingi!

@@ -1,108 +1,118 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 # Team Mexicano: Opas Tähän Jännittävään Joukkuepohjaiseen Padel-formaattiin
 
-Jos nautit Padel Mexicano:n dynaamisesta ja sopeutuvasta luonteesta, mutta haluat korostaa tiimityötä ja pitkäaikaista strategiaa, **Team Mexicano** on täydellinen valinta. Tämä formaatti pitää kaksi pelaajaa kiinteänä tiiminä koko turnauksen ajan, lisäten peliin ylimääräisen tason yhteistyötä ja johdonmukaisuutta.
+Team Mexicano tarjoaa toisen dynaamisen tavan valita vastustajat. Avainasia on joukkueesi sijoitus, ja jokaisen kierroksen jälkeen tarkistat sijoituksesi selvittääksesi, keitä vastaan pelaat seuraavalla kierroksella.
 
-Tässä oppaassa sukellamme siihen, mikä tekee Team Mexicano:sta ainutlaatuisen, miten se toimii ja miksi se on fantastinen vaihtoehto sekä rentoon että kilpailulliseen pelaamiseen.
-
----
-
-## **Mikä On Team Mexicano?**
-
-Team Mexicano on muunnelma perinteisestä Mexicano-formaatista, jossa kaksi pelaajaa kilpailee aina kiinteänä tiiminä. Toisin kuin tavallisessa Mexicanossa, jossa parit vaihtuvat otteluiden välillä, Team Mexicano pitää kumppanuudet ennallaan, mahdollistaen pelaajien kehittää ja hioa strategioitaan parina.
-
-### **Team Mexicano:n Pääpiirteet**
-- **Kiinteät Tiimit**: Kaksi pelaajaa muodostaa tiimin ja kilpailee yhdessä koko turnauksen ajan.
-- **Dynaamiset Parit**: Tiimit paritetaan muiden kanssa leaderboard-sijoitusten perusteella, aivan kuten tavallisessa Mexicanossa.
-- **Keskitetty Strategiaan**: Pelaajat voivat rakentaa vahvempaa tiimityötä ja taktiikkaa kohdatessaan erilaisia vastustajia.
+Nautinnolliseksi sen tekee se, että joukkueet vaihtavat paikkaa jokaisen kierroksen jälkeen, mikä tasapainottaa taitotasoeroja. Tämä varmistaa, että jokainen joukkue voi odottaa tiukkoja ja jännittäviä otteluita.
 
 ---
 
-## **Miten Team Mexicano Toimii?**
+## Mitä Tarvitset Team Mexicanoon?
 
-Formaatti noudattaa samoja sopeutuvia periaatteita kuin Mexicano, mutta kiinteillä kumppanuuksilla.
+Team Mexicanoon et tarvitse mitään ylimääräistä verrattuna tavalliseen Mexicanoon, paitsi järjestelmän tai sovelluksen pisteytyksen pitämiseen. Palveluita kuten [Padelution](https://www.padelution.com/americano) voidaan käyttää pisteiden seuraamiseen.
 
-### **Otteluparit**
-- Ensimmäinen ottelupari määräytyy satunnaisesti, ja tiimit saavat vastustajat arpomalla.
-- Toisesta ottelusta alkaen parit määräytyvät leaderboard-sijoitusten perusteella:
-  - Kaksi parasta tiimiä pelaavat toisiaan vastaan.
-  - Kolmanneksi ja neljänneksi sijoittuneet tiimit pelaavat toisiaan vastaan.
-  - Alempisijoittuneet tiimit paritetaan vastaavasti tasapainoisten otteluiden varmistamiseksi.
+On tärkeää olla selkeä menetelmä pisteiden kirjaamiseen, koska jokaisen joukkueen sijoitus jokaisen kierroksen jälkeen määrää, keitä vastaan he pelaavat seuraavaksi. Suositeltavaa on vähintään 4 joukkuetta/8 pelaajaa, ja optimaalinen kenttien määrä on 2. Voit lisätä joukkueiden määrää, mutta on parasta, että kenttien lukumäärä on jaollinen neljällä varmistaaksesi sujuvan kierron ja sen, että kaikki joukkueet pelaavat samaan aikaan.
 
-### **Otteluformaatti**
-- Ottelut pelataan tiettyyn pistemäärään, yleensä 16, 24 tai 32. Vaihtoehtoisesti voidaan käyttää asetettua aikarajaa 10–20 minuuttia.
-- Syöttösäännöt pysyvät samoina kuin Mexicanossa:
-  - Jokainen tiimi syöttää 4 tai 6 kertaa ennen kuin syöttö kiertää.
-  - Jokainen piste lisää tiimin kokonaispistemäärää.
+## Team Mexicano Säännöt
 
----
+Kaikki padelin perussäännöt pätevät pelattaessa Team Mexicanoa. Aluksi voit valita ensimmäiset parit satunnaisesti. Toisesta kierroksesta eteenpäin sinun on kuitenkin seurattava pisteitä ja annettava järjestelmän hoitaa kierto. Sijoilla 1 ja 3 olevat joukkueet pelaavat toisiaan vastaan toisella kierroksella, kun taas sijoilla 2 ja 4 olevat joukkueet kohtaavat toisensa toisella kentällä.
 
-## **Pisteytys Team Mexicano:ssa**
+- **Kiinteät Joukkueet**: Kaksi pelaajaa muodostaa joukkueen ja kilpailee yhdessä koko turnauksen ajan.
+- **Dynaamiset Parit**: Joukkueet paritetaan muiden joukkueiden kanssa leaderboard-sijoitusten perusteella, aivan kuten tavallisessa Mexicanossa.
 
-Pisteytysjärjestelmä Team Mexicano:ssa on suoraviivainen ja heijastelee Mexicano:n pisteytystä:
-
-1. **Pisteet Ottelua Kohti**: Jokaisen tiimin pisteet ottelusta lisätään heidän kokonaispistemääräänsä.
-   - Esimerkiksi jos ottelu päättyy 20–12, voittava tiimi lisää 20 pistettä ja häviävä tiimi lisää 12 pistettä pisteisiinsä.
-2. **Leaderboard-sijoitukset**: Tiimit sijoitetaan leaderboardille heidän kaikkien otteluiden yhteispisteiden perusteella.
-3. **Voittaja**: Turnauksen lopussa eniten pisteitä kerännyt tiimi voittaa.
+| Sijoitus ensimmäisen kierroksen jälkeen | Ottelut toiselle kierrokselle |
+|:--------------------------------------:|:-----------------------------:|
+|                 Joukkue 1               |   Joukkue 1 vs. Joukkue 2    |
+|                 Joukkue 2               |                               |
+|                 Joukkue 3               |   Joukkue 3 vs. Joukkue 4    |
+|                 Joukkue 4               |                               |
 
 ---
 
-## **Erot Mexicano:n ja Team Mexicano:n Välillä**
+## Miten Pisteet Toimivat Team Mexicanossa?
 
-Vaikka nämä kaksi formaattia jakavat monia samankaltaisuuksia, keskeinen ero piilee tiimirakenteessa:
+Pisteytys toimii samalla tavalla kuin Americanossa ja tavallisessa Mexicanossa. Jokainen ottelu pelataan, kunnes yhteensä 32 pistettä on saavutettu. Esimerkiksi, jos joukkueesi (Joukkue 1) pelaa Joukkuetta 4 vastaan ja joukkueesi saa 20 pistettä, Joukkue 4 saa 12 pistettä. Tämä tarkoittaa, että yhteensä 32 pistettä on nyt pelattu ja on aika siirtyä seuraavalle kierrokselle.
 
-| **Ominaisuus**          | **Mexicano**                                     | **Team Mexicano**                                  |
-|-------------------------|-------------------------------------------------|---------------------------------------------------|
-| **Tiimirakenne**        | Pelaajat vaihtavat kumppaneita otteluiden välillä| Tiimit pysyvät samoina koko turnauksen ajan         |
-| **Painopiste**          | Yksilösuorituskyky ja sopeutumiskyky              | Tiimityö ja pitkäaikainen strategia                 |
-| **Vastustajaparitus**   | Perustuu leaderboard-sijoituksiin                 | Perustuu leaderboard-sijoituksiin                  |
-| **Pisteytys**           | Yksittäiset pisteet jokaisesta ottelusta          | Kumulatiiviset tiimipisteet jokaisesta ottelusta     |
+![Team Mexicano pisteet!](/fi/images/team-mexicano-scores.png "Team Mexicano pisteet!")
+
+### Esimerkki pisteytyksestä joukkue 1 näkökulmasta
+- Kierros 1: Joukkue 1 20 pistettä ja joukkue 4 12 pistettä
+- Kierros 2: Joukkue 1 19 pistettä ja joukkue 2 13 pistettä
+
+Yhteispistemäärä kahden kierroksen jälkeen on 39 joukkueelle 1.
+
+### Kuka on Sitten Voittaja?
+Tapahtuman lopussa sijoituksissa ensimmäisenä oleva joukkue on voittaja, ja sen jälkeen tulevat joukkueet toisena, kolmantena jne. Team Mexicanon suurin etu on se, että joukkueet vaihtavat paikkaa jokaisen kierroksen jälkeen sijoitusten perusteella, mikä pitää kaikki ottelut tiukkoina ja kilpailullisina, varmistaen hauskan kokemuksen kaikille osallistujille.
+
+![Team Mexicano sijoitus!](/fi/images/team-mexicano-standing.png "Team Mexicano sijoitus")
 
 ---
 
-## **Team Mexicano-turnauksen Järjestäminen**
+## Pisteytys Team Mexicanossa
 
-Team Mexicano-turnauksen järjestäminen on yksinkertaista oikealla asetuksella:
+Pisteytysjärjestelmä Team Mexicanossa on suoraviivainen ja peilaa Mexicanoa:
 
-### **Osallistujat ja Kentät**
-- Tarvitset vähintään 8 pelaajaa (4 tiimiä) aloittaaksesi.
-- Suuremmille ryhmille varmista, että pelaajien kokonaismäärä on jaollinen neljällä tasapuolisten tiimien varmistamiseksi.
-- Kenttien tarvittava määrä riippuu tiimien määrästä:
-  - 4 tiimiä (8 pelaajaa) = 2 kenttää
-  - 6 tiimiä (12 pelaajaa) = 3 kenttää
-  - 8 tiimiä (16 pelaajaa) = 4 kenttää
+1. **Pisteet Ottelua Kohti**: Jokaisen joukkueen pisteet ottelusta lisätään heidän kokonaispistemääräänsä.
+   - Esimerkiksi, jos ottelu päättyy 20–12, voittava joukkue lisää 20 pistettä ja häviävä joukkue lisää 12 pistettä pisteisiinsä.
+2. **Leaderboard-sijoitukset**: Joukkueet sijoitetaan leaderboardille heidän kokonaispisteidensä perusteella kaikista otteluista.
+3. **Voittaja**: Turnauksen lopussa korkeimman pistemäärän saanut joukkue voittaa.
 
-### **Otteluiden Aikataulutus**
+---
+
+## Erot Mexicano ja Team Mexicanon Välillä
+
+Vaikka nämä kaksi formaattia jakavat monia samankaltaisuuksia, keskeinen ero piilee joukkueen rakenteessa:
+
+| **Ominaisuus**            | **Mexicano**                                     | **Team Mexicano**                                  |
+|---------------------------|-------------------------------------------------|---------------------------------------------------|
+| **Joukkuerakenne**        | Pelaajat vaihtavat kumppaneita otteluiden välillä | Joukkueet pysyvät samoina koko turnauksen ajan      |
+| **Keskiö**                | Yksilösuoritus ja sopeutumiskyky                 | Joukkuepeli ja pitkäaikainen strategia             |
+| **Vastustajan Paritus**   | Perustuu leaderboard-sijoituksiin                | Perustuu leaderboard-sijoituksiin                  |
+| **Pisteytys**             | Yksilöpisteet jokaisesta ottelusta                | Kumulatiiviset joukkuepisteet jokaisesta ottelusta |
+
+---
+
+## Team Mexicanon Turnauksen Järjestäminen
+
+Team Mexicanon turnauksen järjestäminen on helppoa oikealla asetuksella:
+
+### Osallistujat ja Kentät
+- Tarvitset vähintään 8 pelaajaa (4 joukkuetta) aloittaaksesi.
+- Suuremmille ryhmille varmista, että pelaajien kokonaismäärä on jaollinen neljällä tasaisia joukkueita varten.
+- Tarvittavien kenttien määrä riippuu joukkueiden määrästä:
+  - 4 joukkuetta (8 pelaajaa) = 2 kenttää
+  - 6 joukkuetta (12 pelaajaa) = 3 kenttää
+  - 8 joukkuetta (16 pelaajaa) = 4 kenttää
+
+### Otteluiden Aikataulutus
 - Parit määräytyvät dynaamisesti leaderboard-sijoitusten perusteella ensimmäisen kierroksen jälkeen.
-- Varmista, että jokainen tiimi pelaa useita otteluita pisteiden keräämiseksi.
+- Varmista, että jokainen joukkue pelaa useita otteluita pisteiden keräämiseksi.
 
-### **Otteluiden Kesto**
+### Ottelun Kesto
 - Yksi ottelu kestää yleensä 10–15 minuuttia lyhyemmissä formaateissa kuten 16 tai 24 pistettä.
-- Suunnittele 2–3 tunnin ajaksi koko turnaukselle riippuen tiimien määrästä.
+- Suunnittele 2–3 tuntia koko turnaukselle, riippuen joukkueiden määrästä.
 
-### **Pistelaskenta**
-- Käytä pistekorttia tai sovellusta tiimipisteiden seuraamiseen ja leaderboardin päivittämiseen jokaisen ottelun jälkeen.
-
----
-
-## **Miksi Pelata Team Mexicano:a?**
-
-Team Mexicano tarjoaa ainutlaatuisen kokemuksen, joka yhdistää Mexicano:n dynaamiset parit tiimityön ja kiinteiden tiimien strategian kanssa. Tässä on syitä, miksi se on loistava valinta:
-
-1. **Vahvempi Tiimityö**: Kiinteän kumppanin kanssa pelaaminen auttaa sinua rakentamaan luottamusta ja hioa strategioita.
-2. **Reilua ja Haastavaa**: Dynaaminen paritusjärjestelmä varmistaa tasapainoiset ottelut suorituksen perusteella.
-3. **Inklusiivista ja Hauskaa**: Kuten Mexicano, tämä formaatti sopii pelaajille kaikilla tasoilla.
-4. **Korostettu Kilpailu**: Tiimit pyrkivät suoriutumaan paremmin kuin muut vahvistaen samalla kumppanuuttaan.
+### Pisteytyksen Pidäminen
+- Käytä pistekorttia tai sovellusta (esimerkiksi [Padelution](https://www.padelution.com/americano)) joukkuepisteiden seurantaan ja leaderboardin päivittämiseen jokaisen ottelun jälkeen.
 
 ---
 
-## **Johtopäätös**
+## Miksi Pelata Team Mexicanoa?
 
-Team Mexicano on jännittävä tapa nauttia padelista, tarjoten täydellisen yhdistelmän strategiaa, tiimityötä ja dynaamista kilpailua. Olit sitten järjestämässä turnausta tai osallistumassa siihen, tämä formaatti tuo pelin jännityksen eloon, edistäen vahvempia siteitä ja unohtumattomia otteluita.
+Team Mexicano tarjoaa ainutlaatuisen kokemuksen, joka yhdistää Mexicanon dynaamiset parit strategiaan ja joukkuehengen kiinteiden joukkueiden kanssa. Tässä syyt, miksi se on loistava valinta:
 
-Joten tartu kumppaniisi, astu kentälle ja sukella Team Mexicano:n maailmaan kokemukseen kuin ei toiseen!
+1. **Vahvempi Joukkuepeli**: Kiinteän kumppanin kanssa pelaaminen auttaa sinua rakentamaan luottamusta ja hienosäätämään strategioita.
+2. **Oikeudenmukainen ja Haastava**: Dynaaminen paritusjärjestelmä varmistaa tasapainoiset ottelut suorituksen perusteella.
+3. **Osallistava ja Hauska**: Kuten Mexicano, tämä formaatti sopii pelaajille kaikilla tasoilla.
 
-test
+---
+
+## Johtopäätös
+
+Team Mexicano on jännittävä tapa nauttia padelista, tarjoten täydellisen sekoituksen strategiaa, joukkuepeliä ja dynaamista kilpailua. Olit sitten järjestämässä turnausta tai liittymässä yhteen, tämä formaatti tuo pelin jännityksen eloon, vahvistaen siteitä ja luoden unohtumattomia otteluita.
+
+Joten tartu kumppaniisi, astu kentälle ja sukella Team Mexicanon maailmaan kokemaan ainutlaatuinen elämys!

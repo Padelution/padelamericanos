@@ -1,100 +1,91 @@
 ---
 draft: false
+sidebar:
+  exclude: true
+title: Gidas
+weight: 1
 ---
-# Viskas Apie Padel Americano
+# Padel Americano - Visa, ką reikia žinoti
 
-Padel Americano yra linksmas, socialinis ir konkurencingas padelio formatas, puikiai tinka žaidėjams visų lygių. Skirtingai nuo tradicinių padelio rungtynių, Americano susitelkia į rotaciją ir komandų įvairovę, todėl jis yra populiari pasirinktis turnyrams, lygoms ir atsitiktiniams susibūrimams. Štai išsamus vadovas supratimui ir žaidimui Padel Americano.
-
----
-
-## **Kas Yra Padel Americano?**
-
-Americano Padel yra turnyrinis formatas, kuriame dalyviai žaidžia poromis, bet jų partneriai ir priešininkai keičiasi per visą renginį. Tikslas yra surinkti kuo daugiau taškų, arba individualiai, arba poromis, priklausomai nuo variacijos.
+Padel americano yra puiki alternatyva originaliam padel žaidimo būdui. Pagrindinė padel americano idėja yra ta, kad renginyje, po kiekvieno raundo, komandos keičiasi, todėl kiekvienas žaidėjas žaidžia su kiekvienu kitu. Tai tikrai padaro Americano tokį populiarų ir linksminantį! Ilgą laiką žaidžiant su tuo pačiu partneriu pradedama trūksti įtemptumo, todėl visi turėtų išbandyti Padel Americano. Tai taip pat labai geras būdas susipažinti su naujais žmonėmis ir žaisti su jais. Žaidėjams, kurie nori tobulėti, tai padeda žaisti su skirtingo lygio žaidėjais.
 
 ---
 
-## **Pagrindinės Padel Americano Taisyklės**
+## Kas reikalinga, kad žaistumėte Americano
 
-### **1. Rungtynių Paruošimas**
-- **Žaidėjų Skaičius:** Paprastai dalyvauja 8 žaidėjai, kurie žaidžia ant dviejų aikštelių. Dideli grupės (pvz., 16 žaidėjų) gali naudoti daugiau aikštelių. Kai kurie americano programinės įrangos taip pat palaiko skirtingus žaidėjų skaičius.
-- **Žaidimo Trukmė:** Kiekvienos rungtynės žaidžiamos iki nustatyto taškų skaičiaus.
-- **Taškų Skaičiavimas:** Individualūs rezultatai seka kiekvienam žaidėjui, nepriklausomai nuo jų partnerio.
+Norint žaisti Americano, nereikia daugiau dalykų palyginti su originaliu žaidimo būdu. Žinoma, jums reikia žaidėjų, ir paprastai, norint linksmai praleisti laiką, geriausia turėti bent 8 žaidėjus ir, jei įmanoma, užsakyti 2 kortus (Žr. daugiau pavyzdžių iš lentelės žemiau). Jei turite 8 žaidėjus, gerai būtų užsakyti kortą 2 valandoms.
+
+| Žaidėjų skaičius                                         | Minimalus kortų skaičius |
+|-----------------------------------------------------------|--------------------------|
+|                           4 iki 7                         |             1            |
+|                          8 iki 11                          |             2            |
+|                          12 iki 15                         |             3            |
+|                          16 iki 19                         |             4            |
+|                          20 iki 23                         |             5            |
+
+
+
+Papildomi žaidėjai gali ilsėtis ir šaipytis, kai kiti žaidžia
+
+Taip pat, žinoma, jums reikės kamuolių visiems kortams ir kitos pagrindinės įrangos visiems žaidėjams, pvz., raketės. Prieš pradedant, gerai būtų padalinti visus žaidėjus į kortus ir įsitikinti, kad kiekvienas žaidėjas žino, kaip žaisti padel, ir tada paaiškinti, kaip veikia Padel Americano. Vienas svarbus dalykas yra turėti gerą, lengvai naudojamą įrankį rezultatams laikyti po kiekvieno raundo. Vienas puikus pavyzdys yra Padelution.com.
+
+## Jums prireiks:
+
+- Žaidėjų su pagrindine įranga padel žaidimui, t. y. sportiniai drabužiai, padel raketė ir batai.
+- Užsakytų kortų priklausomai nuo prisijungusių žaidėjų skaičiaus.
+- Kamuolių kiekvienam kortui, optimaliai turint 3 kamuolius vienam kortui.
+- Sistemos rezultatams laikyti, t. y. [Padelution](https://padelution.com/americano)
+- Bent vieno asmens, kuris paaiškina taisykles ir užtikrina, kad visi rezultatai būtų surinkti po kiekvieno raundo.
+
+---
+## Padel Americano taisyklės
+
+Taisyklės yra paprastos ir lengvai išmokstamos. Pagrindinė idėja yra ta, kad kiekvienas žaidėjas žaidžia su kiekvienu kitu renginyje. Taip pat, kiekvienas turėtų susidurti su kiekvienu kitu du kartus, bet tai taip pat priklauso nuo laiko, kuris yra skirtas žaidimui.
+
+Laimėti reikia surinkti didžiausią taškų skaičių, todėl šiame formate surinkiate taškus sau. Pavyzdžiui, žaidžiate dviem kortomis ir dabar esate žaidėjas A. Pradėsite su žaidėju B ir žaisite prieš žaidėjus C & D. Baigus savo raundą, arba liksite toje pačioje kortoje, arba pakeisite kortas, bet pagrindinis dalykas yra tai, kad kitą kartą žaisite su žaidėju C prieš žaidėjus B ir D. Baigus antrą raundą, visi vėl keičiasi, ir toliau žaisite su žaidėju F prieš G & H.
+
+Taikomos pagrindinės padel taisyklės, todėl jei yra skirtingi požiūriai, ar kamuolys buvo už linijos, gerai būtų pakartoti tašką ir judėti pirmyn gan greitai. Pirmojo serviso pasirinkimą taip pat galima atlikti taip, kaip žaidėjai yra įpratę, t. y. žaisdami „servuotojo kamuoliu“ arba meskant monetą. Kiekvienas žaidėjas servuoja keturis taškus, o tada keičiasi servuotojas su priešininkų komanda.
+
+![Padel Americano taškai!](/lt/images/padel-americano.png "Padel Americano taškai!")
+
+### Raundų pavyzdys (iš žaidėjo A perspektyvos):
+- Raundas 1 - Žaidėjas A&B prieš žaidėją C&D
+- Raundas 2 - Žaidėjas A&C prieš žaidėją B&D
+- Raundas 3 - Žaidėjas A&F prieš žaidėją G&H
 
 ---
 
-### **2. Rungtynių Rotacija**
-- Po kiekvienos raundės partneriai ir priešininkai yra maišomi pagal iš anksto suderintą tvarkaraštį. Tai užtikrina, kad kiekvienas žais su skirtingais žaidėjais.
-- Rotacijos sistema išlaiko bendrą konkurenciją ir skatina socialinį sąveikavimą tarp žaidėjų.
+### Taškų skaičiavimas ir kaip laimėti
+Kiekvienas raundas paprastai žaidžiamas iki 32 taškų, kiekvienas žaidėjas servuoja 4 kartus, o tada keičiasi servuotojas. Pavyzdžiui, tarkime, kad jūsų komanda surinko 15 taškų, o kita komanda surinko 17 taškų. Tai reiškia, kad bendras žaidžiamų taškų skaičius dabar yra 32, todėl laikas keistis.
+
+Prie taškų skaičiavimo sistemos pridedate 15 taškų savo komandai / abu jūs, o priešininkas gauna po 17 taškus kiekvienas. Tarkime, kad jūs ir jūsų partneris antrame mače surinkote 20 taškų, tai reiškia, kad priešininkų rezultatas yra 12 taškų.
+
+Alternatyviai, galite nustatyti fiksuotą laiką ir žaisti iki laiko pabaigos ir surinkti taškus iki tol. Baigus kiekvieną raundą, svarbu rezultatus įvesti į sistemą ar rezultatų lentą.
+
+Žaidėjas, kuris surinko daugiausia taškų po renginio pabaigos, yra nugalėtojas. Paprastai gerai būtų turėti atsakingą asmenį už taškų surinkimą, kad visi taškai būtų užregistruoti po renginio.
 
 ---
 
-### **3. Taškų Skaičiavimo Sistema**
-- Taškai skiriami individualiai pagal rungtynių rezultatą:
-  - **Kiekvienas žaidėjas:** uždirba tiek taškų, kiek laimėtų kamuolių jie iškovotų.
+### Kai laikas baigiasi žaisti
+Baigus laiką, laikas pamatyti, kas surinko daugiausia taškų. Žinoma, jei visi su kiekvienu jau žaidė, galite žaisti papildomus raundus. Jei laikas baigėsi prieš tai, kai visi su kiekvienu žaidė, paprastai gerai būtų tiesiog išlyginti taškus su visais.
+
+![Padel Americano rezultatų lentelė!](/lt/assets/padel-americano-scoreboard.png "Padel Americano rezultatų lentelė!")
+
+Baigus oficialų žaidimo dalį, kodėl nepasimėgauti gėrimais ložėje, jei įmanoma, ir bendrauti su kitais žaidėjais? Tai vienas iš geriausių aspektų padel žaidime!
 
 ---
 
-### **4. Rungtynių Formatas**
-- Rungtynės paprastai žaidžiamos iki **32 taškų**.
-- Kiekvienas žaidėjas servuoja 4 kartus iš eilės. Pavyzdžiui, žaidėjai A ir B žaidžia prieš C ir D. A pradeda servuoti ir servuoja 4 kartus, tada C servuoja 4 kartus, tada B servuoja 4 kartus, tada D servuoja 4 kartus. Tada iš viso žaidžiami 16 taškų. Tada žaidėjas A pradeda servuoti naują raundą ir t.t.
-- Jei žaidimas pasiekia lygį 16-16, rungtynės baigsis lygiosiomis ir abu žaidėjai pelnys po 16 taškų.
+## Padel Americano variacijos
 
----
-
-### **5. Aikštės Taisyklės**
-- Padel Americano laikosi standartinių padelio aikštės ir žaidimo taisyklių:
-  - Rungtynės žaidžiamos dvigubų.
-  - Kamuolys turi atsitrenkti vieną kartą prieš atsitrenkdamas į sienas ar tvorą.
-  - Servai atliekami įstrižai ir turi atsitrenkti priešininko serviso langelį.
-  - Taškas skiriamas, jei priešininkas nepasugeba grąžinti kamuolio ar pažeidžia bet kurias taisykles.
-
----
-
-## **Padel Americano Variacijos**
-
-### **1. Komandinis Americano**
+### [1. Komandinis Americano](/lt/team-americano)
 - Žaidėjai yra suskirstyti į komandas ir žaidžia kartu kaip komanda prieš kitas komandas.
-- Skatina bendradarbiavimą ir komandinį dvasią.
+- Skatina bendradarbiavimą ir komandos dvasią.
 
-### **2. Laiko Pagrindinis Americano**
-- Rungtynės žaidžiamos fiksuotą laiką (pvz., 10 minučių), nepriklausomai nuo rezultato.
-- Užtikrina, kad turnyras judėtų efektyviai.
+### 2. Laiko pagrindas Americano
+- Mačai žaidžiami fiksuotą laiką (pvz., 10 minutes), nepriklausomai nuo rezultato.
+- Užtikrina turnyrą judantį efektyviai.
 
-### **3. Mišri Americano (Mixicano)**
+### [3. Mišrus Americano (Mixicano)](/lt/mixicano)
 - Vyrai ir moterys keičiasi partneriais per raundus.
-- Kairysis ir dešinysis žaidėjai visada žaidžia kartu, todėl nebus dviejų žaidėjų, kurie nori žaisti kairėje ar dešinėje pusėje, toje pačioje komandoje.
+- Kairysis ir dešinysis žaidėjai visada žaidžia kartu, todėl nebus dviejų žaidėjų, kurie nori žaisti kairėje ar dešinėje pusėje toje pačioje komandoje.
 - Skatina įtrauktį ir įvairovę žaidime.
-
----
-
-## **Laimėjimas Padel Americano**
-
-Visų raundų pabaigoje žaidėjas su aukščiausiu individualiu rezultatu paskelbiamas laimėtoju. Komandų formatais, komanda su daugiausia taškų laimi turnyrą.
-
----
-
-## **Kodėl Žaisti Padel Americano?**
-
-1. **Socialinis Sąveikavimas:** Žaidėjai gali bendrauti su visais, tai puikus būdas susipažinti su naujais žmonėmis ir kurti bendruomenę.
-2. **Įtrauktis:** Tinka žaidėjams visų lygių, nes poros yra atsitiktinės.
-3. **Greitas ir Linksmas:** Greita rotacija palaiko aukštą energijos lygį ir pašalina ilgus laukimo laikus tarp rungtynių.
-
----
-
-## **Sėkmės Patarimai**
-
-1. **Greitai Prisitaikykite:** Būkite pasiruošę prisitaikyti savo žaidimo stilų, kad atitiktų partnerio stiprybes ir silpnybes.
-2. **Siekite Nuoseklumo:** Laimėti daugiau taškų per kelis raundus yra geriau nei viską pastatyti ant vienų rungtynių.
-3. **Likite Pozityvūs:** Geras nuotaikas gali motyvuoti jūsų partnerį ir pagerinti jūsų bendrą veiklą.
-
----
-
-### **Išvada**
-
-Padel Americano yra universalus ir įdomus formatas, kuris atskleidžia geriausias padelio socialines ir konkurencines savybes. Nesvarbu, ar organizuojate draugiškas rungtynes, ar didelės masto turnyrą, šios taisyklės suteikia pagrindą įdomiam ir įsimintinam renginiui. Paimkite raketę, pabandykite aikštę ir mėgaukitės Americano įkarščiu!
-
----
-
-**Ar turite savų patarimų ar patirties su Padel Americano? Pasidalinkite su mumis!**
-
-test

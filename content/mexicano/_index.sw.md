@@ -1,98 +1,71 @@
 ---
 draft: false
+sidebar:
+  exclude: true
 ---
 
-# Padel Mexicano: Mwongozo Kamili wa Muundo Huu wa Kipekee
+# Padel Mexicano: Mwongozo Kamili wa Hii Format ya Kipekee
 
-Padel Mexicano ni muundo wa kusisimua na wenye kubadilika ambao unachukua vipengele vya kijamii na ushindani wa padel kwenye kiwango kingine. Tofauti na muundo wa jadi, Mexicano hurekebisha kwa kiasi gani unacheza na nani kulingana na matokeo ya mechi, hivyo kuunda ushindani wa haki na wa kusawazisha ambao unafanya mashindano kuwa ya usawa kadri mashindano yanavyoendelea.
+Mexicano ina njia ya kufurahisha na ya kipekee ya kubadilisha washirika na wapinzani. Kigezo cha msingi ni wapi ulipo kwenye orodha, na baada ya kila raundi, unarudi nyuma, unaona unakaa wapi kwenye orodha, na kisha unaona unacheza na nani baadaye.
 
-Iwe wewe ni mchezaji mzoefu au mwanzo, Mexicano ni njia nzuri ya kufurahia padel, kukutana na wapinzani wapya, na kujaribu ujuzi wako.
-
----
-
-## **Jinsi Padel Mexicano Inavyofanya Kazi?**
-
-Kipengele kinachotambulisha Padel Mexicano ni mfumo wake wa kipekee wa kupanga mechi. Badala ya ratiba iliyowekwa, ni jinsi gani unavyocheza na dhidi ya nani inategemea utendaji wako katika mechi za awali.
-
-### **Upangaji wa Mechi wa Awali**
-- Mechi yako ya kwanza inaamuliwa kwa kuchora nasibu. Bahati nasibu inaamua washirika wako na wapinzani kwa mechi ya awali.
-
-### **Mfumo wa Upangaji wa Kipekee**
-- Kuanzia mechi ya pili, mapambano yako yanategemea nafasi kwenye jedwali la uongozi. Lengo ni kuunganisha wachezaji au timu zenye viwango sawa vya ujuzi ili kuhakikisha michezo inayoshindaniwa na kulingana.
-- Kwa mfano:
-  - Wachezaji walio kwenye nafasi ya 1 na 3 hucheza dhidi ya wachezaji walio kwenye nafasi ya 2 na 4.
-  - Wachezaji walio kwenye nafasi ya 5 na 7 hucheza dhidi ya wachezaji walio kwenye nafasi ya 6 na 8.
-- Mfumo huu wa upangaji wa kipekee unahakikisha kwamba kadri mashindano yanavyoendelea, mechi zako zinakuwa zenye usawa zaidi, hivyo kutoa changamoto kwa wachezaji bora wakati bado kuhakikisha furaha kwa wengine wote.
-
-### **Uteuzi wa Washirika**
-- Mfumo wa Mexicano unakuruhusu kucheza na dhidi ya wachezaji wale wale mara kadhaa, kutegemea jinsi jedwali la uongozi linavyoendelea.
+Kipengele cha kufurahisha ni kwamba njia ambayo wachezaji wanabadilishwa husababisha mechi kuwa karibu kwani viwango vinavyoamua jinsi timu zinavyoundwa kwa kila raundi. Kwa njia hii, pengo la kiwango cha ujuzi hupungua, na kila mtu anaweza kufurahia mechi zenye ushindani na kubana.
 
 ---
 
-## **Uhesabuji wa Alama na Muundo wa Mechi**
+## Unahitaji Nini kwa Mexicano?
 
-Mechi katika Mexicano zimeundwa kuwa fupi, zenye nishati, na kuvutia. Hivi ndivyo zinafanya kazi:
+Kwa Mexicano, hauhitaji kitu chochote ziada unapolinganisha na mechi za kawaida za Padel isipokuwa mfumo au programu fulani ya kuhesabu alama. Unaweza kutumia, kwa mfano, huduma kama Padelution kuhesabu alama. Ni muhimu kuwa na njia wazi ya kuhesabu alama kwani baada ya kila raundi, timu ya raundi inayofuata inaamuliwa na viwango vya kila mchezaji.
 
-### **Alama za Mechi**
-- Michezo kwa kawaida hucheza hadi idadi maalum ya alama, kama vile alama 16, 24, au 32. Vinginevyo, mechi zinaweza kuwa na kikomo cha muda, kama vile dakika 10–20.
+Ni vizuri kuwa na angalau wachezaji 8, na idadi bora ya viwanja ni 2. Unaweza kuongeza idadi ya wachezaji kadri unavyotaka, lakini kumbuka ni vizuri kuwa na idadi ya viwanja inayoweza kugawanywa na 4 ili mzunguko uende vizuri, na kila mtu atakuwa anacheza wakati ule ule.
 
-### **Sheria za Kutumikia**
-- Kila timu hutoa huduma mara 4 au 6 kabla ya huduma kuzunguka kwa timu nyingine.
+## Sheria za Mexicano
+Sheria zote za msingi za padel zinatumika wakati wa kucheza Mexicano. Kuanza, unaweza kuchagua jozi za kwanza kuanza nazo kwa nasibu. Kuanzia raundi ya pili, hata hivyo, utaruhusu mfumo kufanya kazi yake kuonyesha jinsi mzunguko wa wachezaji utakavyofanywa. Wachezaji walioorodheshwa 1 na 3 watacheza dhidi ya wachezaji walioorodheshwa 2 na 4 katika raundi inayofuata. Kwenye uwanja mwingine, wachezaji walioorodheshwa 5 na 7 watacheza dhidi ya wachezaji walioorodheshwa 6 na 8, na kadhalika.
 
-### **Uhesabuji wa Alama**
-- Kila alama inayoshindwa humpatia timu yako alama.
-- Mwishoni mwa mechi, alama hugawanywa sawasawa kati ya wanachama wa timu. Kwa mfano:
-  - Ikiwa mechi ya alama 24 inamalizika na alama 14–10, wachezaji wa timu inayoshinda kila mmoja hupokea alama 14, wakati wachezaji wa timu inayopoteza kila mmoja hupata alama 10.
-- Alama yako binafsi inakusanywa kote kwenye mechi zote, na mchezaji mwenye alama nyingi mwishoni mwa mashindano ndiye mshindi.
+| Viwango baada ya raundi ya kwanza | Timu za raundi ya 2 |
+|:---------------------------:|:-------------------:|
+|              1              |     1/3 vs. 2/4     |
+|              2              |                     |
+|              3              |                     |
+|              4              |                     |
+|              5              |     5/7 vs. 6/8     |
+|              6              |                     |
+|              7              |                     |
+|              8              |                     |
+
+
+### Mfano wa kuhesabu kutoka mtazamo wa timu A
+- Raundi ya 1: Wachezaji A&D alama 20 na wachezaji B&C alama 12
+- Raundi ya 2: Wachezaji A&C alama 19 na wachezaji B&D alama 13
+
+Jumla ya alama ambazo mchezaji A amejipatia baada ya raundi mbili ni 39
+
+
+### Basi nani ndiye mshindi?
+Baada ya muda kuisha, mshindi ni mchezaji aliye kwenye nafasi ya kwanza kwenye orodha. Kipengele muhimu zaidi bado ni ukweli kwamba mechi zote zilikuwa na ushindani kutokana na jinsi timu zinavyochaguliwa baada ya kila raundi kulingana na viwango vya wachezaji.
+
+![Viwango vya Padel Mexicano!](/sw/images/padel-mexicano.png "Viwango vya Padel Mexicano")
+---
+
+
+## Timu ya Mexicano
+
+[Timu ya Mexicano](/sw/team-mexicano) inaongeza safu nyingine ya mkakati kwenye format. Badala ya kubadilisha washirika, wachezaji wanashindana katika timu zilizopangwa mapema kote katika mashindano. Mfumo wa kuhesabu na kubadilisha washirika kwa njia ya kipekee bado unatumika, lakini alama zote huzingatiwa kwa ajili ya timu badala ya watu binafsi.
+
+Mabadiliko haya ni bora kwa makundi yanayotaka kuzingatia ushirikiano na mikakati ya muda mrefu.
+
+---
+## Kwa Nini Kucheza Padel Mexicano?
+
+Padel Mexicano inajulikana kwa ujumuishaji wake na uwezo wa kubadilika. Hapa kuna sababu kadhaa kwa nini format hii ni maarufu sana:
+- **Mchezo Safi**: Mechi zinakuwa zaidi ya usawa kadri mashindano yanavyoendelea.
+- **Kubadilisha Washirika Kwa Njia ya Kipekee**: Cheza na dhidi ya wapinzani mbalimbali, ikifanya michezo kuwa mpya na ya kuvutia.
+- **Uzoefu wa Kijamii**: Njia nzuri ya kukutana na wachezaji wapya na kujenga undugu.
+- **Utegemea**: Inafaa kwa mashindano ya kibinafsi na ya timu.
 
 ---
 
-## **Timu ya Mexicano**
+## Hitimisho
 
-[Timu ya Mexicano](/sw/team-mexicano) inaongeza safu nyingine ya mkakati kwenye muundo huu. Badala ya kubadilisha washirika, wachezaji wanashindana katika timu zilizopangwa mapema kote kwenye mashindano. Mfumo wa uhesabuji na upangaji wa kipekee unabaki sawa, lakini alama zote huzingatiwa kwa timu badala ya watu binafsi.
+Padel Mexicano ni zaidi ya muundo wa mchezo—ni uzoefu unaolenga usawa, furaha, na uwezo wa kubadilika. Iwe unaratibu mashindano au kujiunga nayo, muundo huu unahakikisha mechi za kusisimua na kumbukumbu nzuri. Kwa mfumo wake wa kipekee wa kubadilisha washirika na mfumo wa kuhesabu unaofaa, Mexicano ni lazima ujaribu kwa mpenzi yeyote wa padel.
 
-Tofauti hii ni nzuri kwa makundi yanayotaka kuzingatia ushirikiano na mikakati ya muda mrefu.
-
----
-
-## **Kuandaa Mashindano ya Padel Mexicano**
-
-Kuandaa mashindano ya Mexicano ni rahisi kwa maandalizi sahihi. Fuata hatua hizi ili kuhakikisha tukio lenye mafanikio:
-
-### **Washiriki na Mahakama**
-- Utahitaji angalau washiriki au timu 8 kucheza Mexicano. Hakuna kikomo cha juu, lakini kuwa na idadi inayogawika kwa nne ni bora kwa mzunguko laini wa mechi.
-- Idadi ya mahakama inayohitajika inategemea idadi ya washiriki:
-  - Wachezaji 8 = Mahakama 2
-  - Wachezaji 12 = Mahakama 3
-  - Wachezaji 16 = Mahakama 4
-- Wachezaji wa viwango vyote vya ujuzi wanaweza kushiriki, na kuchanganya viwango kunaweza kufanya michezo kuwa ya kufurahisha zaidi.
-
-### **Muda wa Mechi**
-- Mashindano ya Mexicano ya kawaida huchukua takriban masaa 2.
-- Kwa mfano, mechi ya alama 24 kawaida huchukua dakika 12 kukamilisha.
-
-### **Kuhifadhi Alama**
-- Andaa kadi ya alama au tumia programu maalum kurekodi matokeo ya mechi na kuhesabu jedwali la uongozi kwa njia ya kipekee.
-
-### **Ushindani wa Haki na Furaha**
-- Mfumo wa kubadilika wa Mexicano unahakikisha kwamba wachezaji wanachochewa kila mara bila kujisikia hawalingani, hivyo kuifanya kuwa chaguo bora kwa matukio yenye viwango tofauti vya ujuzi.
-
----
-
-## **Kwa Nini Kucheza Padel Mexicano?**
-
-Padel Mexicano inajitokeza kwa ujumuishaji wake na uwezo wa kubadilika. Hapa kuna sababu kadhaa kwa nini muundo huu ni maarufu sana:
-- **Mchezo wa Haki**: Mechi zinakuwa zenye usawa kadri mashindano yanavyoendelea.
-- **Upangaji wa Kipekee**: Cheza na dhidi ya wapinzani mbalimbali, hivyo kufanya michezo kuwa mpya na ya kuvutia.
-- **Uzoefu wa Kijamii**: Njia nzuri ya kukutana na wachezaji wapya na kujenga urafiki.
-- **Uteuzi**: Inafaa kwa mashindano ya kibinafsi na ya timu.
-
----
-
-## **Hitimisho**
-
-Padel Mexicano ni zaidi ya muundo wa mchezo—ni uzoefu unaolenga usawa, furaha, na uwezo wa kubadilika. Iwe unapanga mashindano au kushiriki moja, muundo huu unahakikisha mechi za kusisimua na kumbukumbu nzuri. Kwa mfumo wake wa upangaji wa kipekee na uhesabuji wa kuingiza, Mexicano ni lazima ujaribu kwa mpenda padel yeyote.
-
-Basi kusanya marafiki zako, chukua raketiboli yako, na zama katika ulimwengu wa Padel Mexicano kwa siku isiyosahaulika kwenye mahakama!
-
-test
+Basi kusanya marafiki zako, chukua makasia yako, na zama katika ulimwengu wa Padel Mexicano kwa siku isiyosahaulika uwanjani!
